@@ -13,8 +13,8 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-    title: "United Nations System Chart Navigator",
-    description: "Interactively navigate the United Nations System",
+    title: "Bundesregierung Organigram",
+    description: "Übersicht der Behörden und Einrichtungen der deutschen Bundesregierung",
 };
 
 export default function RootLayout({
@@ -23,7 +23,7 @@ export default function RootLayout({
     children: React.ReactNode;
 }) {
     return (
-        <html lang="en" className={roboto.className}>
+        <html lang="de" className={roboto.className}>
             <body className="antialiased flex flex-col min-h-screen">
                 <ErrorBoundary>
                     {children}

@@ -1,76 +1,68 @@
-import { Entity, EntityFilters } from '@/types/entity';
-import entitiesData from '../../public/un-entities.json';
-import { createEntitySlug, parseEntityAliases } from './utils';
+import { Entity, EntityLocation } from '@/types/entity';
+import rawData from '../../public/anschriftenverzeichnis.json';
+import kurzMapping from '../../public/kurz_mapping.json';
 
-// Direct import - 180KB JSON file loaded at build time
-export const entities = entitiesData as Entity[];
+// Load entities, skipping first element (metadata)
+const rawEntities = (rawData as Entity[]).slice(1);
 
-// Centralized filtering and search function
-export function getEntities(options?: {
-    filters?: EntityFilters;
-    search?: string;
-    group?: string;
-}): Entity[] {
-    let filtered = [...entities];
+// Create mapping lookup for OrganisationKurz and OrganisationKurzInoffiziell
+const kurzLookup = kurzMapping.reduce((acc: Record<string, { kurz: string | null; inoffiziell: string | null }>, item: any) => {
+    acc[item.OrganisationId] = {
+        kurz: item.OrganisationKurz,
+        inoffiziell: item.OrganisationKurzInoffiziell || null
+    };
+    return acc;
+}, {});
 
-    // Apply group filter
-    if (options?.group) {
-        filtered = filtered.filter(entity => entity.system_grouping === options.group);
-    }
-
-    // Apply general filters
-    if (options?.filters) {
-        filtered = filtered.filter(entity => {
-            return Object.entries(options.filters!).every(([key, value]) => {
-                if (value === undefined || value === null) return true;
-                const entityValue = entity[key as keyof Entity];
-                return entityValue === value;
-            });
-        });
-    }
-
-    // Apply search
-    if (options?.search) {
-        const searchTerm = options.search.toLowerCase();
-        filtered = filtered.filter(entity => {
-            // Search in entity code and long name
-            if (entity.entity.toLowerCase().includes(searchTerm) ||
-                entity.entity_long.toLowerCase().includes(searchTerm) ||
-                (entity.head_of_entity_name && entity.head_of_entity_name.toLowerCase().includes(searchTerm))) {
-                return true;
+// Group entities by OrganisationId and collect all locations
+const groupedEntities = rawEntities.reduce((acc: Record<string, Entity>, entity: Entity) => {
+    if (!acc[entity.OrganisationId]) {
+        // First occurrence - keep as primary
+        const entityCopy = { ...entity, locations: [] };
+        
+        // Apply OrganisationKurz and OrganisationKurzInoffiziell from mapping if available
+        if (entity.OrganisationId in kurzLookup) {
+            const mapping = kurzLookup[entity.OrganisationId];
+            if (mapping.kurz) {
+                entityCopy.OrganisationKurz = mapping.kurz;
             }
-            
-            // Search in aliases
-            const aliases = parseEntityAliases(entity.entity_aliases);
-            return aliases.some(alias => alias.toLowerCase().includes(searchTerm));
-        });
+            if (mapping.inoffiziell) {
+                entityCopy.OrganisationKurzInoffiziell = mapping.inoffiziell;
+            }
+        }
+        
+        acc[entity.OrganisationId] = entityCopy;
     }
+    
+    // Add location data
+    const location: EntityLocation = {
+        Hauptadresse: entity.Hauptadresse,
+        PLZ: entity.PLZ,
+        Ort: entity.Ort,
+        Bundesland: entity.Bundesland,
+        Telefon: entity.Telefon,
+        Telefax: entity.Telefax,
+        'E-Mail': entity['E-Mail'],
+    };
+    
+    acc[entity.OrganisationId].locations!.push(location);
+    return acc;
+}, {});
 
-    return filtered;
-}
+export const entities = Object.values(groupedEntities);
 
-// Simple utility functions
 export const getAllEntities = () => entities;
 
-export const getEntityBySlug = (slug: string): Entity | null => {
-    const decodedSlug = decodeURIComponent(slug).toLowerCase();
-    return entities.find(entity => createEntitySlug(entity.entity) === decodedSlug) || null;
-};
+export const getEntityById = (id: string): Entity | null => 
+    entities.find(entity => entity.OrganisationId === id) || null;
 
-export const getEntitiesByGroup = (group: string) => getEntities({ group });
-
-export const searchEntities = (query: string) => getEntities({ search: query });
-
-export const getUniqueValues = (field: keyof Entity): string[] => {
-    const values = entities
-        .map(entity => entity[field])
-        .filter((value): value is string =>
-            value !== null &&
-            value !== undefined &&
-            typeof value === 'string'
-        )
-        .filter((value, index, array) => array.indexOf(value) === index)
-        .sort();
-
-    return values;
+export const searchEntities = (query: string): Entity[] => {
+    const searchTerm = query.toLowerCase();
+    return entities.filter(entity => 
+        entity.Organisation.toLowerCase().includes(searchTerm) ||
+        (entity.OrganisationKurz && entity.OrganisationKurz.toLowerCase().includes(searchTerm)) ||
+        (entity.OrganisationKurzInoffiziell && entity.OrganisationKurzInoffiziell.toLowerCase().includes(searchTerm)) ||
+        entity.Ressort.toLowerCase().includes(searchTerm) ||
+        entity.Ort.toLowerCase().includes(searchTerm)
+    );
 };
