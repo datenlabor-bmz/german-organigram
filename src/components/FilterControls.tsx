@@ -54,10 +54,7 @@ export default function FilterControls({
     }, []);
 
     // Count entities for each group
-    const groupCounts = entities.reduce((acc, entity) => {
-        acc[entity.system_grouping] = (acc[entity.system_grouping] || 0) + 1;
-        return acc;
-    }, {} as Record<string, number>);
+    const groupCounts = {} as Record<string, number>;
 
     // Check if all groups are active (showing all) or only specific ones are filtered
     const allGroupsActive = activeGroups.size === Object.keys(systemGroupingStyles).length;

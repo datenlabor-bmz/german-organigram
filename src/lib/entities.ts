@@ -6,13 +6,13 @@ import kurzMapping from '../../public/kurz_mapping.json';
 const rawEntities = (rawData as Entity[]).slice(1);
 
 // Create mapping lookup for OrganisationKurz and OrganisationKurzInoffiziell
-const kurzLookup = kurzMapping.reduce((acc: Record<string, { kurz: string | null; inoffiziell: string | null }>, item: any) => {
+const kurzLookup = (kurzMapping as Array<{ OrganisationId: string; OrganisationKurz?: string | null; OrganisationKurzInoffiziell?: string | null }>).reduce((acc, item) => {
     acc[item.OrganisationId] = {
-        kurz: item.OrganisationKurz,
+        kurz: item.OrganisationKurz || null,
         inoffiziell: item.OrganisationKurzInoffiziell || null
     };
     return acc;
-}, {});
+}, {} as Record<string, { kurz: string | null; inoffiziell: string | null }>);
 
 // Group entities by OrganisationId and collect all locations
 const groupedEntities = rawEntities.reduce((acc: Record<string, Entity>, entity: Entity) => {
