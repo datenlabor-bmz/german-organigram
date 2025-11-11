@@ -30,12 +30,17 @@ export default function ModalHandler() {
     router.replace('/', { scroll: false });
   };
 
+  const handleEntitySelect = (newEntityId: string) => {
+    router.replace(`/?entity=${newEntityId}`, { scroll: false });
+  };
+
   if (!entityId) return null;
 
   return (
     <EntityModal 
       entity={entity} 
-      onClose={handleClose} 
+      onClose={handleClose}
+      onEntitySelect={handleEntitySelect}
       loading={loading} 
     />
   );

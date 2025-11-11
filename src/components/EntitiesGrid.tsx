@@ -8,12 +8,21 @@ import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
 
 const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: (entityId: string) => void }) => {
     const handleClick = () => {
-        onEntityClick(entity.OrganisationId);
+        onEntityClick(String(entity.OrganisationId));
     };
 
     const isRessort = entity.OrganisationKurz === entity.Ressort && entity.OrganisationKurz;
-    const cardColor = isRessort ? 'bg-amber-200 text-gray-900' : 'bg-blue-100 text-gray-900';
-    const displayName = entity.OrganisationKurz || entity.OrganisationKurzInoffiziell || entity.Organisation;
+    const isVerfassungsorgan = entity.IstVerfassungsorgan === true;
+    
+    // Determine card color: green for actual constitutional organs, amber for ressorts (except BKM), blue for others
+    let cardColor = 'bg-blue-100 text-gray-900';
+    if (isVerfassungsorgan) {
+        cardColor = 'bg-green-200 text-gray-900';
+    } else if (isRessort && entity.OrganisationKurz !== 'BKM') {
+        cardColor = 'bg-amber-200 text-gray-900';
+    }
+    
+    const displayName = entity.OrganisationDisplay || entity.OrganisationKurz || entity.OrganisationKurzInoffiziell || entity.Organisation;
 
     return (
         <Tooltip delayDuration={50} disableHoverableContent>
@@ -90,9 +99,13 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
         });
     });
 
-    // Sort ressort groups: BKAmt first, BKM last (before Sonstige), rest alphabetically
+    // Sort ressort groups: Verfassungsorgane first, then BKAmt, BKM last (before Sonstige), rest alphabetically
     const sortedRessorts = Object.keys(groupedByRessort).sort((a, b) => {
-        // BKAmt always first
+        // Verfassungsorgane always first
+        if (a === 'Verfassungsorgane') return -1;
+        if (b === 'Verfassungsorgane') return 1;
+        
+        // BKAmt second
         if (a === 'BKAmt') return -1;
         if (b === 'BKAmt') return 1;
         

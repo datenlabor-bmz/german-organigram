@@ -13,7 +13,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-    title: "Bundesregierung Organigram",
+    title: "Bundesregierung Organigramm",
     description: "Übersicht der Behörden und Einrichtungen der deutschen Bundesregierung",
 };
 

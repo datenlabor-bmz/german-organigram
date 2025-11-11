@@ -29,7 +29,7 @@ export default function Home() {
                                         Bundesregierung
                                     </span>
                                     <span className="text-2xl sm:text-4xl lg:text-5xl font-normal text-foreground group-hover:text-un-blue transition-colors leading-tight whitespace-nowrap">
-                                        Organigram
+                                        Organigramm
                                     </span>
                                 </button>
                             </h1>
