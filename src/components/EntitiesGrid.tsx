@@ -46,8 +46,8 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
             >
                 <div className="text-center max-w-xs sm:max-w-sm p-1">
                     <p className="font-medium text-xs sm:text-sm leading-tight">{entity.Organisation}</p>
-                    <p className="text-xs text-slate-500 mt-1 hidden sm:block">Click to view entity details</p>
-                    <p className="text-xs text-slate-500 mt-1 sm:hidden">Tap to view details</p>
+                    <p className="text-xs text-slate-500 mt-1 hidden sm:block">Klicken für Details</p>
+                    <p className="text-xs text-slate-500 mt-1 sm:hidden">Antippen für Details</p>
                 </div>
             </TooltipContent>
         </Tooltip>

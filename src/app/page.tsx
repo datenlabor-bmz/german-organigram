@@ -25,10 +25,10 @@ export default function Home() {
                                     className="group inline-flex flex-wrap items-center gap-x-1.5 sm:gap-x-2 gap-y-0 transition-all duration-200 cursor-pointer bg-transparent border-none p-0 text-left"
                                     aria-label="Reset filters and return to home view"
                                 >
-                                    <span className="text-2xl sm:text-4xl lg:text-5xl font-bold text-foreground group-hover:text-un-blue transition-colors leading-tight whitespace-nowrap">
+                                    <span className="text-2xl sm:text-4xl lg:text-5xl font-bold text-foreground group-hover:text-blue-600 transition-colors leading-tight whitespace-nowrap">
                                         Bundesregierung
                                     </span>
-                                    <span className="text-2xl sm:text-4xl lg:text-5xl font-normal text-foreground group-hover:text-un-blue transition-colors leading-tight whitespace-nowrap">
+                                    <span className="text-2xl sm:text-4xl lg:text-5xl font-normal text-foreground group-hover:text-blue-600 transition-colors leading-tight whitespace-nowrap">
                                         Organigramm
                                     </span>
                                 </button>

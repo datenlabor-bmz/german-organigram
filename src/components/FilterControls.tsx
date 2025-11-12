@@ -74,7 +74,7 @@ export default function FilterControls({
             return 'Filter by System Group...';
         }
         const count = activeGroups.size;
-        return `${count} Group${count !== 1 ? 's' : ''} selected`;
+        return `${count} Gruppe${count !== 1 ? 'n' : ''} ausgewählt`;
     };
 
     // Get principal organ filter button text
@@ -83,7 +83,7 @@ export default function FilterControls({
             return 'Filter by Principal Organ...';
         }
         const count = activePrincipalOrgans.size;
-        return `${count} Organ${count !== 1 ? 's' : ''} selected`;
+        return `${count} Organ${count !== 1 ? 'e' : ''} ausgewählt`;
     };
 
     return (
@@ -98,11 +98,11 @@ export default function FilterControls({
                     ref={mobileSearchRef}
                     type="text"
                     id="entity-search"
-                    placeholder="Search for entities..."
+                    placeholder="Suche nach Behörden..."
                     value={searchQuery}
                     onChange={(e) => onSearchChange(e.target.value)}
                     className="block w-full h-10 pl-10 pr-3 py-2 border border-gray-200 bg-white rounded-lg placeholder-gray-500 focus:outline-none focus:border-gray-300 focus:ring-0 text-base text-gray-700 touch-manipulation hover:border-gray-300 transition-colors"
-                    aria-label="Search for UN entities by keyword"
+                    aria-label="Suche nach Behörden"
                 />
             </div>
 
@@ -116,7 +116,7 @@ export default function FilterControls({
                         text-sm
                         touch-manipulation transition-colors
                         ${(!allGroupsActive || !allPrincipalOrgansActive)
-                            ? 'text-un-blue'
+                            ? 'text-blue-600'
                             : 'text-gray-500'
                         }
                     `}
@@ -164,11 +164,11 @@ export default function FilterControls({
                         ref={desktopSearchRef}
                         type="text"
                         id="entity-search-desktop"
-                        placeholder="Search for entities..."
+                        placeholder="Suche nach Behörden..."
                         value={searchQuery}
                         onChange={(e) => onSearchChange(e.target.value)}
                         className="block w-full h-10 pl-10 pr-3 py-2 border border-gray-200 bg-white rounded-lg placeholder-gray-500 focus:outline-none focus:border-gray-300 focus:ring-0 text-base text-gray-700 touch-manipulation hover:border-gray-300 transition-colors"
-                        aria-label="Search for UN entities by keyword"
+                        aria-label="Suche nach Behörden"
                     />
                 </div>
 
@@ -183,14 +183,14 @@ export default function FilterControls({
                                 text-base text-gray-700
                                 touch-manipulation transition-colors
                                 ${!allGroupsActive
-                                    ? 'bg-un-blue/10 border-un-blue hover:border-un-blue'
+                                    ? 'bg-blue-100 border-blue-600 hover:border-blue-600'
                                     : 'bg-white border-gray-200 hover:border-gray-300'
                                 }
                             `}
                             aria-label="Filter entities by system group"
                         >
-                            <Boxes className={`h-4 w-4 flex-shrink-0 ${!allGroupsActive ? 'text-un-blue' : 'text-gray-500'}`} />
-                            <span className={`truncate flex-1 text-left ${!allGroupsActive ? 'text-un-blue' : 'text-gray-500'}`}>
+                            <Boxes className={`h-4 w-4 flex-shrink-0 ${!allGroupsActive ? 'text-blue-600' : 'text-gray-500'}`} />
+                            <span className={`truncate flex-1 text-left ${!allGroupsActive ? 'text-blue-600' : 'text-gray-500'}`}>
                                 {getFilterText()}
                             </span>
                         </button>
@@ -211,7 +211,7 @@ export default function FilterControls({
                                     <button
                                         key={group}
                                         onClick={() => onToggleGroup(group)}
-                                        className="flex items-center gap-3 py-1.5 px-2 rounded-md hover:bg-un-blue/10 cursor-pointer transition-colors w-full text-left"
+                                        className="flex items-center gap-3 py-1.5 px-2 rounded-md hover:bg-blue-100 cursor-pointer transition-colors w-full text-left"
                                     >
                                         <div className={`${styles.bgColor} w-4 h-4 rounded flex-shrink-0`}></div>
                                         <span className="text-sm flex-1 text-gray-600">
@@ -219,7 +219,7 @@ export default function FilterControls({
                                         </span>
                                         <div className="w-4 h-4 flex-shrink-0 flex items-center justify-center">
                                             {showCheckmark && (
-                                                <Check className="h-4 w-4 text-un-blue" />
+                                                <Check className="h-4 w-4 text-blue-600" />
                                             )}
                                         </div>
                                     </button>
@@ -240,14 +240,14 @@ export default function FilterControls({
                                 text-base text-gray-700
                                 touch-manipulation transition-colors
                                 ${!allPrincipalOrgansActive
-                                    ? 'bg-un-blue/10 border-un-blue hover:border-un-blue'
+                                    ? 'bg-blue-100 border-blue-600 hover:border-blue-600'
                                     : 'bg-white border-gray-200 hover:border-gray-300'
                                 }
                             `}
                             aria-label="Filter entities by principal organ"
                         >
-                            <Landmark className={`h-4 w-4 flex-shrink-0 ${!allPrincipalOrgansActive ? 'text-un-blue' : 'text-gray-500'}`} />
-                            <span className={`truncate flex-1 text-left ${!allPrincipalOrgansActive ? 'text-un-blue' : 'text-gray-500'}`}>
+                            <Landmark className={`h-4 w-4 flex-shrink-0 ${!allPrincipalOrgansActive ? 'text-blue-600' : 'text-gray-500'}`} />
+                            <span className={`truncate flex-1 text-left ${!allPrincipalOrgansActive ? 'text-blue-600' : 'text-gray-500'}`}>
                                 {getPrincipalOrganFilterText()}
                             </span>
                         </button>
@@ -267,14 +267,14 @@ export default function FilterControls({
                                     <button
                                         key={organKey}
                                         onClick={() => onTogglePrincipalOrgan(organKey)}
-                                        className="flex items-center gap-3 py-1.5 px-2 rounded-md hover:bg-un-blue/10 cursor-pointer transition-colors w-full text-left"
+                                        className="flex items-center gap-3 py-1.5 px-2 rounded-md hover:bg-blue-100 cursor-pointer transition-colors w-full text-left"
                                     >
                                         <span className="text-sm flex-1 text-gray-600">
                                             {config.label}
                                         </span>
                                         <div className="w-4 h-4 flex-shrink-0 flex items-center justify-center">
                                             {showCheckmark && (
-                                                <Check className="h-4 w-4 text-un-blue" />
+                                                <Check className="h-4 w-4 text-blue-600" />
                                             )}
                                         </div>
                                     </button>
@@ -309,13 +309,13 @@ export default function FilterControls({
                     <TabsList className="grid w-full sm:w-80 grid-cols-2 bg-white border border-gray-200 h-10">
                         <TabsTrigger
                             value="system"
-                            className="data-[state=active]:bg-un-blue/10 data-[state=active]:text-un-blue data-[state=active]:border-un-blue text-sm text-gray-500 border border-transparent rounded-md transition-colors"
+                            className="data-[state=active]:bg-blue-100 data-[state=active]:text-blue-600 data-[state=active]:border-blue-600 text-sm text-gray-500 border border-transparent rounded-md transition-colors"
                         >
                             By System Group
                         </TabsTrigger>
                         <TabsTrigger
                             value="principal-organ"
-                            className="data-[state=active]:bg-un-blue/10 data-[state=active]:text-un-blue data-[state=active]:border-un-blue text-sm text-gray-500 border border-transparent rounded-md transition-colors"
+                            className="data-[state=active]:bg-blue-100 data-[state=active]:text-blue-600 data-[state=active]:border-blue-600 text-sm text-gray-500 border border-transparent rounded-md transition-colors"
                         >
                             By Principal Organ
                         </TabsTrigger>
@@ -324,7 +324,7 @@ export default function FilterControls({
 
                 {/* Entity Count - aligned with tabs on larger screens, wraps below on mobile */}
                 <div className="text-left sm:text-right sm:flex-1 text-gray-400 text-base transition-opacity duration-500 whitespace-nowrap">
-                    Showing {visibleEntitiesCount} entities
+                    {visibleEntitiesCount} Behörden
                 </div>
             </div>
         </div>

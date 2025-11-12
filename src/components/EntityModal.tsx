@@ -93,7 +93,7 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
             href={href}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-3 text-un-blue hover:opacity-80 transition-opacity duration-200 py-2 px-3 rounded-lg hover:bg-blue-50 touch-manipulation"
+            className="flex items-center gap-3 text-blue-600 hover:opacity-80 transition-opacity duration-200 py-2 px-3 rounded-lg hover:bg-blue-50 touch-manipulation"
         >
             <Icon size={18} className="flex-shrink-0" />
             <span className="text-base sm:text-lg">{label}</span>
@@ -283,7 +283,7 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                                             {location.Telefon && (
                                                 <div className="flex items-center gap-3">
                                                     <Phone className="h-5 w-5 text-gray-500 flex-shrink-0" />
-                                                    <a href={`tel:${location.Telefon}`} className="text-un-blue hover:opacity-80 transition-opacity duration-200">
+                                                    <a href={`tel:${location.Telefon}`} className="text-blue-600 hover:opacity-80 transition-opacity duration-200">
                                                         {location.Telefon}
                                                     </a>
                                                 </div>
@@ -292,7 +292,7 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                                             {location['E-Mail'] && (
                                                 <div className="flex items-center gap-3">
                                                     <Mail className="h-5 w-5 text-gray-500 flex-shrink-0" />
-                                                    <a href={`mailto:${location['E-Mail']}`} className="text-un-blue hover:opacity-80 transition-opacity duration-200 break-all">
+                                                    <a href={`mailto:${location['E-Mail']}`} className="text-blue-600 hover:opacity-80 transition-opacity duration-200 break-all">
                                                         {location['E-Mail']}
                                                     </a>
                                                 </div>
