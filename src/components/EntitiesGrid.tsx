@@ -5,6 +5,7 @@ import { getAllEntities, searchEntities } from '@/lib/entities';
 import { Entity } from '@/types/entity';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
+import BudgetTreemap from './BudgetTreemap';
 
 const kategorieColorsFull: Record<string, string> = {
     'Oberste Bundesbehörde': 'bg-yellow-200 text-gray-900',     // Gold (German flag)
@@ -84,7 +85,7 @@ const Legend = () => (
 const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKey: string) => void }>((props, ref) => {
     const entities = getAllEntities();
     const [searchQuery, setSearchQuery] = useState<string>('');
-    const [viewMode, setViewMode] = useState<'ressorts' | 'kategorien'>('ressorts');
+    const [viewMode, setViewMode] = useState<'ressorts' | 'kategorien' | 'haushalt'>('ressorts');
     const router = useRouter();
     const searchParams = useSearchParams();
 
@@ -195,21 +196,21 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
 
     return (
         <div className="w-full">
-            <div className="mb-6 space-y-4">
+            <div className="mb-6 flex flex-col sm:flex-row gap-4 sm:items-center sm:justify-between">
                 <input
                     type="text"
                     placeholder="Suche nach Behörde, Ort, Ressort..."
                     value={searchQuery}
                     onChange={(e) => setSearchQuery(e.target.value)}
-                    className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 
-                <div className="inline-flex border border-gray-300">
+                <div className="inline-flex border border-gray-200 rounded-lg overflow-hidden">
                     <button
                         onClick={() => setViewMode('ressorts')}
-                        className={`px-6 py-2 text-sm font-medium transition-colors border-r border-gray-300 ${
+                        className={`px-6 py-2.5 text-sm font-medium transition-all duration-200 ${
                             viewMode === 'ressorts'
-                                ? 'bg-gray-900 text-white'
+                                ? 'bg-blue-500 text-white'
                                 : 'bg-white text-gray-700 hover:bg-gray-50'
                         }`}
                     >
@@ -217,20 +218,32 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                     </button>
                     <button
                         onClick={() => setViewMode('kategorien')}
-                        className={`px-6 py-2 text-sm font-medium transition-colors ${
+                        className={`px-6 py-2.5 text-sm font-medium transition-all duration-200 border-x border-gray-200 ${
                             viewMode === 'kategorien'
-                                ? 'bg-gray-900 text-white'
+                                ? 'bg-blue-500 text-white'
                                 : 'bg-white text-gray-700 hover:bg-gray-50'
                         }`}
                     >
                         Ansicht nach Kategorien
                     </button>
+                    <button
+                        onClick={() => setViewMode('haushalt')}
+                        className={`px-6 py-2.5 text-sm font-medium transition-all duration-200 ${
+                            viewMode === 'haushalt'
+                                ? 'bg-blue-500 text-white'
+                                : 'bg-white text-gray-700 hover:bg-gray-50'
+                        }`}
+                    >
+                        Ansicht nach Haushalt
+                    </button>
                 </div>
             </div>
 
-            <Legend />
+            {viewMode !== 'haushalt' && <Legend />}
 
-            {visibleEntities.length === 0 ? (
+            {viewMode === 'haushalt' ? (
+                <BudgetTreemap />
+            ) : visibleEntities.length === 0 ? (
                 <div className="text-center py-12">
                     <p className="text-gray-500 text-lg">Keine Behörden gefunden.</p>
                 </div>

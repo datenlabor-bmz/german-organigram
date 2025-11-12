@@ -172,21 +172,21 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                         </Field>
                     )}
 
-                    {entity.Kategorie && (
-                        <Field label="Kategorie">
-                            <span className={`inline-block px-3 py-1.5 text-sm font-medium text-gray-900 ${
-                                entity.Kategorie === 'Oberste Bundesbehörde' ? 'bg-yellow-200' :
-                                entity.Kategorie === 'Bundesoberbehörde' ? 'bg-red-200' :
-                                entity.Kategorie === 'Bundesmittelbehörde' ? 'bg-blue-200' :
-                                entity.Kategorie === 'Hauptzollamt' ? 'bg-slate-200' :
-                                entity.Kategorie === 'Zollfahndungsamt' ? 'bg-indigo-200' :
-                                entity.Kategorie === 'Unternehmen' ? 'bg-emerald-200' :
-                                'bg-gray-300'
-                            }`}>
-                                {entity.Kategorie}
-                            </span>
-                        </Field>
-                    )}
+                        {entity.Kategorie && (
+                            <Field label="Kategorie">
+                                <span className={`inline-block px-3 py-1.5 rounded-full text-sm font-medium text-gray-900 ${
+                                    entity.Kategorie === 'Oberste Bundesbehörde' ? 'bg-yellow-200' :
+                                    entity.Kategorie === 'Bundesoberbehörde' ? 'bg-red-200' :
+                                    entity.Kategorie === 'Bundesmittelbehörde' ? 'bg-blue-200' :
+                                    entity.Kategorie === 'Hauptzollamt' ? 'bg-slate-200' :
+                                    entity.Kategorie === 'Zollfahndungsamt' ? 'bg-indigo-200' :
+                                    entity.Kategorie === 'Unternehmen' ? 'bg-emerald-200' :
+                                    'bg-gray-300'
+                                }`}>
+                                    {entity.Kategorie}
+                                </span>
+                            </Field>
+                        )}
 
                     {entity.budgetMatch && (
                         <Field label="Haushalt">
