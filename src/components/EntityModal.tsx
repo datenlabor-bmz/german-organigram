@@ -174,14 +174,14 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
 
                     {entity.Kategorie && (
                         <Field label="Kategorie">
-                            <span className={`inline-block px-3 py-1.5 rounded-full text-sm font-medium ${
-                                entity.Kategorie === 'Oberste Bundesbehörde' ? 'bg-amber-200 text-gray-900' :
-                                entity.Kategorie === 'Bundesoberbehörde' ? 'bg-purple-200 text-gray-900' :
-                                entity.Kategorie === 'Bundesmittelbehörde' ? 'bg-pink-200 text-gray-900' :
-                                entity.Kategorie === 'Hauptzollamt' ? 'bg-cyan-200 text-gray-900' :
-                                entity.Kategorie === 'Zollfahndungsamt' ? 'bg-teal-200 text-gray-900' :
-                                entity.Kategorie === 'Unternehmen' ? 'bg-orange-200 text-gray-900' :
-                                'bg-blue-100 text-gray-900'
+                            <span className={`inline-block px-3 py-1.5 text-sm font-medium text-gray-900 ${
+                                entity.Kategorie === 'Oberste Bundesbehörde' ? 'bg-yellow-200' :
+                                entity.Kategorie === 'Bundesoberbehörde' ? 'bg-red-200' :
+                                entity.Kategorie === 'Bundesmittelbehörde' ? 'bg-blue-200' :
+                                entity.Kategorie === 'Hauptzollamt' ? 'bg-slate-200' :
+                                entity.Kategorie === 'Zollfahndungsamt' ? 'bg-indigo-200' :
+                                entity.Kategorie === 'Unternehmen' ? 'bg-emerald-200' :
+                                'bg-gray-300'
                             }`}>
                                 {entity.Kategorie}
                             </span>

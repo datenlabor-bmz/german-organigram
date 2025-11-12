@@ -7,12 +7,12 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
 
 const kategorieColorsFull: Record<string, string> = {
-    'Oberste Bundesbehörde': 'bg-amber-200 text-gray-900',
-    'Bundesoberbehörde': 'bg-purple-200 text-gray-900',
-    'Bundesmittelbehörde': 'bg-pink-200 text-gray-900',
-    'Hauptzollamt': 'bg-cyan-200 text-gray-900',
-    'Zollfahndungsamt': 'bg-teal-200 text-gray-900',
-    'Unternehmen': 'bg-orange-200 text-gray-900',
+    'Oberste Bundesbehörde': 'bg-yellow-200 text-gray-900',     // Gold (German flag)
+    'Bundesoberbehörde': 'bg-red-200 text-gray-900',            // Red (German flag)
+    'Bundesmittelbehörde': 'bg-blue-200 text-gray-900',         // Federal Blue
+    'Hauptzollamt': 'bg-slate-200 text-gray-900',               // Operational Gray
+    'Zollfahndungsamt': 'bg-indigo-200 text-gray-900',          // Navy Blue (law enforcement)
+    'Unternehmen': 'bg-emerald-200 text-gray-900',              // Green (economy/business)
 };
 
 const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: (entityId: string) => void }) => {
@@ -20,7 +20,7 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
         onEntityClick(String(entity.OrganisationId));
     };
 
-    const cardColor = kategorieColorsFull[entity.Kategorie || ''] || 'bg-blue-100 text-gray-900';
+    const cardColor = kategorieColorsFull[entity.Kategorie || ''] || 'bg-gray-300 text-gray-900';
     
     const displayName = entity.OrganisationDisplay || entity.OrganisationKurz || entity.OrganisationKurzInoffiziell || entity.Organisation;
 
@@ -55,27 +55,27 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
 };
 
 const kategorieColors: Record<string, string> = {
-    'Oberste Bundesbehörde': 'bg-amber-200',
-    'Bundesoberbehörde': 'bg-purple-200',
-    'Bundesmittelbehörde': 'bg-pink-200',
-    'Hauptzollamt': 'bg-cyan-200',
-    'Zollfahndungsamt': 'bg-teal-200',
-    'Unternehmen': 'bg-orange-200',
+    'Oberste Bundesbehörde': 'bg-yellow-200',     // Gold (German flag)
+    'Bundesoberbehörde': 'bg-red-200',            // Red (German flag)
+    'Bundesmittelbehörde': 'bg-blue-200',         // Federal Blue
+    'Hauptzollamt': 'bg-slate-200',               // Operational Gray
+    'Zollfahndungsamt': 'bg-indigo-200',          // Navy Blue (law enforcement)
+    'Unternehmen': 'bg-emerald-200',              // Green (economy/business)
 };
 
 const Legend = () => (
-    <div className="bg-gray-50 border border-gray-200 rounded-lg p-4 mb-6">
-        <h3 className="text-sm font-semibold text-gray-700 mb-3">Legende</h3>
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2">
+    <div className="mb-6">
+        <h3 className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">Kategorien</h3>
+        <div className="flex flex-wrap gap-4">
             {Object.entries(kategorieColors).map(([kategorie, color]) => (
                 <div key={kategorie} className="flex items-center gap-2">
-                    <div className={`${color} w-4 h-4 rounded`}></div>
-                    <span className="text-xs text-gray-700">{kategorie}</span>
+                    <div className={`${color} w-3 h-3`}></div>
+                    <span className="text-sm text-gray-700">{kategorie}</span>
                 </div>
             ))}
             <div className="flex items-center gap-2">
-                <div className="bg-blue-100 w-4 h-4 rounded"></div>
-                <span className="text-xs text-gray-700">Sonstige</span>
+                <div className="bg-gray-300 w-3 h-3"></div>
+                <span className="text-sm text-gray-700">Sonstige</span>
             </div>
         </div>
     </div>
@@ -118,19 +118,32 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
     }, {});
 
     // Sort entities within each group
+    const kategorieOrder = [
+        'Oberste Bundesbehörde',
+        'Bundesoberbehörde',
+        'Bundesmittelbehörde',
+        'Hauptzollamt',
+        'Zollfahndungsamt',
+        'Unternehmen',
+        'Sonstige'
+    ];
+    
     Object.keys(groupedEntities).forEach(groupKey => {
         groupedEntities[groupKey].sort((a, b) => {
             if (viewMode === 'ressorts') {
-                // In Ressort view: Oberste Bundesbehörde first, then by Kategorie, then by name
-                const aIsOberste = a.Kategorie === 'Oberste Bundesbehörde';
-                const bIsOberste = b.Kategorie === 'Oberste Bundesbehörde';
+                // In Ressort view: Sort by Kategorie order, then by name
+                const aCat = a.Kategorie || 'Sonstige';
+                const bCat = b.Kategorie || 'Sonstige';
                 
-                if (aIsOberste && !bIsOberste) return -1;
-                if (!aIsOberste && bIsOberste) return 1;
+                const aIndex = kategorieOrder.indexOf(aCat);
+                const bIndex = kategorieOrder.indexOf(bCat);
                 
-                const aCat = a.Kategorie || 'ZZZ';
-                const bCat = b.Kategorie || 'ZZZ';
-                if (aCat !== bCat) return aCat.localeCompare(bCat);
+                if (aIndex !== bIndex) {
+                    // Handle categories not in the order list
+                    if (aIndex === -1) return 1;
+                    if (bIndex === -1) return -1;
+                    return aIndex - bIndex;
+                }
             }
             // In both views: finally sort by name
             return (a.OrganisationDisplay || a.Organisation || '').localeCompare(b.OrganisationDisplay || b.Organisation || '');
@@ -191,23 +204,23 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
                 
-                <div className="inline-flex rounded-full bg-gray-200 p-1">
+                <div className="inline-flex border border-gray-300">
                     <button
                         onClick={() => setViewMode('ressorts')}
-                        className={`px-6 py-2 rounded-full text-sm font-medium transition-all ${
+                        className={`px-6 py-2 text-sm font-medium transition-colors border-r border-gray-300 ${
                             viewMode === 'ressorts'
-                                ? 'bg-white text-blue-600 shadow-sm'
-                                : 'text-gray-600 hover:text-gray-900'
+                                ? 'bg-gray-900 text-white'
+                                : 'bg-white text-gray-700 hover:bg-gray-50'
                         }`}
                     >
                         Ansicht nach Ressorts
                     </button>
                     <button
                         onClick={() => setViewMode('kategorien')}
-                        className={`px-6 py-2 rounded-full text-sm font-medium transition-all ${
+                        className={`px-6 py-2 text-sm font-medium transition-colors ${
                             viewMode === 'kategorien'
-                                ? 'bg-white text-blue-600 shadow-sm'
-                                : 'text-gray-600 hover:text-gray-900'
+                                ? 'bg-gray-900 text-white'
+                                : 'bg-white text-gray-700 hover:bg-gray-50'
                         }`}
                     >
                         Ansicht nach Kategorien
