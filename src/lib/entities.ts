@@ -29,7 +29,7 @@ const loadBudgetData = async () => {
     if (csvBudgetData) return csvBudgetData;
 
     try {
-        const basePath = process.env.NODE_ENV === 'production' ? '/german-organigram' : '';
+        const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
         const response = await fetch(`${basePath}/HH_2025.csv`);
         const csvText = await response.text();
         const lines = csvText.split('\n').slice(1); // Skip header
