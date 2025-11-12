@@ -81,52 +81,17 @@ for base_name, entries in dienstort_by_base.items():
 # Combine regular and aggregated entries
 output_data = regular_entries + aggregated
 
-# Fix BKM: Set Ressort for main BKM entity (OrganisationKurz="BKM")
+# Fix Ressort for Oberste Bundesbehörde entities without a Ressort
+# These should have their own sections (Ressort = OrganisationKurz or unique identifier)
 for entry in output_data:
-    if entry.get('OrganisationKurz') == 'BKM' and not entry.get('Ressort'):
-        entry['Ressort'] = 'BKM'
-
-# Tag Constitutional Bodies (Verfassungsorgane)
-# The 5 main constitutional organs according to Grundgesetz:
-# 1. Bundespräsident (Art. 54-61 GG)
-# 2. Deutscher Bundestag (Art. 38-49 GG)
-# 3. Bundesrat (Art. 50-53 GG)
-# 4. Bundesregierung (Art. 62-69 GG) - already covered as ministries
-# 5. Bundesverfassungsgericht (Art. 92-94 GG)
-# Plus: Bundesrechnungshof (Art. 114 GG) - quasi-constitutional
-
-# Actual Verfassungsorgane (will be highlighted in green)
-actual_verfassungsorgane = [
-    'BPr',      # Bundespräsident
-    'BT',       # Deutscher Bundestag
-    'BR',       # Bundesrat
-    'BVerfG',   # Bundesverfassungsgericht
-    'BRH',      # Bundesrechnungshof (quasi-constitutional)
-]
-
-# Supporting bodies (in Verfassungsorgane section but not highlighted)
-supporting_bodies = [
-    'WB',   # Wehrbeauftragte - ombudsman, not constitutional organ itself
-    'TAB',  # Technikfolgenabschätzung - advisory body
-]
-
-supporting_org_names = [
-    'Verwaltung des Deutschen Bundestages',  # Administrative support
-    'Sekretariat des Bundesrates',           # Administrative support
-]
-
-for entry in output_data:
-    kurz = entry.get('OrganisationKurz')
-    org = entry.get('Organisation', '')
-    
-    # Actual constitutional organs (highlighted)
-    if kurz in actual_verfassungsorgane:
-        entry['IstVerfassungsorgan'] = True
-        entry['Ressort'] = 'Verfassungsorgane'
-    # Supporting bodies (section but not highlighted)
-    elif kurz in supporting_bodies or org in supporting_org_names:
-        entry['IstVerfassungsorgan'] = False
-        entry['Ressort'] = 'Verfassungsorgane'
+    if entry.get('Kategorie') == 'Oberste Bundesbehörde' and not entry.get('Ressort'):
+        kurz = entry.get('OrganisationKurz')
+        if kurz:
+            entry['Ressort'] = kurz
+        else:
+            # For entities without OrganisationKurz, use OrganisationId as Ressort
+            # (e.g., Verwaltung des Deutschen Bundestages, Sekretariat des Bundesrates)
+            entry['Ressort'] = f"ORG_{entry.get('OrganisationId')}"
 
 # Add metadata header
 output = [

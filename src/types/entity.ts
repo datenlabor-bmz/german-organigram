@@ -22,6 +22,8 @@ export interface Entity {
     OrganisationKurzInoffiziell?: string;
     OrganisationDisplay?: string;
     Ressort?: string;
+    Kategorie?: string;
+    Versteckt?: boolean;
     Hauptadresse?: string;
     PLZ?: string | number;
     Ort?: string;

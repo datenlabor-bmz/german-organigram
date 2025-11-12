@@ -172,6 +172,22 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                         </Field>
                     )}
 
+                    {entity.Kategorie && (
+                        <Field label="Kategorie">
+                            <span className={`inline-block px-3 py-1.5 rounded-full text-sm font-medium ${
+                                entity.Kategorie === 'Oberste Bundesbehörde' ? 'bg-amber-200 text-gray-900' :
+                                entity.Kategorie === 'Bundesoberbehörde' ? 'bg-purple-200 text-gray-900' :
+                                entity.Kategorie === 'Bundesmittelbehörde' ? 'bg-pink-200 text-gray-900' :
+                                entity.Kategorie === 'Hauptzollamt' ? 'bg-cyan-200 text-gray-900' :
+                                entity.Kategorie === 'Zollfahndungsamt' ? 'bg-teal-200 text-gray-900' :
+                                entity.Kategorie === 'Unternehmen' ? 'bg-orange-200 text-gray-900' :
+                                'bg-blue-100 text-gray-900'
+                            }`}>
+                                {entity.Kategorie}
+                            </span>
+                        </Field>
+                    )}
+
                     {entity.budgetMatch && (
                         <Field label="Haushalt">
                             {budgetLoading || breakdownLoading ? (

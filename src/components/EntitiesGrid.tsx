@@ -6,21 +6,21 @@ import { Entity } from '@/types/entity';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
 
+const kategorieColorsFull: Record<string, string> = {
+    'Oberste Bundesbehörde': 'bg-amber-200 text-gray-900',
+    'Bundesoberbehörde': 'bg-purple-200 text-gray-900',
+    'Bundesmittelbehörde': 'bg-pink-200 text-gray-900',
+    'Hauptzollamt': 'bg-cyan-200 text-gray-900',
+    'Zollfahndungsamt': 'bg-teal-200 text-gray-900',
+    'Unternehmen': 'bg-orange-200 text-gray-900',
+};
+
 const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: (entityId: string) => void }) => {
     const handleClick = () => {
         onEntityClick(String(entity.OrganisationId));
     };
 
-    const isRessort = entity.OrganisationKurz === entity.Ressort && entity.OrganisationKurz;
-    const isVerfassungsorgan = entity.IstVerfassungsorgan === true;
-    
-    // Determine card color: green for actual constitutional organs, amber for ressorts (except BKM), blue for others
-    let cardColor = 'bg-blue-100 text-gray-900';
-    if (isVerfassungsorgan) {
-        cardColor = 'bg-green-200 text-gray-900';
-    } else if (isRessort && entity.OrganisationKurz !== 'BKM') {
-        cardColor = 'bg-amber-200 text-gray-900';
-    }
+    const cardColor = kategorieColorsFull[entity.Kategorie || ''] || 'bg-blue-100 text-gray-900';
     
     const displayName = entity.OrganisationDisplay || entity.OrganisationKurz || entity.OrganisationKurzInoffiziell || entity.Organisation;
 
@@ -54,9 +54,37 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
     );
 };
 
+const kategorieColors: Record<string, string> = {
+    'Oberste Bundesbehörde': 'bg-amber-200',
+    'Bundesoberbehörde': 'bg-purple-200',
+    'Bundesmittelbehörde': 'bg-pink-200',
+    'Hauptzollamt': 'bg-cyan-200',
+    'Zollfahndungsamt': 'bg-teal-200',
+    'Unternehmen': 'bg-orange-200',
+};
+
+const Legend = () => (
+    <div className="bg-gray-50 border border-gray-200 rounded-lg p-4 mb-6">
+        <h3 className="text-sm font-semibold text-gray-700 mb-3">Legende</h3>
+        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2">
+            {Object.entries(kategorieColors).map(([kategorie, color]) => (
+                <div key={kategorie} className="flex items-center gap-2">
+                    <div className={`${color} w-4 h-4 rounded`}></div>
+                    <span className="text-xs text-gray-700">{kategorie}</span>
+                </div>
+            ))}
+            <div className="flex items-center gap-2">
+                <div className="bg-blue-100 w-4 h-4 rounded"></div>
+                <span className="text-xs text-gray-700">Sonstige</span>
+            </div>
+        </div>
+    </div>
+);
+
 const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKey: string) => void }>((props, ref) => {
     const entities = getAllEntities();
     const [searchQuery, setSearchQuery] = useState<string>('');
+    const [viewMode, setViewMode] = useState<'ressorts' | 'kategorien'>('ressorts');
     const router = useRouter();
     const searchParams = useSearchParams();
 
@@ -77,53 +105,84 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
         ? searchEntities(searchQuery)
         : entities;
 
-    // Group entities by Ressort (already deduplicated in entities.ts)
-    const groupedByRessort = visibleEntities.reduce((acc: Record<string, Entity[]>, entity: Entity) => {
-        const ressort = entity.Ressort || 'Sonstige';
-        if (!acc[ressort]) {
-            acc[ressort] = [];
+    // Group entities by Ressort or Kategorie depending on view mode
+    const groupedEntities = visibleEntities.reduce((acc: Record<string, Entity[]>, entity: Entity) => {
+        const groupKey = viewMode === 'ressorts' 
+            ? (entity.Ressort || 'Sonstige')
+            : (entity.Kategorie || 'Sonstige');
+        if (!acc[groupKey]) {
+            acc[groupKey] = [];
         }
-        acc[ressort].push(entity);
+        acc[groupKey].push(entity);
         return acc;
     }, {});
 
-    // Sort each group: Ressort entity first, then alphabetically
-    Object.keys(groupedByRessort).forEach(ressort => {
-        groupedByRessort[ressort].sort((a, b) => {
-            const aIsRessort = a.OrganisationKurz === a.Ressort && a.OrganisationKurz;
-            const bIsRessort = b.OrganisationKurz === b.Ressort && b.OrganisationKurz;
-            
-            if (aIsRessort && !bIsRessort) return -1;
-            if (!aIsRessort && bIsRessort) return 1;
-            return (a.Organisation || '').localeCompare(b.Organisation || '');
+    // Sort entities within each group
+    Object.keys(groupedEntities).forEach(groupKey => {
+        groupedEntities[groupKey].sort((a, b) => {
+            if (viewMode === 'ressorts') {
+                // In Ressort view: Oberste Bundesbehörde first, then by Kategorie, then by name
+                const aIsOberste = a.Kategorie === 'Oberste Bundesbehörde';
+                const bIsOberste = b.Kategorie === 'Oberste Bundesbehörde';
+                
+                if (aIsOberste && !bIsOberste) return -1;
+                if (!aIsOberste && bIsOberste) return 1;
+                
+                const aCat = a.Kategorie || 'ZZZ';
+                const bCat = b.Kategorie || 'ZZZ';
+                if (aCat !== bCat) return aCat.localeCompare(bCat);
+            }
+            // In both views: finally sort by name
+            return (a.OrganisationDisplay || a.Organisation || '').localeCompare(b.OrganisationDisplay || b.Organisation || '');
         });
     });
 
-    // Sort ressort groups: Verfassungsorgane first, then BKAmt, BKM last (before Sonstige), rest alphabetically
-    const sortedRessorts = Object.keys(groupedByRessort).sort((a, b) => {
-        // Verfassungsorgane always first
-        if (a === 'Verfassungsorgane') return -1;
-        if (b === 'Verfassungsorgane') return 1;
-        
-        // BKAmt second
-        if (a === 'BKAmt') return -1;
-        if (b === 'BKAmt') return 1;
-        
-        // Sonstige always last
-        if (a === 'Sonstige') return 1;
-        if (b === 'Sonstige') return -1;
-        
-        // BKM second to last (before Sonstige)
-        if (a === 'BKM') return 1;
-        if (b === 'BKM') return -1;
-        
-        // Rest alphabetically
-        return a.localeCompare(b);
+    // Sort groups based on view mode
+    const sortedGroups = Object.keys(groupedEntities).sort((a, b) => {
+        if (viewMode === 'ressorts') {
+            // Hardcoded section order for Ressort view
+            const sectionOrder = [
+                // Ministries
+                'BKAmt', 'BMF', 'BMI', 'AA', 'BMVg', 'BMWE', 'BMFTR', 'BMJV', 
+                'BMBFSFJ', 'BMAS', 'BMDS', 'BMV', 'BMUKN', 'BMG', 'BMZ', 'BMWSB', 'BMLEH',
+                // Special constitutional/administrative bodies
+                'BPrA', 'ORG_18000636', 'ORG_18000594', 'BPA', 'BKM', 'BRH', 'BfDI', 'UKRat', 'BBk',
+                // Miscellaneous
+                'Sonstige'
+            ];
+
+            const indexA = sectionOrder.indexOf(a);
+            const indexB = sectionOrder.indexOf(b);
+            
+            if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+            if (indexA !== -1) return -1;
+            if (indexB !== -1) return 1;
+            return a.localeCompare(b);
+        } else {
+            // In Kategorie view: sort by legend order
+            const kategorieOrder = [
+                'Oberste Bundesbehörde',
+                'Bundesoberbehörde',
+                'Bundesmittelbehörde',
+                'Hauptzollamt',
+                'Zollfahndungsamt',
+                'Unternehmen',
+                'Sonstige'
+            ];
+
+            const indexA = kategorieOrder.indexOf(a);
+            const indexB = kategorieOrder.indexOf(b);
+            
+            if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+            if (indexA !== -1) return -1;
+            if (indexB !== -1) return 1;
+            return a.localeCompare(b);
+        }
     });
 
     return (
         <div className="w-full">
-            <div className="mb-6">
+            <div className="mb-6 space-y-4">
                 <input
                     type="text"
                     placeholder="Suche nach Behörde, Ort, Ressort..."
@@ -131,7 +190,32 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                     onChange={(e) => setSearchQuery(e.target.value)}
                     className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
                 />
+                
+                <div className="inline-flex rounded-full bg-gray-200 p-1">
+                    <button
+                        onClick={() => setViewMode('ressorts')}
+                        className={`px-6 py-2 rounded-full text-sm font-medium transition-all ${
+                            viewMode === 'ressorts'
+                                ? 'bg-white text-blue-600 shadow-sm'
+                                : 'text-gray-600 hover:text-gray-900'
+                        }`}
+                    >
+                        Ansicht nach Ressorts
+                    </button>
+                    <button
+                        onClick={() => setViewMode('kategorien')}
+                        className={`px-6 py-2 rounded-full text-sm font-medium transition-all ${
+                            viewMode === 'kategorien'
+                                ? 'bg-white text-blue-600 shadow-sm'
+                                : 'text-gray-600 hover:text-gray-900'
+                        }`}
+                    >
+                        Ansicht nach Kategorien
+                    </button>
+                </div>
             </div>
+
+            <Legend />
 
             {visibleEntities.length === 0 ? (
                 <div className="text-center py-12">
@@ -139,22 +223,28 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                 </div>
             ) : (
                 <div className="space-y-8">
-                    {sortedRessorts.map((ressort) => {
-                        const ressortEntities = groupedByRessort[ressort];
-                        const ressortEntity = ressortEntities.find(e => e.OrganisationKurz === e.Ressort && e.OrganisationKurz);
-                        const groupLabel = ressortEntity?.Organisation || ressort;
+                    {sortedGroups.map((groupKey) => {
+                        const groupEntities = groupedEntities[groupKey];
+                        
+                        // Determine group label based on view mode
+                        let groupLabel = groupKey;
+                        if (viewMode === 'ressorts') {
+                            // Find the Oberste Bundesbehörde entity for this group
+                            const obersteEntity = groupEntities.find(e => e.Kategorie === 'Oberste Bundesbehörde');
+                            groupLabel = obersteEntity?.Organisation || groupKey;
+                        }
 
                         return (
-                            <div key={ressort} className="animate-in fade-in slide-in-from-bottom-4">
+                            <div key={groupKey} className="animate-in fade-in slide-in-from-bottom-4">
                                 <div className="mb-4">
                                     <div className="h-px bg-gradient-to-r from-gray-400 via-gray-200 to-transparent mb-1"></div>
                                     <h2 className="text-xl sm:text-2xl font-semibold text-foreground">
-                                        {groupLabel} ({ressortEntities.length})
+                                        {groupLabel} ({groupEntities.length})
                                     </h2>
                                 </div>
                                 
                                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-2 sm:gap-3 w-full">
-                                    {ressortEntities.map((entity: Entity) => (
+                                    {groupEntities.map((entity: Entity) => (
                                         <EntityCard key={entity.OrganisationId} entity={entity} onEntityClick={handleEntityClick} />
                                     ))}
                                 </div>

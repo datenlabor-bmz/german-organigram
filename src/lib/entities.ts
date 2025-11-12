@@ -132,7 +132,8 @@ const groupedEntities = rawEntities.reduce((acc: Record<string, Entity>, entity:
     return acc;
 }, {});
 
-export const entities = Object.values(groupedEntities);
+// Filter out hidden entities (Versteckt === true)
+export const entities = Object.values(groupedEntities).filter(entity => !entity.Versteckt);
 
 export const getAllEntities = () => entities;
 

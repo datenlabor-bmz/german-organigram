@@ -3,7 +3,7 @@
     "source": "airtable",
     "owner": "German Organigram",
     "creationDate": "",
-    "amount": "1717 Authorities / Institutions"
+    "amount": "1736 Authorities / Institutions"
   },
   {
     "Breitengrad": "52.512245",
@@ -37,7 +37,8 @@
     "Ort": "Bonn",
     "PLZ": 53113,
     "Ressort": "BMZ",
-    "Telefon": "+49 228 336 907-0"
+    "Telefon": "+49 228 336 907-0",
+    "Kategorie": "Unternehmen"
   },
   {
     "Breitengrad": "51.238344",
@@ -254,7 +255,8 @@
     "PLZ": 10965,
     "Ressort": "BMF",
     "Telefax": "+49 30 69583-569",
-    "Telefon": "+49 30 69583-0"
+    "Telefon": "+49 30 69583-0",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Breitengrad": "51.5036903",
@@ -481,7 +483,8 @@
     "PLZ": 79539,
     "Ressort": "BMF",
     "Telefax": "+49 7621 170-1090",
-    "Telefon": "+49 7621 170-0"
+    "Telefon": "+49 7621 170-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "51.969109",
@@ -524,6 +527,11 @@
     "OrganisationId": 25460,
     "Ort": "Princeton, NJ 08540",
     "Telefon": "+1 6098447630"
+  },
+  {
+    "Organisation": "Stiftung Geld und Währung",
+    "Ressort": "BMF",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": "Rheinallee 23 - 34",
@@ -614,7 +622,9 @@
     "Ressort": "BMWE",
     "Telefax": "+49 3018 615-7010",
     "Telefon": "+49 3018 615-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMWK",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Grisebachstraße 5",
@@ -842,7 +852,9 @@
     "Ort": "Berlin",
     "PLZ": 10117,
     "Telefax": "+49 30 20372-303",
-    "Telefon": "+49 30 20372-0"
+    "Telefon": "+49 30 20372-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Deichstrasse 7-9",
@@ -927,7 +939,8 @@
     "PLZ": 10969,
     "Ressort": "BMWSB",
     "Telefon": "+49 3018 335-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "52.516158",
@@ -943,9 +956,7 @@
     "OrganisationKurz": "BPr",
     "Ort": "Berlin",
     "PLZ": 10557,
-    "Telefon": "+49 30 2000-0",
-    "IstVerfassungsorgan": true,
-    "Ressort": "Verfassungsorgane"
+    "Telefon": "+49 30 2000-0"
   },
   {
     "Adresse": "Poststraße 72",
@@ -977,7 +988,8 @@
     "PLZ": 70374,
     "Ressort": "BMF",
     "Telefax": "+49 711 52041-1060",
-    "Telefon": "+49 711 52041-0"
+    "Telefon": "+49 711 52041-0",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Adresse": "Torgauer Straße 100",
@@ -1167,7 +1179,8 @@
     "PLZ": 70190,
     "Ressort": "BMF",
     "Telefax": "+49 711 922-2209",
-    "Telefon": "+49 711 922-0"
+    "Telefon": "+49 711 922-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Binger Straße 28",
@@ -1273,7 +1286,9 @@
     "Ort": "Jena",
     "PLZ": 7745,
     "Telefax": "+49 3641 65-6351",
-    "Telefon": "+49 3641 65-6000"
+    "Telefon": "+49 3641 65-6000",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "54.489542",
@@ -1460,7 +1475,9 @@
     "Ressort": "BMFTR",
     "Telefax": "+49 30 18 57-5270",
     "Telefon": "+49 3018 57-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMBF",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Spaldinger Straße 100",
@@ -1672,7 +1689,8 @@
     "PLZ": 24576,
     "Ressort": "BMI",
     "Telefax": "+49 4192 502-4444",
-    "Telefon": "+49 4192 502-0"
+    "Telefon": "+49 4192 502-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "52.302906",
@@ -1733,7 +1751,9 @@
     "Ort": "Kiel",
     "PLZ": 24118,
     "Telefax": "+49 431 880-5212",
-    "Telefon": "+49 431 880-5084"
+    "Telefon": "+49 431 880-5084",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.723082",
@@ -1796,7 +1816,8 @@
     "PLZ": 48161,
     "Ressort": "BMF",
     "Telefax": "+49 228 303-98383",
-    "Telefon": "+49 228 303-95400"
+    "Telefon": "+49 228 303-95400",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "50.70276",
@@ -1885,7 +1906,9 @@
     "Ort": "Rostock",
     "PLZ": 18059,
     "Telefax": "+49 381 1281-5000",
-    "Telefon": "+49 381 1281-0"
+    "Telefon": "+49 381 1281-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.013833",
@@ -1952,6 +1975,13 @@
     "Telefon": "+49 6432 940 2011"
   },
   {
+    "Organisation": "Zentrum für Internationale Friedenseinsätze gGmbH",
+    "OrganisationKurz": "ZIF",
+    "Ressort": "AA",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Breitengrad": "53.820273",
     "Bundesland": "Mecklenburg-Vorpommern",
     "E-Mail": "info@fnr.de",
@@ -1999,8 +2029,10 @@
     "OrganisationKurz": "BKM",
     "Ort": "Bonn",
     "PLZ": 53123,
+    "Ressort": "BKM",
     "Telefon": "+49 30 18 681-0",
-    "Ressort": "BKM"
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Flugplatzstraße 75",
@@ -2239,7 +2271,9 @@
     "OrganisationKurz": "BPrA",
     "Ort": "Berlin",
     "PLZ": 10557,
-    "Telefon": "+49 30 2000-0"
+    "Telefon": "+49 30 2000-0",
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "BPrA"
   },
   {
     "Adresse": "Unter Sachsenhausen 6-8",
@@ -2303,7 +2337,8 @@
     "PLZ": 53123,
     "Ressort": "BMG",
     "Telefon": "+49 228 9 41-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "52.5169819",
@@ -2320,7 +2355,9 @@
     "Ort": "Berlin",
     "PLZ": 10587,
     "Telefax": "+49 30 31002-213",
-    "Telefon": "+49 30 31002-0"
+    "Telefon": "+49 30 31002-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Heltorfer Straße 6",
@@ -2374,7 +2411,8 @@
     "Ort": "Berlin",
     "PLZ": 10115,
     "Telefax": "+49 30 206049-55",
-    "Telefon": "+49 30 206049-0"
+    "Telefon": "+49 30 206049-0",
+    "Kategorie": "Leibniz-Institut"
   },
   {
     "Breitengrad": "49.22634",
@@ -2392,7 +2430,8 @@
     "PLZ": 66119,
     "Ressort": "BMF",
     "Telefax": "+49 681 8308-0010",
-    "Telefon": "+49 681 8308-0000"
+    "Telefon": "+49 681 8308-0000",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Sackenrieder Straße 25",
@@ -2520,7 +2559,9 @@
     "PLZ": 53113,
     "Ressort": "BMFTR",
     "Telefax": "+49 228 9122-212",
-    "Telefon": "+49 228 9122-0"
+    "Telefon": "+49 228 9122-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.8266948",
@@ -2537,7 +2578,9 @@
     "Ort": "Gatersleben",
     "PLZ": 6466,
     "Telefax": "+49 39482 5-139",
-    "Telefon": "+49 39482 5-0"
+    "Telefon": "+49 39482 5-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.4052551",
@@ -2555,6 +2598,12 @@
     "PLZ": 14456,
     "Ressort": "BMG",
     "Telefon": "0800 2650800"
+  },
+  {
+    "Organisation": "Zentrale Auslands- und Fachvermittlung",
+    "OrganisationKurz": "ZAV",
+    "Ressort": "BMAS",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": "Plieninger Straße 70",
@@ -2630,7 +2679,9 @@
     "Ort": "Erkner",
     "PLZ": 15537,
     "Telefax": "+49 3362 793-111",
-    "Telefon": "+49 3362 793-0"
+    "Telefon": "+49 3362 793-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Behrenstraße 31",
@@ -2678,7 +2729,9 @@
     "Ort": "Rostock",
     "PLZ": 18059,
     "Telefax": "+49 381 4024-199",
-    "Telefon": "+49 381 4024-110"
+    "Telefon": "+49 381 4024-110",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.004954",
@@ -2714,7 +2767,13 @@
     "PLZ": 15236,
     "Ressort": "BMF",
     "Telefax": "+49 335 563-1099",
-    "Telefon": "+49 335 563-0"
+    "Telefon": "+49 335 563-0",
+    "Kategorie": "Hauptzollamt"
+  },
+  {
+    "Organisation": "Institut für Arbeits- und Berufsforschung",
+    "Ressort": "BMAS",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": "Burggartenweg 28",
@@ -2838,7 +2897,8 @@
     "PLZ": 24116,
     "Ressort": "BMF",
     "Telefax": "+49 431 20083-3010",
-    "Telefon": "+49 431 20083-3000"
+    "Telefon": "+49 431 20083-3000",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Im Hafenbecken 2",
@@ -2964,7 +3024,8 @@
     "PLZ": 97421,
     "Ressort": "BMF",
     "Telefax": "+49 9721 6464-1800",
-    "Telefon": "+49 9721 6464-0"
+    "Telefon": "+49 9721 6464-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Schauinslandweg 7",
@@ -2977,6 +3038,12 @@
     "Ort": "Oberried/Hofsgrund",
     "PLZ": 79254,
     "Telefon": "+49 4331 1322-0"
+  },
+  {
+    "Organisation": "Künstlersozialkasse",
+    "OrganisationDisplay": "Künstlersozialkasse",
+    "Ressort": "BMAS",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": " ",
@@ -3103,7 +3170,7 @@
     "Land": "DE",
     "Längengrad": "7.133156",
     "Organisation": "Stiftung für ehemalige politisch Verfolgte",
-    "OrganisationDisplay": "Stiftung ehemalige politisch Verfolgte",
+    "OrganisationDisplay": "Ehemalige politisch Verfolgte",
     "OrganisationId": 26250,
     "Ort": "Bonn",
     "PLZ": 53113,
@@ -3205,7 +3272,8 @@
     "Ort": "Berlin",
     "PLZ": 10587,
     "Ressort": "BMDS",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "48.54876",
@@ -3223,7 +3291,8 @@
     "PLZ": 84032,
     "Ressort": "BMF",
     "Telefax": "+49 871 806-1065",
-    "Telefon": "+49 871 806-0"
+    "Telefon": "+49 871 806-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "54.09492",
@@ -3375,7 +3444,8 @@
     "PLZ": 53121,
     "Ressort": "BMF",
     "Telefax": "+49 228 99370-177",
-    "Telefon": "+49 228 99370-0"
+    "Telefon": "+49 228 99370-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "51.0308398",
@@ -3392,7 +3462,9 @@
     "Ort": "Dresden",
     "PLZ": 1217,
     "Telefax": "+49 351 4679-212",
-    "Telefon": "+49 351 4679-0"
+    "Telefon": "+49 351 4679-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Karl-Liebknecht-Straße 36",
@@ -3533,7 +3605,9 @@
     "OrganisationKurz": "IML",
     "Ort": "Dortmund",
     "PLZ": 44227,
-    "Telefon": "+49 231 9743-0"
+    "Telefon": "+49 231 9743-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.352091",
@@ -3551,7 +3625,8 @@
     "PLZ": 56068,
     "Ressort": "BMI",
     "Telefax": "+49 261 399-1199",
-    "Telefon": "+49 261 399-0"
+    "Telefon": "+49 261 399-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Lampoldshausen ",
@@ -3659,8 +3734,8 @@
     "PLZ": 11011,
     "Telefax": "+49 30 227-36878, +49 30 227-36979",
     "Telefon": "+49 30 227-0",
-    "IstVerfassungsorgan": false,
-    "Ressort": "Verfassungsorgane"
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "ORG_18000636"
   },
   {
     "Breitengrad": "54.3391185",
@@ -3879,6 +3954,12 @@
     "Telefon": "+49 30 4981 4555"
   },
   {
+    "Organisation": "Deutsche Energy Terminal GmbH",
+    "Ressort": "BMWE",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Breitengrad": "52.509823",
     "Bundesland": "Berlin",
     "E-Mail": "kontakt@frauenrat.de",
@@ -3910,7 +3991,8 @@
     "PLZ": 92637,
     "Ressort": "BMF",
     "Telefax": "+49 228 303-20720",
-    "Telefon": "+49 228 303-20550"
+    "Telefon": "+49 228 303-20550",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Fährstraße 2",
@@ -4155,7 +4237,9 @@
     "Ort": "Eggenstein-Leopoldshafen",
     "PLZ": 76344,
     "Telefax": "+49 7247 808-259",
-    "Telefon": "+49 7247 808-555"
+    "Telefon": "+49 7247 808-555",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "48.0108841",
@@ -4172,7 +4256,9 @@
     "Ort": "Freiburg",
     "PLZ": 79110,
     "Telefax": "+49 761 8857-224",
-    "Telefon": "+49 761 8857-0"
+    "Telefon": "+49 761 8857-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Hamburger Straße 5",
@@ -4218,7 +4304,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 3018 681-5500",
     "Telefon": "+49 3018 681-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Schleusenstraße 9",
@@ -4323,7 +4410,9 @@
     "Ort": "Großbeeren",
     "PLZ": 14979,
     "Telefax": "+49 33701 55391",
-    "Telefon": "+49 33701 78131"
+    "Telefon": "+49 33701 78131",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.700103",
@@ -4374,7 +4463,9 @@
     "Ort": "Braunschweig",
     "PLZ": 38124,
     "Telefax": "+49 531 2616-418",
-    "Telefon": "+49 531 2616-0"
+    "Telefon": "+49 531 2616-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Görslow ",
@@ -4436,7 +4527,9 @@
     "Ort": "Kaiserslautern",
     "PLZ": 67663,
     "Telefax": "+49 631 31600-1099",
-    "Telefon": "+49 631 31600-0"
+    "Telefon": "+49 631 31600-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.9091815",
@@ -4453,7 +4546,9 @@
     "Ort": "Jena",
     "PLZ": 7745,
     "Telefax": "+49 3641 532-0800",
-    "Telefon": "+49 3641 532-1000"
+    "Telefon": "+49 3641 532-1000",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "An der Trift  40",
@@ -4542,7 +4637,8 @@
     "PLZ": 26135,
     "Ressort": "BMF",
     "Telefax": "+49 228 303-99788",
-    "Telefon": "+49 441 8009-0"
+    "Telefon": "+49 441 8009-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Feldstr. 234",
@@ -4772,7 +4868,9 @@
     "OrganisationKurz": "ENAS",
     "Ort": "Chemnitz",
     "PLZ": 9126,
-    "Telefon": "+49 371 45001-0"
+    "Telefon": "+49 371 45001-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.830715",
@@ -4919,7 +5017,9 @@
     "Ort": "Kaiserslautern",
     "PLZ": 67663,
     "Telefax": "+49 631 68 00-10 99",
-    "Telefon": "+49 631 68 00-0"
+    "Telefon": "+49 631 68 00-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Ferdinandstraße 12",
@@ -4951,7 +5051,8 @@
     "PLZ": 1099,
     "Ressort": "BMF",
     "Telefax": "+49 351 4644-3900",
-    "Telefon": "+49 351 4644-0"
+    "Telefon": "+49 351 4644-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Böhler Straße 100",
@@ -4982,7 +5083,8 @@
     "PLZ": 74080,
     "Ressort": "BMF",
     "Telefax": "+49 7131 8970-199",
-    "Telefon": "+49 7131 8970-0"
+    "Telefon": "+49 7131 8970-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Heinrich-Steinmann-Straße ",
@@ -5023,7 +5125,7 @@
     "Land": "DE",
     "Längengrad": "13.372034",
     "Organisation": "Beauftragter der Bundesregierung für die Nachrichtendienste des Bundes",
-    "OrganisationDisplay": "B ND",
+    "OrganisationDisplay": "B NDdB",
     "OrganisationId": 15732,
     "Ort": "Berlin",
     "PLZ": 10557,
@@ -5082,7 +5184,9 @@
     "Ort": "Mainz",
     "PLZ": 55116,
     "Telefax": "+49 6131 39-35326",
-    "Telefon": "+49 6131 39-39340"
+    "Telefon": "+49 6131 39-39340",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Straße des 18. Oktober 48",
@@ -5192,7 +5296,9 @@
     "OrganisationKurz": "ZPID",
     "Ort": "Trier",
     "PLZ": 54296,
-    "Telefon": "+49 651 603419-011"
+    "Telefon": "+49 651 603419-011",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "An der Staustufe 25",
@@ -5257,7 +5363,9 @@
     "OrganisationKurz": "BfDI",
     "Ort": "Bonn",
     "PLZ": 53117,
-    "Telefon": "+49 228 99 77 99-0"
+    "Telefon": "+49 228 99 77 99-0",
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "BfDI"
   },
   {
     "Breitengrad": "55.019394",
@@ -5478,7 +5586,9 @@
     "Ort": "Kiel",
     "PLZ": 24148,
     "Telefax": "+49 431 600-2805",
-    "Telefon": "+49 431 600-0"
+    "Telefon": "+49 431 600-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.898357",
@@ -5528,7 +5638,8 @@
     "Ressort": "BMZ",
     "Telefax": "+49 228 535-3500",
     "Telefon": "+49 228 99 535-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "50.896919",
@@ -5659,7 +5770,8 @@
     "PLZ": 39126,
     "Ressort": "BMF",
     "Telefax": "+49 391 5074-334",
-    "Telefon": "+49 391 5074-0"
+    "Telefon": "+49 391 5074-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Bergrat-Bilfinger-Straße 6",
@@ -5762,7 +5874,9 @@
     "Ort": "Dortmund",
     "PLZ": 44139,
     "Telefax": "+49 231 1084-308",
-    "Telefon": "+49 231 1084-0"
+    "Telefon": "+49 231 1084-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "54.086272",
@@ -5884,7 +5998,9 @@
     "Ort": "Borstel",
     "PLZ": 23846,
     "Telefax": "+49 4537 188-244",
-    "Telefon": "+49 4537 188-0"
+    "Telefon": "+49 4537 188-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.3827432",
@@ -5997,7 +6113,9 @@
     "Ort": "Stuttgart",
     "PLZ": 70569,
     "Telefax": "+49 711 970-3395",
-    "Telefon": "+49 711 970-00"
+    "Telefon": "+49 711 970-00",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.7772334",
@@ -6013,7 +6131,9 @@
     "OrganisationKurz": "DWI",
     "Ort": "Aachen",
     "PLZ": 52074,
-    "Telefon": "+49 241 80-233-00"
+    "Telefon": "+49 241 80-233-00",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Sachsenbergstraße 2",
@@ -6118,7 +6238,8 @@
     "PLZ": 14467,
     "Ressort": "BMF",
     "Telefax": "+49 331 2308-109",
-    "Telefon": "+49 331 50590"
+    "Telefon": "+49 331 50590",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Ruhrorter Str. 44",
@@ -6209,7 +6330,8 @@
     "PLZ": 30163,
     "Ressort": "BMI",
     "Telefax": "+49 511 67675-1110",
-    "Telefon": "+49 511 67675-0"
+    "Telefon": "+49 511 67675-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "52.485905",
@@ -6276,7 +6398,16 @@
     "Ort": "Kassel",
     "PLZ": 34119,
     "Telefax": "+49 561 7294-100",
-    "Telefon": "+49 561 7294-0"
+    "Telefon": "+49 561 7294-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
+  },
+  {
+    "Organisation": "Stiftung Forum Recht",
+    "OrganisationDisplay": "Forum Recht",
+    "OrganisationKurz": "SFR",
+    "Ressort": "BMJV",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": "Gimter Straße 29a",
@@ -6359,7 +6490,8 @@
     "PLZ": 89077,
     "Ressort": "BMF",
     "Telefax": "+49 731 9648-299",
-    "Telefon": "+49 731 9648-0"
+    "Telefon": "+49 731 9648-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "50.73617",
@@ -6455,7 +6587,8 @@
     "Ressort": "AA",
     "Telefax": "+49 30 1817 51000",
     "Telefon": "+49 30 5000-0, -2000",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Platz der Vereinten Nationen 9",
@@ -6642,18 +6775,18 @@
     "Bundesland": "Hessen",
     "E-Mail": "info@kfw-ipex-bank.de",
     "Hauptadresse": "Zeppelinallee 8",
-    "Internetadresse": "https://www.kfw-ipex-bank.de",
     "Land": "DE",
     "Längengrad": "8.656812",
-    "Organisation": "Kreditanstalt für Wiederaufbau IPEX-Bank",
-    "OrganisationDisplay": "KfW IPEX-Bank",
+    "Organisation": "Kreditanstalt für Wiederaufbau",
+    "OrganisationDisplay": "KfW",
     "OrganisationId": 27038,
-    "OrganisationKurz": "KfW IPEX-Bank",
+    "OrganisationKurz": "KfW",
     "Ort": "Frankfurt am Main",
     "PLZ": 60325,
     "Ressort": "BMF",
     "Telefax": "+49 69 7431-2944",
-    "Telefon": "+49 69 7431-0"
+    "Telefon": "+49 69 7431-0",
+    "Notiz": "Todo: check KfW / IPEX"
   },
   {
     "Adresse": "Jeanette-Wolff-Straße 11",
@@ -6748,7 +6881,9 @@
     "Ort": "Hannover",
     "PLZ": 30625,
     "Telefax": "+49 511 5350-155",
-    "Telefon": "+49 511 5350-0"
+    "Telefon": "+49 511 5350-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.12634",
@@ -6766,7 +6901,8 @@
     "PLZ": 65936,
     "Ressort": "BMF",
     "Telefax": "+49 69 50775-117",
-    "Telefon": "+49 69 50775-0"
+    "Telefon": "+49 69 50775-0",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Breitengrad": "52.558612",
@@ -6813,7 +6949,9 @@
     "Ort": "Sankt Augustin",
     "PLZ": 53754,
     "Telefax": "+49 2241 14-2080",
-    "Telefon": "+49 2241 14-2808"
+    "Telefon": "+49 2241 14-2808",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Schleusenweg 17",
@@ -6842,7 +6980,8 @@
     "PLZ": 6110,
     "Ressort": "BMF",
     "Telefax": "+49 228 303-20326",
-    "Telefon": "+49 228 303-20300"
+    "Telefon": "+49 228 303-20300",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "52.516181",
@@ -7017,7 +7156,9 @@
     "Ort": "Aachen",
     "PLZ": 52074,
     "Telefax": "+49 241 8906-121",
-    "Telefon": "+49 241 8906-0"
+    "Telefon": "+49 241 8906-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.931682",
@@ -7066,7 +7207,9 @@
     "Ort": "Dortmund",
     "PLZ": 44227,
     "Telefax": "+49 231 97677-199",
-    "Telefon": "+49 231 97677-0"
+    "Telefon": "+49 231 97677-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "53.5684656",
@@ -7281,7 +7424,9 @@
     "OrganisationKurz": "IMWS",
     "Ort": "Halle",
     "PLZ": 6120,
-    "Telefon": "+49 345 5589-0"
+    "Telefon": "+49 345 5589-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Scharnhorststraße 34 - 37",
@@ -7516,7 +7661,8 @@
     "PLZ": 40231,
     "Ressort": "BMF",
     "Telefax": "+49 211 2101-222",
-    "Telefon": "+49 211 2101-0"
+    "Telefon": "+49 211 2101-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.4318989",
@@ -7533,7 +7679,15 @@
     "Ort": "Berlin",
     "PLZ": 12489,
     "Telefax": "+49 30 6392-3003",
-    "Telefon": "+49 30 6392-3001"
+    "Telefon": "+49 30 6392-3001",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
+  },
+  {
+    "Organisation": "Lausitzer und Mitteldeutsche Bergbau-Verwaltungsgesellschaft mbH",
+    "Ressort": "BMF",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Breitengrad": "50.4228502",
@@ -7692,7 +7846,9 @@
     "Ort": "Würzburg",
     "PLZ": 97082,
     "Telefax": "+49 931 4100-199",
-    "Telefon": "+49 931 4100-0"
+    "Telefon": "+49 931 4100-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Gotlindestraße 91",
@@ -7722,6 +7878,13 @@
     "Ressort": "BMVg",
     "Telefax": "+49 931 9707-4111",
     "Telefon": "+49 931 9707-0"
+  },
+  {
+    "Organisation": "Wirtschaftliches Institut für Infrastruktur und Kommunikationsdienste",
+    "OrganisationKurz": "WIK",
+    "Ressort": "BMWE",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": "Sieversufer 24",
@@ -7798,7 +7961,9 @@
     "Ort": "Stuttgart",
     "PLZ": 70569,
     "Telefax": "+49 711 970-4200",
-    "Telefon": "+49 711 970-4001"
+    "Telefon": "+49 711 970-4001",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Joseph-von-Fraunhofer-Straße 1",
@@ -7856,7 +8021,8 @@
     "PLZ": 93055,
     "Ressort": "BMF",
     "Telefax": "+49 941 2086-1399",
-    "Telefon": "+49 941 2086-0"
+    "Telefon": "+49 941 2086-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Dachauer Straße 128",
@@ -8215,7 +8381,9 @@
     "OrganisationKurz": "IPMS",
     "Ort": "Dresden",
     "PLZ": 1109,
-    "Telefon": "+49 351 8823-0"
+    "Telefon": "+49 351 8823-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "53.575364",
@@ -8388,7 +8556,8 @@
     "PLZ": 1099,
     "Ressort": "BMF",
     "Telefax": "+49 351 2134-6111",
-    "Telefon": "+49 351 2134-6125"
+    "Telefon": "+49 351 2134-6125",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Breitengrad": "52.516181",
@@ -8421,7 +8590,9 @@
     "OrganisationKurz": "GFZ",
     "Ort": "Potsdam",
     "PLZ": 14473,
-    "Telefon": "+49 331 6264-0"
+    "Telefon": "+49 331 6264-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Adresse": "Karl-Heine-Straße 12",
@@ -8468,7 +8639,9 @@
     "Ort": "Karlsruhe",
     "PLZ": 76131,
     "Telefax": "+49 721 6091-413",
-    "Telefon": "+49 721 6091-0"
+    "Telefon": "+49 721 6091-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Seeburgstraße 5 - 9",
@@ -8539,7 +8712,8 @@
     "PLZ": 53113,
     "Ressort": "BMZ",
     "Telefax": "+49 228 20717-150",
-    "Telefon": "+49 228 20717-0"
+    "Telefon": "+49 228 20717-0",
+    "Kategorie": "Unternehmen"
   },
   {
     "Breitengrad": "49.0283743",
@@ -8555,7 +8729,9 @@
     "OrganisationKurz": "ISI",
     "Ort": "Karlsruhe",
     "PLZ": 76139,
-    "Telefon": "+49 721 6809-0"
+    "Telefon": "+49 721 6809-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Gerhart-Hauptmann-Allee 6a",
@@ -8872,7 +9048,9 @@
     "Ort": "Frankfurt am Main",
     "PLZ": 60431,
     "Telefax": "+49 69 9566-3077",
-    "Telefon": "+49 69 9566-0"
+    "Telefon": "+49 69 9566-0",
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "BBk"
   },
   {
     "Adresse": "Hüttenstraße 1b",
@@ -8903,7 +9081,8 @@
     "Ort": "München",
     "PLZ": 80636,
     "Telefax": "+49 89 1205-7531",
-    "Telefon": "+49 89 1205-0"
+    "Telefon": "+49 89 1205-0",
+    "Kategorie": "Fraunhofer-Institut"
   },
   {
     "Adresse": "Belower Damm 1",
@@ -8934,7 +9113,9 @@
     "Ort": "Saarbrücken",
     "PLZ": 66123,
     "Telefax": "+49 681 9302-5901",
-    "Telefon": "+49 681 9302-0"
+    "Telefon": "+49 681 9302-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Potsdamer Str. 5",
@@ -9047,7 +9228,8 @@
     "PLZ": 25524,
     "Ressort": "BMF",
     "Telefax": "+49 4821 902-200",
-    "Telefon": "+49 4821 902-0"
+    "Telefon": "+49 4821 902-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Flughafen Hamburg ",
@@ -9124,7 +9306,9 @@
     "Ort": "Halle",
     "PLZ": 6120,
     "Telefax": "+49 345 5582-1009",
-    "Telefon": "+49 345 5582-0"
+    "Telefon": "+49 345 5582-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "E.- C.- Baumann- Straße 20",
@@ -9218,6 +9402,12 @@
     "Telefon": "+49 721 56506-0"
   },
   {
+    "Organisation": "Stiftung ehemalige politische Häftlinge",
+    "OrganisationKurz": "StepH",
+    "Ressort": "BMI",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Breitengrad": "49.483899",
     "Bundesland": "Baden-Württemberg",
     "E-Mail": "info@bghw.de",
@@ -9298,7 +9488,8 @@
     "PLZ": 60528,
     "Ressort": "BMF",
     "Telefax": "+49 69 257829-4000",
-    "Telefon": "+49 69 257829-0"
+    "Telefon": "+49 69 257829-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "51.632526",
@@ -9547,7 +9738,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 3018 682-3260",
     "Telefon": "+49 3018 682-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "53.5885",
@@ -9579,7 +9771,9 @@
     "Ort": "Rostock",
     "PLZ": 18119,
     "Telefax": "+49 381 5197-440",
-    "Telefon": "+49 381 5197-0"
+    "Telefon": "+49 381 5197-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Rauchstraße 26",
@@ -9706,6 +9900,12 @@
     "Telefon": "+49 561 928-0"
   },
   {
+    "Organisation": "Stiftung Datenschutz",
+    "OrganisationDisplay": "Datenschutz",
+    "Ressort": "BMJV",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Adresse": "Gehlsheimer Straße  20",
     "Bundesland": "Mecklenburg-Vorpommern",
     "Internetadresse": "https://www.dzne.de/",
@@ -9734,7 +9934,8 @@
     "PLZ": 76137,
     "Ressort": "BMF",
     "Telefax": "+49 721 1833-1010",
-    "Telefon": "+49 721 1833-1"
+    "Telefon": "+49 721 1833-1",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Emser Straße 30a",
@@ -9893,7 +10094,9 @@
     "Ressort": "BMUKN",
     "Telefax": "+49 3018 305-3225",
     "Telefon": "+49 3018 305-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMUV",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Am Wissenschaftspark 31-33",
@@ -9938,7 +10141,9 @@
     "Ort": "Berlin",
     "PLZ": 13125,
     "Telefax": "+49 30 94739-109",
-    "Telefon": "+49 30 94793-100"
+    "Telefon": "+49 30 94793-100",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Franckeplatz 1",
@@ -10061,7 +10266,8 @@
     "PLZ": 78224,
     "Ressort": "BMF",
     "Telefax": "+49 7731 8205-1901",
-    "Telefon": "+49 7731 8205-0"
+    "Telefon": "+49 7731 8205-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "50.720174",
@@ -10080,7 +10286,9 @@
     "Ressort": "BMLEH",
     "Telefax": "+49 228 9 95 29-42 62",
     "Telefon": "+49 228 9 95 29-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMEL",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Bahnhofstraße 2",
@@ -10171,7 +10379,9 @@
     "Ort": "Itzehoe",
     "PLZ": 25524,
     "Telefax": "+49 4821 17-4250",
-    "Telefon": "+49 4821 17-0"
+    "Telefon": "+49 4821 17-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "54.3598445",
@@ -10282,7 +10492,9 @@
     "Ort": "Braunschweig",
     "PLZ": 38124,
     "Telefax": "+49 531 6181-2655",
-    "Telefon": "+49 531 6181-0"
+    "Telefon": "+49 531 6181-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.20538",
@@ -10299,7 +10511,9 @@
     "Ort": "Düsseldorf",
     "PLZ": 40225,
     "Telefax": "+49 211 31909-10",
-    "Telefon": "+49 211 3389-0"
+    "Telefon": "+49 211 3389-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Schanzenstraße 80",
@@ -10476,7 +10690,9 @@
     "Ort": "Magdeburg",
     "PLZ": 39118,
     "Telefax": "+49 391 6263-92419",
-    "Telefon": "+49 391 6263--92411"
+    "Telefon": "+49 391 6263--92411",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "54.351096",
@@ -10569,7 +10785,9 @@
     "Ort": "Duisburg",
     "PLZ": 47057,
     "Telefax": "+49 203 3783-266",
-    "Telefon": "+49 203 3783-130, -227"
+    "Telefon": "+49 203 3783-130, -227",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Heinrich-Hertz-Straße 2",
@@ -10615,6 +10833,7 @@
     "OrganisationKurz": "DRV Bund",
     "Ort": "Berlin",
     "PLZ": 10709,
+    "Ressort": "BMAS",
     "Telefax": "+49 30 865-27240",
     "Telefon": "+49 30 865-0"
   },
@@ -10663,7 +10882,9 @@
     "Ort": "Dresden",
     "PLZ": 1277,
     "Telefax": "+49 351 83391-3300",
-    "Telefon": "+49 351 83391-0"
+    "Telefon": "+49 351 83391-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": " ",
@@ -10762,7 +10983,8 @@
     "PLZ": 10969,
     "Ressort": "BMF",
     "Telefax": "+49 30 2598-2205",
-    "Telefon": "+49 30 2598-0"
+    "Telefon": "+49 30 2598-0",
+    "Kategorie": "Unternehmen"
   },
   {
     "Breitengrad": "48.7401498",
@@ -10778,7 +11000,9 @@
     "Ort": "Stuttgart",
     "PLZ": 70569,
     "Telefax": "+49 711 970-2508",
-    "Telefon": "+49 711 970-2500"
+    "Telefon": "+49 711 970-2500",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Schorndorfer Straße 58",
@@ -11016,7 +11240,8 @@
     "PLZ": 49082,
     "Ressort": "BMF",
     "Telefax": "+49 541 3301-1200",
-    "Telefon": "+49 541 3301-0"
+    "Telefon": "+49 541 3301-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Passower Chaussee 3 b",
@@ -11125,7 +11350,8 @@
     "PLZ": 80339,
     "Ressort": "BMF",
     "Telefax": "+49 89 5109-1180",
-    "Telefon": "+49 89 5109-02"
+    "Telefon": "+49 89 5109-02",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Adresse": "Frankfurter Straße 135",
@@ -11415,7 +11641,9 @@
     "Ort": "Darmstadt",
     "PLZ": 64289,
     "Telefax": "+49 6151 705-214",
-    "Telefon": "+49 6151 705-0"
+    "Telefon": "+49 6151 705-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Argelsrieder Feld 6",
@@ -11670,7 +11898,9 @@
     "Ort": "Hamburg",
     "PLZ": 20251,
     "Telefax": "+49 40 48051-103",
-    "Telefon": "+49 40 48051-0"
+    "Telefon": "+49 40 48051-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "48.129988",
@@ -11704,7 +11934,9 @@
     "Ort": "Wadern",
     "PLZ": 66687,
     "Telefax": "+49 6871 905-133",
-    "Telefon": "+49 6871 905-0"
+    "Telefon": "+49 6871 905-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Moltkering 9",
@@ -11850,7 +12082,9 @@
     "Ort": "Magdeburg",
     "PLZ": 39106,
     "Telefax": "+49 391 4090-596",
-    "Telefon": "+49 391 4090-0"
+    "Telefon": "+49 391 4090-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.395684",
@@ -11900,7 +12134,9 @@
     "Ort": "Sankt Augustin",
     "PLZ": 53754,
     "Telefax": "+49 2241 14-2460",
-    "Telefon": "+49 2241 14-2500"
+    "Telefon": "+49 2241 14-2500",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.626083",
@@ -11916,7 +12152,9 @@
     "Ort": "Berlin",
     "PLZ": 13125,
     "Telefax": "+49 30 949-4161",
-    "Telefon": "+49 30 9406-0"
+    "Telefon": "+49 30 9406-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.012463",
@@ -11933,9 +12171,7 @@
     "Ort": "Karlsruhe",
     "PLZ": 76131,
     "Telefax": "+49 721 9101-382",
-    "Telefon": "+49 721 9101-0",
-    "IstVerfassungsorgan": true,
-    "Ressort": "Verfassungsorgane"
+    "Telefon": "+49 721 9101-0"
   },
   {
     "Breitengrad": "52.534022",
@@ -11952,7 +12188,8 @@
     "Ort": "Berlin",
     "PLZ": 10115,
     "Ressort": "BKAmt",
-    "Telefon": "+49 30 4146457"
+    "Telefon": "+49 30 4146457",
+    "Kategorie": "Bundesoberbehörde"
   },
   {
     "Breitengrad": "49.4515385",
@@ -12035,7 +12272,9 @@
     "Ort": "Euskirchen",
     "PLZ": 53879,
     "Telefax": "+49 2251 18-277",
-    "Telefon": "+49 2251 18-0"
+    "Telefon": "+49 2251 18-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.9089944",
@@ -12051,7 +12290,9 @@
     "OrganisationKurz": "IPHT",
     "Ort": "Jena",
     "PLZ": 7745,
-    "Telefon": "+49 3641 206 00"
+    "Telefon": "+49 3641 206 00",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.856273",
@@ -12112,7 +12353,9 @@
     "Ort": "Berlin",
     "PLZ": 13355,
     "Telefax": "+49 304 6403-111",
-    "Telefon": "+49 304 6403-100"
+    "Telefon": "+49 304 6403-100",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.5062145",
@@ -12524,7 +12767,9 @@
     "Ort": "Potsdam",
     "PLZ": 14469,
     "Telefax": "+49 331 5699-849",
-    "Telefon": "+49 331 5699-0"
+    "Telefon": "+49 331 5699-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.5234286",
@@ -12684,7 +12929,9 @@
     "Ort": "Frankfurt (Oder)",
     "PLZ": 15236,
     "Telefax": "+49 335 5625-300",
-    "Telefon": "+49 335 5625-0"
+    "Telefon": "+49 335 5625-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.91435",
@@ -12748,7 +12995,9 @@
     "Ort": "Halle (Saale)",
     "PLZ": 6108,
     "Telefax": "+49 345 7753-820",
-    "Telefon": "+49 345 7753-60"
+    "Telefon": "+49 345 7753-60",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Behrenstraße 24",
@@ -12828,7 +13077,9 @@
     "Ort": "Darmstadt",
     "PLZ": 64295,
     "Telefax": "+49 6151 869-224",
-    "Telefon": "+49 6151 869-100"
+    "Telefon": "+49 6151 869-100",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Inhoffenstraße 7",
@@ -12921,7 +13172,8 @@
     "PLZ": 48155,
     "Ressort": "BMF",
     "Telefax": "+49 251 4814-1000",
-    "Telefon": "+49 251 4814-0"
+    "Telefon": "+49 251 4814-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": " ",
@@ -12963,7 +13215,8 @@
     "PLZ": 12439,
     "Ressort": "BMI",
     "Telefax": "+49 30 204561-3900",
-    "Telefon": "+49 30 91144-0"
+    "Telefon": "+49 30 91144-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "52.5170365",
@@ -13038,7 +13291,9 @@
     "Ort": "Aachen",
     "PLZ": 52074,
     "Telefax": "+49 241 8904-198",
-    "Telefon": "+49 241 8904-0"
+    "Telefon": "+49 241 8904-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Untermainkai 23 - 25",
@@ -13105,7 +13360,8 @@
     "PLZ": 64295,
     "Ressort": "BMF",
     "Telefax": "+49 6151 9180-1900",
-    "Telefon": "+49 6151 9180-0"
+    "Telefon": "+49 6151 9180-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "47.816553",
@@ -13153,8 +13409,10 @@
     "OrganisationId": 1692470,
     "Ort": "Bonn",
     "PLZ": 53113,
+    "Ressort": "BMZ",
     "Telefax": "+49 228 4460-1766",
-    "Telefon": "+49 228 4460-0"
+    "Telefon": "+49 228 4460-0",
+    "Kategorie": "Unternehmen"
   },
   {
     "Adresse": "Otto-Schmerbach-Straße 20",
@@ -13293,7 +13551,9 @@
     "Ort": "Dresden",
     "PLZ": 1277,
     "Telefax": "+49 351 2586-105",
-    "Telefon": "+49 351 2586-0"
+    "Telefon": "+49 351 2586-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Straße des 17. Juni 112",
@@ -13355,6 +13615,12 @@
     "Ort": "Hannover",
     "PLZ": 30167,
     "Telefon": "+49 511 762-2268"
+  },
+  {
+    "Organisation": "Fond zur Finanzierung der kerntechnischen Entsorgung",
+    "OrganisationKurz": "KENFO",
+    "Ressort": "BMWE",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Breitengrad": "53.540371",
@@ -13429,7 +13695,9 @@
     "OrganisationKurz": "UKRat",
     "Ort": "Berlin",
     "PLZ": 10559,
-    "Telefon": "+49 30 18 4711-1001"
+    "Telefon": "+49 30 18 4711-1001",
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "UKRat"
   },
   {
     "Adresse": "Pieperstraße 14 - 28",
@@ -13609,7 +13877,9 @@
     "OrganisationKurz": "FFB",
     "Ort": "Berlin",
     "PLZ": 10178,
-    "Telefon": "+49 89 1205-5013"
+    "Telefon": "+49 89 1205-5013",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.788921",
@@ -13627,7 +13897,8 @@
     "PLZ": 52068,
     "Ressort": "BMF",
     "Telefax": "+49 241 9091-1500",
-    "Telefon": "+49 241 9091-0"
+    "Telefon": "+49 241 9091-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.985328",
@@ -13791,7 +14062,9 @@
     "Ort": "Dortmund",
     "PLZ": 44139,
     "Telefax": "+49 231 1392-120",
-    "Telefon": "+49 231 1392-0"
+    "Telefon": "+49 231 1392-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Emsweg 23",
@@ -13863,7 +14136,9 @@
     "Ort": "Dresden",
     "PLZ": 1069,
     "Telefax": "+49 351 4640-803",
-    "Telefon": "+49 351 4640-801"
+    "Telefon": "+49 351 4640-801",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.134117",
@@ -13973,7 +14248,8 @@
     "PLZ": 10785,
     "Ressort": "BMI",
     "Telefax": "+49 30 417074-1190",
-    "Telefon": "+49 30 417074-0"
+    "Telefon": "+49 30 417074-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "50.3766999",
@@ -14078,7 +14354,9 @@
     "Ort": "Halle",
     "PLZ": 6120,
     "Telefax": "+49 345 2928-499",
-    "Telefon": "+49 345 2928-0"
+    "Telefon": "+49 345 2928-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Stauffenbergstraße 18",
@@ -14108,7 +14386,9 @@
     "Ort": "München",
     "PLZ": 80686,
     "Telefax": "+49 89 547088-220",
-    "Telefon": "+49 89 547088-0"
+    "Telefon": "+49 89 547088-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Robert-Schuman-Platz 1",
@@ -14170,7 +14450,9 @@
     "Ort": "Potsdam",
     "PLZ": 14406,
     "Telefax": "+49 331 568-3000",
-    "Telefon": "+49 331 568-10"
+    "Telefon": "+49 331 568-10",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Fichtestraße 2",
@@ -14199,7 +14481,9 @@
     "Ort": "Aachen",
     "PLZ": 52074,
     "Telefax": "+49 241 6085-10000",
-    "Telefon": "+49 241 6085-0"
+    "Telefon": "+49 241 6085-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.193237",
@@ -14234,7 +14518,8 @@
     "PLZ": 38106,
     "Ressort": "BMF",
     "Telefax": "+49 531 1291-9102",
-    "Telefon": "+49 531 1291-0"
+    "Telefon": "+49 531 1291-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Otto-von-Guericke-Straße 4",
@@ -14369,7 +14654,9 @@
     "Ort": "Bremen",
     "PLZ": 28359,
     "Telefax": "+49 421 23800-30",
-    "Telefon": "+49 421 23800-0"
+    "Telefon": "+49 421 23800-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.770549",
@@ -14386,7 +14673,8 @@
     "PLZ": 54292,
     "Ressort": "BMF",
     "Telefax": "+49 651 1448-1001",
-    "Telefon": "+49 651 1448-0"
+    "Telefon": "+49 651 1448-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Schönhauser Allee 120",
@@ -14433,7 +14721,9 @@
     "Ort": "Neuherberg",
     "PLZ": 85764,
     "Telefax": "+49 89 3187-3322",
-    "Telefon": "+49 89 3187-0"
+    "Telefon": "+49 89 3187-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Adresse": "Avenue des Nerviens 85, bte 9",
@@ -14476,7 +14766,9 @@
     "Ort": "Braunschweig",
     "PLZ": 38118,
     "Telefax": "+49 531 590 99 199",
-    "Telefon": "+49 531 590 99 0"
+    "Telefon": "+49 531 590 99 0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Av. Mariano Sanchez Fontecilla 310",
@@ -14517,7 +14809,9 @@
     "Ort": "Braunschweig",
     "PLZ": 38108,
     "Telefax": "+49 531 2155-900",
-    "Telefon": "+49 531 2155-0"
+    "Telefon": "+49 531 2155-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.10202",
@@ -14614,7 +14908,8 @@
     "PLZ": 60439,
     "Ressort": "BMF",
     "Telefax": "+49 69 25616-1476",
-    "Telefon": "+49 69 25616-0"
+    "Telefon": "+49 69 25616-0",
+    "Kategorie": "Unternehmen"
   },
   {
     "Adresse": "Werkstattstraße 102",
@@ -14854,7 +15149,8 @@
     "PLZ": 28217,
     "Ressort": "BMF",
     "Telefax": "+49 421 5154-1001",
-    "Telefon": "+49 421-5154-0"
+    "Telefon": "+49 421-5154-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "89, Av. de Cortenbergh ",
@@ -14897,9 +15193,7 @@
     "Ort": "Berlin",
     "PLZ": 11011,
     "Telefax": "+49 30 227-38283",
-    "Telefon": "+49 30 227-38100",
-    "IstVerfassungsorgan": false,
-    "Ressort": "Verfassungsorgane"
+    "Telefon": "+49 30 227-38100"
   },
   {
     "Breitengrad": "50.9260739",
@@ -14916,7 +15210,9 @@
     "Ort": "Köln",
     "PLZ": 50931,
     "Telefax": "+49 221 478-7102",
-    "Telefon": "+49 221 478-5600"
+    "Telefon": "+49 221 478-5600",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.2953245",
@@ -14934,7 +15230,8 @@
     "PLZ": 47807,
     "Ressort": "BMF",
     "Telefax": "+49 2151 850-18881",
-    "Telefon": "+49 2151 850-0"
+    "Telefon": "+49 2151 850-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Wallstraße 2",
@@ -14991,7 +15288,8 @@
     "PLZ": 30161,
     "Ressort": "BMF",
     "Telefax": "+49 511 33611-140",
-    "Telefon": "+49 511 33611-0"
+    "Telefon": "+49 511 33611-0",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Breitengrad": "52.509826",
@@ -15007,9 +15305,7 @@
     "OrganisationKurz": "BR",
     "Ort": "Berlin",
     "PLZ": 10117,
-    "Telefon": "+49 3018 9100-0",
-    "IstVerfassungsorgan": true,
-    "Ressort": "Verfassungsorgane"
+    "Telefon": "+49 3018 9100-0"
   },
   {
     "Breitengrad": "50.68725",
@@ -15060,7 +15356,9 @@
     "Ort": "Jena",
     "PLZ": 7745,
     "Telefax": "+49 3641 807-600",
-    "Telefon": "+49 3641 807-0"
+    "Telefon": "+49 3641 807-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Podbielskiallee 69 - 71",
@@ -15108,6 +15406,13 @@
     "Ressort": "BMVg",
     "Telefax": "+49 251 936-2455",
     "Telefon": "+49 251 936-2451"
+  },
+  {
+    "Organisation": "VEBEG GmbH",
+    "OrganisationKurz": "VEBEG",
+    "Ressort": "BMF",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Adresse": "Kirchberg 4",
@@ -15169,9 +15474,7 @@
     "OrganisationKurz": "TAB",
     "Ort": "Berlin",
     "PLZ": 10178,
-    "Telefon": "+49 30 28491-0",
-    "IstVerfassungsorgan": false,
-    "Ressort": "Verfassungsorgane"
+    "Telefon": "+49 30 28491-0"
   },
   {
     "Breitengrad": "53.0924341",
@@ -15206,7 +15509,8 @@
     "PLZ": 18439,
     "Ressort": "BMF",
     "Telefax": "+49 3831 356-1121",
-    "Telefon": "+49 3831 356-0"
+    "Telefon": "+49 3831 356-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.50517",
@@ -15250,10 +15554,13 @@
     "Organisation": "Germany Trade and Invest - Gesellschaft für Außenwirtschaft und Standortmarketing mbH",
     "OrganisationDisplay": "GTAI",
     "OrganisationId": 15884,
+    "OrganisationKurz": "GTAI",
     "Ort": "Berlin",
     "PLZ": 10117,
+    "Ressort": "BMWE",
     "Telefax": "+49 30 200099-111",
-    "Telefon": "+49 30 200099-0"
+    "Telefon": "+49 30 200099-0",
+    "Kategorie": "Unternehmen"
   },
   {
     "Breitengrad": "50.3766999",
@@ -15313,7 +15620,8 @@
     "PLZ": 20457,
     "Ressort": "BMF",
     "Telefax": "+49 228 303-97312",
-    "Telefon": "+49 40 80003-0"
+    "Telefon": "+49 40 80003-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.519244",
@@ -15330,9 +15638,7 @@
     "Ort": "Berlin",
     "PLZ": 11011,
     "Telefax": "+49 30 227-36878, +49 30 227-36979",
-    "Telefon": "+49 30 227-0",
-    "IstVerfassungsorgan": true,
-    "Ressort": "Verfassungsorgane"
+    "Telefon": "+49 30 227-0"
   },
   {
     "Adresse": "Fichtestraße 2",
@@ -15360,7 +15666,9 @@
     "Ort": "Erlangen",
     "PLZ": 91058,
     "Telefax": "+49 9131 776-2019",
-    "Telefon": "+49 9131 776-0"
+    "Telefon": "+49 9131 776-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.967168",
@@ -15737,7 +16045,9 @@
     "Ort": "Mannheim",
     "PLZ": 68159,
     "Telefax": "+49 621 1246-100",
-    "Telefon": "+49 621 1246-0"
+    "Telefon": "+49 621 1246-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "48.2629559",
@@ -15770,7 +16080,9 @@
     "Ort": "Göttingen",
     "PLZ": 37077,
     "Telefax": "+49 551 3851-228",
-    "Telefon": "+49 551 3851-0"
+    "Telefon": "+49 551 3851-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "53.825252",
@@ -15788,7 +16100,8 @@
     "PLZ": 23562,
     "Ressort": "BMI",
     "Telefax": "+49 451 49055-5121",
-    "Telefon": "+49 451 49055-0"
+    "Telefon": "+49 451 49055-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "52.514988",
@@ -15854,7 +16167,9 @@
     "Ort": "Bamberg",
     "PLZ": 96047,
     "Telefax": "+49 951 863-3411",
-    "Telefon": "+49 951 863-3400"
+    "Telefon": "+49 951 863-3400",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Niederkleiner Straße 21",
@@ -16007,7 +16322,9 @@
     "Ort": "Mannheim",
     "PLZ": 68161,
     "Telefax": "+49 621 1581-200",
-    "Telefon": "+49 621 1581-0"
+    "Telefon": "+49 621 1581-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Frachtstraße 10 Alte Fracht",
@@ -16078,7 +16395,8 @@
     "PLZ": 99096,
     "Ressort": "BMF",
     "Telefax": "+49 361 60176-910",
-    "Telefon": "+49 361 60176-0"
+    "Telefon": "+49 361 60176-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "51.252797",
@@ -16341,7 +16659,9 @@
     "Ort": "Potsdam",
     "PLZ": 14482,
     "Telefax": "+49 331 7499-200",
-    "Telefon": "+49 331 7499-0"
+    "Telefon": "+49 331 7499-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.34886",
@@ -16549,6 +16869,13 @@
     "Telefon": "+49 711 55040-0"
   },
   {
+    "Organisation": "DigitalService GmbH des Bundes",
+    "OrganisationKurz": "DigitalService",
+    "Ressort": "BMI",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Breitengrad": "52.523461",
     "Bundesland": "Berlin",
     "E-Mail": "info@ffa.de",
@@ -16579,7 +16906,9 @@
     "Ort": "Dresden",
     "PLZ": 1099,
     "Telefax": "+49 351 2607-3005",
-    "Telefon": "+49 351 2607-3001"
+    "Telefon": "+49 351 2607-3001",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Heisterbergallee 12",
@@ -16651,7 +16980,9 @@
     "Ort": "Erlangen",
     "PLZ": 91058,
     "Telefax": "+49 9131 761-390",
-    "Telefon": "+49 9131 761-0"
+    "Telefon": "+49 9131 761-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.11552",
@@ -16861,7 +17192,9 @@
     "Ort": "Frankfurt am Main",
     "PLZ": 60323,
     "Telefax": "+49 69 24708-444",
-    "Telefon": "+49 69 24708-0"
+    "Telefon": "+49 69 24708-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.6956918",
@@ -16919,7 +17252,9 @@
     "Ort": "Kühlungsborn",
     "PLZ": 18225,
     "Telefax": "+49 38293 68-50",
-    "Telefon": "+49 38293 68-0"
+    "Telefon": "+49 38293 68-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.4893214",
@@ -16935,7 +17270,9 @@
     "OrganisationKurz": "DBM",
     "Ort": "Bochum",
     "PLZ": 44791,
-    "Telefon": "+49 234 5877-0"
+    "Telefon": "+49 234 5877-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Hohendodeleber Weg 65",
@@ -17026,7 +17363,9 @@
     "Ort": "Geesthacht",
     "PLZ": 21502,
     "Telefax": "+49 4152 87-1403",
-    "Telefon": "+49 4152 87-0"
+    "Telefon": "+49 4152 87-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.238196",
@@ -17061,7 +17400,8 @@
     "PLZ": 22143,
     "Ressort": "BMF",
     "Telefax": "+49 40 67571-201",
-    "Telefon": "+49 40 67571-0"
+    "Telefon": "+49 40 67571-0",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Adresse": "Frankenstraße  208",
@@ -17316,7 +17656,9 @@
     "Ort": "Stuttgart",
     "PLZ": 70569,
     "Telefax": "+49 711 970-2299",
-    "Telefon": "+49 711 970-2124"
+    "Telefon": "+49 711 970-2124",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.512504",
@@ -17335,7 +17677,9 @@
     "Ressort": "BMJV",
     "Telefax": "+49 3018 580-9525",
     "Telefon": "+49 3018 580-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMJ",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "52.484446",
@@ -17392,7 +17736,9 @@
     "Ort": "Braunschweig",
     "PLZ": 38108,
     "Telefax": "+49 531 351 587",
-    "Telefon": "+49 531 2155-0"
+    "Telefon": "+49 531 2155-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.3958677",
@@ -17440,7 +17786,8 @@
     "PLZ": 45128,
     "Ressort": "BMF",
     "Telefax": "+49 201 1028-1190",
-    "Telefon": "+49 201 1028-0"
+    "Telefon": "+49 201 1028-0",
+    "Kategorie": "Zollfahndungsamt"
   },
   {
     "Adresse": "Plessower Hauptstraße 17",
@@ -17485,7 +17832,8 @@
     "Ort": "Köln",
     "PLZ": 50825,
     "Ressort": "BMF",
-    "Telefon": "+49 221 9413-0"
+    "Telefon": "+49 221 9413-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.449646",
@@ -17502,7 +17850,9 @@
     "Ort": "Berlin",
     "PLZ": 12587,
     "Telefax": "+49 30 64181-600",
-    "Telefon": "+49 30 64181-5"
+    "Telefon": "+49 30 64181-5",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Westtangente 201a",
@@ -17561,7 +17911,9 @@
     "Ort": "Frankfurt am Main",
     "PLZ": 60329,
     "Telefax": "+49 69 558481",
-    "Telefon": "+49 69 959104-0"
+    "Telefon": "+49 69 959104-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "48.144955",
@@ -17653,7 +18005,9 @@
     "Ort": "Freiburg",
     "PLZ": 79110,
     "Telefax": "+49 761-4588-9000",
-    "Telefon": "+49 761 4588-0"
+    "Telefon": "+49 761 4588-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Schlierbacher Landstraße 190",
@@ -17788,7 +18142,9 @@
     "Ort": "Sulzbach",
     "PLZ": 66280,
     "Telefax": "+49 6897 9071-490",
-    "Telefon": "+49 6897 9071-0"
+    "Telefon": "+49 6897 9071-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Gardeschützenweg 71 - 101",
@@ -17854,7 +18210,9 @@
     "Ort": "Dresden",
     "PLZ": 1069,
     "Telefax": "+49 351 4659-540",
-    "Telefon": "+49 351 4659-0"
+    "Telefon": "+49 351 4659-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Wiener Platz 6",
@@ -17949,7 +18307,9 @@
     "Ort": "Leipzig",
     "PLZ": 4318,
     "Telefax": "+49 341 2717 99 7060",
-    "Telefon": "+49 341 2717-7060"
+    "Telefon": "+49 341 2717-7060",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "48.3951914",
@@ -17965,7 +18325,9 @@
     "Ort": "Freising",
     "PLZ": 85354,
     "Telefax": "+49 816 1491-491",
-    "Telefon": "+49 816 1491-0"
+    "Telefon": "+49 816 1491-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Koblenzer Straße / Am Hafen ",
@@ -18132,7 +18494,8 @@
     "PLZ": 14473,
     "Ressort": "BMI",
     "Telefax": "+49 331 97997-1010",
-    "Telefon": "+49 331 97997-0"
+    "Telefon": "+49 331 97997-0",
+    "Kategorie": "Bundesoberbehörde"
   },
   {
     "Breitengrad": "48.211017",
@@ -18166,7 +18529,9 @@
     "Ort": "Berlin",
     "PLZ": 10115,
     "Telefax": "+49 30 889140-8561",
-    "Telefon": "+49 30 889140-8591"
+    "Telefon": "+49 30 889140-8591",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.061029",
@@ -18183,7 +18548,9 @@
     "Ort": "Dresden",
     "PLZ": 1328,
     "Telefax": "+49 351 269-0461",
-    "Telefon": "+49 351 260-0"
+    "Telefon": "+49 351 260-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.08659",
@@ -18216,7 +18583,9 @@
     "Ort": "Leipzig",
     "PLZ": 4318,
     "Telefax": "+49 341 235-1388",
-    "Telefon": "+49 341 235-1800"
+    "Telefon": "+49 341 235-1800",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Adresse": "Bronnbach 28",
@@ -18316,7 +18685,9 @@
     "Ort": "Kiel",
     "PLZ": 24105,
     "Ressort": "BMFTR",
-    "Telefon": "+49 431 8814-555"
+    "Telefon": "+49 431 8814-555",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.7489605",
@@ -18333,7 +18704,9 @@
     "Ort": "Sankt Augustin",
     "PLZ": 53754,
     "Ressort": "BMFTR",
-    "Telefon": "+49 224114-0"
+    "Telefon": "+49 224114-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.5251433",
@@ -18486,7 +18859,9 @@
     "Ort": "Greifswald",
     "PLZ": 17489,
     "Telefax": "+49 3834 554-301",
-    "Telefon": "+49 3834 554-300"
+    "Telefon": "+49 3834 554-300",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "53.591843",
@@ -18616,7 +18991,9 @@
     "Ort": "Freising",
     "PLZ": 85354,
     "Telefax": "+49 8161 71-2970",
-    "Telefon": "+49 81 6171-2980"
+    "Telefon": "+49 81 6171-2980",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.9325355",
@@ -18692,7 +19069,8 @@
     "PLZ": 90461,
     "Ressort": "BMF",
     "Telefax": "+49 911 9463-1199",
-    "Telefon": "+49 911 9463-0"
+    "Telefon": "+49 911 9463-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.2738",
@@ -18776,7 +19154,8 @@
     "PLZ": 86150,
     "Ressort": "BMF",
     "Telefax": "+49 228 303-98150",
-    "Telefon": "+49 821 5012-0"
+    "Telefon": "+49 821 5012-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "52.530786",
@@ -18811,7 +19190,9 @@
     "Ort": "Leipzig",
     "PLZ": 4103,
     "Telefax": "+49 341 35536-8-1000",
-    "Telefon": "+49 341 35536-1000"
+    "Telefon": "+49 341 35536-1000",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Dr.-Hans-Frisch-Straße 4",
@@ -18901,7 +19282,9 @@
     "Ort": "Berlin",
     "PLZ": 10587,
     "Telefax": "+49 30 39110-37",
-    "Telefon": "+49 30 39006-0"
+    "Telefon": "+49 30 39006-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.96926",
@@ -19085,7 +19468,9 @@
     "Ort": "Berlin",
     "PLZ": 14109,
     "Telefax": "+49 30 8062-42181",
-    "Telefon": "+49 30 8062-0"
+    "Telefon": "+49 30 8062-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Adresse": "Am Hafen 4",
@@ -19116,7 +19501,9 @@
     "Ort": "Leipzig",
     "PLZ": 4109,
     "Telefax": "+49 341 231039-153",
-    "Telefon": "+49 341 231039-153"
+    "Telefon": "+49 341 231039-153",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Am Hafen 1",
@@ -19193,7 +19580,8 @@
     "PLZ": 71034,
     "Ressort": "BMI",
     "Telefax": "+49 7031 2128-1170",
-    "Telefon": "+49 7031 2128-0"
+    "Telefon": "+49 7031 2128-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "53.547075",
@@ -19451,7 +19839,9 @@
     "OrganisationKurz": "IPA",
     "Ort": "Stuttgart",
     "PLZ": 70569,
-    "Telefon": "+49 711 970-1800"
+    "Telefon": "+49 711 970-1800",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Wilhelm-Fay-Straße 11",
@@ -19482,7 +19872,9 @@
     "Ort": "Hamburg",
     "PLZ": 20354,
     "Telefax": "+49 40 42825-547",
-    "Telefon": "+49 40 42825-593"
+    "Telefon": "+49 40 42825-593",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Bundesallee 216-218",
@@ -19602,7 +19994,9 @@
     "Ort": "Sankt Augustin",
     "PLZ": 53754,
     "Telefax": "+49 2241 14-43000",
-    "Telefon": "+49 2241 14-3000"
+    "Telefon": "+49 2241 14-3000",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.7408547",
@@ -19651,7 +20045,9 @@
     "Ort": "Bonn",
     "PLZ": 53175,
     "Telefax": "+49 228 3294-399",
-    "Telefon": "+49 228 3294-0"
+    "Telefon": "+49 228 3294-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Hoverskamp 33",
@@ -19681,7 +20077,9 @@
     "Ort": "Oberhausen",
     "PLZ": 46047,
     "Telefax": "+49 208 8598-1290",
-    "Telefon": "+49 208 8598-0"
+    "Telefon": "+49 208 8598-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.328122",
@@ -19740,7 +20138,9 @@
     "Ort": "Essen",
     "PLZ": 45128,
     "Telefax": "+49 201 8149-200",
-    "Telefon": "+49 201 8149-0"
+    "Telefon": "+49 201 8149-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Wilhelm-Epstein-Straße 14",
@@ -19839,7 +20239,8 @@
     "Ort": "Bonn",
     "PLZ": 53121,
     "Ressort": "BMF",
-    "Telefon": "+49 228 303-0"
+    "Telefon": "+49 228 303-0",
+    "Kategorie": "Bundesoberbehörde"
   },
   {
     "Breitengrad": "48.092631",
@@ -19963,7 +20364,8 @@
     "PLZ": 47051,
     "Ressort": "BMF",
     "Telefax": "+49 203 7134-111",
-    "Telefon": "+49 203 7134-0"
+    "Telefon": "+49 203 7134-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Königsbrücker Landstraße 159",
@@ -20009,7 +20411,9 @@
     "PLZ": 30179,
     "Ressort": "BMUKN",
     "Telefax": "+49 511 34842-41",
-    "Telefon": "+49 511 34842-0"
+    "Telefon": "+49 511 34842-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.41972",
@@ -20061,7 +20465,8 @@
     "PLZ": 34233,
     "Ressort": "BMI",
     "Telefax": "+49 561 9367-1163",
-    "Telefon": "+49 561 9367-0"
+    "Telefon": "+49 561 9367-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "49.3182585",
@@ -20190,7 +20595,9 @@
     "Ort": "Berlin",
     "PLZ": 10315,
     "Telefax": "+49 30 5126 104",
-    "Telefon": "+49 30 5168-0"
+    "Telefon": "+49 30 5168-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "49.9962814",
@@ -20225,7 +20632,9 @@
     "PLZ": 27570,
     "Ressort": "BMFTR",
     "Telefax": "+49 471 4831-1149",
-    "Telefon": "+49 471 4831-0"
+    "Telefon": "+49 471 4831-0",
+    "Kategorie": "Helmholtz",
+    "Versteckt": true
   },
   {
     "Adresse": "Alter Uentroper Weg 2",
@@ -20297,7 +20706,9 @@
     "Ort": "Dresden",
     "PLZ": 1069,
     "Telefax": "+49 351-4658-284",
-    "Telefon": "+49 351-4658-0"
+    "Telefon": "+49 351-4658-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Forschungsinstitute ",
@@ -20691,7 +21102,9 @@
     "OrganisationKurz": "ICT",
     "Ort": "Pfinztal",
     "PLZ": 76327,
-    "Telefon": "+49 721 4640-0"
+    "Telefon": "+49 721 4640-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Winzererstraße 52",
@@ -21147,6 +21560,13 @@
     "Telefon": "+49 33843 624-0"
   },
   {
+    "Organisation": "Entsorgungswerk für Nuklearanlagen GmbH",
+    "OrganisationKurz": "EWN",
+    "Ressort": "BMF",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Breitengrad": "50.897731",
     "Bundesland": "Nordrhein-Westfalen",
     "E-Mail": "kgst@kgst.de",
@@ -21318,7 +21738,9 @@
     "PLZ": 10117,
     "Ressort": "BMBFSFJ",
     "Telefon": "+49 30 20 17 91 30",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMFSFJ",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Richard-Strauss-Allee 11",
@@ -21349,7 +21771,9 @@
     "Ort": "Saarbrücken",
     "PLZ": 66123,
     "Telefax": "+49 681 9300-223",
-    "Telefon": "+49 681 9300-0"
+    "Telefon": "+49 681 9300-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "53.0547111",
@@ -21419,7 +21843,8 @@
     "PLZ": 60549,
     "Ressort": "BMI",
     "Telefax": "+49 30 204 561-4160",
-    "Telefon": "+49 69 6800-0"
+    "Telefon": "+49 69 6800-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Breitengrad": "52.0773617",
@@ -21456,7 +21881,8 @@
     "Ressort": "BMVg",
     "Telefax": "+49 228 9924-45754",
     "Telefon": "+49 228 9924-00",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "48.156829",
@@ -21474,7 +21900,8 @@
     "PLZ": 80797,
     "Ressort": "BMI",
     "Telefax": "+49 89 12149-1199",
-    "Telefon": "+49 89 12149-0"
+    "Telefon": "+49 89 12149-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Dittrichring 24",
@@ -21659,7 +22086,9 @@
     "Ort": "Teltow",
     "PLZ": 14513,
     "Telefax": "+49 3328 330-282",
-    "Telefon": "+49 3328 330-280"
+    "Telefon": "+49 3328 330-280",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.4323082",
@@ -21692,7 +22121,9 @@
     "Ort": "Berlin",
     "PLZ": 10589,
     "Telefax": "+49 30 3463-8000",
-    "Telefon": "+49 30 3463-7000"
+    "Telefon": "+49 30 3463-7000",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.487289",
@@ -21740,7 +22171,9 @@
     "Ort": "Bremen",
     "PLZ": 28359,
     "Telefax": "+49 421 2246-300",
-    "Telefon": "+49 421 2246-0"
+    "Telefon": "+49 421 2246-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.317917",
@@ -21827,7 +22260,9 @@
     "Ort": "Berlin",
     "PLZ": 10117,
     "Telefax": "+49 30 20377-515",
-    "Telefon": "+49 30 20377-481"
+    "Telefon": "+49 30 20377-481",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Khiaban-e Shahid Akbari 9",
@@ -21996,7 +22431,9 @@
     "Ort": "Freiburg",
     "PLZ": 79108,
     "Telefax": "+49 761 5159-400",
-    "Telefon": "+49 761 5159-0"
+    "Telefon": "+49 761 5159-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "48.0009775",
@@ -22012,7 +22449,9 @@
     "Ort": "Freiburg",
     "PLZ": 79104,
     "Telefax": "+49 761 2714-316",
-    "Telefon": "+49 761 2714-0"
+    "Telefon": "+49 761 2714-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Schaper Str. 24",
@@ -22182,7 +22621,9 @@
     "OrganisationKurz": "IWU",
     "Ort": "Chemnitz",
     "PLZ": 9126,
-    "Telefon": "+49 371 5397-0"
+    "Telefon": "+49 371 5397-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.508617",
@@ -22247,7 +22688,9 @@
     "Ort": "Leipzig",
     "PLZ": 4328,
     "Telefax": "+49 341600 55-198",
-    "Telefon": "+49 341 600 55-0"
+    "Telefon": "+49 341 600 55-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Im Rehhagen 12",
@@ -22357,7 +22800,9 @@
     "Ort": "München",
     "PLZ": 81679,
     "Telefax": "+49 89 985369",
-    "Telefon": "+49 89 9224-0"
+    "Telefon": "+49 89 9224-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.4191927",
@@ -22403,7 +22848,9 @@
     "Ort": "Berlin",
     "PLZ": 12489,
     "Telefax": "+49 30 6392-2602",
-    "Telefon": "+49 30 6392-2600"
+    "Telefon": "+49 30 6392-2600",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.8092704",
@@ -22420,7 +22867,9 @@
     "Ort": "Marburg",
     "PLZ": 35037,
     "Telefax": "+49 6421 184-139",
-    "Telefon": "+49 6421 184-0"
+    "Telefon": "+49 6421 184-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Dörnbergstraße  25 u. 27",
@@ -22514,7 +22963,9 @@
     "Ort": "Berlin",
     "PLZ": 10117,
     "Telefax": "+49 30 1 82 72-25 55",
-    "Telefon": "+49 30 1 82 72-0"
+    "Telefon": "+49 30 1 82 72-0",
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "BPA"
   },
   {
     "Adresse": "Pillnitzer Platz 3a",
@@ -22714,7 +23165,8 @@
     "Ort": "Hannover",
     "PLZ": 30179,
     "Ressort": "BMF",
-    "Telefon": "+49 511 5469-9100"
+    "Telefon": "+49 511 5469-9100",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "August-Baudert-Platz  4",
@@ -22745,7 +23197,9 @@
     "Ort": "Leipzig",
     "PLZ": 4318,
     "Telefax": "+49 341 235-2313",
-    "Telefon": "+49 341 235-2308"
+    "Telefon": "+49 341 235-2308",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Ihlenfelder Straße 112 - 114",
@@ -23019,7 +23473,8 @@
     "PLZ": 44141,
     "Ressort": "BMF",
     "Telefax": "+49 231 9571-1999",
-    "Telefon": "+49 231 9571-0"
+    "Telefon": "+49 231 9571-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "An der Maxhütte 1",
@@ -23100,8 +23555,8 @@
     "Ort": "Bonn",
     "PLZ": 53113,
     "Telefon": "+49 228 99 721-0",
-    "IstVerfassungsorgan": true,
-    "Ressort": "Verfassungsorgane"
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "BRH"
   },
   {
     "Breitengrad": "50.695481",
@@ -23180,7 +23635,9 @@
     "Ort": "Freiburg",
     "PLZ": 79108,
     "Telefax": "+49 761 5142-510",
-    "Telefon": "+49 761 5142-0"
+    "Telefon": "+49 761 5142-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.37486",
@@ -23286,7 +23743,8 @@
     "PLZ": 80333,
     "Ressort": "BMF",
     "Telefax": "+49 89 5995-2488",
-    "Telefon": "+49 89 5995-00"
+    "Telefon": "+49 89 5995-00",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "DGZ-Ring 12",
@@ -23316,7 +23774,8 @@
     "Ort": "Bonn",
     "PLZ": 53175,
     "Telefax": "+49 228 30818-30",
-    "Telefon": "+49 228 30818-0"
+    "Telefon": "+49 228 30818-0",
+    "Kategorie": "Helmholtz"
   },
   {
     "Adresse": "Av. de. Cortenbergh 172",
@@ -23502,7 +23961,8 @@
     "Ressort": "BKAmt",
     "Telefax": "+49 3018 400-2357",
     "Telefon": "+49 3018 400-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Breitengrad": "48.5090439",
@@ -23519,7 +23979,9 @@
     "Ort": "Tübingen",
     "PLZ": 72076,
     "Telefax": "+49 7071 979-100",
-    "Telefon": "+49 7071 979-0"
+    "Telefon": "+49 7071 979-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "50.94456",
@@ -23584,8 +24046,8 @@
     "Ort": "Berlin",
     "PLZ": 11055,
     "Telefon": "+49 30 189100-0",
-    "IstVerfassungsorgan": false,
-    "Ressort": "Verfassungsorgane"
+    "Kategorie": "Oberste Bundesbehörde",
+    "Ressort": "ORG_18000594"
   },
   {
     "Adresse": "Am Hafen 8",
@@ -23861,6 +24323,13 @@
     "Telefon": "+49 731 1690-3060"
   },
   {
+    "Organisation": "Uniper Beteiligungsholding GmbH",
+    "OrganisationKurz": "UBG",
+    "Ressort": "BMF",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Adresse": "Am Eiderdeich 20",
     "Bundesland": "Schleswig-Holstein",
     "Internetadresse": "https://www.wsa-elbe-nordsee.wsv.de/Webs/WSA/Elbe-Nordsee/DE/0_Startseite/startseite_node.html",
@@ -23903,7 +24372,9 @@
     "Ort": "Dresden",
     "PLZ": 1277,
     "Telefax": "+49 351 2553-600",
-    "Telefon": "+49 351 2553-700"
+    "Telefon": "+49 351 2553-700",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Am DFS-Campus 2",
@@ -23997,7 +24468,8 @@
     "PLZ": 56072,
     "Ressort": "BMF",
     "Telefax": "+49 261 98376-1010",
-    "Telefon": "+49 261 98376-0"
+    "Telefon": "+49 261 98376-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "50.726765",
@@ -24014,7 +24486,9 @@
     "Ort": "Bonn",
     "PLZ": 53113,
     "Telefax": "+49 228 9122-212",
-    "Telefon": "+49 228 9122-0"
+    "Telefon": "+49 228 9122-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Grellstraße 24",
@@ -24447,7 +24921,8 @@
     "PLZ": 33602,
     "Ressort": "BMF",
     "Telefax": "+49 521 3047-9010",
-    "Telefon": "+49 521 3047-0"
+    "Telefon": "+49 521 3047-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "53.1001433",
@@ -24464,7 +24939,9 @@
     "Ort": "Bremen",
     "PLZ": 28359,
     "Telefax": "+49 421 218-569 41",
-    "Telefon": "+49 421 218-567 50"
+    "Telefon": "+49 421 218-567 50",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "51.0190192",
@@ -24511,7 +24988,8 @@
     "Ort": "Gießen",
     "PLZ": 35394,
     "Ressort": "BMF",
-    "Telefon": "+49 641 4959-0"
+    "Telefon": "+49 641 4959-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Adresse": "Herschelstraße 3",
@@ -24544,6 +25022,12 @@
     "Ressort": "BKM",
     "Telefax": "+49 4104 9771-14",
     "Telefon": "+49 4104 9771-0"
+  },
+  {
+    "Organisation": "Bundesanstalt Immobilienaufgaben",
+    "OrganisationKurz": "BImA",
+    "Ressort": "BMF",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Breitengrad": "52.515229",
@@ -24731,6 +25215,12 @@
     "Telefon": "+49 431 667248-6970"
   },
   {
+    "Organisation": "Wismut GmbH",
+    "Ressort": "BMWE",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
+  },
+  {
     "Adresse": "Am Eiderdeich 20",
     "Bundesland": "Schleswig-Holstein",
     "Internetadresse": "https://www.wsa-elbe-nordsee.wsv.de/Webs/WSA/Elbe-Nordsee/DE/0_Startseite/startseite_node.html",
@@ -24799,7 +25289,8 @@
     "PLZ": 24116,
     "Ressort": "BMF",
     "Telefax": "+49 431 20083-1150",
-    "Telefon": "+49 431 20083-0"
+    "Telefon": "+49 431 20083-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "47.9176868",
@@ -24985,7 +25476,9 @@
     "OrganisationKurz": "RGZM",
     "Ort": "Mainz",
     "PLZ": 55116,
-    "Telefon": "+49 6131 8885-0"
+    "Telefon": "+49 6131 8885-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Brückstraße 3a",
@@ -25181,7 +25674,9 @@
     "Ressort": "BMV",
     "Telefax": "+49 3018 300-1942",
     "Telefon": "+49 3018 300-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "OrganisationKurzAlt": "BMDV",
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "DGZ-Ring 12",
@@ -25210,6 +25705,13 @@
     "PLZ": 10785,
     "Ressort": "BKM",
     "Telefon": "+49 30 18 681-43134"
+  },
+  {
+    "Organisation": "Securing Energy for Europe GmbH",
+    "OrganisationKurz": "SEEHG",
+    "Ressort": "BMWE",
+    "Kategorie": "Unternehmen",
+    "Quelle": "WD-3-3000-118/24"
   },
   {
     "Breitengrad": "52.515574",
@@ -25345,6 +25847,7 @@
     "OrganisationKurz": "DRV KBS",
     "Ort": "Bochum",
     "PLZ": 44789,
+    "Ressort": "BMAS",
     "Telefax": "+49 234 304-66050",
     "Telefon": "+49 234 304-0"
   },
@@ -25395,7 +25898,8 @@
     "PLZ": 10965,
     "Ressort": "BMF",
     "Telefax": "+49 30 69009-6209",
-    "Telefon": "+49 30 69009-0"
+    "Telefon": "+49 30 69009-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "48.1453993",
@@ -25431,7 +25935,8 @@
     "PLZ": 53757,
     "Ressort": "BMI",
     "Telefax": "+49 2241 238-1199",
-    "Telefon": "+49 2241 238-0"
+    "Telefon": "+49 2241 238-0",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Wilhelm-Raabe-Straße 46",
@@ -25535,7 +26040,8 @@
     "Ressort": "BMAS",
     "Telefax": "+49 3018 527-1830",
     "Telefon": "+49 3018 527-0",
-    "IstRessort": true
+    "IstRessort": true,
+    "Kategorie": "Oberste Bundesbehörde"
   },
   {
     "Adresse": "Hüttenstraße 14",
@@ -25714,7 +26220,8 @@
     "PLZ": 1796,
     "Ressort": "BMI",
     "Telefax": "+49 30 204561-3650",
-    "Telefon": "+49 3501 795-60"
+    "Telefon": "+49 3501 795-60",
+    "Kategorie": "Bundesmittelbehörde"
   },
   {
     "Adresse": "Schützenberg 12",
@@ -25793,7 +26300,8 @@
     "PLZ": 83022,
     "Ressort": "BMF",
     "Telefax": "+49 8031 3006-9911",
-    "Telefon": "+49 8031 3006-0"
+    "Telefon": "+49 8031 3006-0",
+    "Kategorie": "Hauptzollamt"
   },
   {
     "Breitengrad": "50.6833665",
@@ -25810,7 +26318,9 @@
     "Ort": "Ilmenau",
     "PLZ": 98693,
     "Telefax": "+49 3677 467-467",
-    "Telefon": "+49 3677 467-0"
+    "Telefon": "+49 3677 467-0",
+    "Kategorie": "Fraunhofer-Institut",
+    "Versteckt": true
   },
   {
     "Breitengrad": "52.516365",
@@ -25827,7 +26337,9 @@
     "Ort": "Müncheberg",
     "PLZ": 15374,
     "Telefax": "+49 33432 82-212",
-    "Telefon": "+49 33432 82-0"
+    "Telefon": "+49 33432 82-0",
+    "Kategorie": "Leibniz-Institut",
+    "Versteckt": true
   },
   {
     "Adresse": "Am Allerufer 5",
