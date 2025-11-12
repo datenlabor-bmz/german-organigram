@@ -25,17 +25,20 @@ export default function Home() {
                                     className="group inline-flex flex-wrap items-center gap-x-1.5 sm:gap-x-2 gap-y-0 transition-all duration-200 cursor-pointer bg-transparent border-none p-0 text-left"
                                     aria-label="Reset filters and return to home view"
                                 >
+                                    <span className="text-2xl sm:text-4xl lg:text-5xl font-normal text-foreground group-hover:text-blue-600 transition-colors leading-tight whitespace-nowrap">
+                                        Organigramm der
+                                    </span>
                                     <span className="text-2xl sm:text-4xl lg:text-5xl font-bold text-foreground group-hover:text-blue-600 transition-colors leading-tight whitespace-nowrap">
                                         Bundesregierung
-                                    </span>
-                                    <span className="text-2xl sm:text-4xl lg:text-5xl font-normal text-foreground group-hover:text-blue-600 transition-colors leading-tight whitespace-nowrap">
-                                        Organigramm
                                     </span>
                                 </button>
                             </h1>
                         </div>
                         <p className="text-gray-600 text-base sm:text-base lg:text-lg leading-snug sm:leading-relaxed">
                             Übersicht der Behörden und Einrichtungen der deutschen Bundesregierung.
+                        </p>
+                        <p className="text-gray-600 text-base sm:text-base lg:text-lg leading-snug sm:leading-relaxed">
+                            Dies ist eine experimentelle Website des BMZ-Datenlabors und <b>keine offizielle Website der Bundesregierung</b>.
                         </p>
                     </div>
                     <Suspense fallback={<div className="min-h-screen"></div>}>
