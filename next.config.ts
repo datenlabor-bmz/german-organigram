@@ -3,8 +3,8 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: '', // Explicitly set to empty string for root deployment
-  assetPrefix: '', // Explicitly set to empty string for root deployment
+  basePath: '/german-organigram',
+  assetPrefix: '/german-organigram',
   images: {
     unoptimized: true
   },
