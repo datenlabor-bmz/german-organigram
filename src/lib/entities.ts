@@ -29,7 +29,8 @@ const loadBudgetData = async () => {
     if (csvBudgetData) return csvBudgetData;
 
     try {
-        const response = await fetch('/HH_2025.csv');
+        const basePath = process.env.NODE_ENV === 'production' ? '/german-organigram' : '';
+        const response = await fetch(`${basePath}/HH_2025.csv`);
         const csvText = await response.text();
         const lines = csvText.split('\n').slice(1); // Skip header
 
