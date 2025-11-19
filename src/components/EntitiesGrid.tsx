@@ -7,13 +7,31 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
 import BudgetTreemap from './BudgetTreemap';
 
+// Centralized category order - used for both legend display and sorting
+const KATEGORIE_ORDER = [
+    'Oberste Bundesbehörde',
+    'Bundesoberbehörde',
+    'Bundesmittelbehörde',
+    'Bundesunterbehörde',
+    'Bundesagentur',
+    'Beauftragter',
+    'Unternehmen',
+    'Stiftung des Privatrechts',
+    'Sonstige',
+    'Unklar',
+] as const;
+
 const kategorieColorsFull: Record<string, string> = {
-    'Oberste Bundesbehörde': 'bg-yellow-200 text-gray-900',     // Gold (German flag)
-    'Bundesoberbehörde': 'bg-red-200 text-gray-900',            // Red (German flag)
-    'Bundesmittelbehörde': 'bg-blue-200 text-gray-900',         // Federal Blue
-    'Hauptzollamt': 'bg-slate-200 text-gray-900',               // Operational Gray
-    'Zollfahndungsamt': 'bg-indigo-200 text-gray-900',          // Navy Blue (law enforcement)
-    'Unternehmen': 'bg-emerald-200 text-gray-900',              // Green (economy/business)
+    'Oberste Bundesbehörde': 'bg-red-300 text-black',
+    'Bundesoberbehörde': 'bg-amber-200 text-black',
+    'Bundesmittelbehörde': 'bg-blue-200 text-black',
+    'Bundesunterbehörde': 'bg-slate-200 text-black',
+    'Bundesagentur': 'bg-sky-200 text-black',
+    'Beauftragter': 'bg-violet-200 text-black',
+    'Unternehmen': 'bg-emerald-200 text-black',
+    'Stiftung des Privatrechts': 'bg-cyan-200 text-black',
+    'Sonstige': 'bg-stone-200 text-black',
+    'Unklar': 'bg-gray-200 text-black',
 };
 
 const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: (entityId: string) => void }) => {
@@ -21,7 +39,10 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
         onEntityClick(String(entity.OrganisationId));
     };
 
-    const cardColor = kategorieColorsFull[entity.Kategorie || ''] || 'bg-gray-300 text-gray-900';
+    const kategorie = entity.Kategorie || '';
+    const mappedKategorie = kategorieColorsFull[kategorie] ? kategorie : 'Sonstige';
+    const cardColor = kategorieColorsFull[mappedKategorie] || 'bg-gray-200 text-gray-900';
+    const isUnklar = kategorie === 'Unklar';
     
     const displayName = entity.OrganisationDisplay || entity.OrganisationKurz || entity.OrganisationKurzInoffiziell || entity.Organisation;
 
@@ -30,7 +51,7 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
             <TooltipTrigger asChild>
                 <button
                     onClick={handleClick}
-                    className={`${cardColor} h-[50px] sm:h-[55px] pt-3 pl-3 pr-2 pb-2 rounded-lg flex items-start justify-start text-left transition-all duration-200 ease-out cursor-pointer hover:scale-105 hover:shadow-md active:scale-95 animate-in fade-in slide-in-from-bottom-4 touch-manipulation w-full`}
+                    className={`${cardColor} ${isUnklar ? 'opacity-60 border-2 border-dashed border-gray-400' : ''} h-[50px] sm:h-[55px] pt-3 pl-3 pr-2 pb-2 rounded-lg flex items-start justify-start text-left transition-all duration-200 ease-out cursor-pointer hover:scale-105 hover:shadow-md active:scale-95 animate-in fade-in slide-in-from-bottom-4 touch-manipulation w-full`}
                     aria-label={`View details for ${entity.Organisation}`}
                     lang="de"
                 >
@@ -47,6 +68,9 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
             >
                 <div className="text-center max-w-xs sm:max-w-sm p-1">
                     <p className="font-medium text-xs sm:text-sm leading-tight">{entity.Organisation}</p>
+                    {entity.Kategorie && (
+                        <p className="text-xs text-slate-600 mt-1">{entity.Kategorie}</p>
+                    )}
                     <p className="text-xs text-slate-500 mt-1 hidden sm:block">Klicken für Details</p>
                     <p className="text-xs text-slate-500 mt-1 sm:hidden">Antippen für Details</p>
                 </div>
@@ -56,28 +80,28 @@ const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: 
 };
 
 const kategorieColors: Record<string, string> = {
-    'Oberste Bundesbehörde': 'bg-yellow-200',     // Gold (German flag)
-    'Bundesoberbehörde': 'bg-red-200',            // Red (German flag)
-    'Bundesmittelbehörde': 'bg-blue-200',         // Federal Blue
-    'Hauptzollamt': 'bg-slate-200',               // Operational Gray
-    'Zollfahndungsamt': 'bg-indigo-200',          // Navy Blue (law enforcement)
-    'Unternehmen': 'bg-emerald-200',              // Green (economy/business)
+    'Oberste Bundesbehörde': 'bg-red-300',
+    'Bundesoberbehörde': 'bg-amber-200',
+    'Bundesmittelbehörde': 'bg-blue-200',
+    'Bundesunterbehörde': 'bg-slate-200',
+    'Bundesagentur': 'bg-sky-200',
+    'Beauftragter': 'bg-violet-200',
+    'Unternehmen': 'bg-emerald-200',
+    'Stiftung des Privatrechts': 'bg-cyan-200',
+    'Sonstige': 'bg-stone-200',
+    'Unklar': 'bg-gray-200',
 };
 
 const Legend = () => (
     <div className="mb-6">
         <h3 className="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">Kategorien</h3>
-        <div className="flex flex-wrap gap-4">
-            {Object.entries(kategorieColors).map(([kategorie, color]) => (
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-x-6 gap-y-2">
+            {KATEGORIE_ORDER.map(kategorie => (
                 <div key={kategorie} className="flex items-center gap-2">
-                    <div className={`${color} w-3 h-3`}></div>
+                    <div className={`${kategorieColors[kategorie]} w-3 h-3`}></div>
                     <span className="text-sm text-gray-700">{kategorie}</span>
                 </div>
             ))}
-            <div className="flex items-center gap-2">
-                <div className="bg-gray-300 w-3 h-3"></div>
-                <span className="text-sm text-gray-700">Sonstige</span>
-            </div>
         </div>
     </div>
 );
@@ -119,16 +143,6 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
     }, {});
 
     // Sort entities within each group
-    const kategorieOrder = [
-        'Oberste Bundesbehörde',
-        'Bundesoberbehörde',
-        'Bundesmittelbehörde',
-        'Hauptzollamt',
-        'Zollfahndungsamt',
-        'Unternehmen',
-        'Sonstige'
-    ];
-    
     Object.keys(groupedEntities).forEach(groupKey => {
         groupedEntities[groupKey].sort((a, b) => {
             if (viewMode === 'ressorts') {
@@ -136,8 +150,8 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                 const aCat = a.Kategorie || 'Sonstige';
                 const bCat = b.Kategorie || 'Sonstige';
                 
-                const aIndex = kategorieOrder.indexOf(aCat);
-                const bIndex = kategorieOrder.indexOf(bCat);
+                const aIndex = KATEGORIE_ORDER.indexOf(aCat as any);
+                const bIndex = KATEGORIE_ORDER.indexOf(bCat as any);
                 
                 if (aIndex !== bIndex) {
                     // Handle categories not in the order list
@@ -174,18 +188,8 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
             return a.localeCompare(b);
         } else {
             // In Kategorie view: sort by legend order
-            const kategorieOrder = [
-                'Oberste Bundesbehörde',
-                'Bundesoberbehörde',
-                'Bundesmittelbehörde',
-                'Hauptzollamt',
-                'Zollfahndungsamt',
-                'Unternehmen',
-                'Sonstige'
-            ];
-
-            const indexA = kategorieOrder.indexOf(a);
-            const indexB = kategorieOrder.indexOf(b);
+            const indexA = KATEGORIE_ORDER.indexOf(a as any);
+            const indexB = KATEGORIE_ORDER.indexOf(b as any);
             
             if (indexA !== -1 && indexB !== -1) return indexA - indexB;
             if (indexA !== -1) return -1;
