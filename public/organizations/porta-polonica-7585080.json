@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.5036903",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "jacek.barski@porta-polonica.de",
+  "Hauptadresse": "Am Rübenkamp 4",
+  "Internetadresse": "https://www.porta-polonica.de/de",
+  "Land": "DE",
+  "Längengrad": "7.162321",
+  "Organisation": "Dokumentationsstelle zur Kultur und Geschichte der Polen in Deutschland - Porta Polonica",
+  "OrganisationDisplay": "Porta Polonica",
+  "OrganisationId": 7585080,
+  "OrganisationKurz": "Porta Polonica",
+  "Ort": "Bochum",
+  "PLZ": 44793,
+  "Telefax": "+49 234 282539-88",
+  "Telefon": "+49 234 -282539-80",
+  "locations": [
+    {
+      "Breitengrad": "51.5036903",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "jacek.barski@porta-polonica.de",
+      "Hauptadresse": "Am Rübenkamp 4",
+      "Internetadresse": "https://www.porta-polonica.de/de",
+      "Land": "DE",
+      "Längengrad": "7.162321",
+      "Organisation": "Dokumentationsstelle zur Kultur und Geschichte der Polen in Deutschland - Porta Polonica",
+      "OrganisationDisplay": "Porta Polonica",
+      "OrganisationId": 7585080,
+      "OrganisationKurz": "Porta Polonica",
+      "Ort": "Bochum",
+      "PLZ": 44793,
+      "Telefax": "+49 234 282539-88",
+      "Telefon": "+49 234 -282539-80"
+    }
+  ]
+}

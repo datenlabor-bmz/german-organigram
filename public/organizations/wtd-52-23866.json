@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "47.672042",
+  "Bundesland": "Bayern",
+  "E-Mail": "wtd52posteingang@bundeswehr.org",
+  "Hauptadresse": "Oberjettenberg ",
+  "Internetadresse": "https://www.baainbw.de/wtd52",
+  "Land": "DE",
+  "Längengrad": "12.791983",
+  "Organisation": "Wehrtechnische Dienststelle für Schutz- und Sondertechnik",
+  "OrganisationDisplay": "WTD 52",
+  "OrganisationId": 23866,
+  "OrganisationKurz": "WTD 52",
+  "Ort": "Schneizlreuth",
+  "PLZ": 83458,
+  "Ressort": "BMVg",
+  "Telefax": "+49 8651 7682-1338",
+  "Telefon": "+49 8651 7682-1001",
+  "locations": [
+    {
+      "Breitengrad": "47.672042",
+      "Bundesland": "Bayern",
+      "E-Mail": "wtd52posteingang@bundeswehr.org",
+      "Hauptadresse": "Oberjettenberg ",
+      "Internetadresse": "https://www.baainbw.de/wtd52",
+      "Land": "DE",
+      "Längengrad": "12.791983",
+      "Organisation": "Wehrtechnische Dienststelle für Schutz- und Sondertechnik",
+      "OrganisationDisplay": "WTD 52",
+      "OrganisationId": 23866,
+      "OrganisationKurz": "WTD 52",
+      "Ort": "Schneizlreuth",
+      "PLZ": 83458,
+      "Ressort": "BMVg",
+      "Telefax": "+49 8651 7682-1338",
+      "Telefon": "+49 8651 7682-1001"
+    }
+  ]
+}

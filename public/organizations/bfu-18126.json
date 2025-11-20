@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.313955",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "Pressestelle@bfu-web.de",
+  "Hauptadresse": "Hermann-Blenk-Straße 16",
+  "Internetadresse": "https://www.bfu-web.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "10.553523",
+  "Organisation": "Bundesstelle für Flugunfalluntersuchung",
+  "OrganisationDisplay": "BFU",
+  "OrganisationId": 18126,
+  "OrganisationKurz": "BFU",
+  "Ort": "Braunschweig",
+  "PLZ": 38108,
+  "Ressort": "BMV",
+  "Telefax": "+49 531 3548-246",
+  "Telefon": "+49 531 3548-0",
+  "locations": [
+    {
+      "Breitengrad": "52.313955",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "Pressestelle@bfu-web.de",
+      "Hauptadresse": "Hermann-Blenk-Straße 16",
+      "Internetadresse": "https://www.bfu-web.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "10.553523",
+      "Organisation": "Bundesstelle für Flugunfalluntersuchung",
+      "OrganisationDisplay": "BFU",
+      "OrganisationId": 18126,
+      "OrganisationKurz": "BFU",
+      "Ort": "Braunschweig",
+      "PLZ": 38108,
+      "Ressort": "BMV",
+      "Telefax": "+49 531 3548-246",
+      "Telefon": "+49 531 3548-0"
+    }
+  ]
+}

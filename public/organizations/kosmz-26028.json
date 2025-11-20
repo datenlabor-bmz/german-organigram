@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/suedlicher-kaukasus-republik-moldau-und-zentralasien/2585066",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Koordinator für die zwischengesellschaftliche Zusammenarbeit mit dem Südkaukasus, der Republik Moldau sowie Zentralasien",
+  "OrganisationDisplay": "KOSMZ",
+  "OrganisationId": 26028,
+  "OrganisationKurz": "KOSMZ",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 30 1817-57306",
+  "Telefon": "+49 30 1817-7306",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/suedlicher-kaukasus-republik-moldau-und-zentralasien/2585066",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Koordinator für die zwischengesellschaftliche Zusammenarbeit mit dem Südkaukasus, der Republik Moldau sowie Zentralasien",
+      "OrganisationDisplay": "KOSMZ",
+      "OrganisationId": 26028,
+      "OrganisationKurz": "KOSMZ",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 30 1817-57306",
+      "Telefon": "+49 30 1817-7306",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

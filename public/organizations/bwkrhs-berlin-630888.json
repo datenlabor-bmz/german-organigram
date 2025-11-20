@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5354665",
+  "Bundesland": "Berlin",
+  "E-Mail": "BwKrhsBerlin@bundeswehr.org",
+  "Hauptadresse": "Scharnhorststraße 13",
+  "Internetadresse": "https://berlin.bwkrankenhaus.de/startseite.html",
+  "Land": "DE",
+  "Längengrad": "13.3690718",
+  "Organisation": "Bundeswehrkrankenhaus Berlin",
+  "OrganisationDisplay": "BwKrhs Berlin",
+  "OrganisationId": 630888,
+  "OrganisationKurz": "BwKrhs Berlin",
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 2841-1043",
+  "Telefon": "+49 30 2841-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5354665",
+      "Bundesland": "Berlin",
+      "E-Mail": "BwKrhsBerlin@bundeswehr.org",
+      "Hauptadresse": "Scharnhorststraße 13",
+      "Internetadresse": "https://berlin.bwkrankenhaus.de/startseite.html",
+      "Land": "DE",
+      "Längengrad": "13.3690718",
+      "Organisation": "Bundeswehrkrankenhaus Berlin",
+      "OrganisationDisplay": "BwKrhs Berlin",
+      "OrganisationId": 630888,
+      "OrganisationKurz": "BwKrhs Berlin",
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 2841-1043",
+      "Telefon": "+49 30 2841-0"
+    }
+  ]
+}

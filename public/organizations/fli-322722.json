@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.9091815",
+  "Bundesland": "Thüringen",
+  "E-Mail": "info@leibniz-fli.de",
+  "Hauptadresse": "Beutenbergstraße 11",
+  "Internetadresse": "https://www.leibniz-fli.de/de/",
+  "Land": "DE",
+  "Längengrad": "11.5728625",
+  "Organisation": "Leibniz-Institut für Alternsforschung - Fritz-Lipmann-Institut e. V.",
+  "OrganisationDisplay": "FLI",
+  "OrganisationId": 322722,
+  "OrganisationKurz": "FLI",
+  "Ort": "Jena",
+  "PLZ": 7745,
+  "Telefax": "+49 3641 65-6351",
+  "Telefon": "+49 3641 65-6000",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.9091815",
+      "Bundesland": "Thüringen",
+      "E-Mail": "info@leibniz-fli.de",
+      "Hauptadresse": "Beutenbergstraße 11",
+      "Internetadresse": "https://www.leibniz-fli.de/de/",
+      "Land": "DE",
+      "Längengrad": "11.5728625",
+      "Organisation": "Leibniz-Institut für Alternsforschung - Fritz-Lipmann-Institut e. V.",
+      "OrganisationDisplay": "FLI",
+      "OrganisationId": 322722,
+      "OrganisationKurz": "FLI",
+      "Ort": "Jena",
+      "PLZ": 7745,
+      "Telefax": "+49 3641 65-6351",
+      "Telefon": "+49 3641 65-6000",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

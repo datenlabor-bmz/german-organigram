@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.164412",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZMuenchen@bundeswehr.org",
+  "Hauptadresse": "Dachauer Straße 128",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-muenchen",
+  "Land": "DE",
+  "Längengrad": "11.539915",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum München",
+  "OrganisationDisplay": "BwDLZ-München",
+  "OrganisationId": 19094,
+  "OrganisationKurz": "BwDLZ-München",
+  "Ort": "München",
+  "PLZ": 80637,
+  "Ressort": "BMVg",
+  "Telefon": "+49 89 1249-0",
+  "locations": [
+    {
+      "Breitengrad": "48.164412",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZMuenchen@bundeswehr.org",
+      "Hauptadresse": "Dachauer Straße 128",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-muenchen",
+      "Land": "DE",
+      "Längengrad": "11.539915",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum München",
+      "OrganisationDisplay": "BwDLZ-München",
+      "OrganisationId": 19094,
+      "OrganisationKurz": "BwDLZ-München",
+      "Ort": "München",
+      "PLZ": 80637,
+      "Ressort": "BMVg",
+      "Telefon": "+49 89 1249-0"
+    }
+  ]
+}

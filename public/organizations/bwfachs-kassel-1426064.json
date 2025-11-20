@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.3054",
+  "Bundesland": "Hessen",
+  "E-Mail": "BwFachSKassel@bundeswehr.org",
+  "Hauptadresse": "Elisabeth-Consbruch-Straße 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-kassel-87162",
+  "Land": "DE",
+  "Längengrad": "9.4478599999",
+  "Organisation": "Bundeswehrfachschule Kassel",
+  "OrganisationDisplay": "BwFachS Kassel",
+  "OrganisationId": 1426064,
+  "OrganisationKurz": "BwFachS Kassel",
+  "Ort": "Kassel",
+  "PLZ": 34131,
+  "Ressort": "BMVg",
+  "Telefax": "+49 561 76682 3007",
+  "Telefon": "+49 561 76682 3002",
+  "locations": [
+    {
+      "Breitengrad": "51.3054",
+      "Bundesland": "Hessen",
+      "E-Mail": "BwFachSKassel@bundeswehr.org",
+      "Hauptadresse": "Elisabeth-Consbruch-Straße 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-kassel-87162",
+      "Land": "DE",
+      "Längengrad": "9.4478599999",
+      "Organisation": "Bundeswehrfachschule Kassel",
+      "OrganisationDisplay": "BwFachS Kassel",
+      "OrganisationId": 1426064,
+      "OrganisationKurz": "BwFachS Kassel",
+      "Ort": "Kassel",
+      "PLZ": 34131,
+      "Ressort": "BMVg",
+      "Telefax": "+49 561 76682 3007",
+      "Telefon": "+49 561 76682 3002"
+    }
+  ]
+}

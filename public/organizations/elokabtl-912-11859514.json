@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.6099723",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Am Rehhagen 10",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/bataillon-elektronische-kampffuehrung-912",
+  "Land": "DE",
+  "Längengrad": "9.2557679",
+  "Organisation": "Bataillon Elektronische Kampfführung 912",
+  "OrganisationDisplay": "EloKaBtl 912",
+  "OrganisationId": 11859514,
+  "OrganisationKurz": "EloKaBtl 912",
+  "Ort": "Nienburg (Weser)",
+  "PLZ": 31582,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5021 800-0",
+  "locations": [
+    {
+      "Breitengrad": "52.6099723",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Am Rehhagen 10",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/bataillon-elektronische-kampffuehrung-912",
+      "Land": "DE",
+      "Längengrad": "9.2557679",
+      "Organisation": "Bataillon Elektronische Kampfführung 912",
+      "OrganisationDisplay": "EloKaBtl 912",
+      "OrganisationId": 11859514,
+      "OrganisationKurz": "EloKaBtl 912",
+      "Ort": "Nienburg (Weser)",
+      "PLZ": 31582,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5021 800-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.40916",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "wna-heidelberg@wsv.bund.de",
+  "Hauptadresse": "Vangerowstraße 20",
+  "Internetadresse": "https://www.wna-heidelberg.wsv.de/Webs/WNA/AN-Heidelberg/DE/Startseite/startseite_node.html",
+  "Land": "DE",
+  "Längengrad": "8.669967",
+  "Organisation": "Wasserstraßen-Neubauamt-Heidelberg",
+  "OrganisationDisplay": "wna-Heidelberg",
+  "OrganisationId": 60352,
+  "OrganisationKurz": "wna-Heidelberg",
+  "Ort": "Heidelberg",
+  "PLZ": 69115,
+  "Ressort": "BMV",
+  "Telefax": "+49 6221 507-455",
+  "Telefon": "+49 6221 507-401",
+  "locations": [
+    {
+      "Breitengrad": "49.40916",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "wna-heidelberg@wsv.bund.de",
+      "Hauptadresse": "Vangerowstraße 20",
+      "Internetadresse": "https://www.wna-heidelberg.wsv.de/Webs/WNA/AN-Heidelberg/DE/Startseite/startseite_node.html",
+      "Land": "DE",
+      "Längengrad": "8.669967",
+      "Organisation": "Wasserstraßen-Neubauamt-Heidelberg",
+      "OrganisationDisplay": "wna-Heidelberg",
+      "OrganisationId": 60352,
+      "OrganisationKurz": "wna-Heidelberg",
+      "Ort": "Heidelberg",
+      "PLZ": 69115,
+      "Ressort": "BMV",
+      "Telefax": "+49 6221 507-455",
+      "Telefon": "+49 6221 507-401"
+    }
+  ]
+}

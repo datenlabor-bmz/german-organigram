@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.317917",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Kürrenberger Steig 34",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/poc/cir?uri=ci:bw.cir.dienststellen.ksa.zopkombw",
+  "Land": "DE",
+  "Längengrad": "7.193638",
+  "Organisation": "Zentrum Operative Kommunikation der Bundeswehr",
+  "OrganisationDisplay": "ZOpKomBw",
+  "OrganisationId": 13878,
+  "OrganisationKurz": "ZOpKomBw",
+  "Ort": "Mayen",
+  "PLZ": 56727,
+  "Ressort": "BMVg",
+  "Telefax": "+49 265 1497-2202",
+  "Telefon": "+49 265 1497-0",
+  "locations": [
+    {
+      "Breitengrad": "50.317917",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Kürrenberger Steig 34",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/poc/cir?uri=ci:bw.cir.dienststellen.ksa.zopkombw",
+      "Land": "DE",
+      "Längengrad": "7.193638",
+      "Organisation": "Zentrum Operative Kommunikation der Bundeswehr",
+      "OrganisationDisplay": "ZOpKomBw",
+      "OrganisationId": 13878,
+      "OrganisationKurz": "ZOpKomBw",
+      "Ort": "Mayen",
+      "PLZ": 56727,
+      "Ressort": "BMVg",
+      "Telefax": "+49 265 1497-2202",
+      "Telefon": "+49 265 1497-0"
+    }
+  ]
+}

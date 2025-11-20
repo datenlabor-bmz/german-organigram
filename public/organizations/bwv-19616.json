@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.726975",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BWV-Servicestelle@brh.bund.de",
+  "Hauptadresse": "Adenauerallee 81",
+  "Internetadresse": "https://www.bundesrechnungshof.de/DE/6_der_bwv/der_bwv_verteilerseite_node.html",
+  "Land": "DE",
+  "Längengrad": " 7.110708",
+  "Organisation": "Bundesbeauftragter für Wirtschaftlichkeit in der Verwaltung",
+  "OrganisationDisplay": "BWV",
+  "OrganisationId": 19616,
+  "OrganisationKurz": "BWV",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Telefax": "+49 22899 721-1107",
+  "Telefon": "+49 1606966016",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "50.726975",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BWV-Servicestelle@brh.bund.de",
+      "Hauptadresse": "Adenauerallee 81",
+      "Internetadresse": "https://www.bundesrechnungshof.de/DE/6_der_bwv/der_bwv_verteilerseite_node.html",
+      "Land": "DE",
+      "Längengrad": " 7.110708",
+      "Organisation": "Bundesbeauftragter für Wirtschaftlichkeit in der Verwaltung",
+      "OrganisationDisplay": "BWV",
+      "OrganisationId": 19616,
+      "OrganisationKurz": "BWV",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 22899 721-1107",
+      "Telefon": "+49 1606966016",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

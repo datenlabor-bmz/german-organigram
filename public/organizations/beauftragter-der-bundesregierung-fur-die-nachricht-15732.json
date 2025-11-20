@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.519784",
+  "Bundesland": "Berlin",
+  "E-Mail": "Thorsten.Frei@bk.bund.de",
+  "Hauptadresse": "Willy-Brandt-Straße 1",
+  "Internetadresse": "https://www.bundesregierung.de/Content/DE/StatischeSeiten/Breg/element-chef-des-bundeskanzleramtes.html",
+  "Land": "DE",
+  "Längengrad": "13.372034",
+  "Organisation": "Beauftragter der Bundesregierung für die Nachrichtendienste des Bundes",
+  "OrganisationDisplay": "B NDdB",
+  "OrganisationId": 15732,
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BKAmt",
+  "Telefax": "+49 3010 400-2070",
+  "Telefon": "+49 3018 400-2070",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.519784",
+      "Bundesland": "Berlin",
+      "E-Mail": "Thorsten.Frei@bk.bund.de",
+      "Hauptadresse": "Willy-Brandt-Straße 1",
+      "Internetadresse": "https://www.bundesregierung.de/Content/DE/StatischeSeiten/Breg/element-chef-des-bundeskanzleramtes.html",
+      "Land": "DE",
+      "Längengrad": "13.372034",
+      "Organisation": "Beauftragter der Bundesregierung für die Nachrichtendienste des Bundes",
+      "OrganisationDisplay": "B NDdB",
+      "OrganisationId": 15732,
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BKAmt",
+      "Telefax": "+49 3010 400-2070",
+      "Telefon": "+49 3018 400-2070",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

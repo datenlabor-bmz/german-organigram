@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "50.9348279",
+  "E-Mail": "DeutscheSchuleAFNORTH@bundeswehr.org",
+  "Hauptadresse": "Ferdinand-Bol-Straat 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-brunssum-83668",
+  "Land": "NL",
+  "Längengrad": "5.9799687",
+  "Organisation": "Deutsche Abteilung der Internationalen AFNORTH Schule",
+  "OrganisationDisplay": "DA AIS",
+  "OrganisationId": 5482038,
+  "OrganisationKurz": "DA AIS",
+  "Ort": "EE Brunssum",
+  "PLZ": 6445,
+  "Ressort": "BMVg",
+  "Telefon": "+31 6 8293 1211",
+  "locations": [
+    {
+      "Breitengrad": "50.9348279",
+      "E-Mail": "DeutscheSchuleAFNORTH@bundeswehr.org",
+      "Hauptadresse": "Ferdinand-Bol-Straat 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-brunssum-83668",
+      "Land": "NL",
+      "Längengrad": "5.9799687",
+      "Organisation": "Deutsche Abteilung der Internationalen AFNORTH Schule",
+      "OrganisationDisplay": "DA AIS",
+      "OrganisationId": 5482038,
+      "OrganisationKurz": "DA AIS",
+      "Ort": "EE Brunssum",
+      "PLZ": 6445,
+      "Ressort": "BMVg",
+      "Telefon": "+31 6 8293 1211"
+    }
+  ]
+}

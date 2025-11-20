@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "49.7632865",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "trier@ilw.de",
+  "Hauptadresse": "Engelstraße 59 - 61",
+  "Internetadresse": "https://trier.ilw.de/",
+  "Land": "DE",
+  "Längengrad": "6.6462954",
+  "Organisation": "Industrie Lehrwerkstatt Trier eG",
+  "OrganisationDisplay": "ILW",
+  "OrganisationId": 318428,
+  "OrganisationKurz": "ILW",
+  "Ort": "Trier",
+  "PLZ": 54292,
+  "Telefon": "+49 651 2222-0",
+  "locations": [
+    {
+      "Breitengrad": "49.7632865",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "trier@ilw.de",
+      "Hauptadresse": "Engelstraße 59 - 61",
+      "Internetadresse": "https://trier.ilw.de/",
+      "Land": "DE",
+      "Längengrad": "6.6462954",
+      "Organisation": "Industrie Lehrwerkstatt Trier eG",
+      "OrganisationDisplay": "ILW",
+      "OrganisationId": 318428,
+      "OrganisationKurz": "ILW",
+      "Ort": "Trier",
+      "PLZ": 54292,
+      "Telefon": "+49 651 2222-0"
+    }
+  ]
+}

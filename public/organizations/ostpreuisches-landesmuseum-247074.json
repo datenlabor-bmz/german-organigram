@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "53.24679",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@ol-lg.de",
+  "Hauptadresse": "Heiligengeiststraße 38",
+  "Internetadresse": "https://www.ostpreussisches-landesmuseum.de",
+  "Land": "DE",
+  "Längengrad": "10.40714",
+  "Organisation": "Ostpreußisches Landesmuseum",
+  "OrganisationDisplay": "OLM",
+  "OrganisationId": 247074,
+  "Ort": "Lüneburg",
+  "PLZ": 21335,
+  "Telefax": "+49 4131 75995-11",
+  "Telefon": "+49 4131 75995-0",
+  "locations": [
+    {
+      "Breitengrad": "53.24679",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@ol-lg.de",
+      "Hauptadresse": "Heiligengeiststraße 38",
+      "Internetadresse": "https://www.ostpreussisches-landesmuseum.de",
+      "Land": "DE",
+      "Längengrad": "10.40714",
+      "Organisation": "Ostpreußisches Landesmuseum",
+      "OrganisationDisplay": "OLM",
+      "OrganisationId": 247074,
+      "Ort": "Lüneburg",
+      "PLZ": 21335,
+      "Telefax": "+49 4131 75995-11",
+      "Telefon": "+49 4131 75995-0"
+    }
+  ]
+}

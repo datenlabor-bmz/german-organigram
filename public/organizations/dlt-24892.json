@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.511628",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@landkreistag.de",
+  "Hauptadresse": "Lennéstraße 11",
+  "Internetadresse": "https://www.landkreistag.de/der-verband",
+  "Land": "DE",
+  "Längengrad": "13.374584",
+  "Organisation": "Deutscher Landkreistag",
+  "OrganisationDisplay": "DLT",
+  "OrganisationId": 24892,
+  "OrganisationKurz": "DLT",
+  "Ort": "Berlin",
+  "PLZ": 10785,
+  "Telefax": "+49 30 590097-400",
+  "Telefon": "+49 30 590097-309",
+  "locations": [
+    {
+      "Breitengrad": "52.511628",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@landkreistag.de",
+      "Hauptadresse": "Lennéstraße 11",
+      "Internetadresse": "https://www.landkreistag.de/der-verband",
+      "Land": "DE",
+      "Längengrad": "13.374584",
+      "Organisation": "Deutscher Landkreistag",
+      "OrganisationDisplay": "DLT",
+      "OrganisationId": 24892,
+      "OrganisationKurz": "DLT",
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Telefax": "+49 30 590097-400",
+      "Telefon": "+49 30 590097-309"
+    }
+  ]
+}

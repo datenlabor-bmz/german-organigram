@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "50.976885",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@zka.bund.de",
+  "Hauptadresse": "Bergisch Gladbacher Straße 837",
+  "Internetadresse": "https://www.zoll.de/DE/Der-Zoll/Struktur-des-Zolls/Generalzolldirektion/Fachdirektionen/fachdirektionen_node.html#doc279122bodyText3",
+  "Land": "DE",
+  "Längengrad": "7.06547",
+  "Organisation": "Zollkriminalamt",
+  "OrganisationDisplay": "ZKA",
+  "OrganisationId": 14006,
+  "OrganisationKurz": "ZKA",
+  "Ort": "Köln",
+  "PLZ": 51069,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-98400",
+  "Telefon": "+49 228 303-0",
+  "locations": [
+    {
+      "Breitengrad": "50.976885",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@zka.bund.de",
+      "Hauptadresse": "Bergisch Gladbacher Straße 837",
+      "Internetadresse": "https://www.zoll.de/DE/Der-Zoll/Struktur-des-Zolls/Generalzolldirektion/Fachdirektionen/fachdirektionen_node.html#doc279122bodyText3",
+      "Land": "DE",
+      "Längengrad": "7.06547",
+      "Organisation": "Zollkriminalamt",
+      "OrganisationDisplay": "ZKA",
+      "OrganisationId": 14006,
+      "OrganisationKurz": "ZKA",
+      "Ort": "Köln",
+      "PLZ": 51069,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-98400",
+      "Telefon": "+49 228 303-0"
+    },
+    {
+      "Adresse": "Rheinpfalzallee 82 - 90",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.zoll.de/DE/Der-Zoll/Struktur-des-Zolls/Generalzolldirektion/Fachdirektionen/fachdirektionen_node.html#doc279122bodyText3",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Berlin",
+      "LiegenschaftsId": 433036,
+      "OrganisationId": 14006,
+      "Ort": "Berlin",
+      "PLZ": 10318,
+      "Telefax": "+49 30 50010-485",
+      "Telefon": "+49 30 50010-400"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.21112",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Graf-Moltke-Straße ",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl282/!ut/p/z1/hU67DoIwFP0WB9beK6CiWwcxGh8kxAhdTIFaNJWSWsHPF8NkIvFs55kDDBJgFW-ukturrrjqeMqm5-ncX6_cGHdBEI6R7mkUHo6Bi0sfTv8CrLNxABQhLgSk3cZseMODGBiwG2_4i9TaWCUs4fnnIaQlrwolIp3TXtgAk0pn_XVaZV4ggRlxEUYY8jSdXFpbPxYOOti2LZFaSyVIru8O_qqU-mEh-U5CfU9a9Caq2dLRG_f8jTI!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820E3",
+  "Land": "DE",
+  "Längengrad": "6.6281565",
+  "Organisation": "Informationstechnikbataillon 282",
+  "OrganisationDisplay": "ITBtl 282",
+  "OrganisationId": 11937296,
+  "OrganisationKurz": "ITBtl 282",
+  "Ort": "Kastellaun",
+  "PLZ": 56288,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6762 12-1",
+  "locations": [
+    {
+      "Breitengrad": "50.21112",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Graf-Moltke-Straße ",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl282/!ut/p/z1/hU67DoIwFP0WB9beK6CiWwcxGh8kxAhdTIFaNJWSWsHPF8NkIvFs55kDDBJgFW-ukturrrjqeMqm5-ncX6_cGHdBEI6R7mkUHo6Bi0sfTv8CrLNxABQhLgSk3cZseMODGBiwG2_4i9TaWCUs4fnnIaQlrwolIp3TXtgAk0pn_XVaZV4ggRlxEUYY8jSdXFpbPxYOOti2LZFaSyVIru8O_qqU-mEh-U5CfU9a9Caq2dLRG_f8jTI!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820E3",
+      "Land": "DE",
+      "Längengrad": "6.6281565",
+      "Organisation": "Informationstechnikbataillon 282",
+      "OrganisationDisplay": "ITBtl 282",
+      "OrganisationId": 11937296,
+      "OrganisationKurz": "ITBtl 282",
+      "Ort": "Kastellaun",
+      "PLZ": 56288,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6762 12-1"
+    }
+  ]
+}

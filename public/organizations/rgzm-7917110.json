@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.994209",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "info@rgzm.de",
+  "Hauptadresse": "Neutorstraße 2",
+  "Internetadresse": "https://web.rgzm.de",
+  "Land": "DE",
+  "Längengrad": "8.280479",
+  "Organisation": "Römisch-Germanisches Zentralmuseum - Leibniz-Forschungsinstitut für Archäologie",
+  "OrganisationDisplay": "RGZM",
+  "OrganisationId": 7917110,
+  "OrganisationKurz": "RGZM",
+  "Ort": "Mainz",
+  "PLZ": 55116,
+  "Telefon": "+49 6131 8885-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.994209",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "info@rgzm.de",
+      "Hauptadresse": "Neutorstraße 2",
+      "Internetadresse": "https://web.rgzm.de",
+      "Land": "DE",
+      "Längengrad": "8.280479",
+      "Organisation": "Römisch-Germanisches Zentralmuseum - Leibniz-Forschungsinstitut für Archäologie",
+      "OrganisationDisplay": "RGZM",
+      "OrganisationId": 7917110,
+      "OrganisationKurz": "RGZM",
+      "Ort": "Mainz",
+      "PLZ": 55116,
+      "Telefon": "+49 6131 8885-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.0089288",
+  "Bundesland": "Baden-Württemberg",
+  "Hauptadresse": "Heidenhofstraße 2",
+  "Internetadresse": "https://www.ise.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.8342044",
+  "Organisation": "Fraunhofer Institut für Solare Energiesysteme",
+  "OrganisationDisplay": "ISE",
+  "OrganisationId": 568662,
+  "OrganisationKurz": "ISE",
+  "Ort": "Freiburg",
+  "PLZ": 79110,
+  "Telefax": "+49 761-4588-9000",
+  "Telefon": "+49 761 4588-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.0089288",
+      "Bundesland": "Baden-Württemberg",
+      "Hauptadresse": "Heidenhofstraße 2",
+      "Internetadresse": "https://www.ise.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.8342044",
+      "Organisation": "Fraunhofer Institut für Solare Energiesysteme",
+      "OrganisationDisplay": "ISE",
+      "OrganisationId": 568662,
+      "OrganisationKurz": "ISE",
+      "Ort": "Freiburg",
+      "PLZ": 79110,
+      "Telefax": "+49 761-4588-9000",
+      "Telefon": "+49 761 4588-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

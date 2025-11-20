@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5319109",
+  "Bundesland": "Berlin",
+  "E-Mail": "diakonie@diakonie.de",
+  "Hauptadresse": "Caroline-Michaelis-Straße 1",
+  "Internetadresse": "https://www.diakonie.de/",
+  "Land": "DE",
+  "Längengrad": "13.3859982",
+  "Organisation": "Diakonie Deutschland - Evangelischer Bundesverband",
+  "OrganisationDisplay": "Diakonie",
+  "OrganisationId": 7542958,
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BKM",
+  "Telefax": "+49 30 65211-3333",
+  "Telefon": "+49 30 65211-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5319109",
+      "Bundesland": "Berlin",
+      "E-Mail": "diakonie@diakonie.de",
+      "Hauptadresse": "Caroline-Michaelis-Straße 1",
+      "Internetadresse": "https://www.diakonie.de/",
+      "Land": "DE",
+      "Längengrad": "13.3859982",
+      "Organisation": "Diakonie Deutschland - Evangelischer Bundesverband",
+      "OrganisationDisplay": "Diakonie",
+      "OrganisationId": 7542958,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BKM",
+      "Telefax": "+49 30 65211-3333",
+      "Telefon": "+49 30 65211-0"
+    }
+  ]
+}

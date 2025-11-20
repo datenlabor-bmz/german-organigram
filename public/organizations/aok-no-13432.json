@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.4052551",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "service@nordost.aok.de",
+  "Hauptadresse": " ",
+  "Internetadresse": "https://www.aok.de/pk/nordost/",
+  "Land": "DE",
+  "Längengrad": "13.0677537",
+  "Organisation": "Allgemeine Ortskrankenkasse Nordost",
+  "OrganisationDisplay": "AOK NO",
+  "OrganisationId": 13432,
+  "OrganisationKurz": "AOK NO",
+  "Ort": "Potsdam",
+  "PLZ": 14456,
+  "Ressort": "BMG",
+  "Telefon": "0800 2650800",
+  "locations": [
+    {
+      "Breitengrad": "52.4052551",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "service@nordost.aok.de",
+      "Hauptadresse": " ",
+      "Internetadresse": "https://www.aok.de/pk/nordost/",
+      "Land": "DE",
+      "Längengrad": "13.0677537",
+      "Organisation": "Allgemeine Ortskrankenkasse Nordost",
+      "OrganisationDisplay": "AOK NO",
+      "OrganisationId": 13432,
+      "OrganisationKurz": "AOK NO",
+      "Ort": "Potsdam",
+      "PLZ": 14456,
+      "Ressort": "BMG",
+      "Telefon": "0800 2650800"
+    }
+  ]
+}

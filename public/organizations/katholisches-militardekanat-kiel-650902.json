@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.3495653",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "KathMilDekanatKiel@bundeswehr.org",
+  "Hauptadresse": "Parkstraße 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge/organisation/militaerdekanate/kiel-58360",
+  "Land": "DE",
+  "Längengrad": "10.1460549",
+  "Organisation": "Katholisches Militärdekanat Kiel",
+  "OrganisationDisplay": "Militärdekanat Kiel",
+  "OrganisationId": 650902,
+  "Ort": "Kiel",
+  "PLZ": 24106,
+  "Ressort": "BMVg",
+  "Telefax": "+49 431 667248-6974",
+  "Telefon": "+49 431 667248-6970",
+  "locations": [
+    {
+      "Breitengrad": "54.3495653",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "KathMilDekanatKiel@bundeswehr.org",
+      "Hauptadresse": "Parkstraße 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge/organisation/militaerdekanate/kiel-58360",
+      "Land": "DE",
+      "Längengrad": "10.1460549",
+      "Organisation": "Katholisches Militärdekanat Kiel",
+      "OrganisationDisplay": "Militärdekanat Kiel",
+      "OrganisationId": 650902,
+      "Ort": "Kiel",
+      "PLZ": 24106,
+      "Ressort": "BMVg",
+      "Telefax": "+49 431 667248-6974",
+      "Telefon": "+49 431 667248-6970"
+    }
+  ]
+}

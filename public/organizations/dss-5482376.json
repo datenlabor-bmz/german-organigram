@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "33.8854622",
+  "Bundesland": "Texas",
+  "E-Mail": "DeutscheSchuleSheppard@bundeswehr.org",
+  "Hauptadresse": "Stone Lake Drive 5105",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-amerika-83678",
+  "Land": "USA",
+  "Längengrad": "-98.5466132",
+  "Organisation": "Deutsche Schule Sheppard",
+  "OrganisationDisplay": "DSS",
+  "OrganisationId": 5482376,
+  "OrganisationKurz": "DSS",
+  "Ort": "Wichita Falls",
+  "PLZ": 76310,
+  "Ressort": "BMVg",
+  "Telefon": "+1 9402323806",
+  "locations": [
+    {
+      "Breitengrad": "33.8854622",
+      "Bundesland": "Texas",
+      "E-Mail": "DeutscheSchuleSheppard@bundeswehr.org",
+      "Hauptadresse": "Stone Lake Drive 5105",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-amerika-83678",
+      "Land": "USA",
+      "Längengrad": "-98.5466132",
+      "Organisation": "Deutsche Schule Sheppard",
+      "OrganisationDisplay": "DSS",
+      "OrganisationId": 5482376,
+      "OrganisationKurz": "DSS",
+      "Ort": "Wichita Falls",
+      "PLZ": 76310,
+      "Ressort": "BMVg",
+      "Telefon": "+1 9402323806"
+    }
+  ]
+}

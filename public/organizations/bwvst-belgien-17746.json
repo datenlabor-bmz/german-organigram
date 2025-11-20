@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.500663",
+  "E-Mail": "BWVStBelgienLeitung@bundeswehr.org",
+  "Hauptadresse": "Rue Haig 324",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-belgien",
+  "Land": "Belgien",
+  "Längengrad": "3.974928",
+  "Organisation": "Bundeswehrverwaltungsstelle Belgien",
+  "OrganisationDisplay": "BWVSt Belgien ",
+  "OrganisationId": 17746,
+  "OrganisationKurz": "BWVSt Belgien ",
+  "Ort": "SHAPE",
+  "PLZ": 7010,
+  "Ressort": "BMVg",
+  "Telefax": "+32 65 445149",
+  "Telefon": "+32 65 444969",
+  "locations": [
+    {
+      "Breitengrad": "50.500663",
+      "E-Mail": "BWVStBelgienLeitung@bundeswehr.org",
+      "Hauptadresse": "Rue Haig 324",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-belgien",
+      "Land": "Belgien",
+      "Längengrad": "3.974928",
+      "Organisation": "Bundeswehrverwaltungsstelle Belgien",
+      "OrganisationDisplay": "BWVSt Belgien ",
+      "OrganisationId": 17746,
+      "OrganisationKurz": "BWVSt Belgien ",
+      "Ort": "SHAPE",
+      "PLZ": 7010,
+      "Ressort": "BMVg",
+      "Telefax": "+32 65 445149",
+      "Telefon": "+32 65 444969"
+    }
+  ]
+}

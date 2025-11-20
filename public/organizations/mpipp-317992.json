@@ -1,0 +1,47 @@
+{
+  "Breitengrad": "48.2629559",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@ipp.mpg.de",
+  "Hauptadresse": "Boltzmannstraße 2",
+  "Internetadresse": "https://www.ipp.mpg.de/",
+  "Land": "DE",
+  "Längengrad": "11.6704342",
+  "Organisation": "Max-Planck-Institut für Plasmaphysik",
+  "OrganisationDisplay": "MPIPP",
+  "OrganisationId": 317992,
+  "OrganisationKurz": "MPIPP",
+  "Ort": "Garching",
+  "PLZ": 85748,
+  "Telefon": "+49 89 3299-01",
+  "locations": [
+    {
+      "Breitengrad": "48.2629559",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@ipp.mpg.de",
+      "Hauptadresse": "Boltzmannstraße 2",
+      "Internetadresse": "https://www.ipp.mpg.de/",
+      "Land": "DE",
+      "Längengrad": "11.6704342",
+      "Organisation": "Max-Planck-Institut für Plasmaphysik",
+      "OrganisationDisplay": "MPIPP",
+      "OrganisationId": 317992,
+      "OrganisationKurz": "MPIPP",
+      "Ort": "Garching",
+      "PLZ": 85748,
+      "Telefon": "+49 89 3299-01"
+    },
+    {
+      "Adresse": "Wendelsteinstraße 1",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "info@ipp.mpg.de",
+      "Internetadresse": "https://www.ipp.mpg.de/",
+      "Land": "DE",
+      "Liegenschaft": "Teilinstitut Greifswald",
+      "LiegenschaftsId": 317990,
+      "OrganisationId": 317992,
+      "Ort": "Greifswald",
+      "PLZ": 17491,
+      "Telefon": "+49 3834 88-1000"
+    }
+  ]
+}

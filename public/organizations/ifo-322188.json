@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.1527621",
+  "Bundesland": "Bayern",
+  "E-Mail": "ifo@ifo.de",
+  "Hauptadresse": "Poschingerstraße 5",
+  "Internetadresse": "https://www.ifo.de/",
+  "Land": "DE",
+  "Längengrad": "11.6050501",
+  "Organisation": "ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e. V.",
+  "OrganisationDisplay": "ifo",
+  "OrganisationId": 322188,
+  "OrganisationKurz": "ifo",
+  "Ort": "München",
+  "PLZ": 81679,
+  "Telefax": "+49 89 985369",
+  "Telefon": "+49 89 9224-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.1527621",
+      "Bundesland": "Bayern",
+      "E-Mail": "ifo@ifo.de",
+      "Hauptadresse": "Poschingerstraße 5",
+      "Internetadresse": "https://www.ifo.de/",
+      "Land": "DE",
+      "Längengrad": "11.6050501",
+      "Organisation": "ifo Institut - Leibniz-Institut für Wirtschaftsforschung an der Universität München e. V.",
+      "OrganisationDisplay": "ifo",
+      "OrganisationId": 322188,
+      "OrganisationKurz": "ifo",
+      "Ort": "München",
+      "PLZ": 81679,
+      "Telefax": "+49 89 985369",
+      "Telefon": "+49 89 9224-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

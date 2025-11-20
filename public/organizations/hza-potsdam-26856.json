@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.413224",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "poststelle.hza-potsdam@zoll.bund.de",
+  "Hauptadresse": "Rembrandtstraße 26 A",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "13.080702",
+  "Organisation": "Hauptzollamt Potsdam",
+  "OrganisationDisplay": "HZA Potsdam",
+  "OrganisationId": 26856,
+  "OrganisationKurz": "HZA Potsdam",
+  "Ort": "Potsdam",
+  "PLZ": 14467,
+  "Ressort": "BMF",
+  "Telefax": "+49 331 2308-109",
+  "Telefon": "+49 331 50590",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "52.413224",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "poststelle.hza-potsdam@zoll.bund.de",
+      "Hauptadresse": "Rembrandtstraße 26 A",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "13.080702",
+      "Organisation": "Hauptzollamt Potsdam",
+      "OrganisationDisplay": "HZA Potsdam",
+      "OrganisationId": 26856,
+      "OrganisationKurz": "HZA Potsdam",
+      "Ort": "Potsdam",
+      "PLZ": 14467,
+      "Ressort": "BMF",
+      "Telefax": "+49 331 2308-109",
+      "Telefon": "+49 331 50590",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

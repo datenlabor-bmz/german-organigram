@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.254526",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "info@izfp.fraunhofer.de",
+  "Hauptadresse": "Campus E 31",
+  "Internetadresse": "https://www.izfp.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.035937",
+  "Organisation": "Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren",
+  "OrganisationDisplay": "IZFP",
+  "OrganisationId": 603840,
+  "OrganisationKurz": "IZFP",
+  "Ort": "Saarbrücken",
+  "PLZ": 66123,
+  "Telefax": "+49 681 9302-5901",
+  "Telefon": "+49 681 9302-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.254526",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "info@izfp.fraunhofer.de",
+      "Hauptadresse": "Campus E 31",
+      "Internetadresse": "https://www.izfp.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.035937",
+      "Organisation": "Fraunhofer-Institut für Zerstörungsfreie Prüfverfahren",
+      "OrganisationDisplay": "IZFP",
+      "OrganisationId": 603840,
+      "OrganisationKurz": "IZFP",
+      "Ort": "Saarbrücken",
+      "PLZ": 66123,
+      "Telefax": "+49 681 9302-5901",
+      "Telefon": "+49 681 9302-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

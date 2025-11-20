@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.46754",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@bav.bund.de",
+  "Hauptadresse": "Schloßplatz 9",
+  "Internetadresse": "https://www.bav.bund.de/DE/1_Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "7.47699",
+  "Organisation": "Bundesanstalt für Verwaltungsdienstleistungen",
+  "OrganisationDisplay": "BAV",
+  "OrganisationId": 2947052,
+  "OrganisationKurz": "BAV",
+  "Ort": "Aurich",
+  "PLZ": 26603,
+  "Ressort": "BMV",
+  "Telefax": "+49 4941 602-378",
+  "Telefon": "+49 4941 602-0",
+  "locations": [
+    {
+      "Breitengrad": "53.46754",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@bav.bund.de",
+      "Hauptadresse": "Schloßplatz 9",
+      "Internetadresse": "https://www.bav.bund.de/DE/1_Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "7.47699",
+      "Organisation": "Bundesanstalt für Verwaltungsdienstleistungen",
+      "OrganisationDisplay": "BAV",
+      "OrganisationId": 2947052,
+      "OrganisationKurz": "BAV",
+      "Ort": "Aurich",
+      "PLZ": 26603,
+      "Ressort": "BMV",
+      "Telefax": "+49 4941 602-378",
+      "Telefon": "+49 4941 602-0"
+    }
+  ]
+}

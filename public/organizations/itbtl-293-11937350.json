@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "47.6885",
+  "Bundesland": "Bayern",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Weilheimer Straße 60",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl293/!ut/p/z1/hU67DoIwFP0WB9beiyiiWxeNxldCjNDFVKgFUyiplfr51jiZaDzbeeYAgwxYy_taclvrlivPcxaf4ulouRimuEmSeYh0S_fz3SEZ4mECx38B5m38AYqQlgJyvzH5uRGGkAIDduU9f5BOG6uEJbx4PYS84m2pxF4X9C2sgEmlz-_rtD1HiQRmxEUYYcjdeLmytrvNAgzQOUek1lIJUugmwG-VSt8sZJ9J6JrMYTRW_ZoOnkvQPUU!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU82011",
+  "Land": "DE",
+  "Längengrad": "11.20330000",
+  "Organisation": "Informationstechnikbataillon 293",
+  "OrganisationDisplay": "ITBtl 293",
+  "OrganisationId": 11937350,
+  "OrganisationKurz": "ITBtl 293",
+  "Ort": "Murnau am Staffelsee",
+  "PLZ": 82418,
+  "Ressort": "BMVg",
+  "Telefon": "+49 8841 609-0",
+  "locations": [
+    {
+      "Breitengrad": "47.6885",
+      "Bundesland": "Bayern",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Weilheimer Straße 60",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl293/!ut/p/z1/hU67DoIwFP0WB9beiyiiWxeNxldCjNDFVKgFUyiplfr51jiZaDzbeeYAgwxYy_taclvrlivPcxaf4ulouRimuEmSeYh0S_fz3SEZ4mECx38B5m38AYqQlgJyvzH5uRGGkAIDduU9f5BOG6uEJbx4PYS84m2pxF4X9C2sgEmlz-_rtD1HiQRmxEUYYcjdeLmytrvNAgzQOUek1lIJUugmwG-VSt8sZJ9J6JrMYTRW_ZoOnkvQPUU!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU82011",
+      "Land": "DE",
+      "Längengrad": "11.20330000",
+      "Organisation": "Informationstechnikbataillon 293",
+      "OrganisationDisplay": "ITBtl 293",
+      "OrganisationId": 11937350,
+      "OrganisationKurz": "ITBtl 293",
+      "Ort": "Murnau am Staffelsee",
+      "PLZ": 82418,
+      "Ressort": "BMVg",
+      "Telefon": "+49 8841 609-0"
+    }
+  ]
+}

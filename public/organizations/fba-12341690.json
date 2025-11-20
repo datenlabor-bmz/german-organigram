@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.3439913",
+  "Bundesland": "Sachsen",
+  "E-Mail": "poststelle@fba.bund.de",
+  "Hauptadresse": "Friedrich-Ebert-Straße 72-78",
+  "Internetadresse": "https://www.fba.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "12.3909558",
+  "Organisation": "Fernstraßen-Bundesamt",
+  "OrganisationDisplay": "FBA",
+  "OrganisationId": 12341690,
+  "OrganisationKurz": "FBA",
+  "Ort": "Leipzig",
+  "PLZ": 4109,
+  "Ressort": "BMV",
+  "Telefon": "+49 341 49611-0",
+  "locations": [
+    {
+      "Breitengrad": "51.3439913",
+      "Bundesland": "Sachsen",
+      "E-Mail": "poststelle@fba.bund.de",
+      "Hauptadresse": "Friedrich-Ebert-Straße 72-78",
+      "Internetadresse": "https://www.fba.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "12.3909558",
+      "Organisation": "Fernstraßen-Bundesamt",
+      "OrganisationDisplay": "FBA",
+      "OrganisationId": 12341690,
+      "OrganisationKurz": "FBA",
+      "Ort": "Leipzig",
+      "PLZ": 4109,
+      "Ressort": "BMV",
+      "Telefon": "+49 341 49611-0"
+    }
+  ]
+}

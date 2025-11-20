@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.907925",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BwDLZAugustdorf@Bundeswehr.org",
+  "Hauptadresse": "Lopshorner Weg 49",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-augustdorf",
+  "Land": "DE",
+  "Längengrad": "8.759691",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Augustdorf",
+  "OrganisationDisplay": "BwDLZ Augustdorf",
+  "OrganisationId": 18400,
+  "OrganisationKurz": "BwDLZ Augustdorf",
+  "Ort": "Augustdorf",
+  "PLZ": 32832,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5237 91-0",
+  "locations": [
+    {
+      "Breitengrad": "51.907925",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BwDLZAugustdorf@Bundeswehr.org",
+      "Hauptadresse": "Lopshorner Weg 49",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-augustdorf",
+      "Land": "DE",
+      "Längengrad": "8.759691",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Augustdorf",
+      "OrganisationDisplay": "BwDLZ Augustdorf",
+      "OrganisationId": 18400,
+      "OrganisationKurz": "BwDLZ Augustdorf",
+      "Ort": "Augustdorf",
+      "PLZ": 32832,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5237 91-0"
+    }
+  ]
+}

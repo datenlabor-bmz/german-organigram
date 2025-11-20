@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.477042",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "info@kulturstiftung-bund.de",
+  "Hauptadresse": "Franckeplatz 2",
+  "Internetadresse": "https://www.kulturstiftung-des-bundes.de/de",
+  "Land": "DE",
+  "Längengrad": "11.972213",
+  "Organisation": "Kulturstiftung des Bundes",
+  "OrganisationDisplay": "KSB",
+  "OrganisationId": 24472,
+  "OrganisationKurz": "KSB",
+  "Ort": "Halle",
+  "PLZ": 6110,
+  "Ressort": "BKM",
+  "Telefax": "+49 345 2997-333",
+  "Telefon": "+49 345 2997-0",
+  "locations": [
+    {
+      "Breitengrad": "51.477042",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "info@kulturstiftung-bund.de",
+      "Hauptadresse": "Franckeplatz 2",
+      "Internetadresse": "https://www.kulturstiftung-des-bundes.de/de",
+      "Land": "DE",
+      "Längengrad": "11.972213",
+      "Organisation": "Kulturstiftung des Bundes",
+      "OrganisationDisplay": "KSB",
+      "OrganisationId": 24472,
+      "OrganisationKurz": "KSB",
+      "Ort": "Halle",
+      "PLZ": 6110,
+      "Ressort": "BKM",
+      "Telefax": "+49 345 2997-333",
+      "Telefon": "+49 345 2997-0"
+    }
+  ]
+}

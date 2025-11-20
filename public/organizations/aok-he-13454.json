@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.220436",
+  "Bundesland": "Hessen",
+  "Hauptadresse": "Basler Straße 2",
+  "Internetadresse": "https://www.aok.de/pk/hessen/",
+  "Land": "DE",
+  "Längengrad": "8.624524",
+  "Organisation": "Allgemeine Ortskrankenkasse Hessen",
+  "OrganisationDisplay": "AOK HE",
+  "OrganisationId": 13454,
+  "OrganisationKurz": "AOK HE",
+  "Ort": "Bad Homburg",
+  "PLZ": 61352,
+  "Ressort": "BMG",
+  "Telefax": "+49 6985 091-7920",
+  "Telefon": "+49 800 0000 255",
+  "locations": [
+    {
+      "Breitengrad": "50.220436",
+      "Bundesland": "Hessen",
+      "Hauptadresse": "Basler Straße 2",
+      "Internetadresse": "https://www.aok.de/pk/hessen/",
+      "Land": "DE",
+      "Längengrad": "8.624524",
+      "Organisation": "Allgemeine Ortskrankenkasse Hessen",
+      "OrganisationDisplay": "AOK HE",
+      "OrganisationId": 13454,
+      "OrganisationKurz": "AOK HE",
+      "Ort": "Bad Homburg",
+      "PLZ": 61352,
+      "Ressort": "BMG",
+      "Telefax": "+49 6985 091-7920",
+      "Telefon": "+49 800 0000 255"
+    }
+  ]
+}

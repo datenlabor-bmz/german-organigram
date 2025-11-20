@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.5292439",
+  "Bundesland": "Saarland",
+  "E-Mail": "service@dagstuhl.de",
+  "Hauptadresse": "Oktavie-Allee ",
+  "Internetadresse": "https://www.dagstuhl.de",
+  "Land": "DE",
+  "Längengrad": "6.8978398",
+  "Organisation": "Schloss Dagstuhl - Leibniz-Zentrum für Informatik GmbH",
+  "OrganisationDisplay": "LZI",
+  "OrganisationId": 424806,
+  "OrganisationKurz": "LZI",
+  "Ort": "Wadern",
+  "PLZ": 66687,
+  "Telefax": "+49 6871 905-133",
+  "Telefon": "+49 6871 905-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.5292439",
+      "Bundesland": "Saarland",
+      "E-Mail": "service@dagstuhl.de",
+      "Hauptadresse": "Oktavie-Allee ",
+      "Internetadresse": "https://www.dagstuhl.de",
+      "Land": "DE",
+      "Längengrad": "6.8978398",
+      "Organisation": "Schloss Dagstuhl - Leibniz-Zentrum für Informatik GmbH",
+      "OrganisationDisplay": "LZI",
+      "OrganisationId": 424806,
+      "OrganisationKurz": "LZI",
+      "Ort": "Wadern",
+      "PLZ": 66687,
+      "Telefax": "+49 6871 905-133",
+      "Telefon": "+49 6871 905-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.7837177",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@ilt.fraunhofer.de",
+  "Hauptadresse": "Steinbachstraße 15",
+  "Internetadresse": "https://www.ilt.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "6.0497075",
+  "Organisation": "Fraunhofer-Institut für Lasertechnik",
+  "OrganisationDisplay": "ILT",
+  "OrganisationId": 517602,
+  "OrganisationKurz": "ILT",
+  "Ort": "Aachen",
+  "PLZ": 52074,
+  "Telefax": "+49 241 8906-121",
+  "Telefon": "+49 241 8906-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.7837177",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@ilt.fraunhofer.de",
+      "Hauptadresse": "Steinbachstraße 15",
+      "Internetadresse": "https://www.ilt.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "6.0497075",
+      "Organisation": "Fraunhofer-Institut für Lasertechnik",
+      "OrganisationDisplay": "ILT",
+      "OrganisationId": 517602,
+      "OrganisationKurz": "ILT",
+      "Ort": "Aachen",
+      "PLZ": 52074,
+      "Telefax": "+49 241 8906-121",
+      "Telefon": "+49 241 8906-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

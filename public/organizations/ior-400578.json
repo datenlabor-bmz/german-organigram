@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.0308398",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@ioer.de",
+  "Hauptadresse": "Weberplatz 1",
+  "Internetadresse": "https://www.ioer.de",
+  "Land": "DE",
+  "Längengrad": "13.7480938",
+  "Organisation": "Leibniz-Institut für ökologische Raumentwicklung e.V.",
+  "OrganisationDisplay": "IÖR",
+  "OrganisationId": 400578,
+  "OrganisationKurz": "IÖR",
+  "Ort": "Dresden",
+  "PLZ": 1217,
+  "Telefax": "+49 351 4679-212",
+  "Telefon": "+49 351 4679-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.0308398",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@ioer.de",
+      "Hauptadresse": "Weberplatz 1",
+      "Internetadresse": "https://www.ioer.de",
+      "Land": "DE",
+      "Längengrad": "13.7480938",
+      "Organisation": "Leibniz-Institut für ökologische Raumentwicklung e.V.",
+      "OrganisationDisplay": "IÖR",
+      "OrganisationId": 400578,
+      "OrganisationKurz": "IÖR",
+      "Ort": "Dresden",
+      "PLZ": 1217,
+      "Telefax": "+49 351 4679-212",
+      "Telefon": "+49 351 4679-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "37.53166",
+  "E-Mail": "BWVStItalienLeitung@bundeswehr.org",
+  "Hauptadresse": "Viale Ulisse 12-14",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-italien",
+  "Land": "Italien",
+  "Längengrad": "15.10746",
+  "Organisation": "Bundeswehrverwaltungsstelle Italien",
+  "OrganisationDisplay": "BWVSt Italien",
+  "OrganisationId": 17780,
+  "OrganisationKurz": "BWVSt Italien",
+  "Ort": "Catania",
+  "PLZ": 95126,
+  "Ressort": "BMVg",
+  "Telefax": "+39 070 9643-3504",
+  "Telefon": "+39 070 9643-0",
+  "locations": [
+    {
+      "Breitengrad": "37.53166",
+      "E-Mail": "BWVStItalienLeitung@bundeswehr.org",
+      "Hauptadresse": "Viale Ulisse 12-14",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-italien",
+      "Land": "Italien",
+      "Längengrad": "15.10746",
+      "Organisation": "Bundeswehrverwaltungsstelle Italien",
+      "OrganisationDisplay": "BWVSt Italien",
+      "OrganisationId": 17780,
+      "OrganisationKurz": "BWVSt Italien",
+      "Ort": "Catania",
+      "PLZ": 95126,
+      "Ressort": "BMVg",
+      "Telefax": "+39 070 9643-3504",
+      "Telefon": "+39 070 9643-0"
+    }
+  ]
+}

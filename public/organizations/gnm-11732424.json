@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.4515385",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@gnm.de",
+  "Hauptadresse": "Kartäusergasse 1",
+  "Land": "DE",
+  "Längengrad": "11.104159",
+  "Organisation": "Germanisches Nationalmuseum",
+  "OrganisationDisplay": "GNM",
+  "OrganisationId": 11732424,
+  "OrganisationKurz": "GNM",
+  "Ort": "Nürnberg",
+  "PLZ": 90402,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 911 1331-200",
+  "Telefon": "+49 911 1331-0",
+  "locations": [
+    {
+      "Breitengrad": "49.4515385",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@gnm.de",
+      "Hauptadresse": "Kartäusergasse 1",
+      "Land": "DE",
+      "Längengrad": "11.104159",
+      "Organisation": "Germanisches Nationalmuseum",
+      "OrganisationDisplay": "GNM",
+      "OrganisationId": 11732424,
+      "OrganisationKurz": "GNM",
+      "Ort": "Nürnberg",
+      "PLZ": 90402,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 911 1331-200",
+      "Telefon": "+49 911 1331-0"
+    }
+  ]
+}

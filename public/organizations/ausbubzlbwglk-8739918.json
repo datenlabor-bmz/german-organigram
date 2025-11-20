@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.60214",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "AusbUebZLbwglk@Bundeswehr.org",
+  "Hauptadresse": "Flugplatz 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/ausbildungs-und-uebungszentrum-luftbeweglichkeit",
+  "Land": "DE",
+  "Längengrad": "10.03262",
+  "Organisation": "Ausbildungs- und Übungszentrum Luftbeweglichkeit",
+  "OrganisationDisplay": "AusbÜbZLbwglk",
+  "OrganisationId": 8739918,
+  "OrganisationKurz": "AusbÜbZLbwglk",
+  "Ort": "Celle",
+  "PLZ": 29225,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5141-9483-1010",
+  "locations": [
+    {
+      "Breitengrad": "52.60214",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "AusbUebZLbwglk@Bundeswehr.org",
+      "Hauptadresse": "Flugplatz 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/ausbildungs-und-uebungszentrum-luftbeweglichkeit",
+      "Land": "DE",
+      "Längengrad": "10.03262",
+      "Organisation": "Ausbildungs- und Übungszentrum Luftbeweglichkeit",
+      "OrganisationDisplay": "AusbÜbZLbwglk",
+      "OrganisationId": 8739918,
+      "OrganisationKurz": "AusbÜbZLbwglk",
+      "Ort": "Celle",
+      "PLZ": 29225,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5141-9483-1010"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "Breitengrad": "51.35838",
+  "Bundesland": "Hessen",
+  "E-Mail": "bpold.bp@polizei.bund.de",
+  "Hauptadresse": "Niedervellmarsche Straße 50",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/BP/bereitschaftspolizei_node.html",
+  "Land": "DE",
+  "Längengrad": "9.499368",
+  "Organisation": "Direktion Bundesbereitschaftspolizei",
+  "OrganisationDisplay": "BPOLD BP",
+  "OrganisationId": 22156,
+  "OrganisationKurz": "BPOLD BP",
+  "Ort": "Fuldatal",
+  "PLZ": 34233,
+  "Ressort": "BMI",
+  "Telefax": "+49 561 9367-1163",
+  "Telefon": "+49 561 9367-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "Wikidata ID": "Q94648394",
+  "locations": [
+    {
+      "Breitengrad": "51.35838",
+      "Bundesland": "Hessen",
+      "E-Mail": "bpold.bp@polizei.bund.de",
+      "Hauptadresse": "Niedervellmarsche Straße 50",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/BP/bereitschaftspolizei_node.html",
+      "Land": "DE",
+      "Längengrad": "9.499368",
+      "Organisation": "Direktion Bundesbereitschaftspolizei",
+      "OrganisationDisplay": "BPOLD BP",
+      "OrganisationId": 22156,
+      "OrganisationKurz": "BPOLD BP",
+      "Ort": "Fuldatal",
+      "PLZ": 34233,
+      "Ressort": "BMI",
+      "Telefax": "+49 561 9367-1163",
+      "Telefon": "+49 561 9367-0",
+      "Kategorie": "Bundesmittelbehörde",
+      "Wikidata ID": "Q94648394"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q94648394",
+    "data": {
+      "type": "item",
+      "id": "Q94648394",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Direktion Bundesbereitschaftspolizei"
+        },
+        "en": {
+          "language": "en",
+          "value": "Direktion Bundesbereitschaftspolizei"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "deutsche Unterbehörde der Bundespolizei"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "5e54bbe247acaf819436ddbdfe9a1c7260660acc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 99934862,
+                  "id": "Q99934862"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94648394$4ebe30aa-4ba5-ce04-0ae9-51e70262cae1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "9ddcceeaf7e560950a86839bdadd0b10ace0c362",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 35535,
+                  "id": "Q35535"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94648394$6eb6481e-459f-9cd7-627c-ce24a3b1fb52",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94648394$5d729d6f-4a81-3c15-f39a-5cad36f94fc5",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "72b6cf25073f954774f19ba7f46f0009c5526a63",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 56026,
+                  "id": "Q56026"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94648394$c9638ba8-4415-c4c7-cb2d-8177e504137f",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "b7ef0d122265d76d14af16deae61a29ee268a0ab",
+              "datavalue": {
+                "value": "Logo Direktion Bundesbereitschaftspolizei.png",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q94648394$6e99e8f7-4f70-beab-544d-69f614df4cb0",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "32c6ccb450b155095b23655cbd8ce9e7b03b231d",
+              "datavalue": {
+                "value": {
+                  "latitude": 51.3605,
+                  "longitude": 9.499,
+                  "altitude": null,
+                  "precision": 0.0001,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q94648394$c490595e-4d29-dff4-f3e5-0f8be45a675d",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "3f9c6b6dd6a5f80c99ab222d374fbfa34d7134fe",
+              "datavalue": {
+                "value": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/BP/bereitschaftspolizei_node.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q94648394$5b371132-4a98-bf38-30e6-c33ccc2c6663",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "0148446b01349f86471adfd0ba419c0fb53da186",
+              "datavalue": {
+                "value": {
+                  "time": "+2008-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q94648394$9c29a604-465d-3a39-dfdf-889feb3e0dea",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "2bcc1593733822af3ae4b74ddc60cab573a55d8a",
+              "datavalue": {
+                "value": "/g/11jg_wnrrk",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q94648394$08AB4E8C-D943-4D49-B351-CA56C30B5637",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "15581521720eab1b304238cb951067579c54be53",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 569651,
+                  "id": "Q569651"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94648394$7190a57d-4e6f-722d-0bd4-25928cb58fa5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "e6218a832baefb8ca3ddf7c647f8f948861a1d25",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 625894,
+                  "id": "Q625894"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94648394$505cd3e5-48a4-430c-db48-3d861c596e67",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Direktion Bundesbereitschaftspolizei",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q56026": {
+        "type": "item",
+        "id": "Q56026",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundespolizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Police of Germany"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal law enforcement agency"
+          }
+        }
+      },
+      "Q35535": {
+        "type": "item",
+        "id": "Q35535",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Polizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "police"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Exekutivorgan eines Staates"
+          },
+          "en": {
+            "language": "en",
+            "value": "law enforcement body"
+          }
+        }
+      },
+      "Q99934862": {
+        "type": "item",
+        "id": "Q99934862",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesunterbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Bundesunterbehörde"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Art von Bundesbehörde in Deutschland"
+          }
+        }
+      }
+    }
+  }
+}

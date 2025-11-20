@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515672",
+  "Bundesland": "Berlin",
+  "E-Mail": "Sekretariat.Abwicklerin@bvs-mail.de",
+  "Hauptadresse": "Schönhauser Allee 120",
+  "Internetadresse": "https://bvs.bund.de",
+  "Land": "DE",
+  "Längengrad": "13.392915",
+  "Organisation": "Bundesanstalt für vereinigungsbedingte Sonderaufgaben",
+  "OrganisationDisplay": "BvS",
+  "OrganisationId": 17182,
+  "OrganisationKurz": "BvS",
+  "Ort": "Berlin",
+  "PLZ": 10437,
+  "Ressort": "BMF",
+  "Telefax": "+49 30 2451-1200",
+  "Telefon": "+49 30 4432-2300",
+  "locations": [
+    {
+      "Breitengrad": "52.515672",
+      "Bundesland": "Berlin",
+      "E-Mail": "Sekretariat.Abwicklerin@bvs-mail.de",
+      "Hauptadresse": "Schönhauser Allee 120",
+      "Internetadresse": "https://bvs.bund.de",
+      "Land": "DE",
+      "Längengrad": "13.392915",
+      "Organisation": "Bundesanstalt für vereinigungsbedingte Sonderaufgaben",
+      "OrganisationDisplay": "BvS",
+      "OrganisationId": 17182,
+      "OrganisationKurz": "BvS",
+      "Ort": "Berlin",
+      "PLZ": 10437,
+      "Ressort": "BMF",
+      "Telefax": "+49 30 2451-1200",
+      "Telefon": "+49 30 4432-2300"
+    }
+  ]
+}

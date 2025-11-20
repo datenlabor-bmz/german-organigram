@@ -1,0 +1,307 @@
+{
+  "Breitengrad": "48.54876",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle.hza-landshut@zoll.bund.de",
+  "Hauptadresse": "Sonnenring 14",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "12.1049008",
+  "Organisation": "Hauptzollamt Landshut",
+  "OrganisationDisplay": "HZA Landshut",
+  "OrganisationId": 26822,
+  "OrganisationKurz": "HZA Landshut",
+  "Ort": "Altdorf",
+  "PLZ": 84032,
+  "Ressort": "BMF",
+  "Telefax": "+49 871 806-1065",
+  "Telefon": "+49 871 806-0",
+  "Kategorie": "Bundesunterbehörde",
+  "Wikidata ID": "Q134887595",
+  "locations": [
+    {
+      "Breitengrad": "48.54876",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle.hza-landshut@zoll.bund.de",
+      "Hauptadresse": "Sonnenring 14",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "12.1049008",
+      "Organisation": "Hauptzollamt Landshut",
+      "OrganisationDisplay": "HZA Landshut",
+      "OrganisationId": 26822,
+      "OrganisationKurz": "HZA Landshut",
+      "Ort": "Altdorf",
+      "PLZ": 84032,
+      "Ressort": "BMF",
+      "Telefax": "+49 871 806-1065",
+      "Telefon": "+49 871 806-0",
+      "Kategorie": "Bundesunterbehörde",
+      "Wikidata ID": "Q134887595"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q134887595",
+    "data": {
+      "type": "item",
+      "id": "Q134887595",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt Landshut"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt in Deutschland"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "c541e660ea15bb30e997a5ed16f8b6e54d7e955a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 811979,
+                  "id": "Q811979"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q134887595$7BDF2CB1-3E8C-412C-B100-112555E3D97C",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "c82e7283d6936516e08c013d05d4d39f9a02d582",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 218550,
+                  "id": "Q218550"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q134887595$fc6c73a6-4abf-90ab-1615-f2ac6a7e1d48",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "b6198d8f30b08f4e770d04945ae069d586e062cf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1354730,
+                  "id": "Q1354730"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q134887595$459b8756-4ce1-6ba7-797d-71919e273953",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q134887595$F12ED4BA-085A-42DE-8529-675CA8A7CC33",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "16f6ccfe57f635eaac20d331c2a5c9d578f4c52e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3974,
+                  "id": "Q3974"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q134887595$7c532dea-44d4-4bdf-6fd0-37d05c36d062",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "56ba8bd03f82daf8aaaf30497cdda89e055f0596",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 435221,
+                  "id": "Q435221"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q134887595$4bb0f792-4662-7b0e-9be3-551d57329dea",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "feb2a7a7eedd4e4f2deeffa6a970cfeb48b5ff70",
+              "datavalue": {
+                "value": {
+                  "latitude": 48.548508,
+                  "longitude": 12.104154,
+                  "altitude": null,
+                  "precision": 1e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q134887595$E0BD1DD5-5C46-4710-9A25-C485A534F1E0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {}
+    },
+    "referenced_entities": {
+      "Q1354730": {
+        "type": "item",
+        "id": "Q1354730",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bestandteil der Bundeszollverwaltung in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Part of the Federal Customs Administration in Germany"
+          }
+        }
+      },
+      "Q811979": {
+        "type": "item",
+        "id": "Q811979",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "architectural structure"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bauwerk"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Konstruktion mit ruhendem Kontakt zum Untergrund, z. B. Straße, Brücke, Fundament"
+          },
+          "en": {
+            "language": "en",
+            "value": "human-designed and -made structure"
+          }
+        }
+      },
+      "Q218550": {
+        "type": "item",
+        "id": "Q218550",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Zollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Zollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Zollbehörde in Deutschland und Österreich"
+          },
+          "en": {
+            "language": "en",
+            "value": "customs agency in Germany and Austria"
+          }
+        }
+      }
+    }
+  }
+}

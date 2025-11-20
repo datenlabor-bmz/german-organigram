@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.0215029",
+  "Bundesland": "Thüringen",
+  "E-Mail": "presse@buchenwald.de",
+  "Hauptadresse": " ",
+  "Internetadresse": "https://www.buchenwald.de/nc/896/",
+  "Land": "DE",
+  "Längengrad": "11.2142086",
+  "Organisation": "Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora",
+  "OrganisationDisplay": "Gedenkstätte Buchenwald",
+  "OrganisationId": 8330816,
+  "Ort": "Weimar",
+  "PLZ": 99427,
+  "Telefax": "+49 3643 430100",
+  "Telefon": "+49 3643 430157",
+  "locations": [
+    {
+      "Breitengrad": "51.0215029",
+      "Bundesland": "Thüringen",
+      "E-Mail": "presse@buchenwald.de",
+      "Hauptadresse": " ",
+      "Internetadresse": "https://www.buchenwald.de/nc/896/",
+      "Land": "DE",
+      "Längengrad": "11.2142086",
+      "Organisation": "Stiftung Gedenkstätten Buchenwald und Mittelbau-Dora",
+      "OrganisationDisplay": "Gedenkstätte Buchenwald",
+      "OrganisationId": 8330816,
+      "Ort": "Weimar",
+      "PLZ": 99427,
+      "Telefax": "+49 3643 430100",
+      "Telefon": "+49 3643 430157"
+    }
+  ]
+}

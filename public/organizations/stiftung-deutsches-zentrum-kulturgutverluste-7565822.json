@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.1149993",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "kontakt@kulturgutverluste.de",
+  "Hauptadresse": "Humboldtstraße 12",
+  "Internetadresse": "https://www.kulturgutverluste.de/Webs/DE/Start/Index.html",
+  "Land": "DE",
+  "Längengrad": "11.6236808",
+  "Organisation": "Stiftung Deutsches Zentrum Kulturgutverluste",
+  "OrganisationDisplay": "Kulturgutverluste",
+  "OrganisationId": 7565822,
+  "Ort": "Magdeburg",
+  "PLZ": 39112,
+  "Telefax": "+49 391 727763-6",
+  "Telefon": "+49 391 727763-0",
+  "locations": [
+    {
+      "Breitengrad": "52.1149993",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "kontakt@kulturgutverluste.de",
+      "Hauptadresse": "Humboldtstraße 12",
+      "Internetadresse": "https://www.kulturgutverluste.de/Webs/DE/Start/Index.html",
+      "Land": "DE",
+      "Längengrad": "11.6236808",
+      "Organisation": "Stiftung Deutsches Zentrum Kulturgutverluste",
+      "OrganisationDisplay": "Kulturgutverluste",
+      "OrganisationId": 7565822,
+      "Ort": "Magdeburg",
+      "PLZ": 39112,
+      "Telefax": "+49 391 727763-6",
+      "Telefon": "+49 391 727763-0"
+    }
+  ]
+}

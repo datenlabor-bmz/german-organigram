@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "54.3598445",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "marine@bundeswehr.org",
+  "Hauptadresse": "Papellallee 24",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "13.0727518",
+  "Organisation": "Marinetechnikschule",
+  "OrganisationDisplay": "MTS",
+  "OrganisationId": 649390,
+  "OrganisationKurz": "MTS",
+  "Ort": "Kramerhof",
+  "PLZ": 18445,
+  "Ressort": "BMVg",
+  "locations": [
+    {
+      "Breitengrad": "54.3598445",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "marine@bundeswehr.org",
+      "Hauptadresse": "Papellallee 24",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "13.0727518",
+      "Organisation": "Marinetechnikschule",
+      "OrganisationDisplay": "MTS",
+      "OrganisationId": 649390,
+      "OrganisationKurz": "MTS",
+      "Ort": "Kramerhof",
+      "PLZ": 18445,
+      "Ressort": "BMVg"
+    }
+  ]
+}

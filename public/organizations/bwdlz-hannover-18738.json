@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.416247",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZHannover@bundeswehr.org",
+  "Hauptadresse": "Alter Flughafen 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-hannover",
+  "Land": "DE",
+  "Längengrad": "9.738402",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Hannover",
+  "OrganisationDisplay": "BwDLZ Hannover",
+  "OrganisationId": 18738,
+  "OrganisationKurz": "BwDLZ Hannover",
+  "Ort": "Hannover",
+  "PLZ": 30179,
+  "Ressort": "BMVg",
+  "Telefon": "+49 511 6798-0",
+  "locations": [
+    {
+      "Breitengrad": "52.416247",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZHannover@bundeswehr.org",
+      "Hauptadresse": "Alter Flughafen 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-hannover",
+      "Land": "DE",
+      "Längengrad": "9.738402",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Hannover",
+      "OrganisationDisplay": "BwDLZ Hannover",
+      "OrganisationId": 18738,
+      "OrganisationKurz": "BwDLZ Hannover",
+      "Ort": "Hannover",
+      "PLZ": 30179,
+      "Ressort": "BMVg",
+      "Telefon": "+49 511 6798-0"
+    }
+  ]
+}

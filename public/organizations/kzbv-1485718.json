@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "50.9325355",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "post@kzbv.de",
+  "Hauptadresse": "Universitätsstraße 73",
+  "Internetadresse": "https://www.kzbv.de/",
+  "Land": "DE",
+  "Längengrad": "6.925082",
+  "Organisation": "Kassenzahnärztliche Bundesvereinigung",
+  "OrganisationDisplay": "KZBV",
+  "OrganisationId": 1485718,
+  "OrganisationKurz": "KZBV",
+  "Ort": "Köln",
+  "PLZ": 50931,
+  "Ressort": "BMG",
+  "Telefax": "+49 221 404035",
+  "Telefon": "+49 221 4001-0",
+  "locations": [
+    {
+      "Breitengrad": "50.9325355",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "post@kzbv.de",
+      "Hauptadresse": "Universitätsstraße 73",
+      "Internetadresse": "https://www.kzbv.de/",
+      "Land": "DE",
+      "Längengrad": "6.925082",
+      "Organisation": "Kassenzahnärztliche Bundesvereinigung",
+      "OrganisationDisplay": "KZBV",
+      "OrganisationId": 1485718,
+      "OrganisationKurz": "KZBV",
+      "Ort": "Köln",
+      "PLZ": 50931,
+      "Ressort": "BMG",
+      "Telefax": "+49 221 404035",
+      "Telefon": "+49 221 4001-0"
+    },
+    {
+      "Adresse": "Behrenstraße 42",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.kzbv.de/",
+      "Land": "DE",
+      "Liegenschaft": "Büro Berlin/ Presse- und Öffentlichkeitsarbeit der KZBV",
+      "LiegenschaftsId": 1485730,
+      "OrganisationId": 1485718,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 280179-20",
+      "Telefon": "+49 30 280179-0 (Zentrale), +49 30 280179-27 (Presse)"
+    }
+  ]
+}

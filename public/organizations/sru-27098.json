@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5234286",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@umweltrat.de",
+  "Hauptadresse": "Luisenstraße 46",
+  "Internetadresse": "https://www.umweltrat.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.379825",
+  "Organisation": "Sachverständigenrat für Umweltfragen",
+  "OrganisationDisplay": "SRU",
+  "OrganisationId": 27098,
+  "OrganisationKurz": "SRU",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMUKN",
+  "Telefax": "+49 30 263696-109",
+  "Telefon": "+49 30 263696-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5234286",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@umweltrat.de",
+      "Hauptadresse": "Luisenstraße 46",
+      "Internetadresse": "https://www.umweltrat.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.379825",
+      "Organisation": "Sachverständigenrat für Umweltfragen",
+      "OrganisationDisplay": "SRU",
+      "OrganisationId": 27098,
+      "OrganisationKurz": "SRU",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMUKN",
+      "Telefax": "+49 30 263696-109",
+      "Telefon": "+49 30 263696-0"
+    }
+  ]
+}

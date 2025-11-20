@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bmwe.bund.de",
+  "Hauptadresse": "Scharnhorststraße 34 - 37",
+  "Internetadresse": "https://www.bmwk.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-christmann.html",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Koordinatorin der Bundesregierung für die Deutsche Luft- und Raumfahrt",
+  "OrganisationDisplay": "KB Luft- & Raumfahrt",
+  "OrganisationId": 12469798,
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BMWE",
+  "Telefon": "+49 30 18615-6710",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bmwe.bund.de",
+      "Hauptadresse": "Scharnhorststraße 34 - 37",
+      "Internetadresse": "https://www.bmwk.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-christmann.html",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Koordinatorin der Bundesregierung für die Deutsche Luft- und Raumfahrt",
+      "OrganisationDisplay": "KB Luft- & Raumfahrt",
+      "OrganisationId": 12469798,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BMWE",
+      "Telefon": "+49 30 18615-6710",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.42999",
+  "Bundesland": "Berlin",
+  "E-Mail": "drk@drk.de",
+  "Hauptadresse": "Carstennstraße 58",
+  "Internetadresse": "https://www.drk.de/",
+  "Land": "DE",
+  "Längengrad": "13.28952",
+  "Organisation": "Deutsches Rotes Kreuz e. V.",
+  "OrganisationDisplay": "DRK",
+  "OrganisationId": 7542870,
+  "Ort": "Berlin",
+  "PLZ": 12205,
+  "Telefax": "+49 30 85404-450",
+  "Telefon": "+49 30 85404-0",
+  "locations": [
+    {
+      "Breitengrad": "52.42999",
+      "Bundesland": "Berlin",
+      "E-Mail": "drk@drk.de",
+      "Hauptadresse": "Carstennstraße 58",
+      "Internetadresse": "https://www.drk.de/",
+      "Land": "DE",
+      "Längengrad": "13.28952",
+      "Organisation": "Deutsches Rotes Kreuz e. V.",
+      "OrganisationDisplay": "DRK",
+      "OrganisationId": 7542870,
+      "Ort": "Berlin",
+      "PLZ": 12205,
+      "Telefax": "+49 30 85404-450",
+      "Telefon": "+49 30 85404-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5601322",
+  "Bundesland": "Berlin",
+  "E-Mail": "KathMilDekanatBerlin@bundeswehr.org",
+  "Hauptadresse": "Kurt-Schumacher-Damm 41",
+  "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge/organisation/militaerdekanate/berlin",
+  "Land": "DE",
+  "Längengrad": "13.3246256",
+  "Organisation": "Katholisches Militärdekanat Berlin",
+  "OrganisationDisplay": "Militärdekanat Berlin",
+  "OrganisationId": 650886,
+  "Ort": "Berlin",
+  "PLZ": 13405,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 4981 42-3591",
+  "Telefon": "+49 30 4981-3593",
+  "locations": [
+    {
+      "Breitengrad": "52.5601322",
+      "Bundesland": "Berlin",
+      "E-Mail": "KathMilDekanatBerlin@bundeswehr.org",
+      "Hauptadresse": "Kurt-Schumacher-Damm 41",
+      "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge/organisation/militaerdekanate/berlin",
+      "Land": "DE",
+      "Längengrad": "13.3246256",
+      "Organisation": "Katholisches Militärdekanat Berlin",
+      "OrganisationDisplay": "Militärdekanat Berlin",
+      "OrganisationId": 650886,
+      "Ort": "Berlin",
+      "PLZ": 13405,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 4981 42-3591",
+      "Telefon": "+49 30 4981-3593"
+    }
+  ]
+}

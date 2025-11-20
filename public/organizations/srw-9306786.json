@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.0711846",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@svr-wirtschaft.de",
+  "Hauptadresse": "c/o Statistisches Bundesamt Stresemann-Ring 11",
+  "Internetadresse": "https://www.sachverstaendigenrat-wirtschaft.de/index.html",
+  "Land": "DE",
+  "Längengrad": "8.2479912",
+  "Organisation": "Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+  "OrganisationDisplay": "SRW",
+  "OrganisationId": 9306786,
+  "OrganisationKurz": "SRW",
+  "Ort": "Wiesbaden",
+  "PLZ": 65189,
+  "Telefax": "+49 611 75-2538",
+  "Telefon": "+49 611 75-2390",
+  "locations": [
+    {
+      "Breitengrad": "50.0711846",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@svr-wirtschaft.de",
+      "Hauptadresse": "c/o Statistisches Bundesamt Stresemann-Ring 11",
+      "Internetadresse": "https://www.sachverstaendigenrat-wirtschaft.de/index.html",
+      "Land": "DE",
+      "Längengrad": "8.2479912",
+      "Organisation": "Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
+      "OrganisationDisplay": "SRW",
+      "OrganisationId": 9306786,
+      "OrganisationKurz": "SRW",
+      "Ort": "Wiesbaden",
+      "PLZ": 65189,
+      "Telefax": "+49 611 75-2538",
+      "Telefon": "+49 611 75-2390"
+    }
+  ]
+}

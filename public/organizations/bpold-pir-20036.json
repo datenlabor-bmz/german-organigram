@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.950332",
+  "Bundesland": "Sachsen",
+  "E-Mail": "bpold.pirna@polizei.bund.de",
+  "Hauptadresse": "Rottwerndorfer Straße 22",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Pirna/Pirna_node.html",
+  "Land": "DE",
+  "Längengrad": "13.94096",
+  "Organisation": "Bundespolizeidirektion Pirna",
+  "OrganisationDisplay": "BPOLD PIR",
+  "OrganisationId": 20036,
+  "OrganisationKurz": "BPOLD PIR",
+  "Ort": "Pirna",
+  "PLZ": 1796,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 204561-3650",
+  "Telefon": "+49 3501 795-60",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "50.950332",
+      "Bundesland": "Sachsen",
+      "E-Mail": "bpold.pirna@polizei.bund.de",
+      "Hauptadresse": "Rottwerndorfer Straße 22",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Pirna/Pirna_node.html",
+      "Land": "DE",
+      "Längengrad": "13.94096",
+      "Organisation": "Bundespolizeidirektion Pirna",
+      "OrganisationDisplay": "BPOLD PIR",
+      "OrganisationId": 20036,
+      "OrganisationKurz": "BPOLD PIR",
+      "Ort": "Pirna",
+      "PLZ": 1796,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 204561-3650",
+      "Telefon": "+49 3501 795-60",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

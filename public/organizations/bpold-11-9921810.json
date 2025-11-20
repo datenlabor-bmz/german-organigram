@@ -1,0 +1,390 @@
+{
+  "Breitengrad": "52.50179",
+  "Bundesland": "Berlin",
+  "E-Mail": "bpold11@polizei.bund.de",
+  "Hauptadresse": "Schöneberger Ufer 1",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/11/d11_node.html",
+  "Land": "DE",
+  "Längengrad": "13.37579",
+  "Organisation": "Bundespolizeidirektion 11",
+  "OrganisationDisplay": "BPOLD 11",
+  "OrganisationId": 9921810,
+  "OrganisationKurz": "BPOLD 11",
+  "Ort": "Berlin",
+  "PLZ": 10785,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 417074-1190",
+  "Telefon": "+49 30 417074-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "Wikidata ID": "Q94578227",
+  "locations": [
+    {
+      "Breitengrad": "52.50179",
+      "Bundesland": "Berlin",
+      "E-Mail": "bpold11@polizei.bund.de",
+      "Hauptadresse": "Schöneberger Ufer 1",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/11/d11_node.html",
+      "Land": "DE",
+      "Längengrad": "13.37579",
+      "Organisation": "Bundespolizeidirektion 11",
+      "OrganisationDisplay": "BPOLD 11",
+      "OrganisationId": 9921810,
+      "OrganisationKurz": "BPOLD 11",
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 417074-1190",
+      "Telefon": "+49 30 417074-0",
+      "Kategorie": "Bundesmittelbehörde",
+      "Wikidata ID": "Q94578227"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q94578227",
+    "data": {
+      "type": "item",
+      "id": "Q94578227",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundespolizeidirektion 11"
+        },
+        "en": {
+          "language": "en",
+          "value": "Bundespolizeidirektion 11"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "deutsche Unterbehörde der Bundespolizei mit Sitz in Berlin im Dienstgebäude der Königlichen Eisenbahndirektion Berlin"
+        },
+        "en": {
+          "language": "en",
+          "value": "German sub-authority of the Federal Police based in Berlin in the service building of the Royal Railway Directorate Berlin"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "5e54bbe247acaf819436ddbdfe9a1c7260660acc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 99934862,
+                  "id": "Q99934862"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94578227$68ad490c-48cf-4c6b-6f06-6e59eacc58cf",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "9ddcceeaf7e560950a86839bdadd0b10ace0c362",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 35535,
+                  "id": "Q35535"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94578227$150d0cdc-43fb-d1d7-5d05-237990c805f7",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94578227$1388948e-48c3-d6f0-8e9b-e6dfbd87e1bb",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "58ec5504045ff1cd050a730036f078319cac163a",
+              "datavalue": {
+                "value": "Bundespolizeidirektion 11.png",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q94578227$5a1a45ad-43a6-df8f-1229-fbba94e92c40",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "72b6cf25073f954774f19ba7f46f0009c5526a63",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 56026,
+                  "id": "Q56026"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94578227$c8da42fd-48f9-666a-a965-334b65ec59f4",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "4af6da24ec75e7115a1be9275e21a0890326df6a",
+              "datavalue": {
+                "value": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/11/d11_node.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q94578227$27bfb8ae-49bf-96eb-9c73-aa94c2dd3ddf",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "a002abb05c53eaa3a54c46ee146689113dcc5d63",
+              "datavalue": {
+                "value": {
+                  "time": "+2017-08-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q94578227$7b6ac9f7-4381-d90f-9c55-81b7098302c8",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "690bd1fb835ec948a5fa7cd55a74277f1c8238ba",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1220962,
+                  "id": "Q1220962"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q94578227$74bb5fd0-4ea6-6bd5-b096-7efd131234ef",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "5790be48590637f305bb31b5031fd77006167e59",
+              "datavalue": {
+                "value": "/g/11fvlfx1gm",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q94578227$467A3869-4979-4ACD-BCEE-0FAD84BC42D2",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "af3e9ab8bd7eb60f9e2d9342d338e473e1e8dc0e",
+              "datavalue": {
+                "value": "Bombardier-Verwaltung und Schöneberger Brücke 20150224 7.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q94578227$38ae9eda-40b3-3ee5-8578-42eb0397ca37",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "68445a2896d59f6fee6ba8fb61490912ebef1a91",
+              "datavalue": {
+                "value": {
+                  "text": "BPOLD 11",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q94578227$b55b213d-4b63-35bd-8687-8e69967aec37",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "11302d67ae3a77abadc78dcf7f24277d2021a56f",
+              "datavalue": {
+                "value": "Bundespolizeidirektion 11",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q94578227$0be1ad57-1ade-4db0-adc4-659866bd9243",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Bundespolizeidirektion 11",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundespolizeidirektion 11",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Bundespolizeidirektion 11",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q56026": {
+        "type": "item",
+        "id": "Q56026",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundespolizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Police of Germany"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal law enforcement agency"
+          }
+        }
+      },
+      "Q35535": {
+        "type": "item",
+        "id": "Q35535",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Polizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "police"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Exekutivorgan eines Staates"
+          },
+          "en": {
+            "language": "en",
+            "value": "law enforcement body"
+          }
+        }
+      },
+      "Q99934862": {
+        "type": "item",
+        "id": "Q99934862",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesunterbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Bundesunterbehörde"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Art von Bundesbehörde in Deutschland"
+          }
+        }
+      }
+    }
+  }
+}

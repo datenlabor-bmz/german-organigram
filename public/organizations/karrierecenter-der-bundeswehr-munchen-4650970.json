@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.1650052",
+  "Bundesland": "Bayern",
+  "E-Mail": "Bewerbungsservicemuenchen@bundeswehr.org",
+  "Hauptadresse": "Dachauer Straße 128",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bundesamt-fuer-das-personalmanagement-der-bundeswehr-/karrierecenter-der-bundeswehr-/-willkommen-im-karrierecenter-der-bundeswehr-muenchen-",
+  "Land": "DE",
+  "Längengrad": "11.5410997",
+  "Organisation": "Karrierecenter der Bundeswehr München",
+  "OrganisationDisplay": "Karrierecenter Bw München",
+  "OrganisationId": 4650970,
+  "Ort": "München",
+  "PLZ": 80637,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 1249-5190",
+  "Telefon": "+49 89 1249-5181",
+  "locations": [
+    {
+      "Breitengrad": "48.1650052",
+      "Bundesland": "Bayern",
+      "E-Mail": "Bewerbungsservicemuenchen@bundeswehr.org",
+      "Hauptadresse": "Dachauer Straße 128",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bundesamt-fuer-das-personalmanagement-der-bundeswehr-/karrierecenter-der-bundeswehr-/-willkommen-im-karrierecenter-der-bundeswehr-muenchen-",
+      "Land": "DE",
+      "Längengrad": "11.5410997",
+      "Organisation": "Karrierecenter der Bundeswehr München",
+      "OrganisationDisplay": "Karrierecenter Bw München",
+      "OrganisationId": 4650970,
+      "Ort": "München",
+      "PLZ": 80637,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 1249-5190",
+      "Telefon": "+49 89 1249-5181"
+    }
+  ]
+}

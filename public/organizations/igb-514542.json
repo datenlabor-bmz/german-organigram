@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.7401498",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@igb.fraunhofer.de",
+  "Hauptadresse": "Nobelstraße 12",
+  "Land": "DE",
+  "Längengrad": "9.0973781",
+  "Organisation": "Fraunhofer-Institut für Grenzflächen- und Bioverfahrenstechnik",
+  "OrganisationDisplay": "IGB",
+  "OrganisationId": 514542,
+  "OrganisationKurz": "IGB",
+  "Ort": "Stuttgart",
+  "PLZ": 70569,
+  "Telefax": "+49 711 970-4200",
+  "Telefon": "+49 711 970-4001",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.7401498",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@igb.fraunhofer.de",
+      "Hauptadresse": "Nobelstraße 12",
+      "Land": "DE",
+      "Längengrad": "9.0973781",
+      "Organisation": "Fraunhofer-Institut für Grenzflächen- und Bioverfahrenstechnik",
+      "OrganisationDisplay": "IGB",
+      "OrganisationId": 514542,
+      "OrganisationKurz": "IGB",
+      "Ort": "Stuttgart",
+      "PLZ": 70569,
+      "Telefax": "+49 711 970-4200",
+      "Telefon": "+49 711 970-4001",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -8,7 +8,7 @@ import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
 import BudgetTreemap from './BudgetTreemap';
 
 // Centralized category order - used for both legend display and sorting
-const KATEGORIE_ORDER = [
+const KATEGORIE_ORDER: string[] = [
     'Oberste Bundesbehörde',
     'Bundesoberbehörde',
     'Bundesmittelbehörde',
@@ -19,7 +19,7 @@ const KATEGORIE_ORDER = [
     'Stiftung des Privatrechts',
     'Sonstige',
     'Unklar',
-] as const;
+];
 
 const kategorieColorsFull: Record<string, string> = {
     'Oberste Bundesbehörde': 'bg-red-300 text-black',
@@ -150,8 +150,8 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                 const aCat = a.Kategorie || 'Sonstige';
                 const bCat = b.Kategorie || 'Sonstige';
                 
-                const aIndex = KATEGORIE_ORDER.indexOf(aCat as any);
-                const bIndex = KATEGORIE_ORDER.indexOf(bCat as any);
+                const aIndex = KATEGORIE_ORDER.indexOf(aCat);
+                const bIndex = KATEGORIE_ORDER.indexOf(bCat);
                 
                 if (aIndex !== bIndex) {
                     // Handle categories not in the order list
@@ -188,8 +188,8 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
             return a.localeCompare(b);
         } else {
             // In Kategorie view: sort by legend order
-            const indexA = KATEGORIE_ORDER.indexOf(a as any);
-            const indexB = KATEGORIE_ORDER.indexOf(b as any);
+            const indexA = KATEGORIE_ORDER.indexOf(a);
+            const indexB = KATEGORIE_ORDER.indexOf(b);
             
             if (indexA !== -1 && indexB !== -1) return indexA - indexB;
             if (indexA !== -1) return -1;

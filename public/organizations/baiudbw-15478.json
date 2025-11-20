@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.7054314",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BAIUDBwPosteingang@bundeswehr.org",
+  "Hauptadresse": "Fontainengraben 200",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen",
+  "Land": "DE",
+  "Längengrad": "7.0469802",
+  "Organisation": "Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr",
+  "OrganisationDisplay": "BAIUDBw",
+  "OrganisationId": 15478,
+  "OrganisationKurz": "BAIUDBw",
+  "Ort": "Bonn",
+  "PLZ": 53123,
+  "Ressort": "BMVg",
+  "Telefon": "+49 228 5504 - 0",
+  "locations": [
+    {
+      "Breitengrad": "50.7054314",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BAIUDBwPosteingang@bundeswehr.org",
+      "Hauptadresse": "Fontainengraben 200",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen",
+      "Land": "DE",
+      "Längengrad": "7.0469802",
+      "Organisation": "Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr",
+      "OrganisationDisplay": "BAIUDBw",
+      "OrganisationId": 15478,
+      "OrganisationKurz": "BAIUDBw",
+      "Ort": "Bonn",
+      "PLZ": 53123,
+      "Ressort": "BMVg",
+      "Telefon": "+49 228 5504 - 0"
+    }
+  ]
+}

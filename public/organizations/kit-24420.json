@@ -1,0 +1,82 @@
+{
+  "Breitengrad": "49.0093693",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@kit.edu",
+  "Hauptadresse": "Kaiserstraße 12",
+  "Internetadresse": "https://www.kit.edu",
+  "Land": "DE",
+  "Längengrad": "8.4117936",
+  "Organisation": "Karlsruher Institut für Technologie",
+  "OrganisationDisplay": "KIT",
+  "OrganisationId": 24420,
+  "OrganisationKurz": "KIT",
+  "Ort": "Karlsruhe",
+  "PLZ": 76131,
+  "Telefax": "+49 721 608 44290",
+  "Telefon": "+49 721 608 - 0",
+  "locations": [
+    {
+      "Breitengrad": "49.0093693",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@kit.edu",
+      "Hauptadresse": "Kaiserstraße 12",
+      "Internetadresse": "https://www.kit.edu",
+      "Land": "DE",
+      "Längengrad": "8.4117936",
+      "Organisation": "Karlsruher Institut für Technologie",
+      "OrganisationDisplay": "KIT",
+      "OrganisationId": 24420,
+      "OrganisationKurz": "KIT",
+      "Ort": "Karlsruhe",
+      "PLZ": 76131,
+      "Telefax": "+49 721 608 44290",
+      "Telefon": "+49 721 608 - 0"
+    },
+    {
+      "Adresse": "Albert-Einstein-Allee 11",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.kit.edu",
+      "Land": "DE",
+      "Liegenschaft": "Helmholtz-Institut Ulm",
+      "LiegenschaftsId": 6866268,
+      "OrganisationId": 24420,
+      "Ort": "Ulm",
+      "PLZ": 89069
+    },
+    {
+      "Adresse": "Kaiserstraße 12",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.kit.edu",
+      "Land": "DE",
+      "Liegenschaft": "Campus Süd",
+      "LiegenschaftsId": 6866186,
+      "OrganisationId": 24420,
+      "Ort": "Karlsruhe",
+      "PLZ": 76131,
+      "Telefax": "+49 721 608 44290",
+      "Telefon": "+49 721 608 - 0"
+    },
+    {
+      "Adresse": "Kreuzeckbahnstraße19 ",
+      "Bundesland": "Bayern",
+      "Internetadresse": "https://www.kit.edu",
+      "Land": "DE",
+      "Liegenschaft": "Standort Garmisch-Partenkirchen",
+      "LiegenschaftsId": 6866222,
+      "OrganisationId": 24420,
+      "Ort": "Garmisch-Partenkirchen ",
+      "PLZ": 82467
+    },
+    {
+      "Adresse": "Hallwachsstraße 3",
+      "Bundesland": "Sachsen",
+      "Internetadresse": "https://www.kit.edu",
+      "Land": "DE",
+      "Liegenschaft": "Außenstelle Dresden",
+      "LiegenschaftsId": 6866206,
+      "OrganisationId": 24420,
+      "Ort": "Dresden",
+      "PLZ": 1069
+    }
+  ]
+}

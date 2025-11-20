@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.5184474",
+  "Bundesland": "Berlin",
+  "E-Mail": "impressum@ata-dag.de",
+  "Hauptadresse": "Dorotheenstraße 84",
+  "Internetadresse": "https://ata-dag.de/",
+  "Land": "DE",
+  "Längengrad": "13.3836893",
+  "Organisation": "Deutsche Atlantische Gesellschaft e. V.",
+  "OrganisationDisplay": "DAG",
+  "OrganisationId": 14106,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 20649-136",
+  "Telefon": "+49 30 20649-134",
+  "locations": [
+    {
+      "Breitengrad": "52.5184474",
+      "Bundesland": "Berlin",
+      "E-Mail": "impressum@ata-dag.de",
+      "Hauptadresse": "Dorotheenstraße 84",
+      "Internetadresse": "https://ata-dag.de/",
+      "Land": "DE",
+      "Längengrad": "13.3836893",
+      "Organisation": "Deutsche Atlantische Gesellschaft e. V.",
+      "OrganisationDisplay": "DAG",
+      "OrganisationId": 14106,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 20649-136",
+      "Telefon": "+49 30 20649-134"
+    }
+  ]
+}

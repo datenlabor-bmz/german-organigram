@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.4228502",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "InstPraevMedBw@bundeswehr.org",
+  "Hauptadresse": "Aktienstraße 87",
+  "Internetadresse": "https://www.instpraevmedbw.de/",
+  "Land": "DE",
+  "Längengrad": "7.4061059",
+  "Organisation": "Institut für Präventivmedizin der Bundeswehr",
+  "OrganisationDisplay": "InstPrävMedBw",
+  "OrganisationId": 12225668,
+  "OrganisationKurz": "InstPrävMedBw",
+  "Ort": "Andernach",
+  "PLZ": 56626,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2632 9462 2005",
+  "Telefon": "+49 2632 9462 2001",
+  "locations": [
+    {
+      "Breitengrad": "50.4228502",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "InstPraevMedBw@bundeswehr.org",
+      "Hauptadresse": "Aktienstraße 87",
+      "Internetadresse": "https://www.instpraevmedbw.de/",
+      "Land": "DE",
+      "Längengrad": "7.4061059",
+      "Organisation": "Institut für Präventivmedizin der Bundeswehr",
+      "OrganisationDisplay": "InstPrävMedBw",
+      "OrganisationId": 12225668,
+      "OrganisationKurz": "InstPrävMedBw",
+      "Ort": "Andernach",
+      "PLZ": 56626,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2632 9462 2005",
+      "Telefon": "+49 2632 9462 2001"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.0334678",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@iwm.fraunhofer.de",
+  "Hauptadresse": "Wöhlerstraße 11",
+  "Internetadresse": "https://www.iwm.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.8517848",
+  "Organisation": "Fraunhofer-Institut für Werkstoffmechanik",
+  "OrganisationDisplay": "IWM",
+  "OrganisationId": 603814,
+  "OrganisationKurz": "IWM",
+  "Ort": "Freiburg",
+  "PLZ": 79108,
+  "Telefax": "+49 761 5142-510",
+  "Telefon": "+49 761 5142-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.0334678",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@iwm.fraunhofer.de",
+      "Hauptadresse": "Wöhlerstraße 11",
+      "Internetadresse": "https://www.iwm.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.8517848",
+      "Organisation": "Fraunhofer-Institut für Werkstoffmechanik",
+      "OrganisationDisplay": "IWM",
+      "OrganisationId": 603814,
+      "OrganisationKurz": "IWM",
+      "Ort": "Freiburg",
+      "PLZ": 79108,
+      "Telefax": "+49 761 5142-510",
+      "Telefon": "+49 761 5142-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

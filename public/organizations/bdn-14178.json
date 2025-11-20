@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "55.019394",
+  "E-Mail": "generalsekretariat@bdn.dk",
+  "Hauptadresse": "Vestergade 30",
+  "Internetadresse": "https://www.bdn.dk",
+  "Land": "DK",
+  "Längengrad": "9.452074",
+  "Organisation": "Bund deutscher Nordschleswiger",
+  "OrganisationDisplay": "BDN",
+  "OrganisationId": 14178,
+  "OrganisationKurz": "BDN",
+  "Ort": "Apenrade",
+  "PLZ": 6200,
+  "Ressort": "BMI",
+  "Telefon": "+45 7462 3833",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "55.019394",
+      "E-Mail": "generalsekretariat@bdn.dk",
+      "Hauptadresse": "Vestergade 30",
+      "Internetadresse": "https://www.bdn.dk",
+      "Land": "DK",
+      "Längengrad": "9.452074",
+      "Organisation": "Bund deutscher Nordschleswiger",
+      "OrganisationDisplay": "BDN",
+      "OrganisationId": 14178,
+      "OrganisationKurz": "BDN",
+      "Ort": "Apenrade",
+      "PLZ": 6200,
+      "Ressort": "BMI",
+      "Telefon": "+45 7462 3833",
+      "Versteckt": true
+    }
+  ]
+}

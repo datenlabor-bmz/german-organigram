@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "48.164412",
+  "Bundesland": "Bayern",
+  "Hauptadresse": "Dachauer Straße 128/18",
+  "Land": "DE",
+  "Längengrad": "11.539915",
+  "Organisation": "Truppendienstgericht Süd",
+  "OrganisationDisplay": "TDG Süd",
+  "OrganisationId": 26576,
+  "OrganisationKurz": "TDG Süd",
+  "Ort": "München",
+  "PLZ": 80637,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 1249-2662",
+  "Telefon": "+49 89 1249-2663",
+  "locations": [
+    {
+      "Breitengrad": "48.164412",
+      "Bundesland": "Bayern",
+      "Hauptadresse": "Dachauer Straße 128/18",
+      "Land": "DE",
+      "Längengrad": "11.539915",
+      "Organisation": "Truppendienstgericht Süd",
+      "OrganisationDisplay": "TDG Süd",
+      "OrganisationId": 26576,
+      "OrganisationKurz": "TDG Süd",
+      "Ort": "München",
+      "PLZ": 80637,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 1249-2662",
+      "Telefon": "+49 89 1249-2663"
+    }
+  ]
+}

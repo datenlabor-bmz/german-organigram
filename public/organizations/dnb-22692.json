@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "50.131661",
+  "Bundesland": "Hessen",
+  "E-Mail": "postfach@dnb.de",
+  "Hauptadresse": "Adickesallee 1",
+  "Internetadresse": "https://www.dnb.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "8.683721",
+  "Organisation": "Deutsche Nationalbibliothek",
+  "OrganisationDisplay": "DNB",
+  "OrganisationId": 22692,
+  "OrganisationKurz": "DNB",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60322,
+  "Ressort": "BKM",
+  "Telefax": "+49 69 1525-1010",
+  "Telefon": "+49 69 1525-0",
+  "locations": [
+    {
+      "Breitengrad": "50.131661",
+      "Bundesland": "Hessen",
+      "E-Mail": "postfach@dnb.de",
+      "Hauptadresse": "Adickesallee 1",
+      "Internetadresse": "https://www.dnb.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "8.683721",
+      "Organisation": "Deutsche Nationalbibliothek",
+      "OrganisationDisplay": "DNB",
+      "OrganisationId": 22692,
+      "OrganisationKurz": "DNB",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60322,
+      "Ressort": "BKM",
+      "Telefax": "+49 69 1525-1010",
+      "Telefon": "+49 69 1525-0"
+    },
+    {
+      "Adresse": "Deutscher Platz 1",
+      "Bundesland": "Sachsen",
+      "E-Mail": "postfach@dnb.de",
+      "Internetadresse": "https://www.dnb.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Liegenschaft": "Standort Leipzig",
+      "LiegenschaftsId": 22760,
+      "OrganisationId": 22692,
+      "Ort": "Leipzig",
+      "PLZ": 4103,
+      "Telefax": "+49 341 2271-444",
+      "Telefon": "+49 341 2271-0"
+    }
+  ]
+}

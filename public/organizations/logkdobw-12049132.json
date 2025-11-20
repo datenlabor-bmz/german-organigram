@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.6575217",
+  "Bundesland": "Thüringen",
+  "E-Mail": "PressestelleLogKdoBw@bundeswehr.org",
+  "Hauptadresse": "Zeppelinstraße 18",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis",
+  "Land": "DE",
+  "Längengrad": "11.3538331",
+  "Organisation": "Logistikkommando der Bundeswehr",
+  "OrganisationDisplay": "LogKdoBw",
+  "OrganisationId": 12049132,
+  "OrganisationKurz": "LogKdoBw",
+  "Ort": "Erfurt",
+  "PLZ": 99096,
+  "Ressort": "BMVg",
+  "Telefax": "+49 361 342 69219",
+  "Telefon": "+49 361 342 69210",
+  "locations": [
+    {
+      "Breitengrad": "50.6575217",
+      "Bundesland": "Thüringen",
+      "E-Mail": "PressestelleLogKdoBw@bundeswehr.org",
+      "Hauptadresse": "Zeppelinstraße 18",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis",
+      "Land": "DE",
+      "Längengrad": "11.3538331",
+      "Organisation": "Logistikkommando der Bundeswehr",
+      "OrganisationDisplay": "LogKdoBw",
+      "OrganisationId": 12049132,
+      "OrganisationKurz": "LogKdoBw",
+      "Ort": "Erfurt",
+      "PLZ": 99096,
+      "Ressort": "BMVg",
+      "Telefax": "+49 361 342 69219",
+      "Telefon": "+49 361 342 69210"
+    }
+  ]
+}

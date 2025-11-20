@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.509748",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@deutscher-verein.de",
+  "Hauptadresse": "Michaelkirchstraße 17 - 18",
+  "Internetadresse": "https://www.deutscher-verein.de/",
+  "Land": "DE",
+  "Längengrad": "13.421165",
+  "Organisation": "Deutscher Verein für öffentliche und private Fürsorge e. V.",
+  "OrganisationDisplay": "Deutscher Verein",
+  "OrganisationId": 21144,
+  "Ort": "Berlin",
+  "PLZ": 10179,
+  "Telefax": "+49 30 62980-150",
+  "Telefon": "+49 30 62980-0",
+  "locations": [
+    {
+      "Breitengrad": "52.509748",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@deutscher-verein.de",
+      "Hauptadresse": "Michaelkirchstraße 17 - 18",
+      "Internetadresse": "https://www.deutscher-verein.de/",
+      "Land": "DE",
+      "Längengrad": "13.421165",
+      "Organisation": "Deutscher Verein für öffentliche und private Fürsorge e. V.",
+      "OrganisationDisplay": "Deutscher Verein",
+      "OrganisationId": 21144,
+      "Ort": "Berlin",
+      "PLZ": 10179,
+      "Telefax": "+49 30 62980-150",
+      "Telefon": "+49 30 62980-0"
+    }
+  ]
+}

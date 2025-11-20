@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "48.3917126",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@dzm-museum.de",
+  "Hauptadresse": "Schillerstr. 1",
+  "Internetadresse": "https://www.dzm-museum.de/",
+  "Land": "DE",
+  "Längengrad": "9.9848873",
+  "Organisation": "Donauschwäbisches Zentralmuseum",
+  "OrganisationDisplay": "DZM",
+  "OrganisationId": 7588272,
+  "OrganisationKurz": "DZM",
+  "Ort": "Ulm",
+  "PLZ": 89077,
+  "Telefon": "+49 731 96254-0",
+  "locations": [
+    {
+      "Breitengrad": "48.3917126",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@dzm-museum.de",
+      "Hauptadresse": "Schillerstr. 1",
+      "Internetadresse": "https://www.dzm-museum.de/",
+      "Land": "DE",
+      "Längengrad": "9.9848873",
+      "Organisation": "Donauschwäbisches Zentralmuseum",
+      "OrganisationDisplay": "DZM",
+      "OrganisationId": 7588272,
+      "OrganisationKurz": "DZM",
+      "Ort": "Ulm",
+      "PLZ": 89077,
+      "Telefon": "+49 731 96254-0"
+    }
+  ]
+}

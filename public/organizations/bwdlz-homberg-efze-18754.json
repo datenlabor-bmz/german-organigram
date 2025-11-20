@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.021025",
+  "Bundesland": "Hessen",
+  "E-Mail": "BwDLZHombergEfze@bundeswehr.org",
+  "Hauptadresse": "Waßmuthshäuser Straße 43",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-homberg-efze",
+  "Land": "DE",
+  "Längengrad": "9.41215",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Homberg",
+  "OrganisationDisplay": "BwDLZ Homberg (Efze)",
+  "OrganisationId": 18754,
+  "OrganisationKurz": "BwDLZ Homberg (Efze)",
+  "Ort": "Homberg (Efze)",
+  "PLZ": 34576,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5681 997-0",
+  "locations": [
+    {
+      "Breitengrad": "51.021025",
+      "Bundesland": "Hessen",
+      "E-Mail": "BwDLZHombergEfze@bundeswehr.org",
+      "Hauptadresse": "Waßmuthshäuser Straße 43",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-homberg-efze",
+      "Land": "DE",
+      "Längengrad": "9.41215",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Homberg",
+      "OrganisationDisplay": "BwDLZ Homberg (Efze)",
+      "OrganisationId": 18754,
+      "OrganisationKurz": "BwDLZ Homberg (Efze)",
+      "Ort": "Homberg (Efze)",
+      "PLZ": 34576,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5681 997-0"
+    }
+  ]
+}

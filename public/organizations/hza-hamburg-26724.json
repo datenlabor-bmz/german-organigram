@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.54339",
+  "Bundesland": "Hamburg",
+  "E-Mail": "poststelle.hza-hamburg@zoll.bund.de",
+  "Hauptadresse": "Koreastraße 4",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "10.00148",
+  "Organisation": "Hauptzollamt Hamburg",
+  "OrganisationDisplay": "HZA Hamburg",
+  "OrganisationId": 26724,
+  "OrganisationKurz": "HZA Hamburg",
+  "Ort": "Hamburg",
+  "PLZ": 20457,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-97312",
+  "Telefon": "+49 40 80003-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "53.54339",
+      "Bundesland": "Hamburg",
+      "E-Mail": "poststelle.hza-hamburg@zoll.bund.de",
+      "Hauptadresse": "Koreastraße 4",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "10.00148",
+      "Organisation": "Hauptzollamt Hamburg",
+      "OrganisationDisplay": "HZA Hamburg",
+      "OrganisationId": 26724,
+      "OrganisationKurz": "HZA Hamburg",
+      "Ort": "Hamburg",
+      "PLZ": 20457,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-97312",
+      "Telefon": "+49 40 80003-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

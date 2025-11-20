@@ -1,0 +1,1148 @@
+{
+  "Breitengrad": "52.524775",
+  "Bundesland": "Berlin",
+  "E-Mail": "Drogenbeauftragter@bmg.bund.de",
+  "Hauptadresse": "Friedrichstraße 108",
+  "Internetadresse": "https://www.bundesdrogenbeauftragter.de/beauftragter/ ",
+  "Land": "DE",
+  "Längengrad": "13.387616",
+  "Organisation": "Beauftragter der Bundesregierung für Sucht- und Drogenfragen",
+  "OrganisationDisplay": "Drogenbeauftragter",
+  "OrganisationId": 24158,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMG",
+  "Telefax": "+49 30 20640-4960",
+  "Telefon": "+49 3018 441-1452",
+  "Kategorie": "Beauftragter",
+  "Wikidata ID": "Q1259952",
+  "locations": [
+    {
+      "Breitengrad": "52.524775",
+      "Bundesland": "Berlin",
+      "E-Mail": "Drogenbeauftragter@bmg.bund.de",
+      "Hauptadresse": "Friedrichstraße 108",
+      "Internetadresse": "https://www.bundesdrogenbeauftragter.de/beauftragter/ ",
+      "Land": "DE",
+      "Längengrad": "13.387616",
+      "Organisation": "Beauftragter der Bundesregierung für Sucht- und Drogenfragen",
+      "OrganisationDisplay": "Drogenbeauftragter",
+      "OrganisationId": 24158,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMG",
+      "Telefax": "+49 30 20640-4960",
+      "Telefon": "+49 3018 441-1452",
+      "Kategorie": "Beauftragter",
+      "Wikidata ID": "Q1259952"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q1259952",
+    "data": {
+      "type": "item",
+      "id": "Q1259952",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Beauftragter der Bundesregierung für Sucht- und Drogenfragen"
+        },
+        "en": {
+          "language": "en",
+          "value": "Drug Commissioner of the Federal Government"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "German government department"
+        },
+        "de": {
+          "language": "de",
+          "value": "im Bundesgesundheitsministerium angesiedeltes Amt"
+        }
+      },
+      "claims": {
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "52dfccf0b904b75a5b94ba44dc0bdadae5f91c2a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 491566,
+                  "id": "Q491566"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$9094333d-4002-2d1f-db68-ec9381241c6d",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "f71117d7b46495894559b65a4abe6c02fadedf3b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 327333,
+                  "id": "Q327333"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$b3df69d2-40a1-e278-e33f-b4eaec7bfad5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "8fa294edad36cabae3907ca9139c619f218094e7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 314024,
+                  "id": "Q314024"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$42524a64-4e92-7e92-424a-ee293df649a5",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "d89b6847e1f433c4f96582119eae01fb1d136d36",
+              "datavalue": {
+                "value": "10005352-X",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1259952$652DAB77-14D6-4F17-96A9-E2557818D403",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "92a323d7a7511e3e92e498a9a8e054f840020e83",
+              "datavalue": {
+                "value": "127581418",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1259952$9AE5429E-49AB-44E5-AA83-3DA0D4C9F32C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "757fdd6d04dbf016b43e483e763a1b01c31841fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005815,
+                  "id": "Q1005815"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$bf599862-4255-4a77-aca9-c6534548a32e",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "2b14e816cf67cf95d6bf0db68eda05a7531ae278",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1260003,
+                  "id": "Q1260003"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$97a21b59-400f-dec8-1000-87de8f44a5de",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "948334b9e9528b407e5fb7767a8219e3c6cfd788",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 12029,
+                  "id": "Q12029"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e488a888bcc36417d184035e156eeb0754085e9d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1259952$98e3d98e-4b58-8e44-de09-c6c110758d3d",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "d03b820aae08d4feaf5b6d27f5033c598cb4ec5a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 735160,
+                  "id": "Q735160"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$b6e46c0c-4e8c-2bc5-b886-93a9cc87038f",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1259952$21527762-1237-4285-9155-CA6AAFBA08EE",
+            "rank": "normal"
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "de2ebbdcb73883b8b3dcdadf461ce27f16db9d21",
+              "datavalue": {
+                "value": "n2019181127",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1259952$B3B922CD-9CCC-452E-9EC1-1CFA35C4A124",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "14fa5898ac764e0660517aa07ea0bbba505f262b",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "6b7d4330c4aac4caec4ede9de0311ce273f88ecd",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "e0d08f96012770600b942d5e8563b2a3499cba8e",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-03-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "788b8b08aafc446fabae59475fa1f404a0b0209a",
+              "datavalue": {
+                "value": "/g/1218lfj8",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1259952$55D2CF96-7EA1-4D18-89AB-16084D037710",
+            "rank": "normal"
+          }
+        ],
+        "P691": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P691",
+              "hash": "61f7e0853fe3460d85734aecb6abc97964a453b8",
+              "datavalue": {
+                "value": "xx0264684",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "f4683b5e71c37587b358405d3914e98b7ad86384",
+                  "datavalue": {
+                    "value": "Drogenbeauftragte der Bundesregierung (Německo)",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q1259952$009B79C5-DA92-41B6-B641-D57F07009656",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "88a59df4b7217b6b05b17e89b387529bd05055f5",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "80047f9d5b0d2daf06989e71bd5f4ba15b215fd6",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 13550863,
+                          "id": "Q13550863"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P691": [
+                    {
+                      "snaktype": "value",
+                      "property": "P691",
+                      "hash": "61f7e0853fe3460d85734aecb6abc97964a453b8",
+                      "datavalue": {
+                        "value": "xx0264684",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d82e207c88297c67c0e7784972f9908f44b59007",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-11-18T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P691",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "7d2d23748532e706e618f3763331715638795eb5",
+              "datavalue": {
+                "value": "Drogenbeauftragte der Bundesregierung Logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "ab3ecdb659192fcd2cc1d2dcde02ba6a5329db1a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582"
+            ],
+            "id": "Q1259952$5f67b77f-433d-dc5f-51d6-25466e50ebaa",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "431a20e8ae377d3f13956a07fda4fe250d8b5c41",
+              "datavalue": {
+                "value": "Beauftragter der Bundesregierung für Sucht- und Drogenfragen Logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e488a888bcc36417d184035e156eeb0754085e9d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1259952$7d57ed87-4427-3143-fe21-ade844f3e6c0",
+            "rank": "preferred"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "208c1998b71cce363fbd081bf14a3ae4798a76ca",
+              "datavalue": {
+                "value": "https://www.drogenbeauftragte.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q1259952$3058ef13-4f90-d15a-c135-87642982687c",
+            "rank": "normal"
+          }
+        ],
+        "P2521": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2521",
+              "hash": "acb21ee4fe6829d6a7274a467fe2cfbb41a91bd6",
+              "datavalue": {
+                "value": {
+                  "text": "Drogenbeauftragte der Bundesregierung",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1259952$d27ff58f-4000-3331-8a9a-196ac6dcd1a8",
+            "rank": "deprecated"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2521",
+              "hash": "9211658131fb00721049442e9034c09589ddfcc5",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragte der Bundesregierung für Drogenfragen",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "ab3ecdb659192fcd2cc1d2dcde02ba6a5329db1a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582"
+            ],
+            "id": "Q1259952$766d6e0c-47c1-5fe7-6488-6f336edafa52",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "0b1454fe1dc7406c519872f8034bcd051eb841bd",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7c94aeb70af8aa66400bebc908e393642fc0419b",
+                      "datavalue": {
+                        "value": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/ministerium/beauftragte-der-bundesregierung.pdf?__blob=publicationFile&v=13",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6c9fe1acb4fa83475e848a689d5210b6fd31db07",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "d4b8d0d0dc071889f238af430cf08eb7fb8b6014",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3e13316338670c7ec4d4ac1cb0039551b5c93cc2",
+                      "datavalue": {
+                        "value": "https://www.drogenbeauftragte.de/presse/detail/amtszeit-der-drogenbeauftragten-daniela-ludwig-endet/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6c9fe1acb4fa83475e848a689d5210b6fd31db07",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2521",
+              "hash": "15736d76670f26b4449d94268bd18ade237742c0",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragte der Bundesregierung für Sucht- und Drogenfragen",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e488a888bcc36417d184035e156eeb0754085e9d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1259952$2a2bb327-43fc-570a-3f18-9c23739edee0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "e0b050b6528807637c6a24ae65f32d21bd1ac49c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "042a0d6a31679d985f2d06492d957a1e3b6eac7f",
+                      "datavalue": {
+                        "value": "https://www.drogenbeauftragte.de/presse/detail/burkhard-blienert-ist-neuer-beauftragter-der-bundesregierung-fuer-sucht-und-drogenfragen/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6c9fe1acb4fa83475e848a689d5210b6fd31db07",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P3321": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3321",
+              "hash": "bcab64a0641ec532bb864c4d7d63af9698e69b3e",
+              "datavalue": {
+                "value": {
+                  "text": "Drogenbeauftragter der Bundesregierung",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1259952$2b23a1fd-494e-eee5-cfbd-003e7cab95d0",
+            "rank": "deprecated"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3321",
+              "hash": "82519e0f62b750d7c076eac28d5d810af14cb346",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragter der Bundesregierung für Drogenfragen",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "ab3ecdb659192fcd2cc1d2dcde02ba6a5329db1a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582"
+            ],
+            "id": "Q1259952$95fe7163-4878-9101-4992-104091cac481",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "0b1454fe1dc7406c519872f8034bcd051eb841bd",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7c94aeb70af8aa66400bebc908e393642fc0419b",
+                      "datavalue": {
+                        "value": "https://www.bmi.bund.de/SharedDocs/downloads/DE/veroeffentlichungen/themen/ministerium/beauftragte-der-bundesregierung.pdf?__blob=publicationFile&v=13",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6c9fe1acb4fa83475e848a689d5210b6fd31db07",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "d4b8d0d0dc071889f238af430cf08eb7fb8b6014",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3e13316338670c7ec4d4ac1cb0039551b5c93cc2",
+                      "datavalue": {
+                        "value": "https://www.drogenbeauftragte.de/presse/detail/amtszeit-der-drogenbeauftragten-daniela-ludwig-endet/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6c9fe1acb4fa83475e848a689d5210b6fd31db07",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3321",
+              "hash": "14fdfc8d7713a73d520df3d7cd9f5cfb73d641dc",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragter der Bundesregierung für Sucht- und Drogenfragen",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e488a888bcc36417d184035e156eeb0754085e9d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-01-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1259952$af51d357-4d4a-f5a5-c884-f3ba18028ff0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "e0b050b6528807637c6a24ae65f32d21bd1ac49c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "042a0d6a31679d985f2d06492d957a1e3b6eac7f",
+                      "datavalue": {
+                        "value": "https://www.drogenbeauftragte.de/presse/detail/burkhard-blienert-ist-neuer-beauftragter-der-bundesregierung-fuer-sucht-und-drogenfragen/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6c9fe1acb4fa83475e848a689d5210b6fd31db07",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Drogenbeauftragter der Bundesregierung",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q491566": {
+        "type": "item",
+        "id": "Q491566",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium für Gesundheit"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of Health of Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "Ministry of Health of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Ministerium in Deutschland"
+          }
+        }
+      },
+      "Q327333": {
+        "type": "item",
+        "id": "Q327333",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Behörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "government agency"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "öffentliche Einrichtung"
+          },
+          "en": {
+            "language": "en",
+            "value": "organisational part of a government responsible for specific public services, such as health, judiciary, education, transportation, foreign affairs, etc"
+          }
+        }
+      },
+      "Q314024": {
+        "type": "item",
+        "id": "Q314024",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesbehörde in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal agency of Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "highest federal agency in Germany, usually a ministry in the Federal Government of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Behörden in Deutschland, die dem Bund unterstehen"
+          }
+        }
+      }
+    }
+  }
+}

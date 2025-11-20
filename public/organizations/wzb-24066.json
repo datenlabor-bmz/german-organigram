@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.50641",
+  "Bundesland": "Berlin",
+  "E-Mail": "wzb@wzb.eu",
+  "Hauptadresse": "Reichpietschufer 50",
+  "Internetadresse": "https://www.wzb.eu/de",
+  "Land": "DE",
+  "Längengrad": "13.36522",
+  "Organisation": "Wissenschaftszentrum Berlin für Sozialforschung",
+  "OrganisationDisplay": "WZB",
+  "OrganisationId": 24066,
+  "OrganisationKurz": "WZB",
+  "Ort": "Berlin",
+  "PLZ": 10785,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 30 25491-684",
+  "Telefon": "+49 30 25491-0",
+  "locations": [
+    {
+      "Breitengrad": "52.50641",
+      "Bundesland": "Berlin",
+      "E-Mail": "wzb@wzb.eu",
+      "Hauptadresse": "Reichpietschufer 50",
+      "Internetadresse": "https://www.wzb.eu/de",
+      "Land": "DE",
+      "Längengrad": "13.36522",
+      "Organisation": "Wissenschaftszentrum Berlin für Sozialforschung",
+      "OrganisationDisplay": "WZB",
+      "OrganisationId": 24066,
+      "OrganisationKurz": "WZB",
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 30 25491-684",
+      "Telefon": "+49 30 25491-0"
+    }
+  ]
+}

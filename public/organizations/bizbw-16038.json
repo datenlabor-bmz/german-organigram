@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.476047",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "bizbw@bundeswehr.org",
+  "Hauptadresse": "Seckenheimer Landstraße 12",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bildungszentrum-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "8.524063",
+  "Organisation": "Bildungszentrum der Bundeswehr",
+  "OrganisationDisplay": "BiZBw",
+  "OrganisationId": 16038,
+  "OrganisationKurz": "BiZBw",
+  "Ort": "Mannheim",
+  "PLZ": 68163,
+  "Ressort": "BMVg",
+  "Telefax": "+49 621 4295-1316",
+  "Telefon": "+49 621 4295-2115",
+  "locations": [
+    {
+      "Breitengrad": "49.476047",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "bizbw@bundeswehr.org",
+      "Hauptadresse": "Seckenheimer Landstraße 12",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bildungszentrum-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "8.524063",
+      "Organisation": "Bildungszentrum der Bundeswehr",
+      "OrganisationDisplay": "BiZBw",
+      "OrganisationId": 16038,
+      "OrganisationKurz": "BiZBw",
+      "Ort": "Mannheim",
+      "PLZ": 68163,
+      "Ressort": "BMVg",
+      "Telefax": "+49 621 4295-1316",
+      "Telefon": "+49 621 4295-2115"
+    }
+  ]
+}

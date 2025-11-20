@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.5569728",
+  "Bundesland": "Hamburg",
+  "E-Mail": "info@giga-hamburg.de",
+  "Hauptadresse": "Neuer Jungfernstieg 21",
+  "Internetadresse": "https://www.giga-hamburg.de",
+  "Land": "DE",
+  "Längengrad": "9.9927737",
+  "Organisation": "GIGA German Institute of Global and Area Studies / Leibniz-Institut für Globale und Regionale Studien",
+  "OrganisationDisplay": "GIGA",
+  "OrganisationId": 322176,
+  "OrganisationKurz": "GIGA",
+  "Ort": "Hamburg",
+  "PLZ": 20354,
+  "Telefax": "+49 40 42825-547",
+  "Telefon": "+49 40 42825-593",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.5569728",
+      "Bundesland": "Hamburg",
+      "E-Mail": "info@giga-hamburg.de",
+      "Hauptadresse": "Neuer Jungfernstieg 21",
+      "Internetadresse": "https://www.giga-hamburg.de",
+      "Land": "DE",
+      "Längengrad": "9.9927737",
+      "Organisation": "GIGA German Institute of Global and Area Studies / Leibniz-Institut für Globale und Regionale Studien",
+      "OrganisationDisplay": "GIGA",
+      "OrganisationId": 322176,
+      "OrganisationKurz": "GIGA",
+      "Ort": "Hamburg",
+      "PLZ": 20354,
+      "Telefax": "+49 40 42825-547",
+      "Telefon": "+49 40 42825-593",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

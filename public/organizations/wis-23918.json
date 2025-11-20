@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.996145",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "wisposteingang@bundeswehr.org",
+  "Hauptadresse": "Humboldtstraße 100",
+  "Internetadresse": "https://www.baainbw.de/wis",
+  "Land": "DE",
+  "Längengrad": "10.122738",
+  "Organisation": "Wehrwissenschaftliches Institut für Schutztechnologien - ABC-Schutz",
+  "OrganisationDisplay": "WIS",
+  "OrganisationId": 23918,
+  "OrganisationKurz": "WIS",
+  "Ort": "Munster",
+  "PLZ": 29633,
+  "Ressort": "BMVg",
+  "Telefax": "+49 5192 136-355",
+  "Telefon": "+49 5192 136-201",
+  "locations": [
+    {
+      "Breitengrad": "52.996145",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "wisposteingang@bundeswehr.org",
+      "Hauptadresse": "Humboldtstraße 100",
+      "Internetadresse": "https://www.baainbw.de/wis",
+      "Land": "DE",
+      "Längengrad": "10.122738",
+      "Organisation": "Wehrwissenschaftliches Institut für Schutztechnologien - ABC-Schutz",
+      "OrganisationDisplay": "WIS",
+      "OrganisationId": 23918,
+      "OrganisationKurz": "WIS",
+      "Ort": "Munster",
+      "PLZ": 29633,
+      "Ressort": "BMVg",
+      "Telefax": "+49 5192 136-355",
+      "Telefon": "+49 5192 136-201"
+    }
+  ]
+}

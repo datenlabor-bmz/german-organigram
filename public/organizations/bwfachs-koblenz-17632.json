@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.34886",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "BwFachSKoblenz@bundeswehr.org",
+  "Hauptadresse": "Kurfürstenstraße 63",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-koblenz-87148",
+  "Land": "DE",
+  "Längengrad": "7.594724",
+  "Organisation": "Bundeswehrfachschule Koblenz",
+  "OrganisationDisplay": "BwFachS Koblenz",
+  "OrganisationId": 17632,
+  "OrganisationKurz": "BwFachS Koblenz",
+  "Ort": "Koblenz",
+  "PLZ": 56068,
+  "Ressort": "BMVg",
+  "Telefax": "+49 261 914372-19",
+  "Telefon": "+49 261 914372-22",
+  "locations": [
+    {
+      "Breitengrad": "50.34886",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "BwFachSKoblenz@bundeswehr.org",
+      "Hauptadresse": "Kurfürstenstraße 63",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-koblenz-87148",
+      "Land": "DE",
+      "Längengrad": "7.594724",
+      "Organisation": "Bundeswehrfachschule Koblenz",
+      "OrganisationDisplay": "BwFachS Koblenz",
+      "OrganisationId": 17632,
+      "OrganisationKurz": "BwFachS Koblenz",
+      "Ort": "Koblenz",
+      "PLZ": 56068,
+      "Ressort": "BMVg",
+      "Telefax": "+49 261 914372-19",
+      "Telefon": "+49 261 914372-22"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "47.75708",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "poststelle.hza-singen@zoll.bund.de",
+  "Hauptadresse": "Maggistraße 3",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "8.83961",
+  "Organisation": "Hauptzollamt Singen",
+  "OrganisationDisplay": "HZA Singen",
+  "OrganisationId": 26838,
+  "OrganisationKurz": "HZA Singen",
+  "Ort": "Singen",
+  "PLZ": 78224,
+  "Ressort": "BMF",
+  "Telefax": "+49 7731 8205-1901",
+  "Telefon": "+49 7731 8205-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "47.75708",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle.hza-singen@zoll.bund.de",
+      "Hauptadresse": "Maggistraße 3",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "8.83961",
+      "Organisation": "Hauptzollamt Singen",
+      "OrganisationDisplay": "HZA Singen",
+      "OrganisationId": 26838,
+      "OrganisationKurz": "HZA Singen",
+      "Ort": "Singen",
+      "PLZ": 78224,
+      "Ressort": "BMF",
+      "Telefax": "+49 7731 8205-1901",
+      "Telefon": "+49 7731 8205-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

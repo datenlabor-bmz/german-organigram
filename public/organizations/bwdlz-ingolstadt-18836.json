@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.768171",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZIngolstadt@Bundeswehr.org",
+  "Hauptadresse": "Marlene-Dietrich-Straße 12",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-ingolstadt",
+  "Land": "DE",
+  "Längengrad": "11.424047",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Ingolstadt",
+  "OrganisationDisplay": "BwDLZ Ingolstadt",
+  "OrganisationId": 18836,
+  "OrganisationKurz": "BwDLZ Ingolstadt",
+  "Ort": "Ingolstadt",
+  "PLZ": 85053,
+  "Ressort": "BMVg",
+  "Telefon": "+49 841 88660-0",
+  "locations": [
+    {
+      "Breitengrad": "48.768171",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZIngolstadt@Bundeswehr.org",
+      "Hauptadresse": "Marlene-Dietrich-Straße 12",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-ingolstadt",
+      "Land": "DE",
+      "Längengrad": "11.424047",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Ingolstadt",
+      "OrganisationDisplay": "BwDLZ Ingolstadt",
+      "OrganisationId": 18836,
+      "OrganisationKurz": "BwDLZ Ingolstadt",
+      "Ort": "Ingolstadt",
+      "PLZ": 85053,
+      "Ressort": "BMVg",
+      "Telefon": "+49 841 88660-0"
+    }
+  ]
+}

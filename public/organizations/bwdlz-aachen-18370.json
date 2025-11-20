@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.7591646",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BwDLZAachen@bundeswehr.org",
+  "Hauptadresse": "Debyestraße 21",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-aachen",
+  "Land": "DE",
+  "Längengrad": "6.1532781",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Aachen",
+  "OrganisationDisplay": "BwDLZ Aachen",
+  "OrganisationId": 18370,
+  "OrganisationKurz": "BwDLZ Aachen",
+  "Ort": "Aachen",
+  "PLZ": 52078,
+  "Ressort": "BMVg",
+  "Telefon": "+49 241 561-0",
+  "locations": [
+    {
+      "Breitengrad": "50.7591646",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BwDLZAachen@bundeswehr.org",
+      "Hauptadresse": "Debyestraße 21",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-aachen",
+      "Land": "DE",
+      "Längengrad": "6.1532781",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Aachen",
+      "OrganisationDisplay": "BwDLZ Aachen",
+      "OrganisationId": 18370,
+      "OrganisationKurz": "BwDLZ Aachen",
+      "Ort": "Aachen",
+      "PLZ": 52078,
+      "Ressort": "BMVg",
+      "Telefon": "+49 241 561-0"
+    }
+  ]
+}

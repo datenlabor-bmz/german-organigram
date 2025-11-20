@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "E-Mail": "KO-POL@diplo.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/deutsch-polnische-zusammenarbeit-node/deutsch-polnische-zusammenarbeit/200544",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Koordinator für die deutsch-polnische zwischengesellschaftliche und grenznahe Zusammenarbeit",
+  "OrganisationDisplay": "Z Polen",
+  "OrganisationId": 26142,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 30 1817-54010",
+  "Telefon": "+49 30 1817-4010",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "E-Mail": "KO-POL@diplo.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/deutsch-polnische-zusammenarbeit-node/deutsch-polnische-zusammenarbeit/200544",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Koordinator für die deutsch-polnische zwischengesellschaftliche und grenznahe Zusammenarbeit",
+      "OrganisationDisplay": "Z Polen",
+      "OrganisationId": 26142,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 30 1817-54010",
+      "Telefon": "+49 30 1817-4010",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

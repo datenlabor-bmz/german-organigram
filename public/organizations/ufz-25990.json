@@ -1,0 +1,63 @@
+{
+  "Breitengrad": "51.351476",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@ufz.de",
+  "Hauptadresse": "Permoser Straße 15",
+  "Internetadresse": "https://www.ufz.de",
+  "Land": "DE",
+  "Längengrad": "12.42923",
+  "Organisation": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ",
+  "OrganisationDisplay": "UFZ",
+  "OrganisationId": 25990,
+  "OrganisationKurz": "UFZ",
+  "Ort": "Leipzig",
+  "PLZ": 4318,
+  "Telefax": "+49 341 235-1388",
+  "Telefon": "+49 341 235-1800",
+  "Kategorie": "Helmholtz",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.351476",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@ufz.de",
+      "Hauptadresse": "Permoser Straße 15",
+      "Internetadresse": "https://www.ufz.de",
+      "Land": "DE",
+      "Längengrad": "12.42923",
+      "Organisation": "Helmholtz-Zentrum für Umweltforschung GmbH - UFZ",
+      "OrganisationDisplay": "UFZ",
+      "OrganisationId": 25990,
+      "OrganisationKurz": "UFZ",
+      "Ort": "Leipzig",
+      "PLZ": 4318,
+      "Telefax": "+49 341 235-1388",
+      "Telefon": "+49 341 235-1800",
+      "Kategorie": "Helmholtz",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Theodor-Lieser-Sraße 4",
+      "Bundesland": "Sachsen-Anhalt",
+      "Internetadresse": "https://www.ufz.de",
+      "Land": "DE",
+      "Liegenschaft": "Standort Halle",
+      "LiegenschaftsId": 6870236,
+      "OrganisationId": 25990,
+      "Ort": "Halle",
+      "PLZ": 6120,
+      "Telefon": "+49 345 55850"
+    },
+    {
+      "Adresse": "Brückstraße 3a",
+      "Bundesland": "Sachsen-Anhalt",
+      "Internetadresse": "https://www.ufz.de",
+      "Land": "DE",
+      "Liegenschaft": "Standort Magdeburg",
+      "LiegenschaftsId": 6870264,
+      "OrganisationId": 25990,
+      "Ort": "Magdeburg",
+      "PLZ": 39114
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.7489605",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@zv.fraunhofer.de",
+  "Hauptadresse": "Schloss Birlinghoven ",
+  "Internetadresse": "https://www.izb.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.2056711",
+  "Organisation": "Fraunhofer-Institutszentrum Schloss Birlinghoven",
+  "OrganisationDisplay": "IZB",
+  "OrganisationId": 8740058,
+  "OrganisationKurz": "IZB",
+  "Ort": "Sankt Augustin",
+  "PLZ": 53754,
+  "Ressort": "BMFTR",
+  "Telefon": "+49 224114-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.7489605",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@zv.fraunhofer.de",
+      "Hauptadresse": "Schloss Birlinghoven ",
+      "Internetadresse": "https://www.izb.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.2056711",
+      "Organisation": "Fraunhofer-Institutszentrum Schloss Birlinghoven",
+      "OrganisationDisplay": "IZB",
+      "OrganisationId": 8740058,
+      "OrganisationKurz": "IZB",
+      "Ort": "Sankt Augustin",
+      "PLZ": 53754,
+      "Ressort": "BMFTR",
+      "Telefon": "+49 224114-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

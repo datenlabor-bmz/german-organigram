@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "37.517992",
+  "E-Mail": "DeutscheSchuleCatania@bundeswehr.org",
+  "Hauptadresse": "Via Valdisavoia 3",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-italien-5479702",
+  "Land": "Italien",
+  "Längengrad": "15.071977",
+  "Organisation": "Deutsche Schule Catania",
+  "OrganisationDisplay": "DSCT",
+  "OrganisationId": 5482280,
+  "OrganisationKurz": "DSCT",
+  "Ort": "Catania",
+  "PLZ": 95123,
+  "Ressort": "BMVg",
+  "Telefon": "+49 160 9688 7723",
+  "locations": [
+    {
+      "Breitengrad": "37.517992",
+      "E-Mail": "DeutscheSchuleCatania@bundeswehr.org",
+      "Hauptadresse": "Via Valdisavoia 3",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-italien-5479702",
+      "Land": "Italien",
+      "Längengrad": "15.071977",
+      "Organisation": "Deutsche Schule Catania",
+      "OrganisationDisplay": "DSCT",
+      "OrganisationId": 5482280,
+      "OrganisationKurz": "DSCT",
+      "Ort": "Catania",
+      "PLZ": 95123,
+      "Ressort": "BMVg",
+      "Telefon": "+49 160 9688 7723"
+    }
+  ]
+}

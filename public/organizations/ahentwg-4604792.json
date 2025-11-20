@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.963501",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "ahentwginfoa@Bundeswehr.org",
+  "Hauptadresse": "Colonia-Allee 10-20",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/amt-fuer-heeresentwicklung",
+  "Land": "DE",
+  "Längengrad": "7.048632",
+  "Organisation": "Amt für Heeresentwicklung",
+  "OrganisationDisplay": "AHEntwg",
+  "OrganisationId": 4604792,
+  "OrganisationKurz": "AHEntwg",
+  "Ort": "Köln",
+  "PLZ": 51067,
+  "Ressort": "BMVg",
+  "Telefon": "+49 221 29933 2140",
+  "locations": [
+    {
+      "Breitengrad": "50.963501",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "ahentwginfoa@Bundeswehr.org",
+      "Hauptadresse": "Colonia-Allee 10-20",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/amt-fuer-heeresentwicklung",
+      "Land": "DE",
+      "Längengrad": "7.048632",
+      "Organisation": "Amt für Heeresentwicklung",
+      "OrganisationDisplay": "AHEntwg",
+      "OrganisationId": 4604792,
+      "OrganisationKurz": "AHEntwg",
+      "Ort": "Köln",
+      "PLZ": 51067,
+      "Ressort": "BMVg",
+      "Telefon": "+49 221 29933 2140"
+    }
+  ]
+}

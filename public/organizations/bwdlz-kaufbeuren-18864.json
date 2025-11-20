@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "47.872465",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZKaufbeuren@Bundeswehr.org",
+  "Hauptadresse": "Apfeltranger Straße 15",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-kaufbeuren",
+  "Land": "DE",
+  "Längengrad": "10.612755",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Kaufbeuren",
+  "OrganisationDisplay": "BwDLZ Kaufbeuren",
+  "OrganisationId": 18864,
+  "OrganisationKurz": "BwDLZ Kaufbeuren",
+  "Ort": "Kaufbeuren",
+  "PLZ": 87600,
+  "Ressort": "BMVg",
+  "Telefon": "+49 8341 92-0",
+  "locations": [
+    {
+      "Breitengrad": "47.872465",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZKaufbeuren@Bundeswehr.org",
+      "Hauptadresse": "Apfeltranger Straße 15",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-kaufbeuren",
+      "Land": "DE",
+      "Längengrad": "10.612755",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Kaufbeuren",
+      "OrganisationDisplay": "BwDLZ Kaufbeuren",
+      "OrganisationId": 18864,
+      "OrganisationKurz": "BwDLZ Kaufbeuren",
+      "Ort": "Kaufbeuren",
+      "PLZ": 87600,
+      "Ressort": "BMVg",
+      "Telefon": "+49 8341 92-0"
+    }
+  ]
+}

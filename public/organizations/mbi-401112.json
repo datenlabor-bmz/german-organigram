@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.4318989",
+  "Bundesland": "Berlin",
+  "E-Mail": "mbi@mbi-berlin.de",
+  "Hauptadresse": "Max-Born-Straße 2a",
+  "Internetadresse": "https://www.mbi-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.5272052",
+  "Organisation": "Max-Born-Institut für Nichtlineare Optik und Kurzzeitspektroskopie im Forschungsverbund Berlin e. V.",
+  "OrganisationDisplay": "MBI",
+  "OrganisationId": 401112,
+  "OrganisationKurz": "MBI",
+  "Ort": "Berlin",
+  "PLZ": 12489,
+  "Telefax": "+49 30 6392 1509",
+  "Telefon": "+49 30 6392-1505",
+  "locations": [
+    {
+      "Breitengrad": "52.4318989",
+      "Bundesland": "Berlin",
+      "E-Mail": "mbi@mbi-berlin.de",
+      "Hauptadresse": "Max-Born-Straße 2a",
+      "Internetadresse": "https://www.mbi-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.5272052",
+      "Organisation": "Max-Born-Institut für Nichtlineare Optik und Kurzzeitspektroskopie im Forschungsverbund Berlin e. V.",
+      "OrganisationDisplay": "MBI",
+      "OrganisationId": 401112,
+      "OrganisationKurz": "MBI",
+      "Ort": "Berlin",
+      "PLZ": 12489,
+      "Telefax": "+49 30 6392 1509",
+      "Telefon": "+49 30 6392-1505"
+    }
+  ]
+}

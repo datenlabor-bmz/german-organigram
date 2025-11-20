@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.624118",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "BwDLZTorgelow@bundeswehr.org",
+  "Hauptadresse": "Pasewalker Chaussee 3",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-torgelow",
+  "Land": "DE",
+  "Längengrad": "14.018712",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Torgelow",
+  "OrganisationDisplay": "BwDLZ Torgelow",
+  "OrganisationId": 20756,
+  "OrganisationKurz": "BwDLZ Torgelow",
+  "Ort": "Torgelow",
+  "PLZ": 17358,
+  "Ressort": "BMVg",
+  "Telefon": "+49 3976 250-0",
+  "locations": [
+    {
+      "Breitengrad": "53.624118",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "BwDLZTorgelow@bundeswehr.org",
+      "Hauptadresse": "Pasewalker Chaussee 3",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-torgelow",
+      "Land": "DE",
+      "Längengrad": "14.018712",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Torgelow",
+      "OrganisationDisplay": "BwDLZ Torgelow",
+      "OrganisationId": 20756,
+      "OrganisationKurz": "BwDLZ Torgelow",
+      "Ort": "Torgelow",
+      "PLZ": 17358,
+      "Ressort": "BMVg",
+      "Telefon": "+49 3976 250-0"
+    }
+  ]
+}

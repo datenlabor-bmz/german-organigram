@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "E-Mail": "MRHH-B@diplo.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/menschenrechte-humanitaere-hilfe-node/menschenrechte-humanitaere-hilfe/205164",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Beauftragter der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe im Auswärtigen Amt",
+  "OrganisationDisplay": "B Menschenr.",
+  "OrganisationId": 15862,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 30 18 17 - 54764",
+  "Telefon": "+49 30 18 17 - 4764",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "E-Mail": "MRHH-B@diplo.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/menschenrechte-humanitaere-hilfe-node/menschenrechte-humanitaere-hilfe/205164",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Beauftragter der Bundesregierung für Menschenrechtspolitik und Humanitäre Hilfe im Auswärtigen Amt",
+      "OrganisationDisplay": "B Menschenr.",
+      "OrganisationId": 15862,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 30 18 17 - 54764",
+      "Telefon": "+49 30 18 17 - 4764",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

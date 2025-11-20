@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.1535448",
+  "Bundesland": "Sachsen",
+  "E-Mail": "post-gr@senckenberg.de",
+  "Hauptadresse": "Am Museum 1",
+  "Internetadresse": "https://museumgoerlitz.senckenberg.de/de/",
+  "Land": "DE",
+  "Längengrad": "14.9865815",
+  "Organisation": "Senckenberg Museum für Naturkunde Görlitz",
+  "OrganisationDisplay": "SMNG",
+  "OrganisationId": 516628,
+  "OrganisationKurz": "SMNG",
+  "Ort": "Görlitz",
+  "PLZ": 2826,
+  "Telefax": "+49 4760-5101",
+  "Telefon": "+49 3581 4760-5220",
+  "locations": [
+    {
+      "Breitengrad": "51.1535448",
+      "Bundesland": "Sachsen",
+      "E-Mail": "post-gr@senckenberg.de",
+      "Hauptadresse": "Am Museum 1",
+      "Internetadresse": "https://museumgoerlitz.senckenberg.de/de/",
+      "Land": "DE",
+      "Längengrad": "14.9865815",
+      "Organisation": "Senckenberg Museum für Naturkunde Görlitz",
+      "OrganisationDisplay": "SMNG",
+      "OrganisationId": 516628,
+      "OrganisationKurz": "SMNG",
+      "Ort": "Görlitz",
+      "PLZ": 2826,
+      "Telefax": "+49 4760-5101",
+      "Telefon": "+49 3581 4760-5220"
+    }
+  ]
+}

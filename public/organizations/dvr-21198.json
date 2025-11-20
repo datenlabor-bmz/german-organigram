@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.51388",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@dvr.de",
+  "Hauptadresse": "Jägerstraße 67-69",
+  "Internetadresse": "https://www.dvr.de/praevention/kampagnen/roll-ohne-risiko",
+  "Land": "DE",
+  "Längengrad": "13.389466",
+  "Organisation": "Deutscher Verkehrssicherheitsrat",
+  "OrganisationDisplay": "DVR",
+  "OrganisationId": 21198,
+  "OrganisationKurz": "DVR",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 - 2266771-29",
+  "Telefon": "+49 30 - 2266771-0",
+  "locations": [
+    {
+      "Breitengrad": "52.51388",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@dvr.de",
+      "Hauptadresse": "Jägerstraße 67-69",
+      "Internetadresse": "https://www.dvr.de/praevention/kampagnen/roll-ohne-risiko",
+      "Land": "DE",
+      "Längengrad": "13.389466",
+      "Organisation": "Deutscher Verkehrssicherheitsrat",
+      "OrganisationDisplay": "DVR",
+      "OrganisationId": 21198,
+      "OrganisationKurz": "DVR",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 - 2266771-29",
+      "Telefon": "+49 30 - 2266771-0"
+    }
+  ]
+}

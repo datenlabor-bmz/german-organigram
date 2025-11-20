@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.013833",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@vbl.de",
+  "Hauptadresse": "Hans-Thoma-Straße 19",
+  "Internetadresse": "https://www.vbl.de/de/startseite",
+  "Land": "DE",
+  "Längengrad": "8.398246",
+  "Organisation": "Versorgungsanstalt des Bundes und der Länder",
+  "OrganisationDisplay": "VBL",
+  "OrganisationId": 27334,
+  "OrganisationKurz": "VBL",
+  "Ort": "Karlsruhe",
+  "PLZ": 76133,
+  "Ressort": "BMF",
+  "Telefax": "+49 721 155-666",
+  "Telefon": "+49 721 155-0",
+  "locations": [
+    {
+      "Breitengrad": "49.013833",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@vbl.de",
+      "Hauptadresse": "Hans-Thoma-Straße 19",
+      "Internetadresse": "https://www.vbl.de/de/startseite",
+      "Land": "DE",
+      "Längengrad": "8.398246",
+      "Organisation": "Versorgungsanstalt des Bundes und der Länder",
+      "OrganisationDisplay": "VBL",
+      "OrganisationId": 27334,
+      "OrganisationKurz": "VBL",
+      "Ort": "Karlsruhe",
+      "PLZ": 76133,
+      "Ressort": "BMF",
+      "Telefax": "+49 721 155-666",
+      "Telefon": "+49 721 155-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.783772",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZBergen@bundeswehr.org",
+  "Hauptadresse": "Bergen-Hohne MB 28",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bergen",
+  "Land": "DE",
+  "Längengrad": "9.913436",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Bergen",
+  "OrganisationDisplay": "BwDLZ Bergen",
+  "OrganisationId": 18432,
+  "OrganisationKurz": "BwDLZ Bergen",
+  "Ort": "Lohheide",
+  "PLZ": 29303,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5051 475-0",
+  "locations": [
+    {
+      "Breitengrad": "52.783772",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZBergen@bundeswehr.org",
+      "Hauptadresse": "Bergen-Hohne MB 28",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bergen",
+      "Land": "DE",
+      "Längengrad": "9.913436",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Bergen",
+      "OrganisationDisplay": "BwDLZ Bergen",
+      "OrganisationId": 18432,
+      "OrganisationKurz": "BwDLZ Bergen",
+      "Ort": "Lohheide",
+      "PLZ": 29303,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5051 475-0"
+    }
+  ]
+}

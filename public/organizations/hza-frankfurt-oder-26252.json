@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.331157",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "poststelle.hza-ff@zoll.bund.de",
+  "Hauptadresse": "Kopernikusstraße 25",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "14.509632",
+  "Organisation": "Hauptzollamt Frankfurt (Oder)",
+  "OrganisationDisplay": "HZA Frankfurt (Oder)",
+  "OrganisationId": 26252,
+  "OrganisationKurz": "HZA Frankfurt (Oder)",
+  "Ort": "Frankfurt (Oder)",
+  "PLZ": 15236,
+  "Ressort": "BMF",
+  "Telefax": "+49 335 563-1099",
+  "Telefon": "+49 335 563-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "52.331157",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "poststelle.hza-ff@zoll.bund.de",
+      "Hauptadresse": "Kopernikusstraße 25",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "14.509632",
+      "Organisation": "Hauptzollamt Frankfurt (Oder)",
+      "OrganisationDisplay": "HZA Frankfurt (Oder)",
+      "OrganisationId": 26252,
+      "OrganisationKurz": "HZA Frankfurt (Oder)",
+      "Ort": "Frankfurt (Oder)",
+      "PLZ": 15236,
+      "Ressort": "BMF",
+      "Telefax": "+49 335 563-1099",
+      "Telefon": "+49 335 563-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

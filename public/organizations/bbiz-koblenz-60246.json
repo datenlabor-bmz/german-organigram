@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.366196",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "bbiz-koblenz@wsv.bund.de",
+  "Hauptadresse": "Hafenstraße 1",
+  "Internetadresse": "https://www.gdws.wsv.de",
+  "Land": "DE",
+  "Längengrad": "7.597237",
+  "Organisation": "Berufsbildungszentrum Koblenz (der WSV bei der GDWS)",
+  "OrganisationDisplay": "BBiZ-Koblenz",
+  "OrganisationId": 60246,
+  "OrganisationKurz": "BBiZ-Koblenz",
+  "Ort": "Koblenz",
+  "PLZ": 56070,
+  "Ressort": "BMV",
+  "Telefax": "+49 228 70907259",
+  "Telefon": "+49 228 70909008",
+  "locations": [
+    {
+      "Breitengrad": "50.366196",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "bbiz-koblenz@wsv.bund.de",
+      "Hauptadresse": "Hafenstraße 1",
+      "Internetadresse": "https://www.gdws.wsv.de",
+      "Land": "DE",
+      "Längengrad": "7.597237",
+      "Organisation": "Berufsbildungszentrum Koblenz (der WSV bei der GDWS)",
+      "OrganisationDisplay": "BBiZ-Koblenz",
+      "OrganisationId": 60246,
+      "OrganisationKurz": "BBiZ-Koblenz",
+      "Ort": "Koblenz",
+      "PLZ": 56070,
+      "Ressort": "BMV",
+      "Telefax": "+49 228 70907259",
+      "Telefon": "+49 228 70909008"
+    }
+  ]
+}

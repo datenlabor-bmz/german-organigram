@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.898357",
+  "Bundesland": "Hessen",
+  "E-Mail": "ktbl@ktbl.de",
+  "Hauptadresse": "Bartningstraße 49",
+  "Internetadresse": "https://www.ktbl.de/",
+  "Land": "DE",
+  "Längengrad": "8.681038",
+  "Organisation": "Kuratorium für Technik und Bauwesen in der Landwirtschaft e. V.",
+  "OrganisationDisplay": "KTBL",
+  "OrganisationId": 24578,
+  "OrganisationKurz": "KTBL",
+  "Ort": "Darmstadt",
+  "PLZ": 64289,
+  "Telefax": "+49 6151 7001-123",
+  "Telefon": "+49 6151 7001-0",
+  "locations": [
+    {
+      "Breitengrad": "49.898357",
+      "Bundesland": "Hessen",
+      "E-Mail": "ktbl@ktbl.de",
+      "Hauptadresse": "Bartningstraße 49",
+      "Internetadresse": "https://www.ktbl.de/",
+      "Land": "DE",
+      "Längengrad": "8.681038",
+      "Organisation": "Kuratorium für Technik und Bauwesen in der Landwirtschaft e. V.",
+      "OrganisationDisplay": "KTBL",
+      "OrganisationId": 24578,
+      "OrganisationKurz": "KTBL",
+      "Ort": "Darmstadt",
+      "PLZ": 64289,
+      "Telefax": "+49 6151 7001-123",
+      "Telefon": "+49 6151 7001-0"
+    }
+  ]
+}

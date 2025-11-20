@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.695481",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@bund-der-vertriebenen.de",
+  "Hauptadresse": "Godesberger Allee 72 - 74",
+  "Internetadresse": "https://www.bund-der-vertriebenen.de",
+  "Land": "DE",
+  "Längengrad": "7.142986",
+  "Organisation": "Bund der Vertriebenen e. V.",
+  "OrganisationDisplay": "BdVeV",
+  "OrganisationId": 14130,
+  "OrganisationKurz": "BdVeV",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 81007-52",
+  "Telefon": "+49 228 81007-0",
+  "locations": [
+    {
+      "Breitengrad": "50.695481",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@bund-der-vertriebenen.de",
+      "Hauptadresse": "Godesberger Allee 72 - 74",
+      "Internetadresse": "https://www.bund-der-vertriebenen.de",
+      "Land": "DE",
+      "Längengrad": "7.142986",
+      "Organisation": "Bund der Vertriebenen e. V.",
+      "OrganisationDisplay": "BdVeV",
+      "OrganisationId": 14130,
+      "OrganisationKurz": "BdVeV",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 81007-52",
+      "Telefon": "+49 228 81007-0"
+    }
+  ]
+}

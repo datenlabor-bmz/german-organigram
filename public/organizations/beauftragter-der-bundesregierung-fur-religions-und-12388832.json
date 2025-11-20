@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "rwf-b@diplo.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.bmz.de/de/aktuelles/aktuelle-meldungen/frank-schwabe-neuer-beauftragter-religionsfreiheit-101022",
+  "Land": "DE",
+  "Längengrad": "13.3998494",
+  "Organisation": "Beauftragter der Bundesregierung für  Religions- und Weltanschauungsfreiheit",
+  "OrganisationDisplay": "B Religionsfr.",
+  "OrganisationId": 12388832,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefon": "+49 30 1817-1270",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "rwf-b@diplo.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.bmz.de/de/aktuelles/aktuelle-meldungen/frank-schwabe-neuer-beauftragter-religionsfreiheit-101022",
+      "Land": "DE",
+      "Längengrad": "13.3998494",
+      "Organisation": "Beauftragter der Bundesregierung für  Religions- und Weltanschauungsfreiheit",
+      "OrganisationDisplay": "B Religionsfr.",
+      "OrganisationId": 12388832,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefon": "+49 30 1817-1270",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

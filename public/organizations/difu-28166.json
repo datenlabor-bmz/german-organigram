@@ -1,0 +1,50 @@
+{
+  "Breitengrad": "52.513702",
+  "Bundesland": "Berlin",
+  "E-Mail": "difu@difu.de",
+  "Hauptadresse": "Zimmerstraße 13 - 15",
+  "Internetadresse": "https://difu.de/",
+  "Land": "DE",
+  "Längengrad": "13.333153",
+  "Organisation": "Deutsches Institut für Urbanistik",
+  "OrganisationDisplay": "Difu",
+  "OrganisationId": 28166,
+  "OrganisationKurz": "Difu",
+  "Ort": "Berlin",
+  "PLZ": 10969,
+  "Telefax": "+49 30 39001-100",
+  "Telefon": "+49 30 39001-0",
+  "locations": [
+    {
+      "Breitengrad": "52.513702",
+      "Bundesland": "Berlin",
+      "E-Mail": "difu@difu.de",
+      "Hauptadresse": "Zimmerstraße 13 - 15",
+      "Internetadresse": "https://difu.de/",
+      "Land": "DE",
+      "Längengrad": "13.333153",
+      "Organisation": "Deutsches Institut für Urbanistik",
+      "OrganisationDisplay": "Difu",
+      "OrganisationId": 28166,
+      "OrganisationKurz": "Difu",
+      "Ort": "Berlin",
+      "PLZ": 10969,
+      "Telefax": "+49 30 39001-100",
+      "Telefon": "+49 30 39001-0"
+    },
+    {
+      "Adresse": "Lindenallee 11",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "ab-koeln@difu.de",
+      "Internetadresse": "https://difu.de/",
+      "Land": "DE",
+      "Liegenschaft": "Abteilung Köln",
+      "LiegenschaftsId": 28164,
+      "OrganisationId": 28166,
+      "Ort": "Köln",
+      "PLZ": 50968,
+      "Telefax": "+49 221 340308-28",
+      "Telefon": "+49 221 340308-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.808695",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "schstrataufklbwpressearbeit@bundeswehr.org",
+  "Hauptadresse": "Mürwiker Straße 203",
+  "Internetadresse": "https://www.bundeswehr.de/de/schule-fuer-strategische-aufklaerung-der-bundeswehr-5338244",
+  "Land": "DE",
+  "Längengrad": " 9.460187",
+  "Organisation": "Schule für strategische Aufklärung der Bundeswehr",
+  "OrganisationDisplay": "SchStratAufklBw",
+  "OrganisationId": 25884,
+  "OrganisationKurz": "SchStratAufklBw",
+  "Ort": "Flensburg",
+  "PLZ": 24944,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4613135-3075",
+  "Telefon": "+49 461 3135-0",
+  "locations": [
+    {
+      "Breitengrad": "54.808695",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "schstrataufklbwpressearbeit@bundeswehr.org",
+      "Hauptadresse": "Mürwiker Straße 203",
+      "Internetadresse": "https://www.bundeswehr.de/de/schule-fuer-strategische-aufklaerung-der-bundeswehr-5338244",
+      "Land": "DE",
+      "Längengrad": " 9.460187",
+      "Organisation": "Schule für strategische Aufklärung der Bundeswehr",
+      "OrganisationDisplay": "SchStratAufklBw",
+      "OrganisationId": 25884,
+      "OrganisationKurz": "SchStratAufklBw",
+      "Ort": "Flensburg",
+      "PLZ": 24944,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4613135-3075",
+      "Telefon": "+49 461 3135-0"
+    }
+  ]
+}

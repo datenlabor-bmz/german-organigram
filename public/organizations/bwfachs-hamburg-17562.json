@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.575364",
+  "Bundesland": "Hamburg",
+  "E-Mail": "BwFachSHamburg@bundeswehr.org",
+  "Hauptadresse": "Osdorfer Landstraße 365",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-hamburg-86934",
+  "Land": "DE",
+  "Längengrad": "9.829434",
+  "Organisation": "Bundeswehrfachschule Hamburg",
+  "OrganisationDisplay": "BwFachS Hamburg",
+  "OrganisationId": 17562,
+  "OrganisationKurz": "BwFachS Hamburg",
+  "Ort": "Hamburg",
+  "PLZ": 22589,
+  "Ressort": "BMVg",
+  "Telefax": "+49 40 86648-4212",
+  "Telefon": "+49 40 86648-0",
+  "locations": [
+    {
+      "Breitengrad": "53.575364",
+      "Bundesland": "Hamburg",
+      "E-Mail": "BwFachSHamburg@bundeswehr.org",
+      "Hauptadresse": "Osdorfer Landstraße 365",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-hamburg-86934",
+      "Land": "DE",
+      "Längengrad": "9.829434",
+      "Organisation": "Bundeswehrfachschule Hamburg",
+      "OrganisationDisplay": "BwFachS Hamburg",
+      "OrganisationId": 17562,
+      "OrganisationKurz": "BwFachS Hamburg",
+      "Ort": "Hamburg",
+      "PLZ": 22589,
+      "Ressort": "BMVg",
+      "Telefax": "+49 40 86648-4212",
+      "Telefon": "+49 40 86648-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.44255",
+  "Bundesland": "Bayern",
+  "E-Mail": "Bayern@arbeitsagentur.de",
+  "Hauptadresse": "Thomas-Mann-Str. 50",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/Bayern/index.htm",
+  "Land": "DE",
+  "Längengrad": "11.104979",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Bayern",
+  "OrganisationDisplay": "BA-RD-BY",
+  "OrganisationId": 15422,
+  "OrganisationKurz": "BA-RD-BY",
+  "Ort": "Nürnberg",
+  "PLZ": 90478,
+  "Ressort": "BMAS",
+  "Telefax": "+49 911 179-4202",
+  "Telefon": "+49 911 179-0",
+  "locations": [
+    {
+      "Breitengrad": "49.44255",
+      "Bundesland": "Bayern",
+      "E-Mail": "Bayern@arbeitsagentur.de",
+      "Hauptadresse": "Thomas-Mann-Str. 50",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/Bayern/index.htm",
+      "Land": "DE",
+      "Längengrad": "11.104979",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Bayern",
+      "OrganisationDisplay": "BA-RD-BY",
+      "OrganisationId": 15422,
+      "OrganisationKurz": "BA-RD-BY",
+      "Ort": "Nürnberg",
+      "PLZ": 90478,
+      "Ressort": "BMAS",
+      "Telefax": "+49 911 179-4202",
+      "Telefon": "+49 911 179-0"
+    }
+  ]
+}

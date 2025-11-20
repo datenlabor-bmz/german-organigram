@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.0266762",
+  "Bundesland": "Sachsen",
+  "E-Mail": "postmaster@ifw-dresden.de",
+  "Hauptadresse": "Helmholtzstraße 20",
+  "Internetadresse": "https://www.ifw-dresden.de",
+  "Land": "DE",
+  "Längengrad": "13.7252733",
+  "Organisation": "Leibniz-Institut für Festkörper- und Werkstoffforschung Dresden",
+  "OrganisationDisplay": "IFW",
+  "OrganisationId": 322808,
+  "OrganisationKurz": "IFW",
+  "Ort": "Dresden",
+  "PLZ": 1069,
+  "Telefax": "+49 351 4659-540",
+  "Telefon": "+49 351 4659-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.0266762",
+      "Bundesland": "Sachsen",
+      "E-Mail": "postmaster@ifw-dresden.de",
+      "Hauptadresse": "Helmholtzstraße 20",
+      "Internetadresse": "https://www.ifw-dresden.de",
+      "Land": "DE",
+      "Längengrad": "13.7252733",
+      "Organisation": "Leibniz-Institut für Festkörper- und Werkstoffforschung Dresden",
+      "OrganisationDisplay": "IFW",
+      "OrganisationId": 322808,
+      "OrganisationKurz": "IFW",
+      "Ort": "Dresden",
+      "PLZ": 1069,
+      "Telefax": "+49 351 4659-540",
+      "Telefon": "+49 351 4659-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

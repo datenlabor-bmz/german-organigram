@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.7401498",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@zv.fraunhofer.de",
+  "Hauptadresse": "Nobelstraße 12",
+  "Internetadresse": "https://www.ipa.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "9.0973781",
+  "Organisation": "Fraunhofer Institut für Produktionstechnik und Automatisierung",
+  "OrganisationDisplay": "IPA",
+  "OrganisationId": 561008,
+  "OrganisationKurz": "IPA",
+  "Ort": "Stuttgart",
+  "PLZ": 70569,
+  "Telefon": "+49 711 970-1800",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.7401498",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@zv.fraunhofer.de",
+      "Hauptadresse": "Nobelstraße 12",
+      "Internetadresse": "https://www.ipa.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "9.0973781",
+      "Organisation": "Fraunhofer Institut für Produktionstechnik und Automatisierung",
+      "OrganisationDisplay": "IPA",
+      "OrganisationId": 561008,
+      "OrganisationKurz": "IPA",
+      "Ort": "Stuttgart",
+      "PLZ": 70569,
+      "Telefon": "+49 711 970-1800",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

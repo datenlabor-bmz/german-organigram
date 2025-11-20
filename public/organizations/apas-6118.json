@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.4884693",
+  "Bundesland": "Berlin",
+  "E-Mail": "infoapas@apasbafa.bund.de",
+  "Hauptadresse": "Uhlandstraße 88-90",
+  "Internetadresse": "https://www.apasbafa.bund.de/APAS/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.3224128",
+  "Organisation": "Abschlussprüferaufsichtsstelle",
+  "OrganisationDisplay": "APAS",
+  "OrganisationId": 6118,
+  "OrganisationKurz": "APAS",
+  "Ort": "Berlin",
+  "PLZ": 10717,
+  "Ressort": "BMWE",
+  "Telefon": "+49 6196 908-0",
+  "Notiz": "BAFA",
+  "locations": [
+    {
+      "Breitengrad": "52.4884693",
+      "Bundesland": "Berlin",
+      "E-Mail": "infoapas@apasbafa.bund.de",
+      "Hauptadresse": "Uhlandstraße 88-90",
+      "Internetadresse": "https://www.apasbafa.bund.de/APAS/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.3224128",
+      "Organisation": "Abschlussprüferaufsichtsstelle",
+      "OrganisationDisplay": "APAS",
+      "OrganisationId": 6118,
+      "OrganisationKurz": "APAS",
+      "Ort": "Berlin",
+      "PLZ": 10717,
+      "Ressort": "BMWE",
+      "Telefon": "+49 6196 908-0",
+      "Notiz": "BAFA"
+    }
+  ]
+}

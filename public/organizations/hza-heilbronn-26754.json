@@ -1,0 +1,260 @@
+{
+  "Breitengrad": "49.144788",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "poststelle.hza-heilbronn@zoll.bund.de",
+  "Hauptadresse": "Kastellstraße 53",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "9.198516",
+  "Organisation": "Hauptzollamt Heilbronn",
+  "OrganisationDisplay": "HZA Heilbronn",
+  "OrganisationId": 26754,
+  "OrganisationKurz": "HZA Heilbronn",
+  "Ort": "Heilbronn",
+  "PLZ": 74080,
+  "Ressort": "BMF",
+  "Telefax": "+49 7131 8970-199",
+  "Telefon": "+49 7131 8970-0",
+  "Kategorie": "Bundesunterbehörde",
+  "Wikidata ID": "Q67446611",
+  "locations": [
+    {
+      "Breitengrad": "49.144788",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle.hza-heilbronn@zoll.bund.de",
+      "Hauptadresse": "Kastellstraße 53",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "9.198516",
+      "Organisation": "Hauptzollamt Heilbronn",
+      "OrganisationDisplay": "HZA Heilbronn",
+      "OrganisationId": 26754,
+      "OrganisationKurz": "HZA Heilbronn",
+      "Ort": "Heilbronn",
+      "PLZ": 74080,
+      "Ressort": "BMF",
+      "Telefax": "+49 7131 8970-199",
+      "Telefon": "+49 7131 8970-0",
+      "Kategorie": "Bundesunterbehörde",
+      "Wikidata ID": "Q67446611"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q67446611",
+    "data": {
+      "type": "item",
+      "id": "Q67446611",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt Heilbronn – Finanzkontrolle Schwarzarbeit Tauberbischofsheim"
+        },
+        "en": {
+          "language": "en",
+          "value": "Hauptzollamt Heilbronn – Finanzkontrolle Schwarzarbeit Tauberbischofsheim"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Finanzkontrolle Schwarzarbeit des Hauptzollamts Heilbronn am Laurentiusberg in Tauberbischofsheim im Main-Tauber-Kreis"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "c82e7283d6936516e08c013d05d4d39f9a02d582",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 218550,
+                  "id": "Q218550"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q67446611$9580c31a-4030-1644-9d19-8fe08e0f1eed",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q67446611$53db8081-4307-1f7b-9a59-0deb71283dbb",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "ce46ad1934249a55ad696a4f23a524c35fff8a98",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61724,
+                  "id": "Q61724"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q67446611$96842626-4f61-8aef-2591-351d345cdb9c",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "9866499ffc29a3479d90b6069a5e728e8efbc684",
+              "datavalue": {
+                "value": {
+                  "latitude": 49.619068,
+                  "longitude": 9.674987,
+                  "altitude": null,
+                  "precision": 1e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q67446611$f045e576-4f22-ac56-0785-9cd9e5e259b3",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "e56e85858a64bb1cb3c9a2b6122f5902f848b52d",
+              "datavalue": {
+                "value": "Hauptzollamt Heilbronn – Finanzkontrolle Schwarzarbeit Tauberbischofsheim.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q67446611$ab8275be-4769-b122-6010-d7d7c123ce0f",
+            "rank": "normal"
+          }
+        ],
+        "P276": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "c021178fa4ab2b6b1d83fffe8b6b429381ebc487",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 61977929,
+                  "id": "Q61977929"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q67446611$2bde234c-4578-7262-8bd4-9bfe6d0ea673",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P276",
+              "hash": "d42b03ab1266b780422536489775db7e511f4dc3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 47015860,
+                  "id": "Q47015860"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q67446611$ce033f24-485f-a425-84b7-cb4327e3c250",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "af948f5acb17c211654d2c869a0f411ff51cef28",
+              "datavalue": {
+                "value": "Hauptzollamt Heilbronn – Finanzkontrolle Schwarzarbeit Tauberbischofsheim",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q67446611$e853cee1-4fd0-20c7-f095-1971ad89532f",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Hauptzollamt Heilbronn – Finanzkontrolle Schwarzarbeit Tauberbischofsheim",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q218550": {
+        "type": "item",
+        "id": "Q218550",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Zollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Zollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Zollbehörde in Deutschland und Österreich"
+          },
+          "en": {
+            "language": "en",
+            "value": "customs agency in Germany and Austria"
+          }
+        }
+      }
+    }
+  }
+}

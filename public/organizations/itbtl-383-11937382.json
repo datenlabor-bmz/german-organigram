@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.9732328",
+  "Bundesland": "Thüringen",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Nissaer Weg 10",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl383/!ut/p/z1/hU67DoIwFP0WB9beKwpWty6-4ishRuhiKtaCKZTUSv18MU4mGs92njnAIQVei7ZUwpWmFrrjGY-P8Xi4mIUJrimd9pFt2G663dMQ5xEc_gV4Z-MPMITkLCHrNkY_N8YhJMCBX0UrHqQx1mnpiMhfDyErRH3Wcmdy9haWwJU2p_d1Vp8GVAG38iKttORuO7lwrrlNAgzQe0-UMUpLkpsqwG-VwtwcpJ9JaKrU4yDS7Yr1ni26zdA!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU82092",
+  "Land": "DE",
+  "Längengrad": "11.0793243",
+  "Organisation": "Informationstechnikbataillon 383",
+  "OrganisationDisplay": "ITBtl 383",
+  "OrganisationId": 11937382,
+  "OrganisationKurz": "ITBtl 383",
+  "Ort": "Erfurt",
+  "PLZ": 99099,
+  "Ressort": "BMVg",
+  "Telefon": "+49 361 432-0",
+  "locations": [
+    {
+      "Breitengrad": "50.9732328",
+      "Bundesland": "Thüringen",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Nissaer Weg 10",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl383/!ut/p/z1/hU67DoIwFP0WB9beKwpWty6-4ishRuhiKtaCKZTUSv18MU4mGs92njnAIQVei7ZUwpWmFrrjGY-P8Xi4mIUJrimd9pFt2G663dMQ5xEc_gV4Z-MPMITkLCHrNkY_N8YhJMCBX0UrHqQx1mnpiMhfDyErRH3Wcmdy9haWwJU2p_d1Vp8GVAG38iKttORuO7lwrrlNAgzQe0-UMUpLkpsqwG-VwtwcpJ9JaKrU4yDS7Yr1ni26zdA!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU82092",
+      "Land": "DE",
+      "Längengrad": "11.0793243",
+      "Organisation": "Informationstechnikbataillon 383",
+      "OrganisationDisplay": "ITBtl 383",
+      "OrganisationId": 11937382,
+      "OrganisationKurz": "ITBtl 383",
+      "Ort": "Erfurt",
+      "PLZ": 99099,
+      "Ressort": "BMVg",
+      "Telefon": "+49 361 432-0"
+    }
+  ]
+}

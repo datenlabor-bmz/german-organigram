@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.490341",
+  "Bundesland": "Berlin",
+  "E-Mail": "drv@drv-bund.de",
+  "Hauptadresse": "Ruhrstraße 2",
+  "Internetadresse": "https://www.deutsche-rentenversicherung.de/Bund/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.31081",
+  "Organisation": "Deutsche Rentenversicherung Bund",
+  "OrganisationDisplay": "DRV Bund",
+  "OrganisationId": 22806,
+  "OrganisationKurz": "DRV Bund",
+  "Ort": "Berlin",
+  "PLZ": 10709,
+  "Ressort": "BMAS",
+  "Telefax": "+49 30 865-27240",
+  "Telefon": "+49 30 865-0",
+  "locations": [
+    {
+      "Breitengrad": "52.490341",
+      "Bundesland": "Berlin",
+      "E-Mail": "drv@drv-bund.de",
+      "Hauptadresse": "Ruhrstraße 2",
+      "Internetadresse": "https://www.deutsche-rentenversicherung.de/Bund/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.31081",
+      "Organisation": "Deutsche Rentenversicherung Bund",
+      "OrganisationDisplay": "DRV Bund",
+      "OrganisationId": 22806,
+      "OrganisationKurz": "DRV Bund",
+      "Ort": "Berlin",
+      "PLZ": 10709,
+      "Ressort": "BMAS",
+      "Telefax": "+49 30 865-27240",
+      "Telefon": "+49 30 865-0"
+    }
+  ]
+}

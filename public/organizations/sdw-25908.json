@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.730973",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@sdw.de",
+  "Hauptadresse": "Dechenstraße 8",
+  "Internetadresse": "https://www.sdw.de",
+  "Land": "DE",
+  "Längengrad": "7.094987",
+  "Organisation": "Schutzgemeinschaft Deutscher Wald - Bundesverband e. V.",
+  "OrganisationDisplay": "SDW",
+  "OrganisationId": 25908,
+  "OrganisationKurz": "SDW",
+  "Ort": "Bonn",
+  "PLZ": 53115,
+  "Telefax": "+49 228 945983-3",
+  "Telefon": "+49 228 945983-0",
+  "locations": [
+    {
+      "Breitengrad": "50.730973",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@sdw.de",
+      "Hauptadresse": "Dechenstraße 8",
+      "Internetadresse": "https://www.sdw.de",
+      "Land": "DE",
+      "Längengrad": "7.094987",
+      "Organisation": "Schutzgemeinschaft Deutscher Wald - Bundesverband e. V.",
+      "OrganisationDisplay": "SDW",
+      "OrganisationId": 25908,
+      "OrganisationKurz": "SDW",
+      "Ort": "Bonn",
+      "PLZ": 53115,
+      "Telefax": "+49 228 945983-3",
+      "Telefon": "+49 228 945983-0"
+    }
+  ]
+}

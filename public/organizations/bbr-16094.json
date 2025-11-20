@@ -1,0 +1,63 @@
+{
+  "Breitengrad": "50.671483",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "zentrale@bbr.bund.de",
+  "Hauptadresse": "Deichmanns Aue 31 - 37",
+  "Internetadresse": "https://www.bbr.bund.de",
+  "Land": "DE",
+  "Längengrad": "7.184487",
+  "Organisation": "Bundesamt für Bauwesen und Raumordnung",
+  "OrganisationDisplay": "BBR",
+  "OrganisationId": 16094,
+  "OrganisationKurz": "BBR",
+  "Ort": "Bonn",
+  "PLZ": 53179,
+  "Ressort": "BMWSB",
+  "Telefax": "+49 22899 401-1270",
+  "Telefon": "+49 22899 401-0",
+  "locations": [
+    {
+      "Breitengrad": "50.671483",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "zentrale@bbr.bund.de",
+      "Hauptadresse": "Deichmanns Aue 31 - 37",
+      "Internetadresse": "https://www.bbr.bund.de",
+      "Land": "DE",
+      "Längengrad": "7.184487",
+      "Organisation": "Bundesamt für Bauwesen und Raumordnung",
+      "OrganisationDisplay": "BBR",
+      "OrganisationId": 16094,
+      "OrganisationKurz": "BBR",
+      "Ort": "Bonn",
+      "PLZ": 53179,
+      "Ressort": "BMWSB",
+      "Telefax": "+49 22899 401-1270",
+      "Telefon": "+49 22899 401-0"
+    },
+    {
+      "Adresse": "Straße des 17. Juni 112",
+      "Bundesland": "Berlin",
+      "E-Mail": "zentrale@bbr.bund.de",
+      "Internetadresse": "https://www.bbr.bund.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienststelle Berlin",
+      "LiegenschaftsId": 16078,
+      "OrganisationId": 16094,
+      "Ort": "Berlin",
+      "PLZ": 10623,
+      "Telefax": "+49 3018 401-1270",
+      "Telefon": "+49 3018 401-0"
+    },
+    {
+      "Adresse": "Thiemstraße 136",
+      "Bundesland": "Brandenburg",
+      "Internetadresse": "https://www.bbr.bund.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Cottbus",
+      "LiegenschaftsId": 24151520,
+      "OrganisationId": 16094,
+      "Ort": "Cottbus",
+      "PLZ": 3048
+    }
+  ]
+}

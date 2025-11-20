@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.302906",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "wsa-mlk-esk@wsv.bund.de",
+  "Hauptadresse": "Am Hohen Ufer 1 - 3",
+  "Land": "DE",
+  "Längengrad": "8.918159",
+  "Organisation": "Fachstelle Maschinenwesen Mitte (beim WSA Mittelkanal/Elbe-Seitenkanal)",
+  "OrganisationDisplay": "FMM ",
+  "OrganisationId": 23290,
+  "OrganisationKurz": "FMM ",
+  "Ort": "Minden",
+  "PLZ": 32425,
+  "Ressort": "BMV",
+  "Telefax": "+49 571 6458-1900",
+  "Telefon": "+49 571 6458-0",
+  "locations": [
+    {
+      "Breitengrad": "52.302906",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "wsa-mlk-esk@wsv.bund.de",
+      "Hauptadresse": "Am Hohen Ufer 1 - 3",
+      "Land": "DE",
+      "Längengrad": "8.918159",
+      "Organisation": "Fachstelle Maschinenwesen Mitte (beim WSA Mittelkanal/Elbe-Seitenkanal)",
+      "OrganisationDisplay": "FMM ",
+      "OrganisationId": 23290,
+      "OrganisationKurz": "FMM ",
+      "Ort": "Minden",
+      "PLZ": 32425,
+      "Ressort": "BMV",
+      "Telefax": "+49 571 6458-1900",
+      "Telefon": "+49 571 6458-0"
+    }
+  ]
+}

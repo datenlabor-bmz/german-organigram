@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.484446",
+  "Bundesland": "Berlin",
+  "E-Mail": "dza-berlin@dza.de",
+  "Hauptadresse": "Manfred-von-Richthofen-Str. 2",
+  "Internetadresse": "https://www.dza.de",
+  "Land": "DE",
+  "Längengrad": "13.384829",
+  "Organisation": "Deutsches Zentrum für Altersfragen e. V.",
+  "OrganisationDisplay": "DZA",
+  "OrganisationId": 7542360,
+  "OrganisationKurz": "DZA",
+  "Ort": "Berlin",
+  "PLZ": 12101,
+  "Telefax": "+49 30 785 43-50",
+  "Telefon": "+49 30 260 740-0",
+  "locations": [
+    {
+      "Breitengrad": "52.484446",
+      "Bundesland": "Berlin",
+      "E-Mail": "dza-berlin@dza.de",
+      "Hauptadresse": "Manfred-von-Richthofen-Str. 2",
+      "Internetadresse": "https://www.dza.de",
+      "Land": "DE",
+      "Längengrad": "13.384829",
+      "Organisation": "Deutsches Zentrum für Altersfragen e. V.",
+      "OrganisationDisplay": "DZA",
+      "OrganisationId": 7542360,
+      "OrganisationKurz": "DZA",
+      "Ort": "Berlin",
+      "PLZ": 12101,
+      "Telefax": "+49 30 785 43-50",
+      "Telefon": "+49 30 260 740-0"
+    }
+  ]
+}

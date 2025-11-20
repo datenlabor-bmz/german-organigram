@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5338154",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bmwi.bund.de",
+  "Hauptadresse": "Scharnhorststraße 34 - 37",
+  "Internetadresse": "https://www.bmwk.de/Navigation/DE/Ministerium/Koordinatoren-und-Beauftragte/koordinatoren-und-beauftragte.html",
+  "Land": "DE",
+  "Längengrad": "13.3709387",
+  "Organisation": "Koordinator der Bundesregierung für Maritime Wirtschaft und Tourismus",
+  "OrganisationDisplay": "KB Tourismus",
+  "OrganisationId": 26092,
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BMWE",
+  "Telefon": "+49 30 18 615-6680/-6429",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5338154",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bmwi.bund.de",
+      "Hauptadresse": "Scharnhorststraße 34 - 37",
+      "Internetadresse": "https://www.bmwk.de/Navigation/DE/Ministerium/Koordinatoren-und-Beauftragte/koordinatoren-und-beauftragte.html",
+      "Land": "DE",
+      "Längengrad": "13.3709387",
+      "Organisation": "Koordinator der Bundesregierung für Maritime Wirtschaft und Tourismus",
+      "OrganisationDisplay": "KB Tourismus",
+      "OrganisationId": 26092,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BMWE",
+      "Telefon": "+49 30 18 615-6680/-6429",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

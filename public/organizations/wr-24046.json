@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.939541",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "post@wissenschaftsrat.de",
+  "Hauptadresse": "Scheidtweilerstraße 4",
+  "Internetadresse": "https://www.wissenschaftsrat.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "6.908013",
+  "Organisation": "Wissenschaftsrat",
+  "OrganisationDisplay": "WR",
+  "OrganisationId": 24046,
+  "OrganisationKurz": "WR",
+  "Ort": "Köln",
+  "PLZ": 50933,
+  "Ressort": "BMFTR",
+  "Telefon": "+49 221 3776-0",
+  "locations": [
+    {
+      "Breitengrad": "50.939541",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "post@wissenschaftsrat.de",
+      "Hauptadresse": "Scheidtweilerstraße 4",
+      "Internetadresse": "https://www.wissenschaftsrat.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "6.908013",
+      "Organisation": "Wissenschaftsrat",
+      "OrganisationDisplay": "WR",
+      "OrganisationId": 24046,
+      "OrganisationKurz": "WR",
+      "Ort": "Köln",
+      "PLZ": 50933,
+      "Ressort": "BMFTR",
+      "Telefon": "+49 221 3776-0"
+    }
+  ]
+}

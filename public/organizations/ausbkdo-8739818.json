@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.3827432",
+  "Bundesland": "Sachsen",
+  "E-Mail": "AusbKdoPressestelle@bundeswehr.org",
+  "Hauptadresse": "Landsberger Straße 133",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando",
+  "Land": "DE",
+  "Längengrad": "12.3530476",
+  "Organisation": "Ausbildungskommando",
+  "OrganisationDisplay": "AusbKdo",
+  "OrganisationId": 8739818,
+  "OrganisationKurz": "AusbKdo",
+  "Ort": "Leipzig",
+  "PLZ": 4157,
+  "Ressort": "BMVg",
+  "Telefax": "+49 341 595 3109",
+  "Telefon": "+49 341 5950",
+  "locations": [
+    {
+      "Breitengrad": "51.3827432",
+      "Bundesland": "Sachsen",
+      "E-Mail": "AusbKdoPressestelle@bundeswehr.org",
+      "Hauptadresse": "Landsberger Straße 133",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando",
+      "Land": "DE",
+      "Längengrad": "12.3530476",
+      "Organisation": "Ausbildungskommando",
+      "OrganisationDisplay": "AusbKdo",
+      "OrganisationId": 8739818,
+      "OrganisationKurz": "AusbKdo",
+      "Ort": "Leipzig",
+      "PLZ": 4157,
+      "Ressort": "BMVg",
+      "Telefax": "+49 341 595 3109",
+      "Telefon": "+49 341 5950"
+    }
+  ]
+}

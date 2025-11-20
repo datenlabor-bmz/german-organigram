@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.389438",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "ZMSBwpressestelle@Bundeswehr.org",
+  "Hauptadresse": "Zeppelinstraße 127/128",
+  "Internetadresse": "https://zms.bundeswehr.de/de",
+  "Land": "DE",
+  "Längengrad": "13.029726",
+  "Organisation": "Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr",
+  "OrganisationDisplay": "ZMSBw",
+  "OrganisationId": 5267920,
+  "OrganisationKurz": "ZMSBw",
+  "Ort": "Potsdam",
+  "PLZ": 14471,
+  "Ressort": "BMVg",
+  "Telefax": "+49 331 9714-507",
+  "Telefon": "+49 331 9714-400",
+  "locations": [
+    {
+      "Breitengrad": "52.389438",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "ZMSBwpressestelle@Bundeswehr.org",
+      "Hauptadresse": "Zeppelinstraße 127/128",
+      "Internetadresse": "https://zms.bundeswehr.de/de",
+      "Land": "DE",
+      "Längengrad": "13.029726",
+      "Organisation": "Zentrum für Militärgeschichte und Sozialwissenschaften der Bundeswehr",
+      "OrganisationDisplay": "ZMSBw",
+      "OrganisationId": 5267920,
+      "OrganisationKurz": "ZMSBw",
+      "Ort": "Potsdam",
+      "PLZ": 14471,
+      "Ressort": "BMVg",
+      "Telefax": "+49 331 9714-507",
+      "Telefon": "+49 331 9714-400"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.841409",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZVeitshoechheim@bundeswehr.org",
+  "Hauptadresse": "Balthasar-Neumann-Kaserne ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-veitshoechheim",
+  "Land": "DE",
+  "Längengrad": "9.892723",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Veitshöchheim",
+  "OrganisationDisplay": "BwDLZ Veitshöchheim",
+  "OrganisationId": 20804,
+  "OrganisationKurz": "BwDLZ Veitshöchheim",
+  "Ort": "Veitshöchheim",
+  "PLZ": 97209,
+  "Ressort": "BMVg",
+  "Telefax": "+49 931 9707-4111",
+  "Telefon": "+49 931 9707-0",
+  "locations": [
+    {
+      "Breitengrad": "49.841409",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZVeitshoechheim@bundeswehr.org",
+      "Hauptadresse": "Balthasar-Neumann-Kaserne ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-veitshoechheim",
+      "Land": "DE",
+      "Längengrad": "9.892723",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Veitshöchheim",
+      "OrganisationDisplay": "BwDLZ Veitshöchheim",
+      "OrganisationId": 20804,
+      "OrganisationKurz": "BwDLZ Veitshöchheim",
+      "Ort": "Veitshöchheim",
+      "PLZ": 97209,
+      "Ressort": "BMVg",
+      "Telefax": "+49 931 9707-4111",
+      "Telefon": "+49 931 9707-0"
+    }
+  ]
+}

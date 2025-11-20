@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.354824",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "niedersachsen-bremen@arbeitsagentur.de",
+  "Hauptadresse": "Röpkestraße 3",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/NiedersachsenBremen/index.htm",
+  "Land": "DE",
+  "Längengrad": "9.749549",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Niedersachsen-Bremen",
+  "OrganisationDisplay": "BA-RD-NI-HB",
+  "OrganisationId": 15880,
+  "OrganisationKurz": "BA-RD-NI-HB",
+  "Ort": "Hannover",
+  "PLZ": 30173,
+  "Ressort": "BMAS",
+  "Telefax": "+49 511 9885-7777",
+  "Telefon": "+49 511 9885-0",
+  "locations": [
+    {
+      "Breitengrad": "52.354824",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "niedersachsen-bremen@arbeitsagentur.de",
+      "Hauptadresse": "Röpkestraße 3",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/NiedersachsenBremen/index.htm",
+      "Land": "DE",
+      "Längengrad": "9.749549",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Niedersachsen-Bremen",
+      "OrganisationDisplay": "BA-RD-NI-HB",
+      "OrganisationId": 15880,
+      "OrganisationKurz": "BA-RD-NI-HB",
+      "Ort": "Hannover",
+      "PLZ": 30173,
+      "Ressort": "BMAS",
+      "Telefax": "+49 511 9885-7777",
+      "Telefon": "+49 511 9885-0"
+    }
+  ]
+}

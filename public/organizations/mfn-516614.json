@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5295523",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@mfn.berlin",
+  "Hauptadresse": "Invalidenstraße 43",
+  "Internetadresse": "https://www.museumfuernaturkunde.berlin",
+  "Land": "DE",
+  "Längengrad": "13.3795502",
+  "Organisation": "Museum für Naturkunde - Leibniz-Institut für Evolutions- und Biodiversitätsforschung",
+  "OrganisationDisplay": "MfN",
+  "OrganisationId": 516614,
+  "OrganisationKurz": "MfN",
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Telefax": "+49 30 889140-8561",
+  "Telefon": "+49 30 889140-8591",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5295523",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@mfn.berlin",
+      "Hauptadresse": "Invalidenstraße 43",
+      "Internetadresse": "https://www.museumfuernaturkunde.berlin",
+      "Land": "DE",
+      "Längengrad": "13.3795502",
+      "Organisation": "Museum für Naturkunde - Leibniz-Institut für Evolutions- und Biodiversitätsforschung",
+      "OrganisationDisplay": "MfN",
+      "OrganisationId": 516614,
+      "OrganisationKurz": "MfN",
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Telefax": "+49 30 889140-8561",
+      "Telefon": "+49 30 889140-8591",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.164412",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "pizsanitaetsdienst@bundeswehr.org",
+  "Hauptadresse": "Von-Kuhl-Straße 50",
+  "Land": "DE",
+  "Längengrad": "11.539915",
+  "Organisation": "Presse- und Informationszentrum des Sanitätsdienstes",
+  "OrganisationDisplay": "PIZ SanDstBw",
+  "OrganisationId": 27192,
+  "OrganisationKurz": "PIZ SanDstBw",
+  "Ort": "Koblenz",
+  "PLZ": 56070,
+  "Ressort": "BMVg",
+  "Telefax": "+49 261 896 13199",
+  "Telefon": "+49 261 896 13103",
+  "locations": [
+    {
+      "Breitengrad": "48.164412",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "pizsanitaetsdienst@bundeswehr.org",
+      "Hauptadresse": "Von-Kuhl-Straße 50",
+      "Land": "DE",
+      "Längengrad": "11.539915",
+      "Organisation": "Presse- und Informationszentrum des Sanitätsdienstes",
+      "OrganisationDisplay": "PIZ SanDstBw",
+      "OrganisationId": 27192,
+      "OrganisationKurz": "PIZ SanDstBw",
+      "Ort": "Koblenz",
+      "PLZ": 56070,
+      "Ressort": "BMVg",
+      "Telefax": "+49 261 896 13199",
+      "Telefon": "+49 261 896 13103"
+    }
+  ]
+}

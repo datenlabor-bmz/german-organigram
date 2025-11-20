@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.4058376",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "bf-z-gz-2@auswaertiges-amt.de",
+  "Hauptadresse": "Kirchhofstraße 1 - 2",
+  "Internetadresse": "https://bfaa.diplo.de/bfaa-de",
+  "Land": "DE",
+  "Längengrad": "12.5675085",
+  "Organisation": "Bundesamt für Auswärtige Angelegenheiten",
+  "OrganisationDisplay": "BfAA",
+  "OrganisationId": 14657254,
+  "OrganisationKurz": "BfAA",
+  "Ort": "Brandenburg",
+  "PLZ": 14776,
+  "Ressort": "AA",
+  "Telefon": "+49 30 184730-0",
+  "locations": [
+    {
+      "Breitengrad": "52.4058376",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "bf-z-gz-2@auswaertiges-amt.de",
+      "Hauptadresse": "Kirchhofstraße 1 - 2",
+      "Internetadresse": "https://bfaa.diplo.de/bfaa-de",
+      "Land": "DE",
+      "Längengrad": "12.5675085",
+      "Organisation": "Bundesamt für Auswärtige Angelegenheiten",
+      "OrganisationDisplay": "BfAA",
+      "OrganisationId": 14657254,
+      "OrganisationKurz": "BfAA",
+      "Ort": "Brandenburg",
+      "PLZ": 14776,
+      "Ressort": "AA",
+      "Telefon": "+49 30 184730-0"
+    }
+  ]
+}

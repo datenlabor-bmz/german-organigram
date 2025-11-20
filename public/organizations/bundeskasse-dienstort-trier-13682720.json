@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.770549",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "bk-tr.gzd@zoll.bund.de",
+  "Hauptadresse": "Dasbachstraße 15",
+  "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Trier/DO_Trier_node.html",
+  "Land": "DE",
+  "Längengrad": "6.6718091",
+  "Organisation": "Bundeskasse Dienstort Trier",
+  "OrganisationDisplay": "Bundeskasse Trier",
+  "OrganisationId": 13682720,
+  "Ort": "Trier",
+  "PLZ": 54292,
+  "Ressort": "BMF",
+  "Telefax": "+49 651 1448-1001",
+  "Telefon": "+49 651 1448-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "49.770549",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "bk-tr.gzd@zoll.bund.de",
+      "Hauptadresse": "Dasbachstraße 15",
+      "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Trier/DO_Trier_node.html",
+      "Land": "DE",
+      "Längengrad": "6.6718091",
+      "Organisation": "Bundeskasse Dienstort Trier",
+      "OrganisationDisplay": "Bundeskasse Trier",
+      "OrganisationId": 13682720,
+      "Ort": "Trier",
+      "PLZ": 54292,
+      "Ressort": "BMF",
+      "Telefax": "+49 651 1448-1001",
+      "Telefon": "+49 651 1448-0",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

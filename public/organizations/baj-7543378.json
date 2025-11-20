@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515574",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@bag-jugendschutz.de",
+  "Hauptadresse": "Mühlendamm 3",
+  "Internetadresse": "https://www.bag-jugendschutz.de/de/Index",
+  "Land": "DE",
+  "Längengrad": "13.408105",
+  "Organisation": "Bundesarbeitsgemeinschaft Kinder- und Jugendschutz e. V.",
+  "OrganisationDisplay": "BAJ",
+  "OrganisationId": 7543378,
+  "OrganisationKurz": "BAJ",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Ressort": "BMBFSFJ",
+  "Telefax": "+49 30 40040 333",
+  "Telefon": "+49 30 40040300",
+  "locations": [
+    {
+      "Breitengrad": "52.515574",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@bag-jugendschutz.de",
+      "Hauptadresse": "Mühlendamm 3",
+      "Internetadresse": "https://www.bag-jugendschutz.de/de/Index",
+      "Land": "DE",
+      "Längengrad": "13.408105",
+      "Organisation": "Bundesarbeitsgemeinschaft Kinder- und Jugendschutz e. V.",
+      "OrganisationDisplay": "BAJ",
+      "OrganisationId": 7543378,
+      "OrganisationKurz": "BAJ",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Ressort": "BMBFSFJ",
+      "Telefax": "+49 30 40040 333",
+      "Telefon": "+49 30 40040300"
+    }
+  ]
+}

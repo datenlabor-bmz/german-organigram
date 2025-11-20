@@ -1,0 +1,880 @@
+{
+  "Breitengrad": "50.16499",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@deutsche-finanzagentur.de",
+  "Hauptadresse": "Olof-Palme-Str. 35",
+  "Internetadresse": "https://www.deutsche-finanzagentur.de/ueber-uns",
+  "Land": "DE",
+  "Längengrad": "8.645395",
+  "Organisation": "Bundesrepublik Deutschland - Finanzagentur GmbH",
+  "OrganisationDisplay": "Deutsche Finanzagentur",
+  "OrganisationId": 20396,
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60439,
+  "Ressort": "BMF",
+  "Telefax": "+49 69 25616-1476",
+  "Telefon": "+49 69 25616-0",
+  "Kategorie": "Unternehmen",
+  "Wikidata ID": "Q1202537",
+  "locations": [
+    {
+      "Breitengrad": "50.16499",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@deutsche-finanzagentur.de",
+      "Hauptadresse": "Olof-Palme-Str. 35",
+      "Internetadresse": "https://www.deutsche-finanzagentur.de/ueber-uns",
+      "Land": "DE",
+      "Längengrad": "8.645395",
+      "Organisation": "Bundesrepublik Deutschland - Finanzagentur GmbH",
+      "OrganisationDisplay": "Deutsche Finanzagentur",
+      "OrganisationId": 20396,
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60439,
+      "Ressort": "BMF",
+      "Telefax": "+49 69 25616-1476",
+      "Telefon": "+49 69 25616-0",
+      "Kategorie": "Unternehmen",
+      "Wikidata ID": "Q1202537"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q1202537",
+    "data": {
+      "type": "item",
+      "id": "Q1202537",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundesrepublik Deutschland – Finanzagentur GmbH"
+        },
+        "en": {
+          "language": "en",
+          "value": "German Finance Agency"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Finanzdienstleistungsunternehmen im Eigentum der Bundesrepublik Deutschland"
+        },
+        "en": {
+          "language": "en",
+          "value": "Financial services company owned by the Federal Republic of Germany"
+        }
+      },
+      "claims": {
+        "P127": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P127",
+              "hash": "4cef2bd97e1512620b6840b884cbe5f5d16f1049",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1107": [
+                {
+                  "snaktype": "value",
+                  "property": "P1107",
+                  "hash": "08c02e3f0ccc381d85bb111cf5b01c17bb79a4e2",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+1",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1107"
+            ],
+            "id": "Q1202537$78771f9e-4991-45f1-5bbe-37dad6ead168",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "17051dfd70817cc6bae2263b929ba369f3a85f00",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "845f4a639c7660310b83e448bebaa2ccf708b6f3",
+                      "datavalue": {
+                        "value": "http://www.deutsche-finanzagentur.de/foot-navigation/impressum/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1683": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1683",
+                      "hash": "ef82b7b27d69a19c2c7f8de703994855a705cea1",
+                      "datavalue": {
+                        "value": {
+                          "text": "Die Bundesrepublik Deutschland - Finanzagentur GmbH ist ein Ende 2000 gegründetes Unternehmen des Bundes mit Sitz in Frankfurt/Main. Alleiniger Gesellschafter ist die Bundesrepublik Deutschland, vertreten durch das Bundesministerium der Finanzen.",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1683"
+                ]
+              },
+              {
+                "hash": "7d6e5da243e416681fa8f7c5522bd1b729538cf8",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "9703778b36d55130b9d0ec5795c1c3bfe8ba4502",
+                      "datavalue": {
+                        "value": "http://www.bund.de/DE/Behoerden/B/Bundesrepublik-Deutschland-Finanzagentur-GmbH/Bundesrepublik-Deutschland-Finanzagentur-GmbH.html?nn=777172&searchIssued=1&templateQueryString=Die+Bundesrepublik+Deutschland+-+Finanzagentur+GmbH+&globalSearch=true",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1683": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1683",
+                      "hash": "2bf95adf454f53cfa0d7ba16a644419bf55e1866",
+                      "datavalue": {
+                        "value": {
+                          "text": "Die Bundesrepublik Deutschland – Finanzagentur GmbH ist ein privates Unternehmen im Alleineigentum des Bundes im Geschäftsbereich des Bundesministeriums der Finanzen.",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1683"
+                ]
+              },
+              {
+                "hash": "755c928175bbef059f6648d34793003e3409ba55",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "755f9118e8d52853a81506e95bc85b2842f42607",
+                      "datavalue": {
+                        "value": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/Broschueren_Bestellservice/2021-04-08-beteiligungsbericht-des-bundes-2020.pdf?__blob=publicationFile&v=10",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "8197cf330a4f4fee9a4673e98dd5c958f4c9aaed",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-04-27T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "hash": "0cd2147f7213198faad384dd2b54dab792918855",
+                      "datavalue": {
+                        "value": "52",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "791fdb2540012b2832a0e2f7d3ef84f2d739d0ea",
+                      "datavalue": {
+                        "value": {
+                          "text": "Beteiligungsbericht des Bundes 2020",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "c2392158ee5cea208cf651fe7a050859c22ac7d7",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 120736037,
+                          "id": "Q120736037"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P304",
+                  "P1476",
+                  "P3865"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "326e3d41d1e9c34715e880be6e1c6a1e822e4317",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4830453,
+                  "id": "Q4830453"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1202537$41845C73-F6BE-4461-8E9D-1B07312A07CA",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "adc0b886317645cd628f6bb62a14b6c120c8298f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 270791,
+                  "id": "Q270791"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1202537$ffe94744-4ae3-9e91-fb39-aab81b7c95ae",
+            "rank": "normal"
+          }
+        ],
+        "P1680": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1680",
+              "hash": "03361d7531c03b6c02778be7a0feed22a48a379e",
+              "datavalue": {
+                "value": {
+                  "text": "Bundesrepublik Deutschland – Finanzagentur GmbH",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1202537$5229A08D-20FB-4D24-ABF5-0B17412559D1",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "1d3e0746a863807d5133f62785d5fa81864440c0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1794,
+                  "id": "Q1794"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1202537$30C8DE6F-A73D-4332-9693-EC94B23263E6",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "85937258a614e591525563545796ce4fcb29502a",
+              "datavalue": {
+                "value": "https://www.deutsche-finanzagentur.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q1202537$0955BA85-5A9B-4704-B4B6-F2F0523CB2B9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1202537$D981A3BC-6939-4BED-9261-60539C711C62",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "4f50e9965bf8746b7e4ab5ac7fa9d5d93b3c456d",
+              "datavalue": {
+                "value": {
+                  "time": "+1990-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q1202537$09DA11D8-A792-4275-A98A-20E87299340A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1454": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1454",
+              "hash": "74fdb1902141ad63c707f8dcece2c0d644fe0eab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 460178,
+                  "id": "Q460178"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1202537$2FEA1088-A846-421D-A67A-B0ACFEA226E4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "3f3f94abde1f002dff463ece47f544519476b05d",
+              "datavalue": {
+                "value": "/m/0c0bc04",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1202537$830ACC3C-7D5D-47D9-9496-207A7B20911C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "98a9d3d4f77f78f7fd61df8552bd8698208ed0ef",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "8ab77c7cd50031c3ae514693b69b28bd375a315a",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 648625,
+                          "id": "Q648625"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "f5f16d2d2b43ec4eae675a5ee1ceb74b6ebcda53",
+              "datavalue": {
+                "value": "Br-deutschland-finanzagentur-logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q1202537$0CF792BC-2732-4A5B-8FCB-4A13D4AE9CE6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f1a3e7f7ab92e2c885624d699a3c9f53f04765fe",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "37be04052d212953aa42663f45ab8f10d05b6afb",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Bundesrepublik_Deutschland_–_Finanzagentur_GmbH&oldid=180962371",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P3608": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3608",
+              "hash": "66e5eed96b943e8385a1b857af62edb4c40fd9d5",
+              "datavalue": {
+                "value": "DE137223325",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1202537$a35646e0-4afe-7b51-6e0e-26f08542da68",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "bcf4f141a44b11ee9a8a508eb8b98f36263a000f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "bcf8c0e082557e5199d4f35776fb345dcf6b109e",
+                      "datavalue": {
+                        "value": "https://www.deutsche-finanzagentur.de/de/impressum/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "b9954d772fff52d5f86e0018cce4835713a02aba",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-02-04T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "286af5126e3df061948655909551dad4c45a6b3d",
+              "datavalue": {
+                "value": "122",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1202537$A5243A5D-D341-4D42-B2E6-8C4972A6662B",
+            "rank": "normal"
+          }
+        ],
+        "P169": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P169",
+              "hash": "94649341cd4f0665084c629f5b2b76078557bb07",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 108532850,
+                  "id": "Q108532850"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "bd9e36d914146c52cee2a33e328b23517b8eb177",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-01-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1202537$ce94bc3c-446e-445d-8142-86704f8773d9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "84a6107b425f5d42eb811d41938dcca1ee64e6de",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "cc916c7520843571002c13cc02f8008f332fdbb4",
+                      "datavalue": {
+                        "value": "https://www.deutsche-finanzagentur.de/de/finanzagentur/ueber-uns/organisation/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "4acb957cb918c97cb7405e9e260d4bbd49c6397e",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-09-13T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2088": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2088",
+              "hash": "69da71aafbb8d9143a401601a3611920de06afe3",
+              "datavalue": {
+                "value": "federal-republic-of-germany-finance-agency",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1202537$2B62CF36-A359-463F-842A-2D4FEA6C4AAA",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "0712d357284a60c9470e1a77a89ce0582c0356a5",
+              "datavalue": {
+                "value": "Deutsche Finanzagentur",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1202537$4b57adf9-cca8-456e-90a1-90972a605dd1",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "arwiki": {
+          "site": "arwiki",
+          "title": "وكالة التمويل الألمانية",
+          "badges": []
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Deutsche Finanzagentur",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundesrepublik Deutschland – Finanzagentur GmbH",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "German Finance Agency",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q4830453": {
+        "type": "item",
+        "id": "Q4830453",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Gewerbebetrieb"
+          },
+          "en": {
+            "language": "en",
+            "value": "business"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "gewerbliche oder kaufmännische Geschäftseinheit"
+          },
+          "en": {
+            "language": "en",
+            "value": "organization undertaking commercial, industrial, or professional activity"
+          }
+        }
+      },
+      "Q270791": {
+        "type": "item",
+        "id": "Q270791",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "staatliches Unternehmen"
+          },
+          "en": {
+            "language": "en",
+            "value": "state-owned enterprise"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "legal entity controlled by a government to undertake commercial activities"
+          },
+          "de": {
+            "language": "de",
+            "value": "öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates"
+          }
+        }
+      }
+    }
+  }
+}

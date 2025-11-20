@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.3275146",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "bk-ki.gzd@zoll.bund.de",
+  "Hauptadresse": "Kronshagener Weg 105",
+  "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Kiel/DO_Kiel_node.html",
+  "Land": "DE",
+  "Längengrad": "10.1050891",
+  "Organisation": "Bundeskasse Dienstort Kiel",
+  "OrganisationDisplay": "Bundeskasse Kiel",
+  "OrganisationId": 13682688,
+  "Ort": "Kiel",
+  "PLZ": 24116,
+  "Ressort": "BMF",
+  "Telefax": "+49 431 20083-3010",
+  "Telefon": "+49 431 20083-3000",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "54.3275146",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "bk-ki.gzd@zoll.bund.de",
+      "Hauptadresse": "Kronshagener Weg 105",
+      "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Kiel/DO_Kiel_node.html",
+      "Land": "DE",
+      "Längengrad": "10.1050891",
+      "Organisation": "Bundeskasse Dienstort Kiel",
+      "OrganisationDisplay": "Bundeskasse Kiel",
+      "OrganisationId": 13682688,
+      "Ort": "Kiel",
+      "PLZ": 24116,
+      "Ressort": "BMF",
+      "Telefax": "+49 431 20083-3010",
+      "Telefon": "+49 431 20083-3000",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

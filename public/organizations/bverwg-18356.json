@@ -1,0 +1,3028 @@
+{
+  "Breitengrad": "51.333326",
+  "Bundesland": "Sachsen",
+  "E-Mail": "post@bverwg.bund.de",
+  "Hauptadresse": "Simsonplatz 1",
+  "Internetadresse": "https://www.bverwg.de/",
+  "Land": "DE",
+  "Längengrad": "12.370569",
+  "Organisation": "Bundesverwaltungsgericht",
+  "OrganisationDisplay": "BVerwG",
+  "OrganisationId": 18356,
+  "OrganisationKurz": "BVerwG",
+  "Ort": "Leipzig",
+  "PLZ": 4107,
+  "Ressort": "BMJV",
+  "Telefax": "+49 341 2007-1000",
+  "Telefon": "+49 341 2007-0",
+  "Kategorie": "Unklar",
+  "Wikidata ID": "Q702424",
+  "locations": [
+    {
+      "Breitengrad": "51.333326",
+      "Bundesland": "Sachsen",
+      "E-Mail": "post@bverwg.bund.de",
+      "Hauptadresse": "Simsonplatz 1",
+      "Internetadresse": "https://www.bverwg.de/",
+      "Land": "DE",
+      "Längengrad": "12.370569",
+      "Organisation": "Bundesverwaltungsgericht",
+      "OrganisationDisplay": "BVerwG",
+      "OrganisationId": 18356,
+      "OrganisationKurz": "BVerwG",
+      "Ort": "Leipzig",
+      "PLZ": 4107,
+      "Ressort": "BMJV",
+      "Telefax": "+49 341 2007-1000",
+      "Telefon": "+49 341 2007-0",
+      "Kategorie": "Unklar",
+      "Wikidata ID": "Q702424"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q702424",
+    "data": {
+      "type": "item",
+      "id": "Q702424",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Federal Administrative Court"
+        },
+        "de": {
+          "language": "de",
+          "value": "Bundesverwaltungsgericht"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "oberster Gerichtshof der Verwaltungsgerichtsbarkeit in Deutschland"
+        },
+        "en": {
+          "language": "en",
+          "value": "one of the five federal supreme courts of Germany"
+        }
+      },
+      "claims": {
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "c1411e5d706881275999de0b38bd1433de7a500f",
+              "datavalue": {
+                "value": "5054870-0",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$EF989886-E28D-40B2-8288-E330B763F4EE",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$7a002a79-4dd7-f716-ee63-94d20c0a26ce",
+            "rank": "normal"
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "5536f54a1df809c14652bea580087a6d0109b4d8",
+              "datavalue": {
+                "value": "/m/02jvxy",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$A9F6AB42-BF35-418E-B8DD-BE23F1309C4E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "99e37680f2e97396e3345cc4728ffc6908b5b409",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2139484,
+                  "id": "Q2139484"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "54e9346de473605a7f83034f4334a932d783f77a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-09-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P625": [
+                {
+                  "snaktype": "value",
+                  "property": "P625",
+                  "hash": "f4d5613d3b087dd92e65b28d01679e0b916af0f1",
+                  "datavalue": {
+                    "value": {
+                      "latitude": 51.333055555556,
+                      "longitude": 12.369722222222,
+                      "altitude": null,
+                      "precision": 0.0001,
+                      "globe": "http://www.wikidata.org/entity/Q2"
+                    },
+                    "type": "globecoordinate"
+                  },
+                  "datatype": "globe-coordinate"
+                }
+              ],
+              "P669": [
+                {
+                  "snaktype": "value",
+                  "property": "P669",
+                  "hash": "4a8c97033bdfa71a786759b53088520a1e4d7921",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 99739335,
+                      "id": "Q99739335"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P670": [
+                {
+                  "snaktype": "value",
+                  "property": "P670",
+                  "hash": "ea704489ca9e1ac8bcf75cf174cd436b5bfbb64f",
+                  "datavalue": {
+                    "value": "1",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P131": [
+                {
+                  "snaktype": "value",
+                  "property": "P131",
+                  "hash": "c9f9b27581655d80d07b47ad493a86f307bfa11b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2079,
+                      "id": "Q2079"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P625",
+              "P669",
+              "P670",
+              "P131"
+            ],
+            "id": "Q702424$86971756-4c52-9dd4-d531-adc48ad723a3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "470814ce29ae5cebe70971e7faff72ea2e723998",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "67307d0d46b3457c4c2f4a18420ce884ae5bca71",
+                      "datavalue": {
+                        "value": "https://www.bverwg.de/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "ba18a39e4430949ec226aabdeccde6c4fe2051fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 190752,
+                  "id": "Q190752"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$C99224C3-E228-4D4F-A2E7-6C4FD6B7141B",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "ca624eec44319dbca762ca18f6af9983d90c81d1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 580200,
+                  "id": "Q580200"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$59849c06-4b93-a9e4-1654-97acd426d017",
+            "rank": "normal"
+          }
+        ],
+        "P269": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P269",
+              "hash": "7f1ce16e924c39a7978189ccc00fc6b4d06318bb",
+              "datavalue": {
+                "value": "168460386",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$C0A6A06D-0DFC-446E-B94D-CD6A0A8CA45D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4533e325b4161189dcba02b6a92f6c4533327637",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "6b7d4330c4aac4caec4ede9de0311ce273f88ecd",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a5fb6c3872e96e7c068b0826ff7393eaba0e8fc3",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-10-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "31ead4d56d20216adfd99c07931c85502349d271",
+              "datavalue": {
+                "value": {
+                  "time": "+1952-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q702424$79902BE6-E4DF-4FE2-9C2C-FE02878993E7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "9113994fc40bfcd7563dff62c72fbe75afcc6e02",
+              "datavalue": {
+                "value": "n93045729",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$B685BF0E-9291-4D15-9E19-A7BA9602B314",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "ec348c5b221981f04fe2d7c87683165660ca99d8",
+              "datavalue": {
+                "value": "http://www.bundesverwaltungsgericht.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q702424$1959D017-7348-4C15-8831-9B544C173BA6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "5b04b50ca320e91092dfa52546f0f738b86d35e5",
+              "datavalue": {
+                "value": "https://www.bverwg.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q702424$363d27fe-469d-f1fb-8ae8-7032596fb65f",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "150c9ff86537c2110dc3f11d97382e5709af183c",
+              "datavalue": {
+                "value": "https://www.bverwg.de/en",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q702424$0e1ffe9d-468b-ddcf-0af5-4e5ac7cde25a",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "9121085990055f13b6f410b3a8fdf961b3e36a85",
+              "datavalue": {
+                "value": "https://www.bverwg.de/fr",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "d197d0a5efa4b4c23a302a829dd3ef43684fe002",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 150,
+                      "id": "Q150"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q702424$9043a836-48cb-8f0e-d689-9dc8103d7784",
+            "rank": "preferred"
+          }
+        ],
+        "P1566": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1566",
+              "hash": "b76b35cee104c6deb5dbffc84b0ab5cb171f51dc",
+              "datavalue": {
+                "value": "11395466",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$de1339f0-4734-a7d6-2f2b-d90aa9e0c9b7",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "c9f9b27581655d80d07b47ad493a86f307bfa11b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2079,
+                  "id": "Q2079"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$37680dce-466e-1e7d-c58f-07964e3b867c",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "70118a6d7faf26f003f284fe6866b58595050fda",
+              "datavalue": {
+                "value": "Bundesverwaltungsgericht (Deutschland).JPG",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2096": [
+                {
+                  "snaktype": "value",
+                  "property": "P2096",
+                  "hash": "cfdcf85e17185442a4c95e7232266e41356f21e1",
+                  "datavalue": {
+                    "value": {
+                      "text": "Bundesverwaltungsgericht siège du tribunal",
+                      "language": "fr"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2096"
+            ],
+            "id": "Q702424$9819ce62-4d34-58e0-510f-b1abd4e97843",
+            "rank": "normal"
+          }
+        ],
+        "P1037": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "b733f7db53ace27c9a20f13b4d50f466a38793bd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1745601,
+                  "id": "Q1745601"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "537cf8f45fd10f03703313f1a7b44761522fd4a0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-07-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q702424$f865264f-418b-7189-a28d-ceb11438f345",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "783f370bc330ed2ba861f3a43131bc668026d2af",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1874397,
+                  "id": "Q1874397"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "3fc6f0c9ddcd6802443ff39c10219135f8568a6a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1953-03-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "c36dd202d1497b6b2bf6267271e023b8aa7aa04e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1954-12-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$f84832ec-47e1-ca34-8bf2-c17400831205",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "6f55c57cfb67fa3f28a2d48d7fedad041ad1e2bc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1579296,
+                  "id": "Q1579296"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "cc0a67caa36b0a4f78bc7c473982afb13713bc53",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1955-04-29T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "33a5eb2e26874ac453b52d5ae4366fa80e119d87",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1958-06-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$349b7de7-40b0-a158-5044-920d0577f380",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "3163dd6f43095233bff19a797fa6c7dc5f81694c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 109543,
+                  "id": "Q109543"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "10e5f1461998239f950f3972b5a4e6b16676d2ce",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1970-06-15T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "ea9d33e44cf14b9b8fabd474e0649dbe09a60f9f",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1975-11-07T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$19facc43-4bc8-cd30-8850-113c8d8f22ad",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "b2fae35225c83b28a0c847b340607dba7883e489",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 107154,
+                  "id": "Q107154"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "68e68123aa00011af5b5a8bf4bc4990095d33d26",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1976-08-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "47e2a81b9080a50c035cf7b1fde1ca48aa133dd4",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1980-02-29T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$2e6a796b-46d0-7e89-34a6-4e51a366b4f5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "389b7e2a160dec53d73c21f462ff156e07dd11e9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1629951,
+                  "id": "Q1629951"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "067409cd89be9d83f8169be617c62deb8e2c3b77",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1980-03-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "e537f18f25f2c6c4e6a2ba05a746f6174ecd059c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1991-06-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$3b86481b-4012-3b18-defe-2afcc4ca28ae",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "4653555ceb36096ddaac4cdba958de5ea475ad06",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 118954,
+                  "id": "Q118954"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "3cda50dbafccb1b764c1b0ea5b54c8557497f15b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1991-07-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "fb7ce0bd872b719cca7bac9b6050caf0edeb345e",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-09-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$166db6cc-426d-f500-cad3-5f0dfe5acb26",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "73572313099bc338d3af1cc1ebda87493c98aecf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 111587,
+                  "id": "Q111587"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "d64d515c3211da777d01743a6a2560269a32c88b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-10-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "95bcd46a1adae249b97432389a22d7509c83d431",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2007-05-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$2bf5332d-4733-6dc9-6b71-488e2c5ee7a6",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "eb40bbec29d8d7b0cb4e6eacaf1388b265ed1cf3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1692112,
+                  "id": "Q1692112"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "dd757c51cf8a771d6c5b0b7d0e89acdce4998def",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2007-06-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "2f960910d04ce6949adc01417a9ba9e3a02a0e0a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-01-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q702424$bce0ab62-41e0-9b4e-94ce-96b13843670c",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "6e193e7805d571afbb25f2cba82a769bb26a88c3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 28739183,
+                  "id": "Q28739183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$8B15F0C2-2123-4B07-9BC2-56DD5B8F7A35",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "8c407581e7536da4ca725da240b9d4c0397b149f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 129163015,
+                  "id": "Q129163015"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$D34E5C93-6849-41B1-8FFC-D4A833A4CE17",
+            "rank": "normal"
+          }
+        ],
+        "P213": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P213",
+              "hash": "ab3e55ec9822ea79d42317a781de4bb7e9910c34",
+              "datavalue": {
+                "value": "0000000106972407",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$40F0F055-A6BB-4CD3-AE19-897AF2C3144C",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "06dcba7807f37d37233f18d9f37f26360e495992",
+              "datavalue": {
+                "value": "266445612",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$64DEB32A-3630-4097-B922-C58CFB7F67D8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "67ef71603c02ecea9f726fe57f59a0a62990d019",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "6b7d4330c4aac4caec4ede9de0311ce273f88ecd",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P214": [
+                    {
+                      "snaktype": "value",
+                      "property": "P214",
+                      "hash": "06dcba7807f37d37233f18d9f37f26360e495992",
+                      "datavalue": {
+                        "value": "266445612",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a1b98b5c8bb6eca02829acaf6200c3e4a45b4dd0",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-10-07T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P214",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "8b285ef88db51e5a9f6b901381d76716548b6453",
+              "datavalue": {
+                "value": "142921363",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$A87A3FAF-E502-4A2B-8C0C-38E55C7A8A06",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$1BF76388-1AA2-4A4E-A8A9-3A2A71EEECA6",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "920981bc74a0a87e5d8f18756f4f4c2330064411",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 498251,
+                  "id": "Q498251"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$6040AC64-B31D-4998-AC79-6E939814D5AF",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "861825a260a3167a9cbe8c791b1a0ea405ca83f4",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "f7223f403d94a6219c1b1aa205bab8ccfac97ce7",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Bundesverwaltungsgericht_(Deutschland)&oldid=184268654",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1417": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1417",
+              "hash": "383d7a363583f57276975272e1b34fa36ceb5869",
+              "datavalue": {
+                "value": "topic/Federal-Administrative-Court",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "9cf54e1933f22408260f62c72fc31c553e6d92ca",
+                  "datavalue": {
+                    "value": "Federal Administrative Court",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q702424$F351A7E1-865B-4FE5-A9D3-CB347291ED7D",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "75c4088d96bf388e96ad5f85877a99ba5a6b341c",
+              "datavalue": {
+                "value": {
+                  "latitude": 51.33301,
+                  "longitude": 12.36981,
+                  "altitude": null,
+                  "precision": 1e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q702424$BEABAE92-B027-440C-8CB7-DB372455FD74",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "583762393e32e5b7eaa45f185ec72fbc29586c0b",
+              "datavalue": {
+                "value": "Reichsgericht Leipzig",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q702424$FAC1F66B-E8A0-4258-A3ED-9E5808C81863",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "ecbacc7f77949e899bbd401c7c980f753d1e3345",
+              "datavalue": {
+                "value": {
+                  "text": "BVerwG",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q702424$2C3351BD-F391-413E-A6C1-46F35D94D8F7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3915d4d4e31f083ac56f0617798ddb1da70f855e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f76d0c4139db5a9f43407c0c0eec9e0eb7993b36",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DELeistungen/A/Abkuerzungsverzeichnis-des-Bundes-BMI-BVA.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "15a5da9acd7ebb61c61ded95cfba7255e42e573a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "8a5aa838cc6a12ee977b64a64a858afa3ec5acae",
+              "datavalue": {
+                "value": "Bundesverwaltungsgericht Logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2096": [
+                {
+                  "snaktype": "value",
+                  "property": "P2096",
+                  "hash": "1c188db7d0a764f32c16a37221b1fa455150af4a",
+                  "datavalue": {
+                    "value": {
+                      "text": "Logo du Tribunal administratif fédéral",
+                      "language": "fr"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2096"
+            ],
+            "id": "Q702424$58410a6a-4391-36b0-3309-be63b6464212",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "a0157d819c3028e47e380b7c1cdafd6697c43efd",
+              "datavalue": {
+                "value": "BVerwG Logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q702424$a9cf23a6-474b-d160-e86f-4a6d881a812b",
+            "rank": "normal"
+          }
+        ],
+        "P92": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P92",
+              "hash": "c5bbc619bff9c7ced0ff2fe320732540c95597b2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 56045,
+                  "id": "Q56045"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P958": [
+                {
+                  "snaktype": "value",
+                  "property": "P958",
+                  "hash": "ff70b10f9924b88d78eeb9fe0782d0653c34b97e",
+                  "datavalue": {
+                    "value": "Artikel 95 Nummer 1",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P958"
+            ],
+            "id": "Q702424$DA734B40-AA14-470A-A672-BE9E131911AF",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "a8016a1b6486cb4d5f42c6232d514ef72d583c2a",
+              "datavalue": {
+                "value": "137",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$cce824e7-4402-60dd-12c0-edc4fc210321",
+            "rank": "normal"
+          }
+        ],
+        "P10603": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10603",
+              "hash": "3cd543208232c6f302677c18a2d77876b264eeb1",
+              "datavalue": {
+                "value": "U8572",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$07c047d6-4c4d-d017-3a8e-2e4f7a34a338",
+            "rank": "normal"
+          }
+        ],
+        "P4033": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4033",
+              "hash": "b09577b1c3c4fee8723d13b6dae8124068b552ce",
+              "datavalue": {
+                "value": "bverwg_de@social.bund.de",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "598c36270da1fa6b8d0c052c3bae679b7ade2c0d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-01-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P2241": [
+                {
+                  "snaktype": "value",
+                  "property": "P2241",
+                  "hash": "74bd46d0bbe97d05804856f1f73b6a7480c68cec",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 45403344,
+                      "id": "Q45403344"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P407",
+              "P2241"
+            ],
+            "id": "Q702424$623BA161-6A05-482D-9EE1-F849A1C8BAEB",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "a76562263cea0fd1dd432dc9db75d7096bc0706a",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "30ae27fb6f2999abe107d1c7d8c975684cbd1ac6",
+                      "datavalue": {
+                        "value": "https://social.bund.de/@bverwg_de",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "a4e8322fc22f2c01255227a1c640fe588c0bffc0",
+                      "datavalue": {
+                        "value": {
+                          "text": "social.bund.de",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "797e0cc1af689f899b058b501ce941a3e50fda53",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-03-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4033",
+              "hash": "3be599f1dc9bc76d74559da0ba50a4945dbca336",
+              "datavalue": {
+                "value": "BVerwG_de@social.bund.de",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "598c36270da1fa6b8d0c052c3bae679b7ade2c0d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-01-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P407"
+            ],
+            "id": "Q702424$edc02192-4fb4-c232-0568-b2a7e58f9b4d",
+            "rank": "normal"
+          }
+        ],
+        "P11326": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11326",
+              "hash": "f8c9ea75765bbe7b90a6d6795dd3bce2d2fda9d6",
+              "datavalue": {
+                "value": "https://www.bverwg.de/impressum",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q702424$75FEC3CE-A3EF-4B8E-A0B2-390195493E63",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4c1cb69a36e1bad4814f948af84e7c06b8f02cdb",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "8f87e8e8022bded490cf94a4ebe3c181e37e82c2",
+                      "datavalue": {
+                        "value": "https://www.bverwg.de/impressum",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "c600356a4681cfa5f0657f5a6885c4bf50ac862e",
+                      "datavalue": {
+                        "value": {
+                          "text": "Impressum | Bundesverwaltungsgericht",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "797e0cc1af689f899b058b501ce941a3e50fda53",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-03-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P7101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7101",
+              "hash": "481ef461b55b2b969489659d615f2073cb6f770e",
+              "datavalue": {
+                "value": "https://www.bverwg.de/datenschutz",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q702424$C2EF217A-D3B2-4AB6-8020-4AFE38858753",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "387b2dd6e173e3078ad0b46e406e60da0eb37823",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f468f7c3b50e1b5e3753c49480e2196544817fb6",
+                      "datavalue": {
+                        "value": "https://www.bverwg.de/datenschutz",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "ed627bd32aa016d9f0ce6f274e2b1c37a157b592",
+                      "datavalue": {
+                        "value": {
+                          "text": "Datenschutz | Bundesverwaltungsgericht",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "797e0cc1af689f899b058b501ce941a3e50fda53",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-03-02T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1019": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1019",
+              "hash": "0b6623e8e97077d6a81df2959982ade14ac577e6",
+              "datavalue": {
+                "value": "https://www.bverwg.de/rss/pressemitteilungen.rss",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q702424$4e1fa838-4913-c907-7f86-86cec5a5f6e3",
+            "rank": "normal"
+          }
+        ],
+        "P11887": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11887",
+              "hash": "46fe25a1f6eb1eebd8bc00667d53d8d915fd3e7c",
+              "datavalue": {
+                "value": "BVerwG",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$435fc5a8-47f1-3338-a25b-16b56a3d2c07",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "63d926159ecce830795dfee50ee52677d70610d5",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "e35de528810354f2e991ebcb3a9e350e6fd11bc6",
+                      "datavalue": {
+                        "value": "https://e-justice.europa.eu/175/DE/european_case_law_identifier_ecli?GERMANY",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f7750deef87ca9bf0cf6ed9a198def61eec63160",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-07-14T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "eac7a28364feb96fb02a8a5425fd145ecce36749",
+              "datavalue": {
+                "value": "BVerwG_de",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$23955dd7-4e62-4e75-92b6-08161d9f79e4",
+            "rank": "normal"
+          }
+        ],
+        "P5019": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5019",
+              "hash": "f8339ada4ba2bc43896905b36f51eded6cc2fd9c",
+              "datavalue": {
+                "value": "bundesverwaltungsgericht",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$82D6D81E-EC33-412B-A41F-B0C328C5EE9D",
+            "rank": "normal"
+          }
+        ],
+        "P9437": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9437",
+              "hash": "a87459d0cb3f25f2eb0494d9743da5c7968fed4e",
+              "datavalue": {
+                "value": "17260",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$FFB01291-AAE1-4352-AB65-7EAD09DA1DC2",
+            "rank": "normal"
+          }
+        ],
+        "P8687": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "daddb1b08bac4daafeb68868c473d9ab6b45d154",
+              "datavalue": {
+                "value": {
+                  "amount": "+1033",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "b09577b1c3c4fee8723d13b6dae8124068b552ce",
+                  "datavalue": {
+                    "value": "bverwg_de@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "9d60d69fc8914e1e052163b51526bd50afbdf62b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-02-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q702424$6B2F6E2D-E510-4EB7-8313-E63D2B197F6E",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "270e100cc5f215c8fc3e59099b324ec8d8576c64",
+              "datavalue": {
+                "value": {
+                  "amount": "+1042",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "b09577b1c3c4fee8723d13b6dae8124068b552ce",
+                  "datavalue": {
+                    "value": "bverwg_de@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a238e7341c8aa9bed8f85acab644a10b14752adc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-03-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q702424$C3C53976-65CB-41F7-9BF3-A8057A281CAD",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "b888a5290cc789d1d0c6a8bfdefb11532190f6f6",
+              "datavalue": {
+                "value": {
+                  "amount": "+1054",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "b09577b1c3c4fee8723d13b6dae8124068b552ce",
+                  "datavalue": {
+                    "value": "bverwg_de@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "607184846106e630f6f06910d2df74dca931b9f0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-04-11T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q702424$9A1E31FC-8300-4522-B15D-40BCFA4D609A",
+            "rank": "normal"
+          }
+        ],
+        "P355": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P355",
+              "hash": "048fadb3492d602485e481c84d1e1449fd6f7a59",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 129163015,
+                  "id": "Q129163015"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$296E94C1-3427-4DED-9CCF-E8867FDA6C49",
+            "rank": "normal"
+          }
+        ],
+        "P6375": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "12452cfdc9b4333993f14ec8a77d3e638ad206c0",
+              "datavalue": {
+                "value": {
+                  "text": "Simsonplatz 1, 04107 Leipzig",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q702424$7ebc425d-49cf-b257-f16f-c781017eb464",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "e5c021fa3292c643f943e2512a982f1463c8c1e3",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "26b45498497d7dcfadff0f95a974814cb1d363fe",
+                      "datavalue": {
+                        "value": "https://www.bverwg.de/kontakt",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "490e51d621a103b2bb58f0389bba9458f9e9b586",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-11-22T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1329": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1329",
+              "hash": "9728b1b45e03420b717983ef8cfb01a704509417",
+              "datavalue": {
+                "value": "+49-341-2007-0",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q702424$4d36aadf-4276-d64a-9db8-0f477cf2045e",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9245d187b61ea3db728008ee78f347bfe2a61013",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "8f87e8e8022bded490cf94a4ebe3c181e37e82c2",
+                      "datavalue": {
+                        "value": "https://www.bverwg.de/impressum",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "490e51d621a103b2bb58f0389bba9458f9e9b586",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-11-22T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P968": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P968",
+              "hash": "09b541fafc5a4bf283c454fc373d02062984a855",
+              "datavalue": {
+                "value": "mailto:post@bverwg.bund.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q702424$822de8b9-4e59-ed09-366d-bdc8c245b551",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9245d187b61ea3db728008ee78f347bfe2a61013",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "8f87e8e8022bded490cf94a4ebe3c181e37e82c2",
+                      "datavalue": {
+                        "value": "https://www.bverwg.de/impressum",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "490e51d621a103b2bb58f0389bba9458f9e9b586",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-11-22T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8309": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8309",
+              "hash": "d81d956dbaf610da861fcc238780805c8db6b981",
+              "datavalue": {
+                "value": "18-130960",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$428D28DE-3BA8-46CC-BD7F-0A8F0016D033",
+            "rank": "normal"
+          }
+        ],
+        "P11729": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11729",
+              "hash": "733a1fbc77723c26dd0c2cb88f983d0347337390",
+              "datavalue": {
+                "value": "379996",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$E3106C7B-5A9F-4A6A-B753-CA6BBAB4B969",
+            "rank": "normal"
+          }
+        ],
+        "P402": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P402",
+              "hash": "7777e43eb6aac4f4df95decd2987208c6a52fe3f",
+              "datavalue": {
+                "value": "10616532",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q702424$cbc458c7-430e-de8c-bd66-e9e1332355f8",
+            "rank": "normal"
+          }
+        ],
+        "P3847": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3847",
+              "hash": "51b047a028693eff1d24623e50876b518d66794e",
+              "datavalue": {
+                "value": "germany_(west)._bundesverwaltungsgericht",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "dc094e978671bfc6b5beb51f142a628b5d5a5228",
+                  "datavalue": {
+                    "value": "Germany (West). Bundesverwaltungsgericht",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q702424$6edd5761-4c9d-3377-16de-d6908e413dd5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3847",
+              "hash": "15cc9b905ded18dc05a344bbc5e794dd6962517c",
+              "datavalue": {
+                "value": "germany._bundesverwaltungsgericht",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "a1c0472691f4e8ed56bbc3397d7a6559771e6e29",
+                  "datavalue": {
+                    "value": "Germany. Bundesverwaltungsgericht",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q702424$f5375342-4449-c773-1ce4-56517c765b13",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3847",
+              "hash": "4d911e44c81e497be5144b3ab47bbd5663ce8294",
+              "datavalue": {
+                "value": "deutschland_bundesverwaltungsgericht",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "dff4362cf55b0878723d609058981bce656b1ea5",
+                  "datavalue": {
+                    "value": "Deutschland Bundesverwaltungsgericht",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q702424$e3cfa96c-480b-8c3e-401d-cfbb381365ed",
+            "rank": "normal"
+          }
+        ],
+        "P2388": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2388",
+              "hash": "4ac8b67339afc4202941c478b36366958f19f676",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 135916138,
+                  "id": "Q135916138"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q702424$f816c3ca-4cfb-dd71-7616-bf32b99ea9f4",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "arwiki": {
+          "site": "arwiki",
+          "title": "المحكمة الإدارية الاتحادية (ألمانيا)",
+          "badges": []
+        },
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Federal Administrative Court of Germany",
+          "badges": []
+        },
+        "dawiki": {
+          "site": "dawiki",
+          "title": "Bundesverwaltungsgericht",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundesverwaltungsgericht (Deutschland)",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Federal Administrative Court (Germany)",
+          "badges": []
+        },
+        "eswiki": {
+          "site": "eswiki",
+          "title": "Tribunal Federal Administrativo",
+          "badges": []
+        },
+        "fiwiki": {
+          "site": "fiwiki",
+          "title": "Bundesverwaltungsgericht (Saksa)",
+          "badges": []
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Tribunal administratif fédéral (Allemagne)",
+          "badges": []
+        },
+        "itwiki": {
+          "site": "itwiki",
+          "title": "Corte amministrativa federale",
+          "badges": []
+        },
+        "ltwiki": {
+          "site": "ltwiki",
+          "title": "Vokietijos Federalinis Administracinis Teismas",
+          "badges": []
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Bundesverwaltungsgericht (Tyskland)",
+          "badges": []
+        },
+        "plwiki": {
+          "site": "plwiki",
+          "title": "Federalny Sąd Administracyjny (Niemcy)",
+          "badges": []
+        },
+        "ptwiki": {
+          "site": "ptwiki",
+          "title": "Tribunal Administrativo Federal da Alemanha",
+          "badges": []
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Федеральный административный суд Германии",
+          "badges": []
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Federal Administrative Court (Germany)",
+          "badges": []
+        },
+        "svwiki": {
+          "site": "svwiki",
+          "title": "Högsta förvaltningsdomstolen (Tyskland)",
+          "badges": []
+        },
+        "thwiki": {
+          "site": "thwiki",
+          "title": "ศาลปกครองสหพันธ์ (เยอรมนี)",
+          "badges": []
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Federal İdare Mahkemesi",
+          "badges": []
+        },
+        "ukwiki": {
+          "site": "ukwiki",
+          "title": "Федеральний адміністративний суд Німеччини",
+          "badges": []
+        },
+        "viwiki": {
+          "site": "viwiki",
+          "title": "Tòa án Hành chính Liên bang Đức",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "德國聯邦最高行政法院",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q580200": {
+        "type": "item",
+        "id": "Q580200",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesgericht"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal courts (Germany)"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Gerichte in Trägerschaft des Bundes in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German courts"
+          }
+        }
+      },
+      "Q28739183": {
+        "type": "item",
+        "id": "Q28739183",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bibliothek des Bundesverwaltungsgerichts"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "zum Bundesverwaltungsgericht gehörende Bibliothek in Leipzig"
+          },
+          "en": {
+            "language": "en",
+            "value": "library in Germany"
+          }
+        }
+      },
+      "Q498251": {
+        "type": "item",
+        "id": "Q498251",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of Justice and Consumer Protection"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium der Justiz und für Verbraucherschutz"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of Justice of Germany"
+          }
+        }
+      },
+      "Q129163015": {
+        "type": "item",
+        "id": "Q129163015",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "11. Revisionssenat des Bundesverwaltungsgerichts"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Spruchkörper des Bundesverwaltungsgerichts"
+          }
+        }
+      },
+      "Q190752": {
+        "type": "item",
+        "id": "Q190752",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "oberstes Gericht"
+          },
+          "en": {
+            "language": "en",
+            "value": "supreme court"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "letztes Glied eines Instanzenzuges"
+          },
+          "en": {
+            "language": "en",
+            "value": "highest court in a jurisdiction"
+          }
+        }
+      }
+    }
+  }
+}

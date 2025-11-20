@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.4586776",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "bk-hal.gzd@zoll.bund.de",
+  "Hauptadresse": "Merseburger Straße 196",
+  "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Halle/DO_Halle_node.html",
+  "Land": "DE",
+  "Längengrad": "11.9823433",
+  "Organisation": "Bundeskasse Dienstort Halle",
+  "OrganisationDisplay": "Bundeskasse Halle",
+  "OrganisationId": 13682652,
+  "Ort": "Halle",
+  "PLZ": 6110,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-20326",
+  "Telefon": "+49 228 303-20300",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "51.4586776",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "bk-hal.gzd@zoll.bund.de",
+      "Hauptadresse": "Merseburger Straße 196",
+      "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Halle/DO_Halle_node.html",
+      "Land": "DE",
+      "Längengrad": "11.9823433",
+      "Organisation": "Bundeskasse Dienstort Halle",
+      "OrganisationDisplay": "Bundeskasse Halle",
+      "OrganisationId": 13682652,
+      "Ort": "Halle",
+      "PLZ": 6110,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-20326",
+      "Telefon": "+49 228 303-20300",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

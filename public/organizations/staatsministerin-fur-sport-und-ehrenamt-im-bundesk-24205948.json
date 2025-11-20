@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bk.bund.de",
+  "Hauptadresse": "Willy-Brandt-Straße 1",
+  "Internetadresse": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/startseite-staatsministerin-fuer-sport-und-ehrenamt  ",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Staatsministerin für Sport und Ehrenamt im Bundeskanzleramt",
+  "OrganisationDisplay": "SM Sport & Ehrenamt",
+  "OrganisationId": 24205948,
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BKAmt",
+  "Telefon": "+49 30 18 400-0",
+  "Kategorie": "Staatsminister",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bk.bund.de",
+      "Hauptadresse": "Willy-Brandt-Straße 1",
+      "Internetadresse": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/startseite-staatsministerin-fuer-sport-und-ehrenamt  ",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Staatsministerin für Sport und Ehrenamt im Bundeskanzleramt",
+      "OrganisationDisplay": "SM Sport & Ehrenamt",
+      "OrganisationId": 24205948,
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BKAmt",
+      "Telefon": "+49 30 18 400-0",
+      "Kategorie": "Staatsminister",
+      "Versteckt": true
+    }
+  ]
+}

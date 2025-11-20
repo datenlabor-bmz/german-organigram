@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.70276",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "unfalluntersuchung@beu.bund.de",
+  "Hauptadresse": "Heinemannstraße 6",
+  "Internetadresse": "https://www.eisenbahn-unfalluntersuchung.de/BEU/DE/home_node.html",
+  "Land": "DE",
+  "Längengrad": "7.13631",
+  "Organisation": "Bundesstelle für Eisenbahnunfalluntersuchung",
+  "OrganisationDisplay": "BEU",
+  "OrganisationId": 9768454,
+  "OrganisationKurz": "BEU",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Ressort": "BMV",
+  "Telefax": "+49 228 53686–180",
+  "Telefon": "+49 228 53686–0",
+  "locations": [
+    {
+      "Breitengrad": "50.70276",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "unfalluntersuchung@beu.bund.de",
+      "Hauptadresse": "Heinemannstraße 6",
+      "Internetadresse": "https://www.eisenbahn-unfalluntersuchung.de/BEU/DE/home_node.html",
+      "Land": "DE",
+      "Längengrad": "7.13631",
+      "Organisation": "Bundesstelle für Eisenbahnunfalluntersuchung",
+      "OrganisationDisplay": "BEU",
+      "OrganisationId": 9768454,
+      "OrganisationKurz": "BEU",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Ressort": "BMV",
+      "Telefax": "+49 228 53686–180",
+      "Telefon": "+49 228 53686–0"
+    }
+  ]
+}

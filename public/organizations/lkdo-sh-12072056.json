@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.3565964",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "PressestelleLKdoSH@bundeswehr.org",
+  "Hauptadresse": "Feldstraße 236-238",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-schleswig-holstein",
+  "Land": "DE",
+  "Längengrad": "10.134758",
+  "Organisation": "Landeskommando Schleswig Holstein",
+  "OrganisationDisplay": "LKdo SH",
+  "OrganisationId": 12072056,
+  "OrganisationKurz": "LKdo SH",
+  "Ort": "Kiel",
+  "PLZ": 24106,
+  "Ressort": "BMVg",
+  "Telefax": "+49 431 384 1019",
+  "Telefon": "+49 431 384 1011",
+  "locations": [
+    {
+      "Breitengrad": "54.3565964",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "PressestelleLKdoSH@bundeswehr.org",
+      "Hauptadresse": "Feldstraße 236-238",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-schleswig-holstein",
+      "Land": "DE",
+      "Längengrad": "10.134758",
+      "Organisation": "Landeskommando Schleswig Holstein",
+      "OrganisationDisplay": "LKdo SH",
+      "OrganisationId": 12072056,
+      "OrganisationKurz": "LKdo SH",
+      "Ort": "Kiel",
+      "PLZ": 24106,
+      "Ressort": "BMVg",
+      "Telefax": "+49 431 384 1019",
+      "Telefon": "+49 431 384 1011"
+    }
+  ]
+}

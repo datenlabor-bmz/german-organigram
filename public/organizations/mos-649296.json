@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "53.541754",
+  "Bundesland": "Bremen",
+  "E-Mail": "marine@bundeswehr.org",
+  "Hauptadresse": "Elbestraße 101",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "8.591208",
+  "Organisation": "Marineoperationsschule",
+  "OrganisationDisplay": "MOS",
+  "OrganisationId": 649296,
+  "OrganisationKurz": "MOS",
+  "Ort": "Bremerhaven",
+  "PLZ": 27570,
+  "Ressort": "BMVg",
+  "locations": [
+    {
+      "Breitengrad": "53.541754",
+      "Bundesland": "Bremen",
+      "E-Mail": "marine@bundeswehr.org",
+      "Hauptadresse": "Elbestraße 101",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "8.591208",
+      "Organisation": "Marineoperationsschule",
+      "OrganisationDisplay": "MOS",
+      "OrganisationId": 649296,
+      "OrganisationKurz": "MOS",
+      "Ort": "Bremerhaven",
+      "PLZ": 27570,
+      "Ressort": "BMVg"
+    }
+  ]
+}

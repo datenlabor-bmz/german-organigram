@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.670347",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "post@dvka.de",
+  "Hauptadresse": "Pennefeldsweg 2c",
+  "Internetadresse": "https://www.dvka.de/",
+  "Land": "DE",
+  "Längengrad": "7.173784",
+  "Organisation": "Deutsche Verbindungsstelle Krankenversicherung - Ausland",
+  "OrganisationDisplay": "DVKA",
+  "OrganisationId": 23602,
+  "OrganisationKurz": "DVKA",
+  "Ort": "Bonn",
+  "PLZ": 53177,
+  "Telefax": "+49 228 9530-600",
+  "Telefon": "+49 228 9530-0",
+  "locations": [
+    {
+      "Breitengrad": "50.670347",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "post@dvka.de",
+      "Hauptadresse": "Pennefeldsweg 2c",
+      "Internetadresse": "https://www.dvka.de/",
+      "Land": "DE",
+      "Längengrad": "7.173784",
+      "Organisation": "Deutsche Verbindungsstelle Krankenversicherung - Ausland",
+      "OrganisationDisplay": "DVKA",
+      "OrganisationId": 23602,
+      "OrganisationKurz": "DVKA",
+      "Ort": "Bonn",
+      "PLZ": 53177,
+      "Telefax": "+49 228 9530-600",
+      "Telefon": "+49 228 9530-0"
+    }
+  ]
+}

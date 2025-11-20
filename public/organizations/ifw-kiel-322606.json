@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.3391185",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "info@ifw-kiel.de",
+  "Hauptadresse": "Kiellinie 66",
+  "Internetadresse": "https://www.ifw-kiel.de",
+  "Land": "DE",
+  "Längengrad": "10.1555796",
+  "Organisation": "Kiel Institut für Weltwirtschaft",
+  "OrganisationDisplay": "IfW Kiel",
+  "OrganisationId": 322606,
+  "OrganisationKurz": "IfW Kiel",
+  "Ort": "Kiel",
+  "PLZ": 24105,
+  "Telefax": "+49 431 8814-500",
+  "Telefon": "+49 431 8814-1",
+  "locations": [
+    {
+      "Breitengrad": "54.3391185",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "info@ifw-kiel.de",
+      "Hauptadresse": "Kiellinie 66",
+      "Internetadresse": "https://www.ifw-kiel.de",
+      "Land": "DE",
+      "Längengrad": "10.1555796",
+      "Organisation": "Kiel Institut für Weltwirtschaft",
+      "OrganisationDisplay": "IfW Kiel",
+      "OrganisationId": 322606,
+      "OrganisationKurz": "IfW Kiel",
+      "Ort": "Kiel",
+      "PLZ": 24105,
+      "Telefax": "+49 431 8814-500",
+      "Telefon": "+49 431 8814-1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.1032236",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "ABCAbwKdoBwPresse@bundeswehr.org",
+  "Hauptadresse": "Am Eichelberg ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/unterstuetzungsbereich/abc-abwehr-bundeswehr/abc-abwehrkommando-der-bundeswehr-in-bruchsal",
+  "Land": "DE",
+  "Längengrad": "8.5874864",
+  "Organisation": "ABC-Abwehrkommando der Bundeswehr",
+  "OrganisationDisplay": "ABCAbwKdoBw",
+  "OrganisationId": 12072116,
+  "OrganisationKurz": "ABCAbwKdoBw",
+  "Ort": "Bruchsal",
+  "PLZ": 76646,
+  "Ressort": "BMVg",
+  "Telefax": "+49 7251 938 2500",
+  "Telefon": "+49 7251 938 2020",
+  "locations": [
+    {
+      "Breitengrad": "49.1032236",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "ABCAbwKdoBwPresse@bundeswehr.org",
+      "Hauptadresse": "Am Eichelberg ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/unterstuetzungsbereich/abc-abwehr-bundeswehr/abc-abwehrkommando-der-bundeswehr-in-bruchsal",
+      "Land": "DE",
+      "Längengrad": "8.5874864",
+      "Organisation": "ABC-Abwehrkommando der Bundeswehr",
+      "OrganisationDisplay": "ABCAbwKdoBw",
+      "OrganisationId": 12072116,
+      "OrganisationKurz": "ABCAbwKdoBw",
+      "Ort": "Bruchsal",
+      "PLZ": 76646,
+      "Ressort": "BMVg",
+      "Telefax": "+49 7251 938 2500",
+      "Telefon": "+49 7251 938 2020"
+    }
+  ]
+}

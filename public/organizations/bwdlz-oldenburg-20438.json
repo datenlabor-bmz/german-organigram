@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.129234",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZOldenburg@bundeswehr.org",
+  "Hauptadresse": "Bremer Straße 69",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-oldenburg",
+  "Land": "DE",
+  "Längengrad": "8.22817",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Oldenburg",
+  "OrganisationDisplay": "BwDLZ Oldenburg",
+  "OrganisationId": 20438,
+  "OrganisationKurz": "BwDLZ Oldenburg",
+  "Ort": "Odenburg",
+  "PLZ": 26135,
+  "Ressort": "BMVg",
+  "Telefon": "+49 441 929-0",
+  "locations": [
+    {
+      "Breitengrad": "53.129234",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZOldenburg@bundeswehr.org",
+      "Hauptadresse": "Bremer Straße 69",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-oldenburg",
+      "Land": "DE",
+      "Längengrad": "8.22817",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Oldenburg",
+      "OrganisationDisplay": "BwDLZ Oldenburg",
+      "OrganisationId": 20438,
+      "OrganisationKurz": "BwDLZ Oldenburg",
+      "Ort": "Odenburg",
+      "PLZ": 26135,
+      "Ressort": "BMVg",
+      "Telefon": "+49 441 929-0"
+    }
+  ]
+}

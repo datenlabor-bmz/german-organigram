@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515003",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@KBV.de",
+  "Hauptadresse": "Herbert-Lewin-Platz 2",
+  "Internetadresse": "https://www.kbv.de/",
+  "Land": "DE",
+  "Längengrad": "13.334226",
+  "Organisation": "Kassenärztliche Bundesvereinigung",
+  "OrganisationDisplay": "KBV",
+  "OrganisationId": 26806,
+  "OrganisationKurz": "KBV",
+  "Ort": "Berlin",
+  "PLZ": 10623,
+  "Ressort": "BMG",
+  "Telefax": "+49 30 4005-1590",
+  "Telefon": "+49 30 4005-0",
+  "locations": [
+    {
+      "Breitengrad": "52.515003",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@KBV.de",
+      "Hauptadresse": "Herbert-Lewin-Platz 2",
+      "Internetadresse": "https://www.kbv.de/",
+      "Land": "DE",
+      "Längengrad": "13.334226",
+      "Organisation": "Kassenärztliche Bundesvereinigung",
+      "OrganisationDisplay": "KBV",
+      "OrganisationId": 26806,
+      "OrganisationKurz": "KBV",
+      "Ort": "Berlin",
+      "PLZ": 10623,
+      "Ressort": "BMG",
+      "Telefax": "+49 30 4005-1590",
+      "Telefon": "+49 30 4005-0"
+    }
+  ]
+}

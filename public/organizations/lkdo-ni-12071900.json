@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.370397",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "LKdoNIZentralerPosteingang@bundeswehr.org",
+  "Hauptadresse": "Hans-Böckler-Allee 18",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-niedersachsen",
+  "Land": "DE",
+  "Längengrad": "9.7703481",
+  "Organisation": "Landeskommando Niedersachsen",
+  "OrganisationDisplay": "LKdo NI",
+  "OrganisationId": 12071900,
+  "OrganisationKurz": "LKdo NI",
+  "Ort": "Hannover",
+  "PLZ": 30173,
+  "Ressort": "BMVg",
+  "Telefax": "+49 511 284 1909",
+  "Telefon": "+49 511 284 1905",
+  "locations": [
+    {
+      "Breitengrad": "52.370397",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "LKdoNIZentralerPosteingang@bundeswehr.org",
+      "Hauptadresse": "Hans-Böckler-Allee 18",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-niedersachsen",
+      "Land": "DE",
+      "Längengrad": "9.7703481",
+      "Organisation": "Landeskommando Niedersachsen",
+      "OrganisationDisplay": "LKdo NI",
+      "OrganisationId": 12071900,
+      "OrganisationKurz": "LKdo NI",
+      "Ort": "Hannover",
+      "PLZ": 30173,
+      "Ressort": "BMVg",
+      "Telefax": "+49 511 284 1909",
+      "Telefon": "+49 511 284 1905"
+    }
+  ]
+}

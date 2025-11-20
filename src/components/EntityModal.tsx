@@ -5,7 +5,7 @@ import { getEntityBudgetAmount, getEntityBudgetBreakdown, searchEntities } from 
 import { Globe, Mail, MapPin, Phone, X, Facebook, Twitter, Instagram, BookOpen, Youtube, Linkedin, Users } from 'lucide-react';
 import { useCallback, useEffect, useState } from 'react';
 import DataSourceBadge from './DataSourceBadge';
-import { getWikidataForEntity, getWikidataDescription, getWikidataInception, getWikidataWikipediaLink, getWikidataSocialMedia, getWikidataUrl, getWikidataLogo, getWikidataImage, getWikidataEmployeeCount, getWikidataCurrentLeader, getWikidataInstanceOf, getWikidataSubsidiaries, getWikidataEmail, getWikidataBudget, getWikidataReplaces, getWikidataReplacedBy } from '@/lib/wikidata';
+import { getWikidataInception, getWikidataWikipediaLink, getWikidataSocialMedia, getWikidataUrl, getWikidataLogo, getWikidataImage, getWikidataEmployeeCount, getWikidataCurrentLeader, getWikidataInstanceOf, getWikidataSubsidiaries, getWikidataEmail, getWikidataBudget } from '@/lib/wikidata';
 
 interface EntityModalProps {
     entity: Entity | null;
@@ -22,7 +22,7 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
     const [budgetBreakdown, setBudgetBreakdown] = useState<Array<{label: string; description: string; amount: number}> | null>(null);
     const [breakdownLoading, setBreakdownLoading] = useState(false);
     
-    const wikidataEntity = entity ? getWikidataForEntity(entity.OrganisationId) : null;
+    const wikidataEntity = entity?.wikidata || null;
     const wikidataEmail = wikidataEntity ? getWikidataEmail(wikidataEntity) : null;
 
     useEffect(() => {
@@ -273,7 +273,6 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                 )}
 
                 {wikidataEntity && (() => {
-                    const description = getWikidataDescription(wikidataEntity, 'de');
                     const inception = getWikidataInception(wikidataEntity);
                     const wikiDe = getWikidataWikipediaLink(wikidataEntity, 'de');
                     const social = getWikidataSocialMedia(wikidataEntity);
@@ -284,8 +283,6 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                     const instanceOf = getWikidataInstanceOf(wikidataEntity);
                     const subsidiaries = getWikidataSubsidiaries(wikidataEntity);
                     const budget = getWikidataBudget(wikidataEntity);
-                    const replaces = getWikidataReplaces(wikidataEntity);
-                    const replacedBy = getWikidataReplacedBy(wikidataEntity);
 
                     if (!logo && !inception && !employeeCount && !currentLeader && !instanceOf && !budget && subsidiaries.length === 0 && !wikiDe && !social.twitter && !social.bluesky && !social.facebook && !social.instagram && !social.youtube && !social.linkedin) {
                         return null;
@@ -521,13 +518,13 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                                     }
                                     return null;
                                 })()}
-                                {entity.locations.map((location, index) => {
+                                {entity.locations?.map((location, index) => {
                                     const hasAddress = location.Hauptadresse || location.PLZ || location.Ort;
                                     const hasContact = location.Telefon || location['E-Mail'];
                                     
                                     if (!hasAddress && !hasContact) return null;
 
-                                    const isSingleLocation = entity.locations.length === 1;
+                                    const isSingleLocation = (entity.locations?.length ?? 0) === 1;
                                     const containerClass = isSingleLocation 
                                         ? "space-y-3" 
                                         : "p-4 bg-white rounded-lg space-y-3 border border-gray-200";

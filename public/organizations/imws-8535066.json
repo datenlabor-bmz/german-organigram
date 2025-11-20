@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.494451",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "info@imws.fraunhofer.de",
+  "Hauptadresse": "Walter-Hülse-Straße 1",
+  "Internetadresse": "https://www.imws.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "11.939403",
+  "Organisation": "Fraunhofer Institut für Mikrostruktur von Werkstoffen und Systemen",
+  "OrganisationDisplay": "IMWS",
+  "OrganisationId": 8535066,
+  "OrganisationKurz": "IMWS",
+  "Ort": "Halle",
+  "PLZ": 6120,
+  "Telefon": "+49 345 5589-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.494451",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "info@imws.fraunhofer.de",
+      "Hauptadresse": "Walter-Hülse-Straße 1",
+      "Internetadresse": "https://www.imws.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "11.939403",
+      "Organisation": "Fraunhofer Institut für Mikrostruktur von Werkstoffen und Systemen",
+      "OrganisationDisplay": "IMWS",
+      "OrganisationId": 8535066,
+      "OrganisationKurz": "IMWS",
+      "Ort": "Halle",
+      "PLZ": 6120,
+      "Telefon": "+49 345 5589-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

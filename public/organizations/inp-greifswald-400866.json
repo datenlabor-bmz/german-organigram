@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.0919647",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "welcome@inp-greifswald.de",
+  "Hauptadresse": "Felix-Hausdorff-Straße 2",
+  "Internetadresse": "https://www.inp-greifswald.de",
+  "Land": "DE",
+  "Längengrad": "13.4019412",
+  "Organisation": "Leibniz-Institut für Plasmaforschung und Technologie e. V.",
+  "OrganisationDisplay": "INP Greifswald",
+  "OrganisationId": 400866,
+  "OrganisationKurz": "INP Greifswald",
+  "Ort": "Greifswald",
+  "PLZ": 17489,
+  "Telefax": "+49 3834 554-301",
+  "Telefon": "+49 3834 554-300",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "54.0919647",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "welcome@inp-greifswald.de",
+      "Hauptadresse": "Felix-Hausdorff-Straße 2",
+      "Internetadresse": "https://www.inp-greifswald.de",
+      "Land": "DE",
+      "Längengrad": "13.4019412",
+      "Organisation": "Leibniz-Institut für Plasmaforschung und Technologie e. V.",
+      "OrganisationDisplay": "INP Greifswald",
+      "OrganisationId": 400866,
+      "OrganisationKurz": "INP Greifswald",
+      "Ort": "Greifswald",
+      "PLZ": 17489,
+      "Telefax": "+49 3834 554-301",
+      "Telefon": "+49 3834 554-300",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

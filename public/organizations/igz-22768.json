@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.34732",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "igzev@igzev.de",
+  "Hauptadresse": "Theodor-Echtermeyer-Weg 1",
+  "Internetadresse": "https://www.igzev.de",
+  "Land": "DE",
+  "Längengrad": "13.310561",
+  "Organisation": "Leibniz-Institut für Gemüse- und Zierpflanzenbau Großbeeren/Erfurt e. V.",
+  "OrganisationDisplay": "IGZ",
+  "OrganisationId": 22768,
+  "OrganisationKurz": "IGZ",
+  "Ort": "Großbeeren",
+  "PLZ": 14979,
+  "Telefax": "+49 33701 55391",
+  "Telefon": "+49 33701 78131",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.34732",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "igzev@igzev.de",
+      "Hauptadresse": "Theodor-Echtermeyer-Weg 1",
+      "Internetadresse": "https://www.igzev.de",
+      "Land": "DE",
+      "Längengrad": "13.310561",
+      "Organisation": "Leibniz-Institut für Gemüse- und Zierpflanzenbau Großbeeren/Erfurt e. V.",
+      "OrganisationDisplay": "IGZ",
+      "OrganisationId": 22768,
+      "OrganisationKurz": "IGZ",
+      "Ort": "Großbeeren",
+      "PLZ": 14979,
+      "Telefax": "+49 33701 55391",
+      "Telefon": "+49 33701 78131",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

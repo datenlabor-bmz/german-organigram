@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5131493",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@dpi-berlin.de",
+  "Hauptadresse": "Hausvogteiplatz 5-7",
+  "Internetadresse": "https://www.pdi-berlin.de/",
+  "Land": "DE",
+  "Längengrad": "13.3962399",
+  "Organisation": "Paul-Drude-Institut für Festkörperelektronik - Leibniz Institut im Forschungsverbund Berlin e.V.",
+  "OrganisationDisplay": "PDI",
+  "OrganisationId": 401130,
+  "OrganisationKurz": "PDI",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 20377-515",
+  "Telefon": "+49 30 20377-481",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5131493",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@dpi-berlin.de",
+      "Hauptadresse": "Hausvogteiplatz 5-7",
+      "Internetadresse": "https://www.pdi-berlin.de/",
+      "Land": "DE",
+      "Längengrad": "13.3962399",
+      "Organisation": "Paul-Drude-Institut für Festkörperelektronik - Leibniz Institut im Forschungsverbund Berlin e.V.",
+      "OrganisationDisplay": "PDI",
+      "OrganisationId": 401130,
+      "OrganisationKurz": "PDI",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 20377-515",
+      "Telefon": "+49 30 20377-481",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

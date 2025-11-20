@@ -1,0 +1,269 @@
+{
+  "Breitengrad": "52.511508",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@vorsorgeregister.de",
+  "Hauptadresse": "Kronenstraße 42",
+  "Internetadresse": "https://www.vorsorgeregister.de",
+  "Land": "DE",
+  "Längengrad": "13.394657",
+  "Organisation": "Zentrales Vorsorgeregister",
+  "OrganisationDisplay": "ZVR",
+  "OrganisationId": 24152,
+  "OrganisationKurz": "ZVR",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMJV",
+  "Telefax": "+49 30-38 38 66 77",
+  "Telefon": "+49 800-35 50 500",
+  "Kategorie": "Unklar",
+  "Wikidata ID": "Q190466",
+  "locations": [
+    {
+      "Breitengrad": "52.511508",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@vorsorgeregister.de",
+      "Hauptadresse": "Kronenstraße 42",
+      "Internetadresse": "https://www.vorsorgeregister.de",
+      "Land": "DE",
+      "Längengrad": "13.394657",
+      "Organisation": "Zentrales Vorsorgeregister",
+      "OrganisationDisplay": "ZVR",
+      "OrganisationId": 24152,
+      "OrganisationKurz": "ZVR",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMJV",
+      "Telefax": "+49 30-38 38 66 77",
+      "Telefon": "+49 800-35 50 500",
+      "Kategorie": "Unklar",
+      "Wikidata ID": "Q190466"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q190466",
+    "data": {
+      "type": "item",
+      "id": "Q190466",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Zentrales Vorsorgeregister"
+        },
+        "en": {
+          "language": "en",
+          "value": "Zentrales Vorsorgeregister"
+        }
+      },
+      "descriptions": {},
+      "claims": {
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "7b3d3a52526ad423ae772eba04a525fcecb11bec",
+              "datavalue": {
+                "value": "/g/122fjq7_",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q190466$859C329F-DFA0-40DE-873F-2E883D6DE03D",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "e7ff67eb087b8ff0a93ff7e98492b1e4fb4b0cc5",
+              "datavalue": {
+                "value": "978",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q190466$a067c606-4e80-64fb-e41b-9c05cb76d198",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "38cc2e1565fa24c667fb21c4ed8bb71cb3ff3c2e",
+              "datavalue": {
+                "value": "Bundesnotarkammer Zentrales Vorsorgeregister - Logo.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q190466$890127f9-44fe-9326-bd8a-cb6014865160",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "5796d5db5243eee7c216b47158b05507da36f704",
+              "datavalue": {
+                "value": "Zentrales Vorsorgeregister (Bundesnotarkammer) logo (2024).svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q190466$dbe73e1b-4d89-2c06-bf18-3a29bd5a33a1",
+            "rank": "preferred"
+          }
+        ],
+        "P137": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P137",
+              "hash": "b6b5c08c7b7da2728fe22d22c16c47c63de453a0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 836148,
+                  "id": "Q836148"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190466$41da5e24-482d-3c53-da12-a103fc1e6f70",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "71f486916654f3593081adb5e5d4343f16a46720",
+              "datavalue": {
+                "value": "https://www.vorsorgeregister.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q190466$f2c1319c-4314-9052-73ff-062e2ba166a5",
+            "rank": "normal"
+          }
+        ],
+        "P92": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P92",
+              "hash": "ce3dc207a80d87a87eed9dc155e70c0494ac6af2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1006426,
+                  "id": "Q1006426"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P958": [
+                {
+                  "snaktype": "value",
+                  "property": "P958",
+                  "hash": "4720c5c1833db92d6e57981f474c4db1c550f409",
+                  "datavalue": {
+                    "value": "§ 78a",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P958"
+            ],
+            "id": "Q190466$2712b18d-403f-0ad4-fe9b-6e6f7d6cbc3b",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P92",
+              "hash": "0c3e66c89584de98c9aca1fc5a5b885bbd012aac",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2534432,
+                  "id": "Q2534432"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190466$c4329bd2-4ffd-c9c7-2d9e-94e563a9f9cb",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "a4c5db674816e17e18d624c11b04a2aafd40d314",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 136720139,
+                  "id": "Q136720139"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190466$975d1329-4e51-8399-7960-2f8147324c23",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Zentrales Vorsorgeregister",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q136720139": {
+        "type": "item",
+        "id": "Q136720139",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "advance health care directive register"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "official register of advance health care directive"
+          }
+        }
+      }
+    }
+  }
+}

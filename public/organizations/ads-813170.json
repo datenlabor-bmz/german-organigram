@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@ads.bund.de",
+  "Hauptadresse": "Glinkastraße 24",
+  "Internetadresse": "https://www.antidiskriminierungsstelle.de/",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Antidiskriminierungsstelle des Bundes",
+  "OrganisationDisplay": "ADS",
+  "OrganisationId": 813170,
+  "OrganisationKurz": "ADS",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMBFSFJ",
+  "Telefax": "+49 3018 555-41865",
+  "Telefon": "+49 800 546 546 5",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@ads.bund.de",
+      "Hauptadresse": "Glinkastraße 24",
+      "Internetadresse": "https://www.antidiskriminierungsstelle.de/",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Antidiskriminierungsstelle des Bundes",
+      "OrganisationDisplay": "ADS",
+      "OrganisationId": 813170,
+      "OrganisationKurz": "ADS",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMBFSFJ",
+      "Telefax": "+49 3018 555-41865",
+      "Telefon": "+49 800 546 546 5"
+    }
+  ]
+}

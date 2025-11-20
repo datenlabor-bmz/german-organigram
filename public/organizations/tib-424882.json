@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.3821384",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "information@tib.eu",
+  "Hauptadresse": "Welfengarten 1b",
+  "Internetadresse": "https://www.tib.eu/de/",
+  "Land": "DE",
+  "Längengrad": "9.7177048",
+  "Organisation": "Technische Informationsbibliothek",
+  "OrganisationDisplay": "TIB",
+  "OrganisationId": 424882,
+  "OrganisationKurz": "TIB",
+  "Ort": "Hannover",
+  "PLZ": 30167,
+  "Telefon": "+49 511 762-2268",
+  "locations": [
+    {
+      "Breitengrad": "52.3821384",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "information@tib.eu",
+      "Hauptadresse": "Welfengarten 1b",
+      "Internetadresse": "https://www.tib.eu/de/",
+      "Land": "DE",
+      "Längengrad": "9.7177048",
+      "Organisation": "Technische Informationsbibliothek",
+      "OrganisationDisplay": "TIB",
+      "OrganisationId": 424882,
+      "OrganisationKurz": "TIB",
+      "Ort": "Hannover",
+      "PLZ": 30167,
+      "Telefon": "+49 511 762-2268"
+    }
+  ]
+}

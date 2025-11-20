@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.65772",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "wna-datteln@wsv.bund.de",
+  "Hauptadresse": "Speeckstraße 1",
+  "Internetadresse": "https://wna-datteln.wsv.de/Webs/WNA/WNA-Datteln/DE/Startseite/startseite_node.html",
+  "Land": "DE",
+  "Längengrad": "7.351072",
+  "Organisation": "Wasserstraßen-Neubauamt Datteln",
+  "OrganisationDisplay": "WNA Datteln",
+  "OrganisationId": 23480,
+  "OrganisationKurz": "WNA Datteln",
+  "Ort": "Datteln",
+  "PLZ": 45711,
+  "Ressort": "BMV",
+  "Telefon": "+49 2363 104-0",
+  "locations": [
+    {
+      "Breitengrad": "51.65772",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "wna-datteln@wsv.bund.de",
+      "Hauptadresse": "Speeckstraße 1",
+      "Internetadresse": "https://wna-datteln.wsv.de/Webs/WNA/WNA-Datteln/DE/Startseite/startseite_node.html",
+      "Land": "DE",
+      "Längengrad": "7.351072",
+      "Organisation": "Wasserstraßen-Neubauamt Datteln",
+      "OrganisationDisplay": "WNA Datteln",
+      "OrganisationId": 23480,
+      "OrganisationKurz": "WNA Datteln",
+      "Ort": "Datteln",
+      "PLZ": 45711,
+      "Ressort": "BMV",
+      "Telefon": "+49 2363 104-0"
+    }
+  ]
+}

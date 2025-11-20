@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.111969",
+  "Bundesland": "Hessen",
+  "E-Mail": "konzerninfo@deka.de",
+  "Hauptadresse": "Große Gallusstraße 14",
+  "Internetadresse": "https://www.deka.de/deka-gruppe",
+  "Land": "DE",
+  "Längengrad": "8.673605",
+  "Organisation": "DekaBank-Deutsche Girozentrale",
+  "OrganisationDisplay": "DGZ",
+  "OrganisationId": 13488,
+  "OrganisationKurz": "DGZ",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60315,
+  "Ressort": "BMF",
+  "Telefax": "+49 69 7147-1376",
+  "Telefon": "+49 69 7147-0",
+  "locations": [
+    {
+      "Breitengrad": "50.111969",
+      "Bundesland": "Hessen",
+      "E-Mail": "konzerninfo@deka.de",
+      "Hauptadresse": "Große Gallusstraße 14",
+      "Internetadresse": "https://www.deka.de/deka-gruppe",
+      "Land": "DE",
+      "Längengrad": "8.673605",
+      "Organisation": "DekaBank-Deutsche Girozentrale",
+      "OrganisationDisplay": "DGZ",
+      "OrganisationId": 13488,
+      "OrganisationKurz": "DGZ",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60315,
+      "Ressort": "BMF",
+      "Telefax": "+49 69 7147-1376",
+      "Telefon": "+49 69 7147-0"
+    }
+  ]
+}

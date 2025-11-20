@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.521842",
+  "Bundesland": "Berlin",
+  "E-Mail": "VBIAG@bmi.bund.de",
+  "Hauptadresse": "Alt-Moabit 140",
+  "Internetadresse": "https://www.vertreterin-des-bundesinteresses.de/Webs/VBI/DE/startseite/startseite-node.html",
+  "Land": "DE",
+  "Längengrad": "13.363153",
+  "Organisation": "Vertreterin des Bundesinteresses beim Bundesverwaltungsgericht",
+  "OrganisationDisplay": "VBI",
+  "OrganisationId": 27442,
+  "OrganisationKurz": "VBI",
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 18681-4225",
+  "Telefon": "+49 30 18681-4336",
+  "locations": [
+    {
+      "Breitengrad": "52.521842",
+      "Bundesland": "Berlin",
+      "E-Mail": "VBIAG@bmi.bund.de",
+      "Hauptadresse": "Alt-Moabit 140",
+      "Internetadresse": "https://www.vertreterin-des-bundesinteresses.de/Webs/VBI/DE/startseite/startseite-node.html",
+      "Land": "DE",
+      "Längengrad": "13.363153",
+      "Organisation": "Vertreterin des Bundesinteresses beim Bundesverwaltungsgericht",
+      "OrganisationDisplay": "VBI",
+      "OrganisationId": 27442,
+      "OrganisationKurz": "VBI",
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 18681-4225",
+      "Telefon": "+49 30 18681-4336"
+    }
+  ]
+}

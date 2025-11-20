@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.721666",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "Agdf@friedensdienst.de",
+  "Hauptadresse": "Endenicherstr. 41",
+  "Internetadresse": "https://www.friedensdienst.de",
+  "Land": "DE",
+  "Längengrad": "7.095034",
+  "Organisation": "Aktionsgemeinschaft Dienst für den Frieden e. V.",
+  "OrganisationDisplay": "AGDF",
+  "OrganisationId": 44874,
+  "OrganisationKurz": "AGDF",
+  "Ort": "Bonn",
+  "PLZ": 53115,
+  "Telefax": "+49 228 24999-20",
+  "Telefon": "+49 228 24999-0",
+  "locations": [
+    {
+      "Breitengrad": "50.721666",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "Agdf@friedensdienst.de",
+      "Hauptadresse": "Endenicherstr. 41",
+      "Internetadresse": "https://www.friedensdienst.de",
+      "Land": "DE",
+      "Längengrad": "7.095034",
+      "Organisation": "Aktionsgemeinschaft Dienst für den Frieden e. V.",
+      "OrganisationDisplay": "AGDF",
+      "OrganisationId": 44874,
+      "OrganisationKurz": "AGDF",
+      "Ort": "Bonn",
+      "PLZ": 53115,
+      "Telefax": "+49 228 24999-20",
+      "Telefon": "+49 228 24999-0"
+    }
+  ]
+}

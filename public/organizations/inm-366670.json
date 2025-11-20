@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.2548807",
+  "Bundesland": "Saarland",
+  "E-Mail": "contact@leibniz-inm.de",
+  "Hauptadresse": "Campus D2 2",
+  "Internetadresse": "https://www.inm-gmbh.de",
+  "Land": "DE",
+  "Längengrad": "7.0382952",
+  "Organisation": "Leibniz-Institut für Neue Materialien gGmbH",
+  "OrganisationDisplay": "INM",
+  "OrganisationId": 366670,
+  "OrganisationKurz": "INM",
+  "Ort": "Saarbrücken",
+  "PLZ": 66123,
+  "Telefax": "+49 681 9300-223",
+  "Telefon": "+49 681 9300-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.2548807",
+      "Bundesland": "Saarland",
+      "E-Mail": "contact@leibniz-inm.de",
+      "Hauptadresse": "Campus D2 2",
+      "Internetadresse": "https://www.inm-gmbh.de",
+      "Land": "DE",
+      "Längengrad": "7.0382952",
+      "Organisation": "Leibniz-Institut für Neue Materialien gGmbH",
+      "OrganisationDisplay": "INM",
+      "OrganisationId": 366670,
+      "OrganisationKurz": "INM",
+      "Ort": "Saarbrücken",
+      "PLZ": 66123,
+      "Telefax": "+49 681 9300-223",
+      "Telefon": "+49 681 9300-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "51.3134732",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@iwes.fraunhofer.de",
+  "Hauptadresse": "Königstor 59",
+  "Internetadresse": "https://www.iwes.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "9.4462581",
+  "Organisation": "Fraunhofer-Institut für Windenergie und Energiesystemtechnik",
+  "OrganisationDisplay": "IWES",
+  "OrganisationId": 5710728,
+  "OrganisationKurz": "IWES",
+  "Ort": "Kassel",
+  "PLZ": 34119,
+  "Telefax": "+49 561 7294-100",
+  "Telefon": "+49 561 7294-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.3134732",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@iwes.fraunhofer.de",
+      "Hauptadresse": "Königstor 59",
+      "Internetadresse": "https://www.iwes.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "9.4462581",
+      "Organisation": "Fraunhofer-Institut für Windenergie und Energiesystemtechnik",
+      "OrganisationDisplay": "IWES",
+      "OrganisationId": 5710728,
+      "OrganisationKurz": "IWES",
+      "Ort": "Kassel",
+      "PLZ": 34119,
+      "Telefax": "+49 561 7294-100",
+      "Telefon": "+49 561 7294-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Am Seedeich 45",
+      "Bundesland": "Bremen",
+      "Internetadresse": "https://www.iwes.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Institutsteil Windenergie",
+      "LiegenschaftsId": 8563254,
+      "OrganisationId": 5710728,
+      "Ort": "Bremerhaven",
+      "PLZ": 27572,
+      "Telefon": "+49 471 14290-100"
+    }
+  ]
+}

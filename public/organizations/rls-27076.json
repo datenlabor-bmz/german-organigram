@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.512245",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@rosalux.org",
+  "Hauptadresse": "Straße der Pariser Kommune 8A",
+  "Internetadresse": "https://www.rosalux.de",
+  "Land": "DE",
+  "Längengrad": "13.438491",
+  "Organisation": "Rosa-Luxemburg-Stiftung - Gesellschaftsanalyse und Politische Bildung e. V.",
+  "OrganisationDisplay": "RLS",
+  "OrganisationId": 27076,
+  "OrganisationKurz": "RLS",
+  "Ort": "Berlin",
+  "PLZ": 10243,
+  "Telefax": "+49 30 44310-222",
+  "Telefon": "+49 30 44310-0",
+  "locations": [
+    {
+      "Breitengrad": "52.512245",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@rosalux.org",
+      "Hauptadresse": "Straße der Pariser Kommune 8A",
+      "Internetadresse": "https://www.rosalux.de",
+      "Land": "DE",
+      "Längengrad": "13.438491",
+      "Organisation": "Rosa-Luxemburg-Stiftung - Gesellschaftsanalyse und Politische Bildung e. V.",
+      "OrganisationDisplay": "RLS",
+      "OrganisationId": 27076,
+      "OrganisationKurz": "RLS",
+      "Ort": "Berlin",
+      "PLZ": 10243,
+      "Telefax": "+49 30 44310-222",
+      "Telefon": "+49 30 44310-0"
+    }
+  ]
+}

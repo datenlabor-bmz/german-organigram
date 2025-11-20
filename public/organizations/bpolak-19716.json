@@ -1,0 +1,1741 @@
+{
+  "Breitengrad": "53.825252",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "bpolak@polizei.bund.de",
+  "Hauptadresse": "Ratzeburger Landstraße 4",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/03Akademie/Akademie_node.html",
+  "Land": "DE",
+  "Längengrad": "10.721704",
+  "Organisation": "Bundespolizeiakademie",
+  "OrganisationDisplay": "BPOLAK",
+  "OrganisationId": 19716,
+  "OrganisationKurz": "BPOLAK",
+  "Ort": "Lübeck",
+  "PLZ": 23562,
+  "Ressort": "BMI",
+  "Telefax": "+49 451 49055-5121",
+  "Telefon": "+49 451 49055-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "Wikidata ID": "Q1006464",
+  "locations": [
+    {
+      "Breitengrad": "53.825252",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "bpolak@polizei.bund.de",
+      "Hauptadresse": "Ratzeburger Landstraße 4",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/03Akademie/Akademie_node.html",
+      "Land": "DE",
+      "Längengrad": "10.721704",
+      "Organisation": "Bundespolizeiakademie",
+      "OrganisationDisplay": "BPOLAK",
+      "OrganisationId": 19716,
+      "OrganisationKurz": "BPOLAK",
+      "Ort": "Lübeck",
+      "PLZ": 23562,
+      "Ressort": "BMI",
+      "Telefax": "+49 451 49055-5121",
+      "Telefon": "+49 451 49055-0",
+      "Kategorie": "Bundesmittelbehörde",
+      "Wikidata ID": "Q1006464"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q1006464",
+    "data": {
+      "type": "item",
+      "id": "Q1006464",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundespolizeiakademie"
+        },
+        "en": {
+          "language": "en",
+          "value": "Bundespolizeiakademie"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "educational institution"
+        },
+        "de": {
+          "language": "de",
+          "value": "Aus- und Fortbildungsstätte der deutschen Bundespolizei in Lübeck"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "0344abdcdc8ee17ad668cc1b7f883083cadd117a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2385804,
+                  "id": "Q2385804"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$ea6f19d6-469a-dd7e-bd72-b225234b54a9",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "3a582ee56d4be2532ddbc548e1517ce862c7d847",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 132758133,
+                  "id": "Q132758133"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$9096207a-41b0-1e04-fbaa-8c3866d52f84",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "42ef412bb709bf72534213660027c7c29ff040f9",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "49742313552970427532e6d765a873161c108ba4",
+                      "datavalue": {
+                        "value": "1100359133",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "353ab356f65e84589b4c83b3df0e34b8761b7acd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 132758551,
+                  "id": "Q132758551"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$131a58ce-4f01-a50a-ff8f-6f0a09c639c2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "42ef412bb709bf72534213660027c7c29ff040f9",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "49742313552970427532e6d765a873161c108ba4",
+                      "datavalue": {
+                        "value": "1100359133",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "9ddcceeaf7e560950a86839bdadd0b10ace0c362",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 35535,
+                  "id": "Q35535"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2241": [
+                {
+                  "snaktype": "value",
+                  "property": "P2241",
+                  "hash": "827b85d92fcdf7a4f6a3dddaa2fdcaf1ca2389d7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 41755623,
+                      "id": "Q41755623"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2241"
+            ],
+            "id": "Q1006464$da7bf201-4940-7ead-7994-1811127df334",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "42ef412bb709bf72534213660027c7c29ff040f9",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "49742313552970427532e6d765a873161c108ba4",
+                      "datavalue": {
+                        "value": "1100359133",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "32bf19e4d6e8fe8bbe62af5d78798079775f2e12",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 277845,
+                  "id": "Q277845"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$b2ad0da0-4b5a-dcde-f262-96040ebba482",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$9A0777D5-D6F9-4106-AC82-7F8579D3D07A",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "17a8a7624719432c4a06198c3466e5a1c896b493",
+              "datavalue": {
+                "value": "Bundespolizeiakademie",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1006464$BE1650AE-3FB2-4266-8864-8EF954F06856",
+            "rank": "normal"
+          }
+        ],
+        "P910": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P910",
+              "hash": "d83cca588aad1e63ad02542557e76a0d9f2fe5d8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 26337333,
+                  "id": "Q26337333"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$660A557F-571A-4281-A87C-C616EEF590D6",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "d2135e75031c12ef4f4970f01dbf08ec15f7e58c",
+              "datavalue": {
+                "value": "Bundespolizeiakademie.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q1006464$C288F611-0DD4-48D0-B0B1-677FDB1B79D4",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "3a3ece57c7518d881a58e899397a933362a683e7",
+              "datavalue": {
+                "value": "103",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006464$862AEE55-F0C6-458D-9FBF-0B841A6B9027",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "237a209cc4affae102d75fabfae227aa7b8a7586",
+              "datavalue": {
+                "value": "/g/122f20rp",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006464$98257881-F3E5-4E53-9739-36EB1F9036CB",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "5a76df717d1e06e495359714e1d0a8d0604fee5d",
+              "datavalue": {
+                "value": "Bundespolizeiakademie Logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q1006464$5a0a480a-4f62-7eee-d077-d9b7320ad6cf",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "2982cddc02ac932645c47c3e9a1f330db0259ac4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 89193668,
+                  "id": "Q89193668"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$4481bb75-489d-a4a7-42e6-ebd3bcdb11c8",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "72b6cf25073f954774f19ba7f46f0009c5526a63",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 56026,
+                  "id": "Q56026"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$C0B0DA9F-9E4C-4AB5-A33F-D1054049672B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "42ef412bb709bf72534213660027c7c29ff040f9",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "49742313552970427532e6d765a873161c108ba4",
+                      "datavalue": {
+                        "value": "1100359133",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "341b6cc89c26b872ab78fbc99bb467111a243dce",
+              "datavalue": {
+                "value": {
+                  "text": "BPOLAK",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1006464$f828d1d7-4ea4-866a-2f42-6d0a1efd9ae3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3f8aa2691c51cec0367f669bbc9b185c9ed2dc0e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f76d0c4139db5a9f43407c0c0eec9e0eb7993b36",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DELeistungen/A/Abkuerzungsverzeichnis-des-Bundes-BMI-BVA.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P98": [
+                    {
+                      "snaktype": "value",
+                      "property": "P98",
+                      "hash": "98ebcc3861500f7ff6f1ec10e08df83e717ea65f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1009218,
+                          "id": "Q1009218"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "15a5da9acd7ebb61c61ded95cfba7255e42e573a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P98",
+                  "P407",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "42ef412bb709bf72534213660027c7c29ff040f9",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "49742313552970427532e6d765a873161c108ba4",
+                      "datavalue": {
+                        "value": "1100359133",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P973": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "f78a395eef11a2cbda47118766fd3d3e6ab541a7",
+              "datavalue": {
+                "value": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/03Akademie/Akademie.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P98": [
+                {
+                  "snaktype": "value",
+                  "property": "P98",
+                  "hash": "1ce5b3e06c283d412eaf7dd915f7ac708bc108c5",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 56026,
+                      "id": "Q56026"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P98",
+              "P407"
+            ],
+            "id": "Q1006464$4B38207E-3B63-44BA-B8E8-63B4D7EC5626",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P973",
+              "hash": "b2e918a757ab7c095c43c041cf865330901e2066",
+              "datavalue": {
+                "value": "https://www.service.bund.de/Content/DE/DEBehoerden/B/BPOL/BPOLAK/Bundespolizeiakademie.html?nn=4641496",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P98": [
+                {
+                  "snaktype": "value",
+                  "property": "P98",
+                  "hash": "98ebcc3861500f7ff6f1ec10e08df83e717ea65f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1009218,
+                      "id": "Q1009218"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P98",
+              "P407"
+            ],
+            "id": "Q1006464$e4797a8f-4dc0-77cd-8985-0f5e85a8e518",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "49742313552970427532e6d765a873161c108ba4",
+              "datavalue": {
+                "value": "1100359133",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006464$71ee6e33-4a55-298f-98b4-9eb1df01568b",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "4bbf4ede8b73d15c375094ddba879388fd447f83",
+              "datavalue": {
+                "value": "3146462583727770450",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006464$dc669dc9-46c4-9768-fb03-b21116c58ae9",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$4875787c-41d6-7739-83d0-ba2f715bd92b",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "10736bebb1d5633ed743fdb5182dd1ebc4ed374c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2843,
+                  "id": "Q2843"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6375": [
+                {
+                  "snaktype": "value",
+                  "property": "P6375",
+                  "hash": "bfc827dd02663b16282a560d36bac01b2f9d9c54",
+                  "datavalue": {
+                    "value": {
+                      "text": "Ratzeburger Landstraße 4, 23562 Lübeck",
+                      "language": "de"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ],
+              "P669": [
+                {
+                  "snaktype": "value",
+                  "property": "P669",
+                  "hash": "0c7c4cf662733a3f854f63d9ae4b5922af6ed3a7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 106260436,
+                      "id": "Q106260436"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P670": [
+                {
+                  "snaktype": "value",
+                  "property": "P670",
+                  "hash": "22e918e8d943108be72cd7533a6149deb387ad5a",
+                  "datavalue": {
+                    "value": "4",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P281": [
+                {
+                  "snaktype": "value",
+                  "property": "P281",
+                  "hash": "19d35cbe671831be6d3d591b31eca8f1003a46ed",
+                  "datavalue": {
+                    "value": "23562",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P625": [
+                {
+                  "snaktype": "value",
+                  "property": "P625",
+                  "hash": "6418dbaa7682b41a1416dbbed8f559fa13842e89",
+                  "datavalue": {
+                    "value": {
+                      "latitude": 53.82629,
+                      "longitude": 10.7251,
+                      "altitude": null,
+                      "precision": 1e-05,
+                      "globe": "http://www.wikidata.org/entity/Q2"
+                    },
+                    "type": "globecoordinate"
+                  },
+                  "datatype": "globe-coordinate"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6375",
+              "P669",
+              "P670",
+              "P281",
+              "P625"
+            ],
+            "id": "Q1006464$66fe166e-4495-3877-4c95-0f042dd87642",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1083941a64d0d3180e14aa1225b5a07065d7ac0c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3111464a134c3e92d7bc713064d612f137ca235f",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DEBehoerden/B/BPOL/BPOLAK/Bundespolizeiakademie.html?nn=4641496",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P98": [
+                    {
+                      "snaktype": "value",
+                      "property": "P98",
+                      "hash": "98ebcc3861500f7ff6f1ec10e08df83e717ea65f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1009218,
+                          "id": "Q1009218"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P98",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2541": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2541",
+              "hash": "d2fdf4b936c98ec48b5eafd44630d83c6e61835b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1194,
+                  "id": "Q1194"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P2241": [
+                {
+                  "snaktype": "value",
+                  "property": "P2241",
+                  "hash": "827b85d92fcdf7a4f6a3dddaa2fdcaf1ca2389d7",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 41755623,
+                      "id": "Q41755623"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P2241"
+            ],
+            "id": "Q1006464$9295e419-4018-e444-d53e-af759fb97bd2",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "42ef412bb709bf72534213660027c7c29ff040f9",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "019a50b7de741e0068bde41c9d9955b22a5de47b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 36578,
+                          "id": "Q36578"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P227": [
+                    {
+                      "snaktype": "value",
+                      "property": "P227",
+                      "hash": "49742313552970427532e6d765a873161c108ba4",
+                      "datavalue": {
+                        "value": "1100359133",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P227",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2541",
+              "hash": "abcc9df39f6622f0ca58d6b247139d972986fb7b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006464$76a0eb06-4e5f-8689-ede8-75493faef3c7",
+            "rank": "normal"
+          }
+        ],
+        "P1329": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1329",
+              "hash": "970a68be4a5f98fdbe46afe28525b023f5666c08",
+              "datavalue": {
+                "value": "+49 (0) 451 49055 0",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1006464$1f41b987-42a9-43d9-45fe-9fdbf5872c58",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1083941a64d0d3180e14aa1225b5a07065d7ac0c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3111464a134c3e92d7bc713064d612f137ca235f",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DEBehoerden/B/BPOL/BPOLAK/Bundespolizeiakademie.html?nn=4641496",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P98": [
+                    {
+                      "snaktype": "value",
+                      "property": "P98",
+                      "hash": "98ebcc3861500f7ff6f1ec10e08df83e717ea65f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1009218,
+                          "id": "Q1009218"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P98",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2900": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2900",
+              "hash": "606efa2f8be554927f37bb0a0418ca9fee3bc4eb",
+              "datavalue": {
+                "value": "+49 (0) 451 49055 5121",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1006464$babf3086-4c97-5a9a-55d3-b892b21b17a3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1083941a64d0d3180e14aa1225b5a07065d7ac0c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3111464a134c3e92d7bc713064d612f137ca235f",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DEBehoerden/B/BPOL/BPOLAK/Bundespolizeiakademie.html?nn=4641496",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P98": [
+                    {
+                      "snaktype": "value",
+                      "property": "P98",
+                      "hash": "98ebcc3861500f7ff6f1ec10e08df83e717ea65f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1009218,
+                          "id": "Q1009218"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P98",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P968": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P968",
+              "hash": "32e56c57a1983b0db9027e832bd08ed738b05f2c",
+              "datavalue": {
+                "value": "mailto:bpolak@polizei.bund.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q1006464$3ec2e71d-4f06-8579-142b-5d28947f4bc2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1083941a64d0d3180e14aa1225b5a07065d7ac0c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3111464a134c3e92d7bc713064d612f137ca235f",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DEBehoerden/B/BPOL/BPOLAK/Bundespolizeiakademie.html?nn=4641496",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P98": [
+                    {
+                      "snaktype": "value",
+                      "property": "P98",
+                      "hash": "98ebcc3861500f7ff6f1ec10e08df83e717ea65f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 1009218,
+                          "id": "Q1009218"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "74044af855a6e227746a0d8242e1ec488eaad12c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-02-25T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P98",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundespolizeiakademie",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q56026": {
+        "type": "item",
+        "id": "Q56026",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundespolizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Police of Germany"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal law enforcement agency"
+          }
+        }
+      },
+      "Q132758551": {
+        "type": "item",
+        "id": "Q132758551",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Weiterbildungseinrichtung"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "sich auf die Weiterbildung von Menschen spezialisierte Bildungseinrichtung"
+          }
+        }
+      },
+      "Q35535": {
+        "type": "item",
+        "id": "Q35535",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Polizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "police"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Exekutivorgan eines Staates"
+          },
+          "en": {
+            "language": "en",
+            "value": "law enforcement body"
+          }
+        }
+      },
+      "Q277845": {
+        "type": "item",
+        "id": "Q277845",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Polizeiakademie"
+          },
+          "en": {
+            "language": "en",
+            "value": "police academy"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "training institution for new police recruits"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bildungseinrichtung für Polizeivollzugsbeamte"
+          }
+        }
+      },
+      "Q89193668": {
+        "type": "item",
+        "id": "Q89193668",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundespolizeipräsidium"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Bundesoberbehörde und Bundespolizeibehörde mit Sitz in Potsdam"
+          }
+        }
+      },
+      "Q132758133": {
+        "type": "item",
+        "id": "Q132758133",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Ausbildungsstätte"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "sich auf die Ausbildung von Menschen spezialisierte Bildungseinrichtung"
+          }
+        }
+      },
+      "Q2385804": {
+        "type": "item",
+        "id": "Q2385804",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "educational institution"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bildungseinrichtung"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "institution that provides education"
+          },
+          "de": {
+            "language": "de",
+            "value": "Einrichtung mit Bildungsauftrag"
+          }
+        }
+      }
+    }
+  }
+}

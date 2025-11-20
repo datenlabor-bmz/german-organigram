@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.856088",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BwDLZKoeln@bundeswehr.org",
+  "Hauptadresse": "Flughafenstraße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-koeln",
+  "Land": "DE",
+  "Längengrad": "7.11242",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Köln",
+  "OrganisationDisplay": "BwDLZ Köln",
+  "OrganisationId": 18966,
+  "OrganisationKurz": "BwDLZ Köln",
+  "Ort": "Köln",
+  "PLZ": 51147,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2203 908-0",
+  "locations": [
+    {
+      "Breitengrad": "50.856088",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BwDLZKoeln@bundeswehr.org",
+      "Hauptadresse": "Flughafenstraße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-koeln",
+      "Land": "DE",
+      "Längengrad": "7.11242",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Köln",
+      "OrganisationDisplay": "BwDLZ Köln",
+      "OrganisationId": 18966,
+      "OrganisationKurz": "BwDLZ Köln",
+      "Ort": "Köln",
+      "PLZ": 51147,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2203 908-0"
+    }
+  ]
+}

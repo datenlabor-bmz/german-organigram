@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.0283743",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "presse@isi.fraunhofer.de",
+  "Hauptadresse": "Breslauer Straße 48",
+  "Internetadresse": "https://www.isi.fraunhofer.de/isi-de.html",
+  "Land": "DE",
+  "Längengrad": "8.4413308",
+  "Organisation": "Fraunhofer-Institut für System- und Innovationsforschung",
+  "OrganisationDisplay": "ISI",
+  "OrganisationId": 568748,
+  "OrganisationKurz": "ISI",
+  "Ort": "Karlsruhe",
+  "PLZ": 76139,
+  "Telefon": "+49 721 6809-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.0283743",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "presse@isi.fraunhofer.de",
+      "Hauptadresse": "Breslauer Straße 48",
+      "Internetadresse": "https://www.isi.fraunhofer.de/isi-de.html",
+      "Land": "DE",
+      "Längengrad": "8.4413308",
+      "Organisation": "Fraunhofer-Institut für System- und Innovationsforschung",
+      "OrganisationDisplay": "ISI",
+      "OrganisationId": 568748,
+      "OrganisationKurz": "ISI",
+      "Ort": "Karlsruhe",
+      "PLZ": 76139,
+      "Telefon": "+49 721 6809-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

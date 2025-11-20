@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.337258",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "ZInFueImDialogPressestelle@bundeswehr.org",
+  "Hauptadresse": "Von-Witzleben-Straße 17",
+  "Internetadresse": "https://www.bundeswehr.de/de/ueber-die-bundeswehr/selbstverstaendnis-bundeswehr/innere-fuehrung",
+  "Land": "DE",
+  "Längengrad": "7.617654",
+  "Organisation": "Zentrum Innere Führung",
+  "OrganisationDisplay": "ZInFÜ",
+  "OrganisationId": 13850,
+  "OrganisationKurz": "ZInFÜ",
+  "Ort": "Koblenz",
+  "PLZ": 56076,
+  "Ressort": "BMVg",
+  "Telefon": "+49 261 579420-5562",
+  "locations": [
+    {
+      "Breitengrad": "50.337258",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "ZInFueImDialogPressestelle@bundeswehr.org",
+      "Hauptadresse": "Von-Witzleben-Straße 17",
+      "Internetadresse": "https://www.bundeswehr.de/de/ueber-die-bundeswehr/selbstverstaendnis-bundeswehr/innere-fuehrung",
+      "Land": "DE",
+      "Längengrad": "7.617654",
+      "Organisation": "Zentrum Innere Führung",
+      "OrganisationDisplay": "ZInFÜ",
+      "OrganisationId": 13850,
+      "OrganisationKurz": "ZInFÜ",
+      "Ort": "Koblenz",
+      "PLZ": 56076,
+      "Ressort": "BMVg",
+      "Telefon": "+49 261 579420-5562"
+    }
+  ]
+}

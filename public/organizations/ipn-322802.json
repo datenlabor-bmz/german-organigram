@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.3396945",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "info@leibniz-ipn.de",
+  "Hauptadresse": "Olshausenstraße 62",
+  "Internetadresse": "https://www.ipn.uni-kiel.de",
+  "Land": "DE",
+  "Längengrad": "10.1192192",
+  "Organisation": "Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik an der Universität Kiel",
+  "OrganisationDisplay": "IPN",
+  "OrganisationId": 322802,
+  "OrganisationKurz": "IPN",
+  "Ort": "Kiel",
+  "PLZ": 24118,
+  "Telefax": "+49 431 880-5212",
+  "Telefon": "+49 431 880-5084",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "54.3396945",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "info@leibniz-ipn.de",
+      "Hauptadresse": "Olshausenstraße 62",
+      "Internetadresse": "https://www.ipn.uni-kiel.de",
+      "Land": "DE",
+      "Längengrad": "10.1192192",
+      "Organisation": "Leibniz-Institut für die Pädagogik der Naturwissenschaften und Mathematik an der Universität Kiel",
+      "OrganisationDisplay": "IPN",
+      "OrganisationId": 322802,
+      "OrganisationKurz": "IPN",
+      "Ort": "Kiel",
+      "PLZ": 24118,
+      "Telefax": "+49 431 880-5212",
+      "Telefon": "+49 431 880-5084",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

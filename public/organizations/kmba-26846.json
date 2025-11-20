@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.522071",
+  "Bundesland": "Berlin",
+  "E-Mail": "kmba@bundeswehr.org",
+  "Hauptadresse": "Am Weidendamm 2",
+  "Internetadresse": "https://www.katholische-militaerseelsorge.de/organisation/katholisches-militaerbischofsamt",
+  "Land": "DE",
+  "Längengrad": "13.389772",
+  "Organisation": "Katholisches Militärbischofsamt",
+  "OrganisationDisplay": "KMBA",
+  "OrganisationId": 26846,
+  "OrganisationKurz": "KMBA",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 20617-199",
+  "Telefon": "+49 30 20617-322",
+  "locations": [
+    {
+      "Breitengrad": "52.522071",
+      "Bundesland": "Berlin",
+      "E-Mail": "kmba@bundeswehr.org",
+      "Hauptadresse": "Am Weidendamm 2",
+      "Internetadresse": "https://www.katholische-militaerseelsorge.de/organisation/katholisches-militaerbischofsamt",
+      "Land": "DE",
+      "Längengrad": "13.389772",
+      "Organisation": "Katholisches Militärbischofsamt",
+      "OrganisationDisplay": "KMBA",
+      "OrganisationId": 26846,
+      "OrganisationKurz": "KMBA",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 20617-199",
+      "Telefon": "+49 30 20617-322"
+    }
+  ]
+}

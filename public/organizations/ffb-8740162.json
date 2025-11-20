@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.520602",
+  "Bundesland": "Berlin",
+  "E-Mail": "ffb@zv.fraunhofer.de",
+  "Hauptadresse": "Anna-Louisa-Karsch-Straße 2",
+  "Internetadresse": "https://www.forum.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.401845",
+  "Organisation": "Fraunhofer-Forum Berlin",
+  "OrganisationDisplay": "FFB",
+  "OrganisationId": 8740162,
+  "OrganisationKurz": "FFB",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Telefon": "+49 89 1205-5013",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.520602",
+      "Bundesland": "Berlin",
+      "E-Mail": "ffb@zv.fraunhofer.de",
+      "Hauptadresse": "Anna-Louisa-Karsch-Straße 2",
+      "Internetadresse": "https://www.forum.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.401845",
+      "Organisation": "Fraunhofer-Forum Berlin",
+      "OrganisationDisplay": "FFB",
+      "OrganisationId": 8740162,
+      "OrganisationKurz": "FFB",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefon": "+49 89 1205-5013",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

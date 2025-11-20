@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.0304993",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@iws.fraunhofer.de",
+  "Hauptadresse": "Winterbergstraße 28",
+  "Internetadresse": "https://www.iws.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.7811507",
+  "Organisation": "Fraunhofer-Institut für Werkstoff- und Strahltechnik",
+  "OrganisationDisplay": "IWS",
+  "OrganisationId": 603696,
+  "OrganisationKurz": "IWS",
+  "Ort": "Dresden",
+  "PLZ": 1277,
+  "Telefax": "+49 351 83391-3300",
+  "Telefon": "+49 351 83391-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.0304993",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@iws.fraunhofer.de",
+      "Hauptadresse": "Winterbergstraße 28",
+      "Internetadresse": "https://www.iws.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.7811507",
+      "Organisation": "Fraunhofer-Institut für Werkstoff- und Strahltechnik",
+      "OrganisationDisplay": "IWS",
+      "OrganisationId": 603696,
+      "OrganisationKurz": "IWS",
+      "Ort": "Dresden",
+      "PLZ": 1277,
+      "Telefax": "+49 351 83391-3300",
+      "Telefon": "+49 351 83391-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

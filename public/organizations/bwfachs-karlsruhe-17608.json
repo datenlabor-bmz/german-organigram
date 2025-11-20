@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.024302",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "BwFachSKarlsruhe@bundeswehr.org",
+  "Hauptadresse": "An der Trift 13-15",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-karlsruhe-87008",
+  "Land": "DE",
+  "Längengrad": "8.4294",
+  "Organisation": "Bundeswehrfachschule Karlsruhe",
+  "OrganisationDisplay": "BwFachS Karlsruhe",
+  "OrganisationId": 17608,
+  "OrganisationKurz": "BwFachS Karlsruhe",
+  "Ort": "Karlsruhe",
+  "PLZ": 76149,
+  "Ressort": "BMVg",
+  "Telefax": "+49 721 62680-499",
+  "Telefon": "+49 721 62680-451 oder -453",
+  "locations": [
+    {
+      "Breitengrad": "49.024302",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "BwFachSKarlsruhe@bundeswehr.org",
+      "Hauptadresse": "An der Trift 13-15",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-karlsruhe-87008",
+      "Land": "DE",
+      "Längengrad": "8.4294",
+      "Organisation": "Bundeswehrfachschule Karlsruhe",
+      "OrganisationDisplay": "BwFachS Karlsruhe",
+      "OrganisationId": 17608,
+      "OrganisationKurz": "BwFachS Karlsruhe",
+      "Ort": "Karlsruhe",
+      "PLZ": 76149,
+      "Ressort": "BMVg",
+      "Telefax": "+49 721 62680-499",
+      "Telefon": "+49 721 62680-451 oder -453"
+    }
+  ]
+}

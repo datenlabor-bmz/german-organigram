@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "dnk@bkm.bund.de",
+  "Hauptadresse": "Potsdamer Platz 1",
+  "Internetadresse": "https://www.dnk.de/",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Deutsches Nationalkomitee für Denkmalschutz",
+  "OrganisationDisplay": "DNK",
+  "OrganisationId": 7569096,
+  "OrganisationKurz": "DNK",
+  "Ort": "Berlin",
+  "PLZ": 10785,
+  "Ressort": "BKM",
+  "Telefon": "+49 30 18 681-43134",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "dnk@bkm.bund.de",
+      "Hauptadresse": "Potsdamer Platz 1",
+      "Internetadresse": "https://www.dnk.de/",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Deutsches Nationalkomitee für Denkmalschutz",
+      "OrganisationDisplay": "DNK",
+      "OrganisationId": 7569096,
+      "OrganisationKurz": "DNK",
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Ressort": "BKM",
+      "Telefon": "+49 30 18 681-43134"
+    }
+  ]
+}

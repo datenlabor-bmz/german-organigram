@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.4297111",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "kontakt@leibniz-irs.de",
+  "Hauptadresse": "Flakenstraße 29-31",
+  "Internetadresse": "https://www.irs-net.de",
+  "Land": "DE",
+  "Längengrad": "13.7589309",
+  "Organisation": "Leibniz-Institut für Raumbezogene Sozialforschung",
+  "OrganisationDisplay": "IRS",
+  "OrganisationId": 400882,
+  "OrganisationKurz": "IRS",
+  "Ort": "Erkner",
+  "PLZ": 15537,
+  "Telefax": "+49 3362 793-111",
+  "Telefon": "+49 3362 793-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.4297111",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "kontakt@leibniz-irs.de",
+      "Hauptadresse": "Flakenstraße 29-31",
+      "Internetadresse": "https://www.irs-net.de",
+      "Land": "DE",
+      "Längengrad": "13.7589309",
+      "Organisation": "Leibniz-Institut für Raumbezogene Sozialforschung",
+      "OrganisationDisplay": "IRS",
+      "OrganisationId": 400882,
+      "OrganisationKurz": "IRS",
+      "Ort": "Erkner",
+      "PLZ": 15537,
+      "Telefax": "+49 3362 793-111",
+      "Telefon": "+49 3362 793-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.8092704",
+  "Bundesland": "Hessen",
+  "E-Mail": "mail@herder-institut.de",
+  "Hauptadresse": "Gisonenweg 5 - 7",
+  "Internetadresse": "https://www.herder-institut.de",
+  "Land": "DE",
+  "Längengrad": "8.7632578",
+  "Organisation": "Herder Institut für historische Ostmitteleuropaforschung - Institut der Leibniz-Gemeinschaft",
+  "OrganisationDisplay": "HI",
+  "OrganisationId": 322182,
+  "OrganisationKurz": "HI",
+  "Ort": "Marburg",
+  "PLZ": 35037,
+  "Telefax": "+49 6421 184-139",
+  "Telefon": "+49 6421 184-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.8092704",
+      "Bundesland": "Hessen",
+      "E-Mail": "mail@herder-institut.de",
+      "Hauptadresse": "Gisonenweg 5 - 7",
+      "Internetadresse": "https://www.herder-institut.de",
+      "Land": "DE",
+      "Längengrad": "8.7632578",
+      "Organisation": "Herder Institut für historische Ostmitteleuropaforschung - Institut der Leibniz-Gemeinschaft",
+      "OrganisationDisplay": "HI",
+      "OrganisationId": 322182,
+      "OrganisationKurz": "HI",
+      "Ort": "Marburg",
+      "PLZ": 35037,
+      "Telefax": "+49 6421 184-139",
+      "Telefon": "+49 6421 184-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.452859",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "wtd71posteingang@bundeswehr.org",
+  "Hauptadresse": "Berliner Straße 115",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "9.852604",
+  "Organisation": "Wehrtechnische Dienststelle für Schiffe und Marinewaffen, Maritime Technologie und Forschung",
+  "OrganisationDisplay": "WTD 71",
+  "OrganisationId": 23820,
+  "OrganisationKurz": "WTD 71",
+  "Ort": "Eckernförde",
+  "PLZ": 24340,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4351 467-120",
+  "Telefon": "+49 4351 467-0",
+  "locations": [
+    {
+      "Breitengrad": "54.452859",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "wtd71posteingang@bundeswehr.org",
+      "Hauptadresse": "Berliner Straße 115",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "9.852604",
+      "Organisation": "Wehrtechnische Dienststelle für Schiffe und Marinewaffen, Maritime Technologie und Forschung",
+      "OrganisationDisplay": "WTD 71",
+      "OrganisationId": 23820,
+      "OrganisationKurz": "WTD 71",
+      "Ort": "Eckernförde",
+      "PLZ": 24340,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4351 467-120",
+      "Telefon": "+49 4351 467-0"
+    }
+  ]
+}

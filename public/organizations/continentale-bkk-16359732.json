@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.619602",
+  "Bundesland": "Hamburg",
+  "E-Mail": "kundenservice@continentale-bkk.de",
+  "Hauptadresse": "Sengelmannstraße 120",
+  "Internetadresse": "https://www.continentale-bkk.de",
+  "Land": "DE",
+  "Längengrad": "10.013923",
+  "Organisation": "Continentale Betriebskrankenkasse",
+  "OrganisationDisplay": "Continentale BKK",
+  "OrganisationId": 16359732,
+  "OrganisationKurz": "Continentale BKK",
+  "Ort": "Hamburg",
+  "PLZ": 22335,
+  "Telefax": "+49 40 526 777 1125",
+  "Telefon": "0800 6 262626",
+  "locations": [
+    {
+      "Breitengrad": "53.619602",
+      "Bundesland": "Hamburg",
+      "E-Mail": "kundenservice@continentale-bkk.de",
+      "Hauptadresse": "Sengelmannstraße 120",
+      "Internetadresse": "https://www.continentale-bkk.de",
+      "Land": "DE",
+      "Längengrad": "10.013923",
+      "Organisation": "Continentale Betriebskrankenkasse",
+      "OrganisationDisplay": "Continentale BKK",
+      "OrganisationId": 16359732,
+      "OrganisationKurz": "Continentale BKK",
+      "Ort": "Hamburg",
+      "PLZ": 22335,
+      "Telefax": "+49 40 526 777 1125",
+      "Telefon": "0800 6 262626"
+    }
+  ]
+}

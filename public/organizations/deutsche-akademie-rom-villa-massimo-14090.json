@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "41.916583",
+  "E-Mail": "info@villamassimo.de",
+  "Hauptadresse": "Largo di Villa Massimo 1 - 2",
+  "Internetadresse": "https://www.villamassimo.de/de/",
+  "Land": "Italien",
+  "Längengrad": "12.51751",
+  "Organisation": "Deutsche Akademie Rom Villa Massimo",
+  "OrganisationDisplay": "Villa Massimo",
+  "OrganisationId": 14090,
+  "Ort": "Roma",
+  "PLZ": -161,
+  "Ressort": "BKM",
+  "Telefax": "+39 06 44259-355",
+  "Telefon": "+39 06 44259-31",
+  "locations": [
+    {
+      "Breitengrad": "41.916583",
+      "E-Mail": "info@villamassimo.de",
+      "Hauptadresse": "Largo di Villa Massimo 1 - 2",
+      "Internetadresse": "https://www.villamassimo.de/de/",
+      "Land": "Italien",
+      "Längengrad": "12.51751",
+      "Organisation": "Deutsche Akademie Rom Villa Massimo",
+      "OrganisationDisplay": "Villa Massimo",
+      "OrganisationId": 14090,
+      "Ort": "Roma",
+      "PLZ": -161,
+      "Ressort": "BKM",
+      "Telefax": "+39 06 44259-355",
+      "Telefon": "+39 06 44259-31"
+    }
+  ]
+}

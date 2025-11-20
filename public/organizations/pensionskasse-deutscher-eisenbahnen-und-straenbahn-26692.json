@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "50.92288",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@pensionskasse-eisenbahnen.de",
+  "Hauptadresse": "Volksgartenstraße 54a",
+  "Internetadresse": "https://www.pensionskasse-eisenbahnen.de/",
+  "Land": "DE",
+  "Längengrad": "6.946916",
+  "Organisation": "Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG",
+  "OrganisationDisplay": "PDES",
+  "OrganisationId": 26692,
+  "Ort": "Köln",
+  "PLZ": 50677,
+  "Telefax": "+49 221 324548",
+  "Telefon": "+49 221 931817-0",
+  "locations": [
+    {
+      "Breitengrad": "50.92288",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@pensionskasse-eisenbahnen.de",
+      "Hauptadresse": "Volksgartenstraße 54a",
+      "Internetadresse": "https://www.pensionskasse-eisenbahnen.de/",
+      "Land": "DE",
+      "Längengrad": "6.946916",
+      "Organisation": "Pensionskasse Deutscher Eisenbahnen und Straßenbahnen VVaG",
+      "OrganisationDisplay": "PDES",
+      "OrganisationId": 26692,
+      "Ort": "Köln",
+      "PLZ": 50677,
+      "Telefax": "+49 221 324548",
+      "Telefon": "+49 221 931817-0"
+    }
+  ]
+}

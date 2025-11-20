@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.688878",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "bpold.stuttgart@polizei.bund.de",
+  "Hauptadresse": "Wolfgang-Brumme-Allee 52",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Stuttgart/Stuttgart_node.html",
+  "Land": "DE",
+  "Längengrad": "9.007164",
+  "Organisation": "Bundespolizeidirektion Stuttgart",
+  "OrganisationDisplay": "BPOLD S",
+  "OrganisationId": 20066,
+  "OrganisationKurz": "BPOLD S",
+  "Ort": "Böblingen",
+  "PLZ": 71034,
+  "Ressort": "BMI",
+  "Telefax": "+49 7031 2128-1170",
+  "Telefon": "+49 7031 2128-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "48.688878",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "bpold.stuttgart@polizei.bund.de",
+      "Hauptadresse": "Wolfgang-Brumme-Allee 52",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Stuttgart/Stuttgart_node.html",
+      "Land": "DE",
+      "Längengrad": "9.007164",
+      "Organisation": "Bundespolizeidirektion Stuttgart",
+      "OrganisationDisplay": "BPOLD S",
+      "OrganisationId": 20066,
+      "OrganisationKurz": "BPOLD S",
+      "Ort": "Böblingen",
+      "PLZ": 71034,
+      "Ressort": "BMI",
+      "Telefax": "+49 7031 2128-1170",
+      "Telefon": "+49 7031 2128-0",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

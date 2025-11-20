@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.0268541",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@ivi.fraunhofer.de",
+  "Hauptadresse": "Zeunerstraße 38",
+  "Internetadresse": "https://www.ivi.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.7359485",
+  "Organisation": "Fraunhofer-Institut für Verkehrs- und Infrastruktursysteme",
+  "OrganisationDisplay": "IVI",
+  "OrganisationId": 603688,
+  "OrganisationKurz": "IVI",
+  "Ort": "Dresden",
+  "PLZ": 1069,
+  "Telefax": "+49 351 4640-803",
+  "Telefon": "+49 351 4640-801",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.0268541",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@ivi.fraunhofer.de",
+      "Hauptadresse": "Zeunerstraße 38",
+      "Internetadresse": "https://www.ivi.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.7359485",
+      "Organisation": "Fraunhofer-Institut für Verkehrs- und Infrastruktursysteme",
+      "OrganisationDisplay": "IVI",
+      "OrganisationId": 603688,
+      "OrganisationKurz": "IVI",
+      "Ort": "Dresden",
+      "PLZ": 1069,
+      "Telefax": "+49 351 4640-803",
+      "Telefon": "+49 351 4640-801",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

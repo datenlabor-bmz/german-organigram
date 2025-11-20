@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.967168",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "ZVBwEingang@bundeswehr.org",
+  "Hauptadresse": "Quimperléstraße 100",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-fuer-verifikationsaufgaben-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "6.1174584",
+  "Organisation": "Zentrum für Verifikationsaufgaben der Bundeswehr",
+  "OrganisationDisplay": "ZVBw",
+  "OrganisationId": 13572,
+  "OrganisationKurz": "ZVBw",
+  "Ort": "Geilenkirchen",
+  "PLZ": 52511,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2451 992-255",
+  "Telefon": "+49 2451 992-0",
+  "locations": [
+    {
+      "Breitengrad": "50.967168",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "ZVBwEingang@bundeswehr.org",
+      "Hauptadresse": "Quimperléstraße 100",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-fuer-verifikationsaufgaben-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "6.1174584",
+      "Organisation": "Zentrum für Verifikationsaufgaben der Bundeswehr",
+      "OrganisationDisplay": "ZVBw",
+      "OrganisationId": 13572,
+      "OrganisationKurz": "ZVBw",
+      "Ort": "Geilenkirchen",
+      "PLZ": 52511,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2451 992-255",
+      "Telefon": "+49 2451 992-0"
+    }
+  ]
+}

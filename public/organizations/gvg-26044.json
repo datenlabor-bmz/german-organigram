@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.946983",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@gvg.org",
+  "Hauptadresse": "Reinhardtstraße 34",
+  "Internetadresse": "https://gvg.org/",
+  "Land": "DE",
+  "Längengrad": "6.946741",
+  "Organisation": "Gesellschaft für Versicherungswissenschaft und -gestaltung e. V.",
+  "OrganisationDisplay": "GVG",
+  "OrganisationId": 26044,
+  "OrganisationKurz": "GVG",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 8561123-22",
+  "Telefon": "+49 30 8561123-20",
+  "locations": [
+    {
+      "Breitengrad": "50.946983",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@gvg.org",
+      "Hauptadresse": "Reinhardtstraße 34",
+      "Internetadresse": "https://gvg.org/",
+      "Land": "DE",
+      "Längengrad": "6.946741",
+      "Organisation": "Gesellschaft für Versicherungswissenschaft und -gestaltung e. V.",
+      "OrganisationDisplay": "GVG",
+      "OrganisationId": 26044,
+      "OrganisationKurz": "GVG",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 8561123-22",
+      "Telefon": "+49 30 8561123-20"
+    }
+  ]
+}

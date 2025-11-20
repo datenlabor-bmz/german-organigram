@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.4191927",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "KdoFJgBwZentralerPosteingang@bundeswehr.org",
+  "Hauptadresse": "Langenforther Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-feldjaeger-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "9.7900387",
+  "Organisation": "Kommando Feldjäger der Bundeswehr",
+  "OrganisationDisplay": "KdoFJgBw",
+  "OrganisationId": 12072080,
+  "OrganisationKurz": "KdoFJgBw",
+  "Ort": "Hannover",
+  "PLZ": 30657,
+  "Ressort": "BMVg",
+  "Telefax": "+49 511 903 3809",
+  "Telefon": "+49 511 903 3804",
+  "locations": [
+    {
+      "Breitengrad": "52.4191927",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "KdoFJgBwZentralerPosteingang@bundeswehr.org",
+      "Hauptadresse": "Langenforther Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-feldjaeger-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "9.7900387",
+      "Organisation": "Kommando Feldjäger der Bundeswehr",
+      "OrganisationDisplay": "KdoFJgBw",
+      "OrganisationId": 12072080,
+      "OrganisationKurz": "KdoFJgBw",
+      "Ort": "Hannover",
+      "PLZ": 30657,
+      "Ressort": "BMVg",
+      "Telefax": "+49 511 903 3809",
+      "Telefon": "+49 511 903 3804"
+    }
+  ]
+}

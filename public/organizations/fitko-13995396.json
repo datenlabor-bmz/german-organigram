@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.10477325",
+  "Bundesland": "Hessen",
+  "E-Mail": "poststelle@fitko.de",
+  "Hauptadresse": "Zum Gottschalkhof 3",
+  "Internetadresse": "https://www.fitko.de/Start",
+  "Land": "DE",
+  "Längengrad": "8.70334564",
+  "Organisation": "FITKO - Föderale IT-Kooperation",
+  "OrganisationDisplay": "FITKO",
+  "OrganisationId": 13995396,
+  "OrganisationKurz": "FITKO",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60594,
+  "Ressort": "BMI",
+  "Telefon": "+49 69 401270-0",
+  "Notiz": "unklar",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.10477325",
+      "Bundesland": "Hessen",
+      "E-Mail": "poststelle@fitko.de",
+      "Hauptadresse": "Zum Gottschalkhof 3",
+      "Internetadresse": "https://www.fitko.de/Start",
+      "Land": "DE",
+      "Längengrad": "8.70334564",
+      "Organisation": "FITKO - Föderale IT-Kooperation",
+      "OrganisationDisplay": "FITKO",
+      "OrganisationId": 13995396,
+      "OrganisationKurz": "FITKO",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60594,
+      "Ressort": "BMI",
+      "Telefon": "+49 69 401270-0",
+      "Notiz": "unklar",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "Hauptadresse": "Leipziger Straße 3 - 4",
+  "Internetadresse": "https://www.bundesrat.de/DE/bundesrat/sekretariat/sekretariat-node.html",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Sekretariat des Bundesrates",
+  "OrganisationDisplay": "Sekretariat des Bundesrates",
+  "OrganisationId": 18000594,
+  "Ort": "Berlin",
+  "PLZ": 11055,
+  "Telefon": "+49 30 189100-0",
+  "Kategorie": "Oberste Bundesbehörde",
+  "Ressort": "ORG_18000594",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "Hauptadresse": "Leipziger Straße 3 - 4",
+      "Internetadresse": "https://www.bundesrat.de/DE/bundesrat/sekretariat/sekretariat-node.html",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Sekretariat des Bundesrates",
+      "OrganisationDisplay": "Sekretariat des Bundesrates",
+      "OrganisationId": 18000594,
+      "Ort": "Berlin",
+      "PLZ": 11055,
+      "Telefon": "+49 30 189100-0",
+      "Kategorie": "Oberste Bundesbehörde",
+      "Ressort": "ORG_18000594"
+    }
+  ]
+}

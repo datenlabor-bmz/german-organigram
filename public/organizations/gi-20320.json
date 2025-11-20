@@ -1,0 +1,930 @@
+{
+  "Breitengrad": "48.162815",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@goethe.de",
+  "Hauptadresse": "Oskar-von-Miller-Ring 18",
+  "Internetadresse": "https://www.goethe.de/de/index.html",
+  "Land": "DE",
+  "Längengrad": "11.542556",
+  "Organisation": "Goethe-Institut e. V.",
+  "OrganisationDisplay": "GI",
+  "OrganisationId": 20320,
+  "OrganisationKurz": "GI",
+  "Ort": "München",
+  "PLZ": 80333,
+  "Ressort": "AA",
+  "Telefax": "+49 89 15921-450",
+  "Telefon": "+49 89 15921-0",
+  "Kategorie": "Unklar",
+  "Notiz": "Zusammenarbeit, Bund ist größter Geldgeber",
+  "Wikidata ID": "Q60168804",
+  "locations": [
+    {
+      "Breitengrad": "48.162815",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@goethe.de",
+      "Hauptadresse": "Oskar-von-Miller-Ring 18",
+      "Internetadresse": "https://www.goethe.de/de/index.html",
+      "Land": "DE",
+      "Längengrad": "11.542556",
+      "Organisation": "Goethe-Institut e. V.",
+      "OrganisationDisplay": "GI",
+      "OrganisationId": 20320,
+      "OrganisationKurz": "GI",
+      "Ort": "München",
+      "PLZ": 80333,
+      "Ressort": "AA",
+      "Telefax": "+49 89 15921-450",
+      "Telefon": "+49 89 15921-0",
+      "Kategorie": "Unklar",
+      "Notiz": "Zusammenarbeit, Bund ist größter Geldgeber",
+      "Wikidata ID": "Q60168804"
+    },
+    {
+      "Adresse": "Neue Schönhauser Straße 20",
+      "Bundesland": "Berlin",
+      "E-Mail": "hauptstadtbuero@goethe.de",
+      "Internetadresse": "https://www.goethe.de/de/index.html",
+      "Land": "DE",
+      "Liegenschaft": "Hauptstadtbüro Berlin",
+      "LiegenschaftsId": 20314,
+      "OrganisationId": 20320,
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefax": "+49 30 25906-565",
+      "Telefon": "+49 30 25906-473"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q60168804",
+    "data": {
+      "type": "item",
+      "id": "Q60168804",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Goethe-Institut e. V. Zentrale"
+        },
+        "en": {
+          "language": "en",
+          "value": "Goethe-Institut Central Office Munich"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "central office of the Goethe-Institute"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "3556761eccdcff16e75149028d9d3e25fd4d0c48",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1021645,
+                  "id": "Q1021645"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$e92f74b6-4774-30be-bfc1-36d04e68aef0",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "20b3c9267c82af90c6e03e3b112a810207b32cc0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 43229,
+                  "id": "Q43229"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$ae1634b8-4c9f-9e2a-4aed-15bdb90bbc60",
+            "rank": "normal"
+          }
+        ],
+        "P1889": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1889",
+              "hash": "3a7dcb2b016853b09c24ae50d0a9e02698fa22f6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 58030857,
+                  "id": "Q58030857"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$f4b746e0-41ec-94c2-afd5-14f87855ef0a",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "0d1e66abdb1f818fd47f4b5d62a98a22e455a9dd",
+              "datavalue": {
+                "value": "https://www.goethe.de/de/wwt/zen.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q60168804$eed95f03-4bd6-5d17-8aa8-b95307283ad2",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$e78dd870-4dbe-7694-d285-1af7e03d38c8",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "07b5cf0028eb9dcc65e34e0a6758463bfac3113d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 28739112,
+                  "id": "Q28739112"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$574c7403-4e2c-23cb-fc92-d255e1dabfce",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "759daad6dc8e4b16a8aaf318fef9401633a6247d",
+              "datavalue": {
+                "value": {
+                  "time": "+1951-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q60168804$891fdaf9-462a-ffde-3574-2ebe6bd9b789",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "543bc5e91e7364a303f49b1f4b84ef9e62ce88fc",
+              "datavalue": {
+                "value": "Goethe-Institut Central Office Munich",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q60168804$fcf6aa92-43c7-7a44-994b-02ce3c03160a",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "9af30945fc2a7be6a22f576422ef8a998001d228",
+              "datavalue": {
+                "value": "Oskar-von-Miller-Ring 18 9632.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q60168804$77cea056-44eb-e77e-2374-7875e1008e94",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "novalue",
+              "property": "P227",
+              "hash": "4ac19b6c4c03e0318c61951edfa756943e538de3",
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q60168804$01d21f33-4af5-2d9f-f943-b7bd39e76b01",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3389e740b8ad78339ed3c4b870a8d649e78c837b",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "853780c2dc7290295e26a947501512db46460d06",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-04-16T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "cd84a48f1c46005c51d69a66833892ebaeb14583",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1726,
+                  "id": "Q1726"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$39d43f66-475a-0290-2c9b-9b9dca84a74d",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "b0320a0922a0b292b7591629ce6d84adc0ba659d",
+              "datavalue": {
+                "value": {
+                  "latitude": 48.14485277777778,
+                  "longitude": 11.575108333333333,
+                  "altitude": null,
+                  "precision": 2.777777777777778e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e13675b94117665a19e256aec91c44ba7f22803d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-06-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q60168804$9741610b-49b3-150d-c850-ebd01ac47b9a",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "c8ae6a1204faad0be80eb51610d567cb5916ec11",
+              "datavalue": {
+                "value": {
+                  "latitude": 48.16215,
+                  "longitude": 11.544913888888889,
+                  "altitude": null,
+                  "precision": 2.777777777777778e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "93428e2ccdabf31afed9908835496744f80a7266",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-06-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "0aeab9e143c5db97d70edf13eadfbcd2920bb5db",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1993-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582",
+              "P580"
+            ],
+            "id": "Q60168804$f67c74ef-49b6-3159-316b-173b41903900",
+            "rank": "deprecated"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "c4482802014b87ed6765749e180e8ee9de069c99",
+              "datavalue": {
+                "value": {
+                  "latitude": 48.141194444444444,
+                  "longitude": 11.568166666666666,
+                  "altitude": null,
+                  "precision": 2.777777777777778e-05,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "923f84fcbf398253e1ef1a8a13f1da430b87d7bb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1959-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "f294fe6f57dc4483e9ec87952f3f7a3e925c9d7a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1992-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q60168804$3527c51f-40e7-1e30-2f5a-776fa8a19ef3",
+            "rank": "deprecated"
+          }
+        ],
+        "P6375": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "d833516be9ba0c40e22f5d58037ab90888790fc6",
+              "datavalue": {
+                "value": {
+                  "text": "Oskar-von-Miller-Ring 18",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e13675b94117665a19e256aec91c44ba7f22803d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-06-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q60168804$444c1c8f-480b-22a8-023e-1c60ac0e6862",
+            "rank": "preferred",
+            "references": [
+              {
+                "hash": "fcf5f3a8a3d565d7b3ac8891fe4e867757c8cc7f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "135f72aec68e84bc2753919b6591e5e3e4cb1bd6",
+                      "datavalue": {
+                        "value": "https://www.goethe.de/de/uun/prs/pma/p18/21338549.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "3313e416c5cab94b9610a6b0d8449c016af53f3d",
+              "datavalue": {
+                "value": {
+                  "text": "Dachauer Straße 122",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "0aeab9e143c5db97d70edf13eadfbcd2920bb5db",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1993-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "93428e2ccdabf31afed9908835496744f80a7266",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-06-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P2241": [
+                {
+                  "snaktype": "value",
+                  "property": "P2241",
+                  "hash": "eb168a07e442104505c6de9d49e24b54b56904f5",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2918584,
+                      "id": "Q2918584"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582",
+              "P2241"
+            ],
+            "id": "Q60168804$3dacc214-40c7-f688-07b9-739fa26a381b",
+            "rank": "deprecated",
+            "references": [
+              {
+                "hash": "ded810fbb00b74067503aca7be16e362daab86e5",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "135f72aec68e84bc2753919b6591e5e3e4cb1bd6",
+                      "datavalue": {
+                        "value": "https://www.goethe.de/de/uun/prs/pma/p18/21338549.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "7487e87076544e235994355889386981533eb289",
+                      "datavalue": {
+                        "value": {
+                          "text": "Zentrale des Goethe-Instituts zieht in die Münchner Innenstadt - 2018 - Goethe-Institut",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d6b8e0180ef89d0082a7f2c8b837c342a6288c3f",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2023-10-29T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "e816d0565268b75c9a94b922501089f9ad0c9df3",
+              "datavalue": {
+                "value": {
+                  "text": "Lenbachplatz 3",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "923f84fcbf398253e1ef1a8a13f1da430b87d7bb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1959-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "f294fe6f57dc4483e9ec87952f3f7a3e925c9d7a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1992-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P2241": [
+                {
+                  "snaktype": "value",
+                  "property": "P2241",
+                  "hash": "eb168a07e442104505c6de9d49e24b54b56904f5",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 2918584,
+                      "id": "Q2918584"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582",
+              "P2241"
+            ],
+            "id": "Q60168804$c83aa540-413a-6746-cd81-5b4eece45ce4",
+            "rank": "deprecated"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "f529b6963361c63e9ce9f24ac0f2db60d8aae2d2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 157033,
+                  "id": "Q157033"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q60168804$72e537be-440a-bc8f-5615-ffe19259ef3a",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Goethe-Institut Central Office Munich",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q28739112": {
+        "type": "item",
+        "id": "Q28739112",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Goethe-Institut e. V. Zentrale, Bibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "Goethe-Institut Central Office Munich, library"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "wissenschaftliche Spezialbibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "special library"
+          }
+        }
+      },
+      "Q43229": {
+        "type": "item",
+        "id": "Q43229",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Organisation"
+          },
+          "en": {
+            "language": "en",
+            "value": "organization"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "soziale Struktur mit einem gemeinsamen Ziel"
+          },
+          "en": {
+            "language": "en",
+            "value": "social entity established to meet needs or pursue goals"
+          }
+        }
+      },
+      "Q157033": {
+        "type": "item",
+        "id": "Q157033",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Goethe-Institut"
+          },
+          "en": {
+            "language": "en",
+            "value": "Goethe-Institut"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "gemeinnütziger Verein zur Förderung der deutschen Sprache im Ausland und der internationalen kulturellen Zusammenarbeit"
+          },
+          "en": {
+            "language": "en",
+            "value": "non-profit association of the Federal Republic of Germany for the promotion of the German language abroad and for global cultural exchange"
+          }
+        }
+      },
+      "Q1021645": {
+        "type": "item",
+        "id": "Q1021645",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bürogebäude"
+          },
+          "en": {
+            "language": "en",
+            "value": "office building"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Gebäudetyp"
+          },
+          "en": {
+            "language": "en",
+            "value": "building which contains spaces mainly designed to be used for offices"
+          }
+        }
+      }
+    }
+  }
+}

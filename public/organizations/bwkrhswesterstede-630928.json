@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.2589459",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwkrhsWesterstede@bundeswehr.org",
+  "Hauptadresse": "Lange Straße 38",
+  "Internetadresse": "https://westerstede.bwkrankenhaus.de/startseite.html",
+  "Land": "DE",
+  "Längengrad": "7.9175364",
+  "Organisation": "Bundeswehrkrankenhaus Westerstede",
+  "OrganisationDisplay": "BwKrhsWesterstede ",
+  "OrganisationId": 630928,
+  "OrganisationKurz": "BwKrhsWesterstede ",
+  "Ort": "Westerstede",
+  "PLZ": 26655,
+  "Ressort": "BMVg",
+  "Telefon": "+49 4488 50-0",
+  "locations": [
+    {
+      "Breitengrad": "53.2589459",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwkrhsWesterstede@bundeswehr.org",
+      "Hauptadresse": "Lange Straße 38",
+      "Internetadresse": "https://westerstede.bwkrankenhaus.de/startseite.html",
+      "Land": "DE",
+      "Längengrad": "7.9175364",
+      "Organisation": "Bundeswehrkrankenhaus Westerstede",
+      "OrganisationDisplay": "BwKrhsWesterstede ",
+      "OrganisationId": 630928,
+      "OrganisationKurz": "BwKrhsWesterstede ",
+      "Ort": "Westerstede",
+      "PLZ": 26655,
+      "Ressort": "BMVg",
+      "Telefon": "+49 4488 50-0"
+    }
+  ]
+}

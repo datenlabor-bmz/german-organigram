@@ -1,0 +1,48 @@
+{
+  "Breitengrad": "52.516158",
+  "Bundesland": "Berlin",
+  "E-Mail": "bundespraesidialamt@bpra.bund.de",
+  "Hauptadresse": "Spreeweg 1",
+  "Internetadresse": "https://www.bundespraesident.de/DE/startseite/startseite_node.html",
+  "Land": "DE",
+  "Längengrad": "13.352506",
+  "Organisation": "Bundespräsident",
+  "OrganisationDisplay": "BPr",
+  "OrganisationId": 20114,
+  "OrganisationKurz": "BPr",
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Telefon": "+49 30 2000-0",
+  "locations": [
+    {
+      "Breitengrad": "52.516158",
+      "Bundesland": "Berlin",
+      "E-Mail": "bundespraesidialamt@bpra.bund.de",
+      "Hauptadresse": "Spreeweg 1",
+      "Internetadresse": "https://www.bundespraesident.de/DE/startseite/startseite_node.html",
+      "Land": "DE",
+      "Längengrad": "13.352506",
+      "Organisation": "Bundespräsident",
+      "OrganisationDisplay": "BPr",
+      "OrganisationId": 20114,
+      "OrganisationKurz": "BPr",
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Telefon": "+49 30 2000-0"
+    },
+    {
+      "Adresse": "Adenauerallee 135",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bpra.bund.de",
+      "Internetadresse": "https://www.bundespraesident.de/DE/startseite/startseite_node.html",
+      "Land": "DE",
+      "Liegenschaft": "Amtssitz Villa Hammerschmidt",
+      "LiegenschaftsId": 20100,
+      "OrganisationId": 20114,
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 228 200-1999",
+      "Telefon": "+49 228 200-0"
+    }
+  ]
+}

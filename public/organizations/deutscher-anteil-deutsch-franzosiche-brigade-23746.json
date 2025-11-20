@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "47.816553",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "presse@df-brigade.de",
+  "Hauptadresse": "Kinzigstraße 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/10-panzerdivision/deutsch-franzoesische-brigade",
+  "Land": "DE",
+  "Längengrad": "7.615301",
+  "Organisation": "Deutscher Anteil Deutsch-Französiche Brigade",
+  "OrganisationDisplay": "DFB",
+  "OrganisationId": 23746,
+  "Ort": "Müllheim im Markgräferland",
+  "PLZ": 79379,
+  "Ressort": "BMVg",
+  "Telefon": "+49 7631 90-2100",
+  "locations": [
+    {
+      "Breitengrad": "47.816553",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "presse@df-brigade.de",
+      "Hauptadresse": "Kinzigstraße 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/10-panzerdivision/deutsch-franzoesische-brigade",
+      "Land": "DE",
+      "Längengrad": "7.615301",
+      "Organisation": "Deutscher Anteil Deutsch-Französiche Brigade",
+      "OrganisationDisplay": "DFB",
+      "OrganisationId": 23746,
+      "Ort": "Müllheim im Markgräferland",
+      "PLZ": 79379,
+      "Ressort": "BMVg",
+      "Telefon": "+49 7631 90-2100"
+    }
+  ]
+}

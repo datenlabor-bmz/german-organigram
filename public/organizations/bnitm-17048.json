@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.547089",
+  "Bundesland": "Hamburg",
+  "E-Mail": "bni@bnitm.de",
+  "Hauptadresse": "Bernhard-Nocht-Straße 74",
+  "Internetadresse": "https://www.bnitm.de",
+  "Land": "DE",
+  "Längengrad": "9.964492",
+  "Organisation": "Bernhard-Nocht-Institut für Tropenmedizin",
+  "OrganisationDisplay": "BNITM",
+  "OrganisationId": 17048,
+  "OrganisationKurz": "BNITM",
+  "Ort": "Hamburg",
+  "PLZ": 20359,
+  "Ressort": "BMG",
+  "Telefax": "+49 40 42818-400",
+  "Telefon": "+49 40 42818-0",
+  "locations": [
+    {
+      "Breitengrad": "53.547089",
+      "Bundesland": "Hamburg",
+      "E-Mail": "bni@bnitm.de",
+      "Hauptadresse": "Bernhard-Nocht-Straße 74",
+      "Internetadresse": "https://www.bnitm.de",
+      "Land": "DE",
+      "Längengrad": "9.964492",
+      "Organisation": "Bernhard-Nocht-Institut für Tropenmedizin",
+      "OrganisationDisplay": "BNITM",
+      "OrganisationId": 17048,
+      "OrganisationKurz": "BNITM",
+      "Ort": "Hamburg",
+      "PLZ": 20359,
+      "Ressort": "BMG",
+      "Telefax": "+49 40 42818-400",
+      "Telefon": "+49 40 42818-0"
+    }
+  ]
+}

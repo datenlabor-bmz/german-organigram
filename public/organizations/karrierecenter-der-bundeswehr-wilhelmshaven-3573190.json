@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.542251",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BewerbungenWilhelmshaven@bundeswehr.org",
+  "Hauptadresse": "Opdenhoffstr. 63",
+  "Internetadresse": "https://www.bundeswehrkarriere.de/",
+  "Land": "DE",
+  "Längengrad": "8.16194",
+  "Organisation": "Karrierecenter der Bundeswehr Wilhelmshaven",
+  "OrganisationDisplay": "Karrierecenter Bw Wilhelmshv.",
+  "OrganisationId": 3573190,
+  "Ort": "Wilhelmshaven",
+  "PLZ": 26384,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4421 6862-836",
+  "Telefon": "+49 4421 68-62821",
+  "locations": [
+    {
+      "Breitengrad": "53.542251",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BewerbungenWilhelmshaven@bundeswehr.org",
+      "Hauptadresse": "Opdenhoffstr. 63",
+      "Internetadresse": "https://www.bundeswehrkarriere.de/",
+      "Land": "DE",
+      "Längengrad": "8.16194",
+      "Organisation": "Karrierecenter der Bundeswehr Wilhelmshaven",
+      "OrganisationDisplay": "Karrierecenter Bw Wilhelmshv.",
+      "OrganisationId": 3573190,
+      "Ort": "Wilhelmshaven",
+      "PLZ": 26384,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4421 6862-836",
+      "Telefon": "+49 4421 68-62821"
+    }
+  ]
+}

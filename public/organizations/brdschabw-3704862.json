@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "47.50595",
+  "Bundesland": "Bayern",
+  "E-Mail": "ZBrdSchBwPosteingang@bundeswehr.org",
+  "Hauptadresse": "Hofener Straße 16",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/zentrum-brandschutz-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "10.28408",
+  "Organisation": "Brandschutzamt der Bundeswehr",
+  "OrganisationDisplay": "BrdSchABw",
+  "OrganisationId": 3704862,
+  "OrganisationKurz": "BrdSchABw",
+  "Ort": "Sonthofen",
+  "PLZ": 87527,
+  "Ressort": "BMVg",
+  "Telefax": "+49 8321 6755-2111",
+  "Telefon": "+49 8321 6755-2001",
+  "locations": [
+    {
+      "Breitengrad": "47.50595",
+      "Bundesland": "Bayern",
+      "E-Mail": "ZBrdSchBwPosteingang@bundeswehr.org",
+      "Hauptadresse": "Hofener Straße 16",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/zentrum-brandschutz-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "10.28408",
+      "Organisation": "Brandschutzamt der Bundeswehr",
+      "OrganisationDisplay": "BrdSchABw",
+      "OrganisationId": 3704862,
+      "OrganisationKurz": "BrdSchABw",
+      "Ort": "Sonthofen",
+      "PLZ": 87527,
+      "Ressort": "BMVg",
+      "Telefax": "+49 8321 6755-2111",
+      "Telefon": "+49 8321 6755-2001"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.513252",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@bmbfsfjservice.bund.de",
+  "Hauptadresse": "Glinkastraße 24",
+  "Internetadresse": "https://www.bmbfsfj.bund.de/bmbfsfj/ministerium/behoerden-beauftragte-beiraete-gremien/beauftragte-der-bundesregierung-fuer-die-akzeptanz-sexueller-und-geschlechtlicher-vielfalt",
+  "Land": "DE",
+  "Längengrad": "13.386427",
+  "Organisation": "Beauftragte der Bundesregierung für die Akzeptanz sexueller und geschlechtlicher Vielfalt (Queerbeauftragter)",
+  "OrganisationDisplay": "Queerbeauftragter",
+  "OrganisationId": 17434366,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMBFSFJ",
+  "Telefon": "+49 30 201 791 30",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.513252",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@bmbfsfjservice.bund.de",
+      "Hauptadresse": "Glinkastraße 24",
+      "Internetadresse": "https://www.bmbfsfj.bund.de/bmbfsfj/ministerium/behoerden-beauftragte-beiraete-gremien/beauftragte-der-bundesregierung-fuer-die-akzeptanz-sexueller-und-geschlechtlicher-vielfalt",
+      "Land": "DE",
+      "Längengrad": "13.386427",
+      "Organisation": "Beauftragte der Bundesregierung für die Akzeptanz sexueller und geschlechtlicher Vielfalt (Queerbeauftragter)",
+      "OrganisationDisplay": "Queerbeauftragter",
+      "OrganisationId": 17434366,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMBFSFJ",
+      "Telefon": "+49 30 201 791 30",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

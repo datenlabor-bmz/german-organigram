@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.367331",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle.hza-augsburg@zoll.bund.de",
+  "Hauptadresse": "Prinzregentenplatz 3",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "10.889712",
+  "Organisation": "Hauptzollamt Augsburg",
+  "OrganisationDisplay": "HZA Augsburg",
+  "OrganisationId": 25792,
+  "OrganisationKurz": "HZA Augsburg",
+  "Ort": "Augsburg",
+  "PLZ": 86150,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-98150",
+  "Telefon": "+49 821 5012-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "48.367331",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle.hza-augsburg@zoll.bund.de",
+      "Hauptadresse": "Prinzregentenplatz 3",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "10.889712",
+      "Organisation": "Hauptzollamt Augsburg",
+      "OrganisationDisplay": "HZA Augsburg",
+      "OrganisationId": 25792,
+      "OrganisationKurz": "HZA Augsburg",
+      "Ort": "Augsburg",
+      "PLZ": 86150,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-98150",
+      "Telefon": "+49 821 5012-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.8138743",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@enas.fraunhofer.de",
+  "Hauptadresse": "Technologie-Campus 3",
+  "Internetadresse": "https://www.enas.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "12.930437",
+  "Organisation": "Fraunhofer-Einrichtung für Elektronische Nanosysteme",
+  "OrganisationDisplay": "ENAS",
+  "OrganisationId": 451156,
+  "OrganisationKurz": "ENAS",
+  "Ort": "Chemnitz",
+  "PLZ": 9126,
+  "Telefon": "+49 371 45001-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.8138743",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@enas.fraunhofer.de",
+      "Hauptadresse": "Technologie-Campus 3",
+      "Internetadresse": "https://www.enas.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "12.930437",
+      "Organisation": "Fraunhofer-Einrichtung für Elektronische Nanosysteme",
+      "OrganisationDisplay": "ENAS",
+      "OrganisationId": 451156,
+      "OrganisationKurz": "ENAS",
+      "Ort": "Chemnitz",
+      "PLZ": 9126,
+      "Telefon": "+49 371 45001-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

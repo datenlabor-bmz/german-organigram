@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.9511618",
+  "Bundesland": "Thüringen",
+  "E-Mail": "poststelle.hza-erfurt@zoll.bund.de",
+  "Hauptadresse": "Am Tannenwäldchen 50",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "11.0456889",
+  "Organisation": "Hauptzollamt Erfurt",
+  "OrganisationDisplay": "HZA Erfurt",
+  "OrganisationId": 432814,
+  "OrganisationKurz": "HZA Erfurt",
+  "Ort": "Erfurt",
+  "PLZ": 99096,
+  "Ressort": "BMF",
+  "Telefax": "+49 361 60176-910",
+  "Telefon": "+49 361 60176-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "50.9511618",
+      "Bundesland": "Thüringen",
+      "E-Mail": "poststelle.hza-erfurt@zoll.bund.de",
+      "Hauptadresse": "Am Tannenwäldchen 50",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "11.0456889",
+      "Organisation": "Hauptzollamt Erfurt",
+      "OrganisationDisplay": "HZA Erfurt",
+      "OrganisationId": 432814,
+      "OrganisationKurz": "HZA Erfurt",
+      "Ort": "Erfurt",
+      "PLZ": 99096,
+      "Ressort": "BMF",
+      "Telefax": "+49 361 60176-910",
+      "Telefon": "+49 361 60176-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

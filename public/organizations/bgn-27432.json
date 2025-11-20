@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.475286",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@bgn.de",
+  "Hauptadresse": "Dynamostraße 7 - 11",
+  "Internetadresse": "https://www.bgn.de",
+  "Land": "DE",
+  "Längengrad": "8.492573",
+  "Organisation": "Berufsgenossenschaft Nahrungsmittel und Gastgewerbe",
+  "OrganisationDisplay": "BGN",
+  "OrganisationId": 27432,
+  "OrganisationKurz": "BGN",
+  "Ort": "Mannheim",
+  "PLZ": 68165,
+  "Ressort": "BMAS",
+  "Telefax": "+49 800 1977553-10200",
+  "Telefon": "+49 621 4456-0",
+  "locations": [
+    {
+      "Breitengrad": "49.475286",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@bgn.de",
+      "Hauptadresse": "Dynamostraße 7 - 11",
+      "Internetadresse": "https://www.bgn.de",
+      "Land": "DE",
+      "Längengrad": "8.492573",
+      "Organisation": "Berufsgenossenschaft Nahrungsmittel und Gastgewerbe",
+      "OrganisationDisplay": "BGN",
+      "OrganisationId": 27432,
+      "OrganisationKurz": "BGN",
+      "Ort": "Mannheim",
+      "PLZ": 68165,
+      "Ressort": "BMAS",
+      "Telefax": "+49 800 1977553-10200",
+      "Telefon": "+49 621 4456-0"
+    }
+  ]
+}

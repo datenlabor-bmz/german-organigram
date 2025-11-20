@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5234141",
+  "Bundesland": "Berlin",
+  "Hauptadresse": "Pascalstraße 8-9",
+  "Internetadresse": "https://www.ipk.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.3229751",
+  "Organisation": "Fraunhofer-Institut für Produktionsanlagen und Konstruktionstechnik",
+  "OrganisationDisplay": "IPK",
+  "OrganisationId": 561002,
+  "OrganisationKurz": "IPK",
+  "Ort": "Berlin",
+  "PLZ": 10587,
+  "Telefax": "+49 30 39110-37",
+  "Telefon": "+49 30 39006-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5234141",
+      "Bundesland": "Berlin",
+      "Hauptadresse": "Pascalstraße 8-9",
+      "Internetadresse": "https://www.ipk.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.3229751",
+      "Organisation": "Fraunhofer-Institut für Produktionsanlagen und Konstruktionstechnik",
+      "OrganisationDisplay": "IPK",
+      "OrganisationId": 561002,
+      "OrganisationKurz": "IPK",
+      "Ort": "Berlin",
+      "PLZ": 10587,
+      "Telefax": "+49 30 39110-37",
+      "Telefon": "+49 30 39006-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

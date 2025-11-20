@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.65515",
+  "Bundesland": "Schleswig-Holstein",
+  "Hauptadresse": "Hauptstraße 141",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/unteroffizierschule-der-luftwaffe",
+  "Land": "DE",
+  "Längengrad": "9.70909",
+  "Organisation": "Unteroffizierschule der Luftwaffe",
+  "OrganisationDisplay": "USLw",
+  "OrganisationId": 650950,
+  "OrganisationKurz": "USLw",
+  "Ort": "Appen",
+  "PLZ": 25482,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4122 986-2109",
+  "Telefon": "+49 4122 986-2140",
+  "locations": [
+    {
+      "Breitengrad": "53.65515",
+      "Bundesland": "Schleswig-Holstein",
+      "Hauptadresse": "Hauptstraße 141",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/unteroffizierschule-der-luftwaffe",
+      "Land": "DE",
+      "Längengrad": "9.70909",
+      "Organisation": "Unteroffizierschule der Luftwaffe",
+      "OrganisationDisplay": "USLw",
+      "OrganisationId": 650950,
+      "OrganisationKurz": "USLw",
+      "Ort": "Appen",
+      "PLZ": 25482,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4122 986-2109",
+      "Telefon": "+49 4122 986-2140"
+    }
+  ]
+}

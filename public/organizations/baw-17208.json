@@ -1,0 +1,50 @@
+{
+  "Breitengrad": "49.019056",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@baw.de",
+  "Hauptadresse": "Kußmaulstraße 17",
+  "Internetadresse": "https://www.baw.de/de/home/home.html",
+  "Land": "DE",
+  "Längengrad": "8.37097",
+  "Organisation": "Bundesanstalt für Wasserbau",
+  "OrganisationDisplay": "BAW",
+  "OrganisationId": 17208,
+  "OrganisationKurz": "BAW",
+  "Ort": "Karlsruhe",
+  "PLZ": 76187,
+  "Ressort": "BMV",
+  "Telefon": "+49 721 9726-0",
+  "locations": [
+    {
+      "Breitengrad": "49.019056",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@baw.de",
+      "Hauptadresse": "Kußmaulstraße 17",
+      "Internetadresse": "https://www.baw.de/de/home/home.html",
+      "Land": "DE",
+      "Längengrad": "8.37097",
+      "Organisation": "Bundesanstalt für Wasserbau",
+      "OrganisationDisplay": "BAW",
+      "OrganisationId": 17208,
+      "OrganisationKurz": "BAW",
+      "Ort": "Karlsruhe",
+      "PLZ": 76187,
+      "Ressort": "BMV",
+      "Telefon": "+49 721 9726-0"
+    },
+    {
+      "Adresse": "Wedeler Landstraße 157",
+      "Bundesland": "Hamburg",
+      "E-Mail": "info.hamburg@baw.de",
+      "Internetadresse": "https://www.baw.de/de/home/home.html",
+      "Land": "DE",
+      "Liegenschaft": "Dienststelle Hamburg",
+      "LiegenschaftsId": 17200,
+      "OrganisationId": 17208,
+      "Ort": "Hamburg",
+      "PLZ": 22559,
+      "Telefax": "+49 40 81908-373",
+      "Telefon": "+49 40 81908-0"
+    }
+  ]
+}

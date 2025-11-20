@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5234247",
+  "Bundesland": "Berlin",
+  "E-Mail": "wbgu@wbgu.de",
+  "Hauptadresse": "Luisenstrasse 46",
+  "Internetadresse": "https://www.wbgu.de/de/",
+  "Land": "DE",
+  "Längengrad": "13.3797043",
+  "Organisation": "Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen",
+  "OrganisationDisplay": "WBGU",
+  "OrganisationId": 23960,
+  "OrganisationKurz": "WBGU",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMUKN",
+  "Telefax": "+49 30 263948-50",
+  "Telefon": "+49 30 263948-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5234247",
+      "Bundesland": "Berlin",
+      "E-Mail": "wbgu@wbgu.de",
+      "Hauptadresse": "Luisenstrasse 46",
+      "Internetadresse": "https://www.wbgu.de/de/",
+      "Land": "DE",
+      "Längengrad": "13.3797043",
+      "Organisation": "Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen",
+      "OrganisationDisplay": "WBGU",
+      "OrganisationId": 23960,
+      "OrganisationKurz": "WBGU",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMUKN",
+      "Telefax": "+49 30 263948-50",
+      "Telefon": "+49 30 263948-0"
+    }
+  ]
+}

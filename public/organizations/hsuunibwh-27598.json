@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.5684656",
+  "Bundesland": "Hamburg",
+  "E-Mail": "pressestelle@hsu-hh.de",
+  "Hauptadresse": "Holstenhofweg 85",
+  "Internetadresse": "https://www.hsu-hh.de/hsu/index.php",
+  "Land": "DE",
+  "Längengrad": "10.1073517",
+  "Organisation": "Helmut-Schmidt-Universität Universität der Bundeswehr Hamburg",
+  "OrganisationDisplay": "HSU/UniBwH",
+  "OrganisationId": 27598,
+  "OrganisationKurz": "HSU/UniBwH",
+  "Ort": "Hamburg",
+  "PLZ": 22043,
+  "Ressort": "BMVg",
+  "Telefax": "+49 40 6541-2869",
+  "Telefon": "+49 40 6541-1",
+  "locations": [
+    {
+      "Breitengrad": "53.5684656",
+      "Bundesland": "Hamburg",
+      "E-Mail": "pressestelle@hsu-hh.de",
+      "Hauptadresse": "Holstenhofweg 85",
+      "Internetadresse": "https://www.hsu-hh.de/hsu/index.php",
+      "Land": "DE",
+      "Längengrad": "10.1073517",
+      "Organisation": "Helmut-Schmidt-Universität Universität der Bundeswehr Hamburg",
+      "OrganisationDisplay": "HSU/UniBwH",
+      "OrganisationId": 27598,
+      "OrganisationKurz": "HSU/UniBwH",
+      "Ort": "Hamburg",
+      "PLZ": 22043,
+      "Ressort": "BMVg",
+      "Telefax": "+49 40 6541-2869",
+      "Telefon": "+49 40 6541-1"
+    }
+  ]
+}

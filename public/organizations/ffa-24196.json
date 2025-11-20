@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.523461",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@ffa.de",
+  "Hauptadresse": "Große Präsidentenstraße 9",
+  "Internetadresse": "https://www.ffa.de",
+  "Land": "DE",
+  "Längengrad": "13.40129",
+  "Organisation": "Filmförderungsanstalt",
+  "OrganisationDisplay": "FFA",
+  "OrganisationId": 24196,
+  "OrganisationKurz": "FFA",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Telefax": "+49 30 27577-111",
+  "Telefon": "+49 30 27577-0",
+  "locations": [
+    {
+      "Breitengrad": "52.523461",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@ffa.de",
+      "Hauptadresse": "Große Präsidentenstraße 9",
+      "Internetadresse": "https://www.ffa.de",
+      "Land": "DE",
+      "Längengrad": "13.40129",
+      "Organisation": "Filmförderungsanstalt",
+      "OrganisationDisplay": "FFA",
+      "OrganisationId": 24196,
+      "OrganisationKurz": "FFA",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefax": "+49 30 27577-111",
+      "Telefon": "+49 30 27577-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.3511528",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "Poststelle@bundesarchiv.de",
+  "Hauptadresse": "Potsdamer Straße 1",
+  "Land": "DE",
+  "Längengrad": "7.5951959",
+  "Organisation": "Bundesamt für Äußere Restitutionen",
+  "OrganisationDisplay": "BAR",
+  "OrganisationId": 299124,
+  "OrganisationKurz": "BAR",
+  "Ort": "Koblenz",
+  "PLZ": 56075,
+  "Ressort": "BKM",
+  "Telefax": "+49 261 505-226",
+  "Telefon": "+49 261 505-0",
+  "locations": [
+    {
+      "Breitengrad": "50.3511528",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "Poststelle@bundesarchiv.de",
+      "Hauptadresse": "Potsdamer Straße 1",
+      "Land": "DE",
+      "Längengrad": "7.5951959",
+      "Organisation": "Bundesamt für Äußere Restitutionen",
+      "OrganisationDisplay": "BAR",
+      "OrganisationId": 299124,
+      "OrganisationKurz": "BAR",
+      "Ort": "Koblenz",
+      "PLZ": 56075,
+      "Ressort": "BKM",
+      "Telefax": "+49 261 505-226",
+      "Telefon": "+49 261 505-0"
+    }
+  ]
+}

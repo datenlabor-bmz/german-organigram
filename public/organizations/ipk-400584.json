@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.8266948",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "info@ipk-gatersleben.de",
+  "Hauptadresse": "Corrensstraße 3",
+  "Internetadresse": "https://www.ipk-gatersleben.de",
+  "Land": "DE",
+  "Längengrad": "11.2799722",
+  "Organisation": "Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung",
+  "OrganisationDisplay": "IPK",
+  "OrganisationId": 400584,
+  "OrganisationKurz": "IPK",
+  "Ort": "Gatersleben",
+  "PLZ": 6466,
+  "Telefax": "+49 39482 5-139",
+  "Telefon": "+49 39482 5-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.8266948",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "info@ipk-gatersleben.de",
+      "Hauptadresse": "Corrensstraße 3",
+      "Internetadresse": "https://www.ipk-gatersleben.de",
+      "Land": "DE",
+      "Längengrad": "11.2799722",
+      "Organisation": "Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung",
+      "OrganisationDisplay": "IPK",
+      "OrganisationId": 400584,
+      "OrganisationKurz": "IPK",
+      "Ort": "Gatersleben",
+      "PLZ": 6466,
+      "Telefax": "+49 39482 5-139",
+      "Telefon": "+49 39482 5-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

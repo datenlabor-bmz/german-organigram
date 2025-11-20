@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "52.3878335",
+  "Bundesland": "Niedersachsen",
+  "Hauptadresse": "Nikolai-Fuchs-Straße 1",
+  "Internetadresse": "https://www.item.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "9.799726",
+  "Organisation": "Fraunhofer-Institut für Toxikologie und Experimentelle Medizin",
+  "OrganisationDisplay": "ITEM",
+  "OrganisationId": 569030,
+  "OrganisationKurz": "ITEM",
+  "Ort": "Hannover",
+  "PLZ": 30625,
+  "Telefax": "+49 511 5350-155",
+  "Telefon": "+49 511 5350-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.3878335",
+      "Bundesland": "Niedersachsen",
+      "Hauptadresse": "Nikolai-Fuchs-Straße 1",
+      "Internetadresse": "https://www.item.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "9.799726",
+      "Organisation": "Fraunhofer-Institut für Toxikologie und Experimentelle Medizin",
+      "OrganisationDisplay": "ITEM",
+      "OrganisationId": 569030,
+      "OrganisationKurz": "ITEM",
+      "Ort": "Hannover",
+      "PLZ": 30625,
+      "Telefax": "+49 511 5350-155",
+      "Telefon": "+49 511 5350-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Inhoffenstraße 7",
+      "Bundesland": "Niedersachsen",
+      "Internetadresse": "https://www.item.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Pharmazeutische Biotechnologie",
+      "LiegenschaftsId": 569024,
+      "OrganisationId": 569030,
+      "Ort": "Braunschweig",
+      "PLZ": 38124,
+      "Telefax": "+49 531 6181-6099",
+      "Telefon": "+49 531 6181-6001"
+    }
+  ]
+}

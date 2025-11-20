@@ -1,0 +1,354 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "E-Mail": "STM-EU@diplo.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/deutsch-franzoesische-zusammenarbeit-node",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Beauftragter für die deutsch-französische Zusammenarbeit",
+  "OrganisationDisplay": "Z Frankreich",
+  "OrganisationId": 26170,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 3018 17-52451",
+  "Telefon": "+49 3018 17-2451",
+  "Kategorie": "Beauftragter",
+  "Wikidata ID": "Q29897929",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "E-Mail": "STM-EU@diplo.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/deutsch-franzoesische-zusammenarbeit-node",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Beauftragter für die deutsch-französische Zusammenarbeit",
+      "OrganisationDisplay": "Z Frankreich",
+      "OrganisationId": 26170,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 3018 17-52451",
+      "Telefon": "+49 3018 17-2451",
+      "Kategorie": "Beauftragter",
+      "Wikidata ID": "Q29897929"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q29897929",
+    "data": {
+      "type": "item",
+      "id": "Q29897929",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Beauftragter für die deutsch-französische Zusammenarbeit"
+        },
+        "en": {
+          "language": "en",
+          "value": "Commissioner for Franco-German co-operation"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "im Auswärtigen Amt angesiedeltes Amt"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4164871,
+                  "id": "Q4164871"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q29897929$1c38b117-462e-723d-7abb-b407559261c7",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "4e1f1406f924a397808d570c8e2d912ac60b8848",
+              "datavalue": {
+                "value": "http://www.auswaertiges-amt.de/DE/AAmt/Koordinatoren/D-FRA-Koordinator/D-F-Beauftragter_node.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q29897929$16672412-459b-f009-6fb6-acb0d5b61af3",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "4ed318518969fd479f6586760559dbedfe15f8f7",
+              "datavalue": {
+                "value": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/deutsch-franzoesische-zusammenarbeit-node",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q29897929$1b26808d-4a34-df5a-7c0f-44f34053b345",
+            "rank": "preferred"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "30ed4f5f91d654726cf4d8912cd52b0cced8141f",
+              "datavalue": {
+                "value": "158",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q29897929$AEE78900-C6E8-42D0-901F-903A329A9AEB",
+            "rank": "normal"
+          }
+        ],
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "757fdd6d04dbf016b43e483e763a1b01c31841fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005815,
+                  "id": "Q1005815"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q29897929$64AE7AE5-77E8-498E-A64B-35774281D30C",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q29897929$D56BFB12-D47A-4547-8C10-A8792FCAA35C",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "4bd8cc9a149214374dc8bb7e879738174f046596",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 567497,
+                  "id": "Q567497"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q29897929$c4c3fd4c-47ba-a1fa-1f80-e8930ae51b08",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "00656850f598fade86c0a8c2b000fb9c315a5bf7",
+              "datavalue": {
+                "value": "/g/11c6w0051w",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q29897929$B9ED18CC-E3F1-4639-B54F-8FF1AE1A5E95",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q29897929$5c517b08-473c-82ce-661d-98aa2b006d9d",
+            "rank": "normal"
+          }
+        ],
+        "P2521": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2521",
+              "hash": "a6b23e1f1d625f80424eb0ab2e083079785fd487",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragte für die deutsch-französische Zusammenarbeit",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q29897929$cf9231a7-4e85-ddee-7d53-d92a2aeba8dd",
+            "rank": "normal"
+          }
+        ],
+        "P3321": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3321",
+              "hash": "5720be4fbe3e9beade909cdac9563e232dd2f879",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragter für die deutsch-französische Zusammenarbeit",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q29897929$210f51e3-4ac6-f726-e945-71b637934754",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "bf126b3cd5af871333f6890b1a39a40572b90c06",
+              "datavalue": {
+                "value": {
+                  "time": "+2003-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q29897929$ca725e90-4b34-b674-6b6e-314badc46c2d",
+            "rank": "normal"
+          }
+        ],
+        "P828": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P828",
+              "hash": "8579e82a4d00544acb08400d59f743accb0776a5",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 274811,
+                  "id": "Q274811"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q29897929$424bbe70-4fe1-6f14-7f63-4c38c7338556",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Beauftragter der Bundesregierung für die deutsch-französische Zusammenarbeit",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      }
+    }
+  }
+}

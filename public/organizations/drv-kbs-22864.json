@@ -1,0 +1,38 @@
+{
+  "Breitengrad": " 51.471003",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "zentrale@kbs.de",
+  "Hauptadresse": "Pieperstraße 14 - 28",
+  "Internetadresse": "https://www.kbs.de/DE/Home/node.html",
+  "Land": "DE",
+  "Längengrad": "7.214846",
+  "Organisation": "Deutsche Rentenversicherung Knappschaft-Bahn-See",
+  "OrganisationDisplay": "DRV KBS",
+  "OrganisationId": 22864,
+  "OrganisationKurz": "DRV KBS",
+  "Ort": "Bochum",
+  "PLZ": 44789,
+  "Ressort": "BMAS",
+  "Telefax": "+49 234 304-66050",
+  "Telefon": "+49 234 304-0",
+  "locations": [
+    {
+      "Breitengrad": " 51.471003",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "zentrale@kbs.de",
+      "Hauptadresse": "Pieperstraße 14 - 28",
+      "Internetadresse": "https://www.kbs.de/DE/Home/node.html",
+      "Land": "DE",
+      "Längengrad": "7.214846",
+      "Organisation": "Deutsche Rentenversicherung Knappschaft-Bahn-See",
+      "OrganisationDisplay": "DRV KBS",
+      "OrganisationId": 22864,
+      "OrganisationKurz": "DRV KBS",
+      "Ort": "Bochum",
+      "PLZ": 44789,
+      "Ressort": "BMAS",
+      "Telefax": "+49 234 304-66050",
+      "Telefon": "+49 234 304-0"
+    }
+  ]
+}

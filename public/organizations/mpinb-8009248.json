@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.7041019",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "office@mpinb.mpg.de",
+  "Hauptadresse": "Ludwig-Erhard-Allee 2",
+  "Internetadresse": "https://www.mpinb.mpg.de/de/",
+  "Land": "DE",
+  "Längengrad": "7.1505294",
+  "Organisation": "Max-Planck-Institut für Neurobiologie des Verhaltens - caesar",
+  "OrganisationDisplay": "MPINB",
+  "OrganisationId": 8009248,
+  "OrganisationKurz": "MPINB",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 9656-111",
+  "Telefon": "+49 228 9656-0",
+  "locations": [
+    {
+      "Breitengrad": "50.7041019",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "office@mpinb.mpg.de",
+      "Hauptadresse": "Ludwig-Erhard-Allee 2",
+      "Internetadresse": "https://www.mpinb.mpg.de/de/",
+      "Land": "DE",
+      "Längengrad": "7.1505294",
+      "Organisation": "Max-Planck-Institut für Neurobiologie des Verhaltens - caesar",
+      "OrganisationDisplay": "MPINB",
+      "OrganisationId": 8009248,
+      "OrganisationKurz": "MPINB",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 9656-111",
+      "Telefon": "+49 228 9656-0"
+    }
+  ]
+}

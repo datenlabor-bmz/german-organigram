@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.7836719",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@zv.fraunhofer.de",
+  "Hauptadresse": "Steinbachstraße 17",
+  "Internetadresse": "https://www.ipt.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "6.0503518",
+  "Organisation": "Fraunhofer Institut für Produktionstechnologie",
+  "OrganisationDisplay": "IPT",
+  "OrganisationId": 561508,
+  "OrganisationKurz": "IPT",
+  "Ort": "Aachen",
+  "PLZ": 52074,
+  "Telefax": "+49 241 8904-198",
+  "Telefon": "+49 241 8904-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.7836719",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@zv.fraunhofer.de",
+      "Hauptadresse": "Steinbachstraße 17",
+      "Internetadresse": "https://www.ipt.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "6.0503518",
+      "Organisation": "Fraunhofer Institut für Produktionstechnologie",
+      "OrganisationDisplay": "IPT",
+      "OrganisationId": 561508,
+      "OrganisationKurz": "IPT",
+      "Ort": "Aachen",
+      "PLZ": 52074,
+      "Telefax": "+49 241 8904-198",
+      "Telefon": "+49 241 8904-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

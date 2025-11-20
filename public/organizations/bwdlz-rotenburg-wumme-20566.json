@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.133737",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZRotenburg@bundeswehr.org",
+  "Hauptadresse": "Am Luhner Holze 39",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-rotenburg-wuemme",
+  "Land": "DE",
+  "Längengrad": "9.3616066",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Rotenburg (Wümme)",
+  "OrganisationDisplay": "BwDLZ Rotenburg (Wümme)",
+  "OrganisationId": 20566,
+  "OrganisationKurz": "BwDLZ Rotenburg (Wümme)",
+  "Ort": "Rotenburg (Wümme)",
+  "PLZ": 27356,
+  "Ressort": "BMVg",
+  "Telefon": "+49 4261 188-0",
+  "locations": [
+    {
+      "Breitengrad": "53.133737",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZRotenburg@bundeswehr.org",
+      "Hauptadresse": "Am Luhner Holze 39",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-rotenburg-wuemme",
+      "Land": "DE",
+      "Längengrad": "9.3616066",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Rotenburg (Wümme)",
+      "OrganisationDisplay": "BwDLZ Rotenburg (Wümme)",
+      "OrganisationId": 20566,
+      "OrganisationKurz": "BwDLZ Rotenburg (Wümme)",
+      "Ort": "Rotenburg (Wümme)",
+      "PLZ": 27356,
+      "Ressort": "BMVg",
+      "Telefon": "+49 4261 188-0"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.626083",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@fmp-berlin.de",
+  "Hauptadresse": "Robert-Rössle-Straße 10",
+  "Internetadresse": "https://www.leibniz-fmp.de/de/home.html",
+  "Land": "DE",
+  "Längengrad": "13.501356",
+  "Organisation": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie im Forschungsverbund Berlin e. V.",
+  "OrganisationDisplay": "FMP",
+  "OrganisationId": 366618,
+  "OrganisationKurz": "FMP",
+  "Ort": "Berlin",
+  "PLZ": 13125,
+  "Telefax": "+49 30 94739-109",
+  "Telefon": "+49 30 94793-100",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.626083",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@fmp-berlin.de",
+      "Hauptadresse": "Robert-Rössle-Straße 10",
+      "Internetadresse": "https://www.leibniz-fmp.de/de/home.html",
+      "Land": "DE",
+      "Längengrad": "13.501356",
+      "Organisation": "Leibniz-Forschungsinstitut für Molekulare Pharmakologie im Forschungsverbund Berlin e. V.",
+      "OrganisationDisplay": "FMP",
+      "OrganisationId": 366618,
+      "OrganisationKurz": "FMP",
+      "Ort": "Berlin",
+      "PLZ": 13125,
+      "Telefax": "+49 30 94739-109",
+      "Telefon": "+49 30 94793-100",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

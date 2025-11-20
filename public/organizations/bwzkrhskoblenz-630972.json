@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.3699492",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "bwzkrhskoblenz@bundeswehr.org",
+  "Hauptadresse": "Rübenacher Straße 170",
+  "Internetadresse": "https://koblenz.bwkrankenhaus.de/startseite/",
+  "Land": "DE",
+  "Längengrad": "7.543466",
+  "Organisation": "Bundeswehrzentralkrankenhaus Koblenz",
+  "OrganisationDisplay": "BwZKrhsKoblenz ",
+  "OrganisationId": 630972,
+  "OrganisationKurz": "BwZKrhsKoblenz ",
+  "Ort": "Koblenz",
+  "PLZ": 56072,
+  "Ressort": "BMVg",
+  "Telefon": "+49 261 281-0",
+  "locations": [
+    {
+      "Breitengrad": "50.3699492",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "bwzkrhskoblenz@bundeswehr.org",
+      "Hauptadresse": "Rübenacher Straße 170",
+      "Internetadresse": "https://koblenz.bwkrankenhaus.de/startseite/",
+      "Land": "DE",
+      "Längengrad": "7.543466",
+      "Organisation": "Bundeswehrzentralkrankenhaus Koblenz",
+      "OrganisationDisplay": "BwZKrhsKoblenz ",
+      "OrganisationId": 630972,
+      "OrganisationKurz": "BwZKrhsKoblenz ",
+      "Ort": "Koblenz",
+      "PLZ": 56072,
+      "Ressort": "BMVg",
+      "Telefon": "+49 261 281-0"
+    }
+  ]
+}

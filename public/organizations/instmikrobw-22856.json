@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.211017",
+  "Bundesland": "Bayern",
+  "E-Mail": "InstitutfuerMikrobiologie@bundeswehr.org",
+  "Hauptadresse": "Neuherbergstraße 11",
+  "Internetadresse": "https://instmikrobiobw.de/",
+  "Land": "DE",
+  "Längengrad": "11.579992)",
+  "Organisation": "Institut für Mikrobiologie der Bundeswehr",
+  "OrganisationDisplay": "InstMikroBw",
+  "OrganisationId": 22856,
+  "OrganisationKurz": "InstMikroBw",
+  "Ort": "München",
+  "PLZ": 80937,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 992692-3983",
+  "Telefon": "+49 89 992692-3980",
+  "locations": [
+    {
+      "Breitengrad": "48.211017",
+      "Bundesland": "Bayern",
+      "E-Mail": "InstitutfuerMikrobiologie@bundeswehr.org",
+      "Hauptadresse": "Neuherbergstraße 11",
+      "Internetadresse": "https://instmikrobiobw.de/",
+      "Land": "DE",
+      "Längengrad": "11.579992)",
+      "Organisation": "Institut für Mikrobiologie der Bundeswehr",
+      "OrganisationDisplay": "InstMikroBw",
+      "OrganisationId": 22856,
+      "OrganisationKurz": "InstMikroBw",
+      "Ort": "München",
+      "PLZ": 80937,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 992692-3983",
+      "Telefon": "+49 89 992692-3980"
+    }
+  ]
+}

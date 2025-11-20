@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5124796",
+  "Bundesland": "Berlin",
+  "E-Mail": "contact@wias-berlin.de",
+  "Hauptadresse": "Mohrenstraße 39",
+  "Internetadresse": "https://www.wias-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.3961912",
+  "Organisation": "Weierstraß-Institut für Angewandte Analysis und Stochastik - Leibniz-Institut im Forschungsverbund Berlin e. V.",
+  "OrganisationDisplay": "WIAS",
+  "OrganisationId": 430088,
+  "OrganisationKurz": "WIAS",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 20372-303",
+  "Telefon": "+49 30 20372-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5124796",
+      "Bundesland": "Berlin",
+      "E-Mail": "contact@wias-berlin.de",
+      "Hauptadresse": "Mohrenstraße 39",
+      "Internetadresse": "https://www.wias-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.3961912",
+      "Organisation": "Weierstraß-Institut für Angewandte Analysis und Stochastik - Leibniz-Institut im Forschungsverbund Berlin e. V.",
+      "OrganisationDisplay": "WIAS",
+      "OrganisationId": 430088,
+      "OrganisationKurz": "WIAS",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 20372-303",
+      "Telefon": "+49 30 20372-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

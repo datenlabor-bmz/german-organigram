@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.317486",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "poststelle.hza-kiel@zoll.bund.de",
+  "Hauptadresse": "Kronshagener Weg 105",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "10.13375",
+  "Organisation": "Hauptzollamt Kiel",
+  "OrganisationDisplay": "HZA Kiel",
+  "OrganisationId": 26766,
+  "OrganisationKurz": "HZA Kiel",
+  "Ort": "Kiel",
+  "PLZ": 24116,
+  "Ressort": "BMF",
+  "Telefax": "+49 431 20083-1150",
+  "Telefon": "+49 431 20083-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "54.317486",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "poststelle.hza-kiel@zoll.bund.de",
+      "Hauptadresse": "Kronshagener Weg 105",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "10.13375",
+      "Organisation": "Hauptzollamt Kiel",
+      "OrganisationDisplay": "HZA Kiel",
+      "OrganisationId": 26766,
+      "OrganisationKurz": "HZA Kiel",
+      "Ort": "Kiel",
+      "PLZ": 24116,
+      "Ressort": "BMF",
+      "Telefax": "+49 431 20083-1150",
+      "Telefon": "+49 431 20083-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

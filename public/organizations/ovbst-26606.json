@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "53.53007",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "info@bismarck-stiftung.de",
+  "Hauptadresse": "Am Bahnhof 2",
+  "Internetadresse": "https://www.bismarck-stiftung.de",
+  "Land": "DE",
+  "Längengrad": "10.314432",
+  "Organisation": "Otto-von-Bismarck-Stiftung",
+  "OrganisationDisplay": "OvBSt",
+  "OrganisationId": 26606,
+  "OrganisationKurz": "OvBSt",
+  "Ort": "Friedrichsruh",
+  "PLZ": 21521,
+  "Ressort": "BKM",
+  "Telefax": "+49 4104 9771-14",
+  "Telefon": "+49 4104 9771-0",
+  "locations": [
+    {
+      "Breitengrad": "53.53007",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "info@bismarck-stiftung.de",
+      "Hauptadresse": "Am Bahnhof 2",
+      "Internetadresse": "https://www.bismarck-stiftung.de",
+      "Land": "DE",
+      "Längengrad": "10.314432",
+      "Organisation": "Otto-von-Bismarck-Stiftung",
+      "OrganisationDisplay": "OvBSt",
+      "OrganisationId": 26606,
+      "OrganisationKurz": "OvBSt",
+      "Ort": "Friedrichsruh",
+      "PLZ": 21521,
+      "Ressort": "BKM",
+      "Telefax": "+49 4104 9771-14",
+      "Telefon": "+49 4104 9771-0"
+    },
+    {
+      "Adresse": "Kirchberg 4",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "aussenstelle@bismarck-stiftung.de",
+      "Internetadresse": "https://www.bismarck-stiftung.de",
+      "Land": "DE",
+      "Liegenschaft": "Außenstelle Bismarckmuseum Schönhausen",
+      "LiegenschaftsId": 26598,
+      "OrganisationId": 26606,
+      "Ort": "Schönhausen",
+      "PLZ": 39524,
+      "Telefax": "+49 39323 38874",
+      "Telefon": "+49 39323 38874"
+    }
+  ]
+}

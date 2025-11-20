@@ -1,0 +1,63 @@
+{
+  "Breitengrad": "50.066757",
+  "Bundesland": "Hessen",
+  "E-Mail": "office@dosb.de",
+  "Hauptadresse": "Otto-Fleck-Schneise 12",
+  "Internetadresse": "https://www.dosb.de/",
+  "Land": "DE",
+  "Längengrad": "8.644438",
+  "Organisation": "Deutscher Olympischer Sportbund",
+  "OrganisationDisplay": "DOSB",
+  "OrganisationId": 24948,
+  "OrganisationKurz": "DOSB",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60528,
+  "Telefax": "+49 69 674906",
+  "Telefon": "+49 69 67000",
+  "locations": [
+    {
+      "Breitengrad": "50.066757",
+      "Bundesland": "Hessen",
+      "E-Mail": "office@dosb.de",
+      "Hauptadresse": "Otto-Fleck-Schneise 12",
+      "Internetadresse": "https://www.dosb.de/",
+      "Land": "DE",
+      "Längengrad": "8.644438",
+      "Organisation": "Deutscher Olympischer Sportbund",
+      "OrganisationDisplay": "DOSB",
+      "OrganisationId": 24948,
+      "OrganisationKurz": "DOSB",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60528,
+      "Telefax": "+49 69 674906",
+      "Telefon": "+49 69 67000"
+    },
+    {
+      "Adresse": "Behrenstraße 24",
+      "Bundesland": "Berlin",
+      "E-Mail": "berliner-buero@dosb.de",
+      "Internetadresse": "https://www.dosb.de/",
+      "Land": "DE",
+      "Liegenschaft": "Büro Berlin",
+      "LiegenschaftsId": 24966,
+      "OrganisationId": 24948,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 323034-89",
+      "Telefon": "+49 30 323034-90"
+    },
+    {
+      "Adresse": "89, Av. de Cortenbergh ",
+      "E-Mail": "info@eu-sports-office.org",
+      "Internetadresse": "https://www.dosb.de/",
+      "Land": "Belgien",
+      "Liegenschaft": "EU-Büro des deutschen Sports",
+      "LiegenschaftsId": 24978,
+      "OrganisationId": 24948,
+      "Ort": "Brüssel",
+      "PLZ": 1000,
+      "Telefax": "+32 2 7380327",
+      "Telefon": "+32 2 7380320"
+    }
+  ]
+}

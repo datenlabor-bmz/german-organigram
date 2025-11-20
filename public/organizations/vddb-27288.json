@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.148962",
+  "Bundesland": "Bayern",
+  "E-Mail": "vddb@versorgungskammer.de",
+  "Hauptadresse": "Arabellastraße 31",
+  "Internetadresse": "https://www.buehnenversorgung.de/",
+  "Land": "DE",
+  "Längengrad": "11.62255",
+  "Organisation": "Versorgungsanstalt der Deutschen Bühnen",
+  "OrganisationDisplay": "VddB",
+  "OrganisationId": 27288,
+  "OrganisationKurz": "VddB",
+  "Ort": "München",
+  "PLZ": 81925,
+  "Ressort": "BMAS",
+  "Telefax": "+49 89 9235-8850",
+  "Telefon": "+49 89 9235-6",
+  "locations": [
+    {
+      "Breitengrad": "48.148962",
+      "Bundesland": "Bayern",
+      "E-Mail": "vddb@versorgungskammer.de",
+      "Hauptadresse": "Arabellastraße 31",
+      "Internetadresse": "https://www.buehnenversorgung.de/",
+      "Land": "DE",
+      "Längengrad": "11.62255",
+      "Organisation": "Versorgungsanstalt der Deutschen Bühnen",
+      "OrganisationDisplay": "VddB",
+      "OrganisationId": 27288,
+      "OrganisationKurz": "VddB",
+      "Ort": "München",
+      "PLZ": 81925,
+      "Ressort": "BMAS",
+      "Telefax": "+49 89 9235-8850",
+      "Telefon": "+49 89 9235-6"
+    }
+  ]
+}

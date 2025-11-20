@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.658435",
+  "Bundesland": "Bayern",
+  "E-Mail": "bk-wen.gzd@zoll.bund.de",
+  "Hauptadresse": "Moosbürger Straße 20",
+  "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Weiden/DO_Weiden_node.html",
+  "Land": "DE",
+  "Längengrad": "12.155661",
+  "Organisation": "Bundeskasse Dienstort Weiden",
+  "OrganisationDisplay": "Bundeskasse Weiden",
+  "OrganisationId": 13682754,
+  "Ort": "Weiden",
+  "PLZ": 92637,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-20720",
+  "Telefon": "+49 228 303-20550",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "49.658435",
+      "Bundesland": "Bayern",
+      "E-Mail": "bk-wen.gzd@zoll.bund.de",
+      "Hauptadresse": "Moosbürger Straße 20",
+      "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Weiden/DO_Weiden_node.html",
+      "Land": "DE",
+      "Längengrad": "12.155661",
+      "Organisation": "Bundeskasse Dienstort Weiden",
+      "OrganisationDisplay": "Bundeskasse Weiden",
+      "OrganisationId": 13682754,
+      "Ort": "Weiden",
+      "PLZ": 92637,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-20720",
+      "Telefon": "+49 228 303-20550",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

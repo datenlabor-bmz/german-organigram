@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.509823",
+  "Bundesland": "Berlin",
+  "E-Mail": "kontakt@frauenrat.de",
+  "Hauptadresse": "Axel-Springer-Straße 54 a",
+  "Internetadresse": "https://www.frauenrat.de/",
+  "Land": "DE",
+  "Längengrad": "13.400492",
+  "Organisation": "Deutscher Frauenrat",
+  "OrganisationDisplay": "DF",
+  "OrganisationId": 24734,
+  "OrganisationKurz": "DF",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 204569-44",
+  "Telefon": "+49 30 204569-0",
+  "locations": [
+    {
+      "Breitengrad": "52.509823",
+      "Bundesland": "Berlin",
+      "E-Mail": "kontakt@frauenrat.de",
+      "Hauptadresse": "Axel-Springer-Straße 54 a",
+      "Internetadresse": "https://www.frauenrat.de/",
+      "Land": "DE",
+      "Längengrad": "13.400492",
+      "Organisation": "Deutscher Frauenrat",
+      "OrganisationDisplay": "DF",
+      "OrganisationId": 24734,
+      "OrganisationKurz": "DF",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 204569-44",
+      "Telefon": "+49 30 204569-0"
+    }
+  ]
+}

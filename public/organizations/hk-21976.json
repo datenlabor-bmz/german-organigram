@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.869559",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@havariekommando.de",
+  "Hauptadresse": "Am Alten Hafen 2",
+  "Internetadresse": "https://www.havariekommando.de",
+  "Land": "DE",
+  "Längengrad": "8.705914",
+  "Organisation": "Havariekommando",
+  "OrganisationDisplay": "HK",
+  "OrganisationId": 21976,
+  "OrganisationKurz": "HK",
+  "Ort": "Cuxhaven",
+  "PLZ": 27472,
+  "Ressort": "BMV",
+  "Telefax": "+49 4721 567-364",
+  "Telefon": "+49 4721 567-400",
+  "locations": [
+    {
+      "Breitengrad": "53.869559",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@havariekommando.de",
+      "Hauptadresse": "Am Alten Hafen 2",
+      "Internetadresse": "https://www.havariekommando.de",
+      "Land": "DE",
+      "Längengrad": "8.705914",
+      "Organisation": "Havariekommando",
+      "OrganisationDisplay": "HK",
+      "OrganisationId": 21976,
+      "OrganisationKurz": "HK",
+      "Ort": "Cuxhaven",
+      "PLZ": 27472,
+      "Ressort": "BMV",
+      "Telefax": "+49 4721 567-364",
+      "Telefon": "+49 4721 567-400"
+    }
+  ]
+}

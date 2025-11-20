@@ -1,25 +1,31 @@
-import wikidataRaw from '../../public/wikidata.json';
+interface WikidataClaim {
+    mainsnak?: {
+        datavalue?: {
+            value?: string | number | Record<string, unknown>;
+        };
+        [key: string]: unknown;
+    };
+    qualifiers?: Record<string, unknown>;
+    [key: string]: unknown;
+}
 
-interface WikidataEntity {
+export interface WikidataEntity {
     qid: string;
     data: {
         labels?: Record<string, { value: string }>;
         descriptions?: Record<string, { value: string }>;
         sitelinks?: Record<string, { title: string; url?: string }>;
-        claims?: Record<string, any[]>;
+        claims?: Record<string, WikidataClaim[]>;
+        [key: string]: unknown;
     };
     referenced_entities?: Record<string, {
         labels?: Record<string, { value: string }>;
         descriptions?: Record<string, { value: string }>;
-        claims?: Record<string, any[]>;
+        claims?: Record<string, WikidataClaim[]>;
+        [key: string]: unknown;
     }>;
+    [key: string]: unknown;
 }
-
-const wikidata = wikidataRaw as Record<string, WikidataEntity>;
-
-export const getWikidataForEntity = (orgId: string | number): WikidataEntity | null => {
-    return wikidata[String(orgId)] || null;
-};
 
 export const getWikidataLabel = (wd: WikidataEntity, lang: 'de' | 'en' = 'de'): string | null => {
     return wd.data.labels?.[lang]?.value || null;
@@ -32,7 +38,7 @@ export const getWikidataDescription = (wd: WikidataEntity, lang: 'de' | 'en' = '
 export const getWikidataImage = (wd: WikidataEntity): string | null => {
     const claim = wd.data.claims?.['P18']?.[0];
     if (!claim?.mainsnak?.datavalue?.value) return null;
-    const filename = claim.mainsnak.datavalue.value;
+    const filename = String(claim.mainsnak.datavalue.value);
     // Convert to Wikimedia Commons URL
     const encodedFilename = encodeURIComponent(filename.replace(/ /g, '_'));
     return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodedFilename}?width=800`;
@@ -41,15 +47,16 @@ export const getWikidataImage = (wd: WikidataEntity): string | null => {
 export const getWikidataLogo = (wd: WikidataEntity): string | null => {
     const claim = wd.data.claims?.['P154']?.[0];
     if (!claim?.mainsnak?.datavalue?.value) return null;
-    const filename = claim.mainsnak.datavalue.value;
+    const filename = String(claim.mainsnak.datavalue.value);
     const encodedFilename = encodeURIComponent(filename.replace(/ /g, '_'));
     return `https://commons.wikimedia.org/wiki/Special:FilePath/${encodedFilename}?width=400`;
 };
 
 export const getWikidataInception = (wd: WikidataEntity): string | null => {
     const claim = wd.data.claims?.['P571']?.[0];
-    if (!claim?.mainsnak?.datavalue?.value?.time) return null;
-    const time = claim.mainsnak.datavalue.value.time;
+    const value = claim?.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('time' in value)) return null;
+    const time = String(value.time);
     // Parse time format like "+1917-00-00T00:00:00Z"
     const match = time.match(/\+?(\d{4})/);
     return match ? match[1] : null;
@@ -57,7 +64,8 @@ export const getWikidataInception = (wd: WikidataEntity): string | null => {
 
 export const getWikidataWebsite = (wd: WikidataEntity): string | null => {
     const claim = wd.data.claims?.['P856']?.[0];
-    return claim?.mainsnak?.datavalue?.value || null;
+    const value = claim?.mainsnak?.datavalue?.value;
+    return value ? String(value) : null;
 };
 
 export const getWikidataWikipediaLink = (wd: WikidataEntity, lang: 'de' | 'en' = 'de'): string | null => {
@@ -87,8 +95,9 @@ export const getWikidataSocialMedia = (wd: WikidataEntity): {
     const followerClaims = wd.data.claims?.['P8687'] || [];
     
     for (const claim of followerClaims) {
-        const amount = claim.mainsnak?.datavalue?.value?.amount;
-        if (!amount) continue;
+        const value = claim.mainsnak?.datavalue?.value;
+        if (!value || typeof value !== 'object' || !('amount' in value)) continue;
+        const amount = String(value.amount);
         
         const qualifiers = claim.qualifiers || {};
         const count = parseInt(amount.replace('+', ''));
@@ -118,11 +127,14 @@ export const getWikidataUrl = (qid: string): string => {
 
 export const getWikidataEmployeeCount = (wd: WikidataEntity): { count: number; date?: string } | null => {
     const claim = wd.data.claims?.['P1128']?.[0];
-    if (!claim?.mainsnak?.datavalue?.value?.amount) return null;
+    const value = claim?.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('amount' in value)) return null;
     
-    const count = parseInt(claim.mainsnak.datavalue.value.amount);
-    const dateQualifier = claim.qualifiers?.['P585']?.[0];
-    const date = dateQualifier?.datavalue?.value?.time;
+    const count = parseInt(String(value.amount));
+    const qualifiers = claim.qualifiers as Record<string, Array<{datavalue?: {value?: unknown}}>> | undefined;
+    const dateQualifier = qualifiers?.['P585']?.[0];
+    const dateValue = dateQualifier?.datavalue?.value;
+    const date = dateValue && typeof dateValue === 'object' && 'time' in dateValue ? String(dateValue.time) : undefined;
     
     // Parse date like "+2024-06-16T00:00:00Z" to "2024"
     const year = date ? date.match(/\+?(\d{4})/)?.[1] : undefined;
@@ -146,13 +158,15 @@ export const getWikidataCurrentLeader = (wd: WikidataEntity): {
     
     // Find current leader (no end date or most recent)
     for (const claim of claims) {
-        const endDateQualifier = claim.qualifiers?.['P582'];
+        const qualifiers = claim.qualifiers as Record<string, Array<{datavalue?: {value?: unknown}}>> | undefined;
+        const endDateQualifier = qualifiers?.['P582'];
         
         // Skip if there's an end date (past leader)
         if (endDateQualifier) continue;
         
-        const entityId = claim.mainsnak?.datavalue?.value?.id;
-        if (!entityId) continue;
+        const value = claim.mainsnak?.datavalue?.value;
+        if (!value || typeof value !== 'object' || !('id' in value)) continue;
+        const entityId = String(value.id);
         
         const leaderEntity = wd.referenced_entities?.[entityId];
         if (!leaderEntity) continue;
@@ -163,24 +177,27 @@ export const getWikidataCurrentLeader = (wd: WikidataEntity): {
         const description = leaderEntity.descriptions?.['de']?.value;
         
         // Get start date
-        const startDateQualifier = claim.qualifiers?.['P580']?.[0];
-        const startDate = startDateQualifier?.datavalue?.value?.time;
+        const startDateQualifier = qualifiers?.['P580']?.[0];
+        const startDateValue = startDateQualifier?.datavalue?.value;
+        const startDate = startDateValue && typeof startDateValue === 'object' && 'time' in startDateValue ? String(startDateValue.time) : undefined;
         const sinceYear = startDate ? startDate.match(/\+?(\d{4})/)?.[1] : undefined;
         
         // Get party (P102)
         const leaderClaims = leaderEntity.claims || {};
         let party: string | undefined;
         const partyClaim = leaderClaims['P102']?.[0];
-        if (partyClaim?.mainsnak?.datavalue?.value?.id) {
-            const partyId = partyClaim.mainsnak.datavalue.value.id;
+        const partyValue = partyClaim?.mainsnak?.datavalue?.value;
+        if (partyValue && typeof partyValue === 'object' && 'id' in partyValue) {
+            const partyId = String(partyValue.id);
             party = wd.referenced_entities?.[partyId]?.labels?.['de']?.value;
         }
         
         // Get gender (P21)
         let gender: string | undefined;
         const genderClaim = leaderClaims['P21']?.[0];
-        if (genderClaim?.mainsnak?.datavalue?.value?.id) {
-            const genderId = genderClaim.mainsnak.datavalue.value.id;
+        const genderValue = genderClaim?.mainsnak?.datavalue?.value;
+        if (genderValue && typeof genderValue === 'object' && 'id' in genderValue) {
+            const genderId = String(genderValue.id);
             const genderLabel = wd.referenced_entities?.[genderId]?.labels?.['de']?.value;
             // Convert to shorter form
             if (genderLabel === 'männlich') gender = 'm';
@@ -192,8 +209,9 @@ export const getWikidataCurrentLeader = (wd: WikidataEntity): {
         let birthDate: string | undefined;
         let age: number | undefined;
         const birthClaim = leaderClaims['P569']?.[0];
-        if (birthClaim?.mainsnak?.datavalue?.value?.time) {
-            const time = birthClaim.mainsnak.datavalue.value.time;
+        const birthValue = birthClaim?.mainsnak?.datavalue?.value;
+        if (birthValue && typeof birthValue === 'object' && 'time' in birthValue) {
+            const time = String(birthValue.time);
             const match = time.match(/\+?(\d{4})-(\d{2})-(\d{2})/);
             if (match) {
                 const year = parseInt(match[1]);
@@ -216,7 +234,7 @@ export const getWikidataCurrentLeader = (wd: WikidataEntity): {
         let image: string | undefined;
         const imageClaim = leaderClaims['P18']?.[0];
         if (imageClaim?.mainsnak?.datavalue?.value) {
-            const filename = imageClaim.mainsnak.datavalue.value;
+            const filename = String(imageClaim.mainsnak.datavalue.value);
             const encodedFilename = encodeURIComponent(filename.replace(/ /g, '_'));
             image = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodedFilename}?width=400`;
         }
@@ -242,8 +260,9 @@ export const getWikidataParentOrganization = (wd: WikidataEntity): { name: strin
     const claim = wd.data.claims?.['P749']?.[0];
     if (!claim) return null;
     
-    const entityId = claim.mainsnak?.datavalue?.value?.id;
-    if (!entityId) return null;
+    const value = claim.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('id' in value)) return null;
+    const entityId = String(value.id);
     
     const parentEntity = wd.referenced_entities?.[entityId];
     const name = parentEntity?.labels?.['de']?.value;
@@ -257,8 +276,9 @@ export const getWikidataSubsidiaries = (wd: WikidataEntity): Array<{ name: strin
     
     return claims
         .map(claim => {
-            const entityId = claim.mainsnak?.datavalue?.value?.id;
-            if (!entityId) return null;
+            const value = claim.mainsnak?.datavalue?.value;
+            if (!value || typeof value !== 'object' || !('id' in value)) return null;
+            const entityId = String(value.id);
             
             const subEntity = wd.referenced_entities?.[entityId];
             const name = subEntity?.labels?.['de']?.value;
@@ -274,8 +294,9 @@ export const getWikidataPartOf = (wd: WikidataEntity): Array<{ name: string; qid
     
     return claims
         .map(claim => {
-            const entityId = claim.mainsnak?.datavalue?.value?.id;
-            if (!entityId) return null;
+            const value = claim.mainsnak?.datavalue?.value;
+            if (!value || typeof value !== 'object' || !('id' in value)) return null;
+            const entityId = String(value.id);
             
             const partOfEntity = wd.referenced_entities?.[entityId];
             const name = partOfEntity?.labels?.['de']?.value;
@@ -291,8 +312,9 @@ export const getWikidataHasParts = (wd: WikidataEntity): Array<{ name: string; q
     
     return claims
         .map(claim => {
-            const entityId = claim.mainsnak?.datavalue?.value?.id;
-            if (!entityId) return null;
+            const value = claim.mainsnak?.datavalue?.value;
+            if (!value || typeof value !== 'object' || !('id' in value)) return null;
+            const entityId = String(value.id);
             
             const partEntity = wd.referenced_entities?.[entityId];
             const name = partEntity?.labels?.['de']?.value;
@@ -306,8 +328,9 @@ export const getWikidataInstanceOf = (wd: WikidataEntity): string | null => {
     const claim = wd.data.claims?.['P31']?.[0];
     if (!claim) return null;
     
-    const entityId = claim.mainsnak?.datavalue?.value?.id;
-    if (!entityId) return null;
+    const value = claim.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('id' in value)) return null;
+    const entityId = String(value.id);
     
     const instanceEntity = wd.referenced_entities?.[entityId];
     return instanceEntity?.labels?.['de']?.value || null;
@@ -317,21 +340,24 @@ export const getWikidataEmail = (wd: WikidataEntity): string | null => {
     const claim = wd.data.claims?.['P968']?.[0];
     if (!claim?.mainsnak?.datavalue?.value) return null;
     
-    const email = claim.mainsnak.datavalue.value;
+    const email = String(claim.mainsnak.datavalue.value);
     // Remove "mailto:" prefix if present
     return email.replace('mailto:', '');
 };
 
 export const getWikidataBudget = (wd: WikidataEntity): { amount: number; currency: string; year?: string } | null => {
     const claim = wd.data.claims?.['P2769']?.[0];
-    if (!claim?.mainsnak?.datavalue?.value?.amount) return null;
+    const value = claim?.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('amount' in value)) return null;
     
-    const amount = parseFloat(claim.mainsnak.datavalue.value.amount.replace('+', ''));
-    const unit = claim.mainsnak.datavalue.value.unit;
+    const amount = parseFloat(String(value.amount).replace('+', ''));
+    const unit = 'unit' in value ? String(value.unit) : '';
     
     // Extract year from qualifiers if available
-    const dateQualifier = claim.qualifiers?.['P585']?.[0];
-    const date = dateQualifier?.datavalue?.value?.time;
+    const qualifiers = claim.qualifiers as Record<string, Array<{datavalue?: {value?: unknown}}>> | undefined;
+    const dateQualifier = qualifiers?.['P585']?.[0];
+    const dateValue = dateQualifier?.datavalue?.value;
+    const date = dateValue && typeof dateValue === 'object' && 'time' in dateValue ? String(dateValue.time) : undefined;
     const year = date ? date.match(/\+?(\d{4})/)?.[1] : undefined;
     
     // Determine currency from unit (Q4916 is Euro)
@@ -344,8 +370,9 @@ export const getWikidataReplaces = (wd: WikidataEntity): { name: string; qid: st
     const claim = wd.data.claims?.['P1365']?.[0];
     if (!claim) return null;
     
-    const entityId = claim.mainsnak?.datavalue?.value?.id;
-    if (!entityId) return null;
+    const value = claim.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('id' in value)) return null;
+    const entityId = String(value.id);
     
     const replacedEntity = wd.referenced_entities?.[entityId];
     const name = replacedEntity?.labels?.['de']?.value;
@@ -357,8 +384,9 @@ export const getWikidataReplacedBy = (wd: WikidataEntity): { name: string; qid: 
     const claim = wd.data.claims?.['P1366']?.[0];
     if (!claim) return null;
     
-    const entityId = claim.mainsnak?.datavalue?.value?.id;
-    if (!entityId) return null;
+    const value = claim.mainsnak?.datavalue?.value;
+    if (!value || typeof value !== 'object' || !('id' in value)) return null;
+    const entityId = String(value.id);
     
     const successorEntity = wd.referenced_entities?.[entityId];
     const name = successorEntity?.labels?.['de']?.value;

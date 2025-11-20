@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.512017",
+  "Bundesland": "Berlin",
+  "E-Mail": "webredaktion@diw.de",
+  "Hauptadresse": "Mohrenstraße 58",
+  "Internetadresse": "https://www.diw.de/deutsch",
+  "Land": "DE",
+  "Längengrad": "13.387743",
+  "Organisation": "Deutsches Institut für Wirtschaftsforschung e. V.",
+  "OrganisationDisplay": "DIW Berlin",
+  "OrganisationId": 21852,
+  "OrganisationKurz": "DIW Berlin",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 89789-200",
+  "Telefon": "+49 30 89789-0",
+  "locations": [
+    {
+      "Breitengrad": "52.512017",
+      "Bundesland": "Berlin",
+      "E-Mail": "webredaktion@diw.de",
+      "Hauptadresse": "Mohrenstraße 58",
+      "Internetadresse": "https://www.diw.de/deutsch",
+      "Land": "DE",
+      "Längengrad": "13.387743",
+      "Organisation": "Deutsches Institut für Wirtschaftsforschung e. V.",
+      "OrganisationDisplay": "DIW Berlin",
+      "OrganisationId": 21852,
+      "OrganisationKurz": "DIW Berlin",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 89789-200",
+      "Telefon": "+49 30 89789-0"
+    }
+  ]
+}

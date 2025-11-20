@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "48.087444",
+  "Bundesland": "Bayern",
+  "Hauptadresse": "Carl-Wery-Straße 28",
+  "Internetadresse": "https://www.aok.de/pk/bayern/",
+  "Land": "DE",
+  "Längengrad": "11.645058",
+  "Organisation": "Allgemeine Ortskrankenkasse Bayern",
+  "OrganisationDisplay": "AOK BY",
+  "OrganisationId": 13408,
+  "OrganisationKurz": "AOK BY",
+  "Ort": "München",
+  "PLZ": 81739,
+  "Ressort": "BMG",
+  "Telefon": "+49 89 228 44050",
+  "locations": [
+    {
+      "Breitengrad": "48.087444",
+      "Bundesland": "Bayern",
+      "Hauptadresse": "Carl-Wery-Straße 28",
+      "Internetadresse": "https://www.aok.de/pk/bayern/",
+      "Land": "DE",
+      "Längengrad": "11.645058",
+      "Organisation": "Allgemeine Ortskrankenkasse Bayern",
+      "OrganisationDisplay": "AOK BY",
+      "OrganisationId": 13408,
+      "OrganisationKurz": "AOK BY",
+      "Ort": "München",
+      "PLZ": 81739,
+      "Ressort": "BMG",
+      "Telefon": "+49 89 228 44050"
+    }
+  ]
+}

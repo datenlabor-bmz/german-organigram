@@ -1,0 +1,49 @@
+{
+  "Breitengrad": "52.517414",
+  "Bundesland": "Berlin",
+  "E-Mail": "zentrale@brak.de",
+  "Hauptadresse": "Littenstraße 9",
+  "Internetadresse": "https://www.brak.de/",
+  "Land": "DE",
+  "Längengrad": "13.414112",
+  "Organisation": "Bundesrechtsanwaltskammer",
+  "OrganisationDisplay": "BRAK",
+  "OrganisationId": 20276,
+  "OrganisationKurz": "BRAK",
+  "Ort": "Berlin",
+  "PLZ": 10179,
+  "Ressort": "BMJV",
+  "Telefon": "+49 30 284939-0",
+  "locations": [
+    {
+      "Breitengrad": "52.517414",
+      "Bundesland": "Berlin",
+      "E-Mail": "zentrale@brak.de",
+      "Hauptadresse": "Littenstraße 9",
+      "Internetadresse": "https://www.brak.de/",
+      "Land": "DE",
+      "Längengrad": "13.414112",
+      "Organisation": "Bundesrechtsanwaltskammer",
+      "OrganisationDisplay": "BRAK",
+      "OrganisationId": 20276,
+      "OrganisationKurz": "BRAK",
+      "Ort": "Berlin",
+      "PLZ": 10179,
+      "Ressort": "BMJV",
+      "Telefon": "+49 30 284939-0"
+    },
+    {
+      "Adresse": "Avenue des Nerviens 85, bte 9",
+      "E-Mail": "brak.bxl@brak.eu",
+      "Internetadresse": "https://www.brak.de/",
+      "Land": "BE",
+      "Liegenschaft": "Büro Brüssel",
+      "LiegenschaftsId": 20266,
+      "OrganisationId": 20276,
+      "Ort": "Brüssel",
+      "PLZ": -1040,
+      "Telefax": "+32 2 74386-56",
+      "Telefon": "+32 2 74386-46"
+    }
+  ]
+}

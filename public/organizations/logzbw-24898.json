@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.507591",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "LogZBwAllgemein@bundeswehr.org",
+  "Hauptadresse": "Anton-Dohrn-Weg 59",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikzentrum-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "8.115366",
+  "Organisation": "Logistikzentrum der Bundeswehr",
+  "OrganisationDisplay": "LogZBw",
+  "OrganisationId": 24898,
+  "OrganisationKurz": "LogZBw",
+  "Ort": "Wilhelmshaven",
+  "PLZ": 26389,
+  "Ressort": "BMVg",
+  "Telefon": "+49 4421 47-455",
+  "locations": [
+    {
+      "Breitengrad": "53.507591",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "LogZBwAllgemein@bundeswehr.org",
+      "Hauptadresse": "Anton-Dohrn-Weg 59",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikzentrum-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "8.115366",
+      "Organisation": "Logistikzentrum der Bundeswehr",
+      "OrganisationDisplay": "LogZBw",
+      "OrganisationId": 24898,
+      "OrganisationKurz": "LogZBw",
+      "Ort": "Wilhelmshaven",
+      "PLZ": 26389,
+      "Ressort": "BMVg",
+      "Telefon": "+49 4421 47-455"
+    }
+  ]
+}

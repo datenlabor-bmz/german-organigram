@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.829507",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwFachSWuerzburg@bundeswehr.org",
+  "Hauptadresse": "Oberdürrbacher Straße 2a",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-wuerzburg-87020",
+  "Land": "DE",
+  "Längengrad": "9.896269",
+  "Organisation": "Bundeswehrfachschule Würzburg",
+  "OrganisationDisplay": "BwFachS Würzburg",
+  "OrganisationId": 17684,
+  "OrganisationKurz": "BwFachS Würzburg",
+  "Ort": "Veitshöchheim",
+  "PLZ": 97209,
+  "Ressort": "BMVg",
+  "Telefax": "+49 931 9707-2385",
+  "Telefon": "+49 931 9707-0",
+  "locations": [
+    {
+      "Breitengrad": "49.829507",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwFachSWuerzburg@bundeswehr.org",
+      "Hauptadresse": "Oberdürrbacher Straße 2a",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-wuerzburg-87020",
+      "Land": "DE",
+      "Längengrad": "9.896269",
+      "Organisation": "Bundeswehrfachschule Würzburg",
+      "OrganisationDisplay": "BwFachS Würzburg",
+      "OrganisationId": 17684,
+      "OrganisationKurz": "BwFachS Würzburg",
+      "Ort": "Veitshöchheim",
+      "PLZ": 97209,
+      "Ressort": "BMVg",
+      "Telefax": "+49 931 9707-2385",
+      "Telefon": "+49 931 9707-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.38544",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "BwDLZUlm@bundeswehr.org",
+  "Hauptadresse": "Westerlinger Straße 13/2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-ulm",
+  "Land": "DE",
+  "Längengrad": "9.9731",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Ulm",
+  "OrganisationDisplay": "BwDLZ Ulm",
+  "OrganisationId": 20774,
+  "OrganisationKurz": "BwDLZ Ulm",
+  "Ort": "Ulm/Donau",
+  "PLZ": 89077,
+  "Ressort": "BMVg",
+  "Telefon": "+49 731 18996-0",
+  "locations": [
+    {
+      "Breitengrad": "48.38544",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "BwDLZUlm@bundeswehr.org",
+      "Hauptadresse": "Westerlinger Straße 13/2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-ulm",
+      "Land": "DE",
+      "Längengrad": "9.9731",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Ulm",
+      "OrganisationDisplay": "BwDLZ Ulm",
+      "OrganisationId": 20774,
+      "OrganisationKurz": "BwDLZ Ulm",
+      "Ort": "Ulm/Donau",
+      "PLZ": 89077,
+      "Ressort": "BMVg",
+      "Telefon": "+49 731 18996-0"
+    }
+  ]
+}

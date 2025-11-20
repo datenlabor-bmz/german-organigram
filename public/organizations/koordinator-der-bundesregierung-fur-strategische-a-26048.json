@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.519784",
+  "Bundesland": "Berlin",
+  "E-Mail": "buero-st-p@bmwk.bund.de",
+  "Hauptadresse": "Scharnhorststraße 34 - 37",
+  "Internetadresse": "https://www.bmwk.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-philipp.html",
+  "Land": "DE",
+  "Längengrad": "13.372034",
+  "Organisation": "Koordinator der Bundesregierung für strategische Auslandsprojekte im Interesse der Bundesrepublik Deutschland",
+  "OrganisationDisplay": "KB Auslandsproj.",
+  "OrganisationId": 26048,
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BMWE",
+  "Telefon": "+49 3018 615-5010",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.519784",
+      "Bundesland": "Berlin",
+      "E-Mail": "buero-st-p@bmwk.bund.de",
+      "Hauptadresse": "Scharnhorststraße 34 - 37",
+      "Internetadresse": "https://www.bmwk.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-philipp.html",
+      "Land": "DE",
+      "Längengrad": "13.372034",
+      "Organisation": "Koordinator der Bundesregierung für strategische Auslandsprojekte im Interesse der Bundesrepublik Deutschland",
+      "OrganisationDisplay": "KB Auslandsproj.",
+      "OrganisationId": 26048,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BMWE",
+      "Telefon": "+49 3018 615-5010",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

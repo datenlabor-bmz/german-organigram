@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "54.3592998",
+  "Bundesland": "Schleswig-Holstein",
+  "Hauptadresse": "Schweriner Straße 17 a",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "10.1421963",
+  "Organisation": "Einsatzflottille 1",
+  "OrganisationDisplay": "EinsFlot 1",
+  "OrganisationId": 25846,
+  "Ort": "Kiel",
+  "PLZ": 24106,
+  "Ressort": "BMVg",
+  "Telefax": "+49 431 384-1201",
+  "Telefon": "+49 431 384-0",
+  "locations": [
+    {
+      "Breitengrad": "54.3592998",
+      "Bundesland": "Schleswig-Holstein",
+      "Hauptadresse": "Schweriner Straße 17 a",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "10.1421963",
+      "Organisation": "Einsatzflottille 1",
+      "OrganisationDisplay": "EinsFlot 1",
+      "OrganisationId": 25846,
+      "Ort": "Kiel",
+      "PLZ": 24106,
+      "Ressort": "BMVg",
+      "Telefax": "+49 431 384-1201",
+      "Telefon": "+49 431 384-0"
+    }
+  ]
+}

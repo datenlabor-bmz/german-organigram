@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.657866",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@adenauerhaus.de",
+  "Hauptadresse": "Konrad-Adenauer-Straße 8 c",
+  "Internetadresse": "https://www.adenauerhaus.de/",
+  "Land": "DE",
+  "Längengrad": "7.217504",
+  "Organisation": "Stiftung Bundeskanzler-Adenauer-Haus",
+  "OrganisationDisplay": "StBKAH",
+  "OrganisationId": 26144,
+  "OrganisationKurz": "StBKAH",
+  "Ort": "Bad Honnef",
+  "PLZ": 53604,
+  "Ressort": "BKM",
+  "Telefax": "+49 2224 921-111",
+  "Telefon": "+49 2224 921-0",
+  "locations": [
+    {
+      "Breitengrad": "50.657866",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@adenauerhaus.de",
+      "Hauptadresse": "Konrad-Adenauer-Straße 8 c",
+      "Internetadresse": "https://www.adenauerhaus.de/",
+      "Land": "DE",
+      "Längengrad": "7.217504",
+      "Organisation": "Stiftung Bundeskanzler-Adenauer-Haus",
+      "OrganisationDisplay": "StBKAH",
+      "OrganisationId": 26144,
+      "OrganisationKurz": "StBKAH",
+      "Ort": "Bad Honnef",
+      "PLZ": 53604,
+      "Ressort": "BKM",
+      "Telefax": "+49 2224 921-111",
+      "Telefon": "+49 2224 921-0"
+    }
+  ]
+}

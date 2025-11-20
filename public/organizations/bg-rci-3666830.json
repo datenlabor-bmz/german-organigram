@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.404623",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@bgrci.de",
+  "Hauptadresse": "Kurfürsten-Anlage 62",
+  "Internetadresse": "https://www.bgrci.de/",
+  "Land": "DE",
+  "Längengrad": "8.6805905",
+  "Organisation": "Berufsgenossenschaft Rohstoffe und chemische Industrie",
+  "OrganisationDisplay": "BG RCI",
+  "OrganisationId": 3666830,
+  "OrganisationKurz": "BG RCI",
+  "Ort": "Heidelberg",
+  "PLZ": 69115,
+  "Ressort": "BMAS",
+  "Telefax": "+49 6221 5108-48549",
+  "Telefon": "+49 6221 5108-0",
+  "locations": [
+    {
+      "Breitengrad": "49.404623",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@bgrci.de",
+      "Hauptadresse": "Kurfürsten-Anlage 62",
+      "Internetadresse": "https://www.bgrci.de/",
+      "Land": "DE",
+      "Längengrad": "8.6805905",
+      "Organisation": "Berufsgenossenschaft Rohstoffe und chemische Industrie",
+      "OrganisationDisplay": "BG RCI",
+      "OrganisationId": 3666830,
+      "OrganisationKurz": "BG RCI",
+      "Ort": "Heidelberg",
+      "PLZ": 69115,
+      "Ressort": "BMAS",
+      "Telefax": "+49 6221 5108-48549",
+      "Telefon": "+49 6221 5108-0"
+    }
+  ]
+}

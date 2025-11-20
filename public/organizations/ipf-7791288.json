@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.0418185",
+  "Bundesland": "Sachsen",
+  "E-Mail": "ipf@ipfdd.de",
+  "Hauptadresse": "Hohe Straße 6",
+  "Internetadresse": "https://www.ipfdd.de/de/home/",
+  "Land": "DE",
+  "Längengrad": "13.7241054",
+  "Organisation": "Leibniz-Institut für Polymerforschung Dresden e. V.",
+  "OrganisationDisplay": "IPF",
+  "OrganisationId": 7791288,
+  "OrganisationKurz": "IPF",
+  "Ort": "Dresden",
+  "PLZ": 1069,
+  "Telefax": "+49 351-4658-284",
+  "Telefon": "+49 351-4658-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.0418185",
+      "Bundesland": "Sachsen",
+      "E-Mail": "ipf@ipfdd.de",
+      "Hauptadresse": "Hohe Straße 6",
+      "Internetadresse": "https://www.ipfdd.de/de/home/",
+      "Land": "DE",
+      "Längengrad": "13.7241054",
+      "Organisation": "Leibniz-Institut für Polymerforschung Dresden e. V.",
+      "OrganisationDisplay": "IPF",
+      "OrganisationId": 7791288,
+      "OrganisationKurz": "IPF",
+      "Ort": "Dresden",
+      "PLZ": 1069,
+      "Telefax": "+49 351-4658-284",
+      "Telefon": "+49 351-4658-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.573432",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@baks.bund.de",
+  "Hauptadresse": "Ossietzkystraße 44 - 45",
+  "Internetadresse": "https://www.baks.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.407756",
+  "Organisation": "Bundesakademie für Sicherheitspolitik",
+  "OrganisationDisplay": "BAKS",
+  "OrganisationId": 16024,
+  "OrganisationKurz": "BAKS",
+  "Ort": "Berlin",
+  "PLZ": 13187,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 40046-421",
+  "Telefon": "+49 30 40046-420",
+  "locations": [
+    {
+      "Breitengrad": "52.573432",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@baks.bund.de",
+      "Hauptadresse": "Ossietzkystraße 44 - 45",
+      "Internetadresse": "https://www.baks.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.407756",
+      "Organisation": "Bundesakademie für Sicherheitspolitik",
+      "OrganisationDisplay": "BAKS",
+      "OrganisationId": 16024,
+      "OrganisationKurz": "BAKS",
+      "Ort": "Berlin",
+      "PLZ": 13187,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 40046-421",
+      "Telefon": "+49 30 40046-420"
+    }
+  ]
+}

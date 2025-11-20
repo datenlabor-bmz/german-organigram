@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.4401989",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@hsfk.de",
+  "Hauptadresse": "Baseler Straße 27-31",
+  "Internetadresse": "https://www.hsfk.de",
+  "Land": "DE",
+  "Längengrad": "13.2959248",
+  "Organisation": "Leibniz Institut Hessische Stiftung Friedens-und Konfliktforschung",
+  "OrganisationDisplay": "HSFK",
+  "OrganisationId": 7916948,
+  "OrganisationKurz": "HSFK",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60329,
+  "Telefax": "+49 69 558481",
+  "Telefon": "+49 69 959104-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.4401989",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@hsfk.de",
+      "Hauptadresse": "Baseler Straße 27-31",
+      "Internetadresse": "https://www.hsfk.de",
+      "Land": "DE",
+      "Längengrad": "13.2959248",
+      "Organisation": "Leibniz Institut Hessische Stiftung Friedens-und Konfliktforschung",
+      "OrganisationDisplay": "HSFK",
+      "OrganisationId": 7916948,
+      "OrganisationKurz": "HSFK",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60329,
+      "Telefax": "+49 69 558481",
+      "Telefon": "+49 69 959104-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

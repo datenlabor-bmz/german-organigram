@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.3980542",
+  "Bundesland": "Bayern",
+  "E-Mail": "contact.leibniz-lzb@tum.de",
+  "Hauptadresse": "Lise-Meitner-Straße 34",
+  "Internetadresse": "https://www.leibniz-lsb.de",
+  "Land": "DE",
+  "Längengrad": "11.7113808",
+  "Organisation": "Leibniz-Insitut für Lebensmittel-Systembiologie an der Technischen Universität München",
+  "OrganisationDisplay": "LSB",
+  "OrganisationId": 11642954,
+  "OrganisationKurz": "LSB",
+  "Ort": "Freising",
+  "PLZ": 85354,
+  "Telefax": "+49 8161 71-2970",
+  "Telefon": "+49 81 6171-2980",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.3980542",
+      "Bundesland": "Bayern",
+      "E-Mail": "contact.leibniz-lzb@tum.de",
+      "Hauptadresse": "Lise-Meitner-Straße 34",
+      "Internetadresse": "https://www.leibniz-lsb.de",
+      "Land": "DE",
+      "Längengrad": "11.7113808",
+      "Organisation": "Leibniz-Insitut für Lebensmittel-Systembiologie an der Technischen Universität München",
+      "OrganisationDisplay": "LSB",
+      "OrganisationId": 11642954,
+      "OrganisationKurz": "LSB",
+      "Ort": "Freising",
+      "PLZ": 85354,
+      "Telefax": "+49 8161 71-2970",
+      "Telefon": "+49 81 6171-2980",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.1383977",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle@zitis.bund.de",
+  "Hauptadresse": "Zamdorfer Straße 88",
+  "Internetadresse": "https://www.zitis.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "11.6416293",
+  "Organisation": "Zentrale Stelle für Informationstechnik im Sicherheitsbereich",
+  "OrganisationDisplay": "ZITiS",
+  "OrganisationId": 9805996,
+  "OrganisationKurz": "ZITiS",
+  "Ort": "München",
+  "PLZ": 81677,
+  "Ressort": "BMI",
+  "Telefon": "+49 89 6080 679-0",
+  "locations": [
+    {
+      "Breitengrad": "48.1383977",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle@zitis.bund.de",
+      "Hauptadresse": "Zamdorfer Straße 88",
+      "Internetadresse": "https://www.zitis.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "11.6416293",
+      "Organisation": "Zentrale Stelle für Informationstechnik im Sicherheitsbereich",
+      "OrganisationDisplay": "ZITiS",
+      "OrganisationId": 9805996,
+      "OrganisationKurz": "ZITiS",
+      "Ort": "München",
+      "PLZ": 81677,
+      "Ressort": "BMI",
+      "Telefon": "+49 89 6080 679-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.362892",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "wna-nord-ostsee-kanal@wsv.bund.de",
+  "Hauptadresse": "Schleuseninsel 2",
+  "Internetadresse": "https://www.wna-nord-ostsee-kanal.wsv.de",
+  "Land": "DE",
+  "Längengrad": "10.131668",
+  "Organisation": "Wasserstraßen-Neubauamt Nord-Ostsee-Kanal",
+  "OrganisationDisplay": "WNA-Nord-Ostsee-Kanal",
+  "OrganisationId": 16101784,
+  "OrganisationKurz": "WNA-Nord-Ostsee-Kanal",
+  "Ort": "Kiel",
+  "PLZ": 24159,
+  "Ressort": "BMV",
+  "Telefax": "+49 431 3603-414",
+  "Telefon": "+49 431 3603-0",
+  "locations": [
+    {
+      "Breitengrad": "54.362892",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "wna-nord-ostsee-kanal@wsv.bund.de",
+      "Hauptadresse": "Schleuseninsel 2",
+      "Internetadresse": "https://www.wna-nord-ostsee-kanal.wsv.de",
+      "Land": "DE",
+      "Längengrad": "10.131668",
+      "Organisation": "Wasserstraßen-Neubauamt Nord-Ostsee-Kanal",
+      "OrganisationDisplay": "WNA-Nord-Ostsee-Kanal",
+      "OrganisationId": 16101784,
+      "OrganisationKurz": "WNA-Nord-Ostsee-Kanal",
+      "Ort": "Kiel",
+      "PLZ": 24159,
+      "Ressort": "BMV",
+      "Telefax": "+49 431 3603-414",
+      "Telefon": "+49 431 3603-0"
+    }
+  ]
+}

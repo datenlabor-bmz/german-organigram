@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "48.1555175",
+  "Bundesland": "Bayern",
+  "E-Mail": "tolstoi@tolstoi.de",
+  "Hauptadresse": "Aldringenstraße 4",
+  "Internetadresse": "https://www.tolstoi.de",
+  "Land": "DE",
+  "Längengrad": "11.5312480",
+  "Organisation": "Tolstoi Hilfs- und Kulturwerk e. V.",
+  "OrganisationDisplay": "Tolstoi Hilfs- und Kulturwerk",
+  "OrganisationId": 7588854,
+  "Ort": "München",
+  "PLZ": 80639,
+  "Telefax": "+49 89 2289312",
+  "Telefon": "+49 089 299775",
+  "locations": [
+    {
+      "Breitengrad": "48.1555175",
+      "Bundesland": "Bayern",
+      "E-Mail": "tolstoi@tolstoi.de",
+      "Hauptadresse": "Aldringenstraße 4",
+      "Internetadresse": "https://www.tolstoi.de",
+      "Land": "DE",
+      "Längengrad": "11.5312480",
+      "Organisation": "Tolstoi Hilfs- und Kulturwerk e. V.",
+      "OrganisationDisplay": "Tolstoi Hilfs- und Kulturwerk",
+      "OrganisationId": 7588854,
+      "Ort": "München",
+      "PLZ": 80639,
+      "Telefax": "+49 89 2289312",
+      "Telefon": "+49 089 299775"
+    }
+  ]
+}

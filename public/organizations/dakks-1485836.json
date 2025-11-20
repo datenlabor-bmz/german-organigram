@@ -1,0 +1,62 @@
+{
+  "Breitengrad": "52.5122963",
+  "Bundesland": "Berlin",
+  "E-Mail": "kontakt@dakks.de",
+  "Hauptadresse": "Spittelmarkt 10",
+  "Internetadresse": "https://www.dakks.de/",
+  "Land": "DE",
+  "Längengrad": "13.4022455",
+  "Organisation": "Deutsche Akkreditierungsstelle GmbH",
+  "OrganisationDisplay": "DAkkS",
+  "OrganisationId": 1485836,
+  "OrganisationKurz": "DAkkS",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 670591-15",
+  "Telefon": "+49 30 670591-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5122963",
+      "Bundesland": "Berlin",
+      "E-Mail": "kontakt@dakks.de",
+      "Hauptadresse": "Spittelmarkt 10",
+      "Internetadresse": "https://www.dakks.de/",
+      "Land": "DE",
+      "Längengrad": "13.4022455",
+      "Organisation": "Deutsche Akkreditierungsstelle GmbH",
+      "OrganisationDisplay": "DAkkS",
+      "OrganisationId": 1485836,
+      "OrganisationKurz": "DAkkS",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 670591-15",
+      "Telefon": "+49 30 670591-0"
+    },
+    {
+      "Adresse": "Europa-Allee 52",
+      "Bundesland": "Hessen",
+      "Internetadresse": "https://www.dakks.de/",
+      "Land": "DE",
+      "Liegenschaft": "Standort Frankfurt am Main",
+      "LiegenschaftsId": 1485824,
+      "OrganisationId": 1485836,
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60327,
+      "Telefax": "+49 69 610943-90",
+      "Telefon": "+49 69 610943-0"
+    },
+    {
+      "Adresse": "Bundesallee 100",
+      "Bundesland": "Niedersachsen",
+      "Internetadresse": "https://www.dakks.de/",
+      "Land": "DE",
+      "Liegenschaft": "Standort Braunschweig",
+      "LiegenschaftsId": 1485816,
+      "OrganisationId": 1485836,
+      "Ort": "Braunschweig",
+      "PLZ": 38116,
+      "Telefax": "+49 531 592-1905",
+      "Telefon": "+49 531 592-1901"
+    }
+  ]
+}

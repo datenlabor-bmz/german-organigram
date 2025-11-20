@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.366528",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "fgeo@wsv.bund.de",
+  "Hauptadresse": "Am Waterlooplatz 5",
+  "Internetadresse": "https://www.gdws.wsv.bund.de/DE/service/karten/00_FGeoWSV/FGeoWSV.html",
+  "Land": "DE",
+  "Längengrad": " 9.728701",
+  "Organisation": "Fachstelle für Geodäsie und Geoinformationen der Wasserstraßen- und Schifffahrtsverwaltung",
+  "OrganisationDisplay": "FGeo-WSV",
+  "OrganisationId": 25790,
+  "OrganisationKurz": "FGeo-WSV",
+  "Ort": "Hannover",
+  "PLZ": 30169,
+  "Ressort": "BMV",
+  "Telefon": "+49 511 9115-0",
+  "locations": [
+    {
+      "Breitengrad": "52.366528",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "fgeo@wsv.bund.de",
+      "Hauptadresse": "Am Waterlooplatz 5",
+      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/service/karten/00_FGeoWSV/FGeoWSV.html",
+      "Land": "DE",
+      "Längengrad": " 9.728701",
+      "Organisation": "Fachstelle für Geodäsie und Geoinformationen der Wasserstraßen- und Schifffahrtsverwaltung",
+      "OrganisationDisplay": "FGeo-WSV",
+      "OrganisationId": 25790,
+      "OrganisationKurz": "FGeo-WSV",
+      "Ort": "Hannover",
+      "PLZ": 30169,
+      "Ressort": "BMV",
+      "Telefon": "+49 511 9115-0"
+    }
+  ]
+}

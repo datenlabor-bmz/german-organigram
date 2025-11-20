@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.02656",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@stsg.de",
+  "Hauptadresse": "Dülferstrasse 1",
+  "Internetadresse": "https://www.stsg.de/cms/index.php",
+  "Land": "DE",
+  "Längengrad": "13.72736",
+  "Organisation": "Stiftung Sächsische Gedenkstätten zur Erinnerung an die Opfer politischer Gewaltherrschaft",
+  "OrganisationDisplay": "Sächsische GS",
+  "OrganisationId": 8331036,
+  "Ort": "Dresden",
+  "PLZ": 1069,
+  "Telefax": "+49 351 46955-41",
+  "Telefon": "+49 351 46955 40",
+  "locations": [
+    {
+      "Breitengrad": "51.02656",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@stsg.de",
+      "Hauptadresse": "Dülferstrasse 1",
+      "Internetadresse": "https://www.stsg.de/cms/index.php",
+      "Land": "DE",
+      "Längengrad": "13.72736",
+      "Organisation": "Stiftung Sächsische Gedenkstätten zur Erinnerung an die Opfer politischer Gewaltherrschaft",
+      "OrganisationDisplay": "Sächsische GS",
+      "OrganisationId": 8331036,
+      "Ort": "Dresden",
+      "PLZ": 1069,
+      "Telefax": "+49 351 46955-41",
+      "Telefon": "+49 351 46955 40"
+    }
+  ]
+}

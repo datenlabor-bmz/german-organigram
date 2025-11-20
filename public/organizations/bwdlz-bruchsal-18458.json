@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.117449",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "BwDLZBruchsal@Bundeswehr.org",
+  "Hauptadresse": "Karlsruher Straße 25-27",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bruchsal",
+  "Land": "DE",
+  "Längengrad": "8.587108",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Bruchsal",
+  "OrganisationDisplay": "BwDLZ Bruchsal",
+  "OrganisationId": 18458,
+  "OrganisationKurz": "BwDLZ Bruchsal",
+  "Ort": "Bruchsal",
+  "PLZ": 76646,
+  "Ressort": "BMVg",
+  "Telefon": "+49 7251 98254-0",
+  "locations": [
+    {
+      "Breitengrad": "49.117449",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "BwDLZBruchsal@Bundeswehr.org",
+      "Hauptadresse": "Karlsruher Straße 25-27",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bruchsal",
+      "Land": "DE",
+      "Längengrad": "8.587108",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Bruchsal",
+      "OrganisationDisplay": "BwDLZ Bruchsal",
+      "OrganisationId": 18458,
+      "OrganisationKurz": "BwDLZ Bruchsal",
+      "Ort": "Bruchsal",
+      "PLZ": 76646,
+      "Ressort": "BMVg",
+      "Telefon": "+49 7251 98254-0"
+    }
+  ]
+}

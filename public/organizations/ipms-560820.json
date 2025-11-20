@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.1260927",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@ipms.fraunhofer.de",
+  "Hauptadresse": "Maria-Reiche-Straße 2",
+  "Internetadresse": "https://www.ipms.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "13.7850316",
+  "Organisation": "Fraunhofer Institut für Photonische Mikrosysteme",
+  "OrganisationDisplay": "IPMS",
+  "OrganisationId": 560820,
+  "OrganisationKurz": "IPMS",
+  "Ort": "Dresden",
+  "PLZ": 1109,
+  "Telefon": "+49 351 8823-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.1260927",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@ipms.fraunhofer.de",
+      "Hauptadresse": "Maria-Reiche-Straße 2",
+      "Internetadresse": "https://www.ipms.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "13.7850316",
+      "Organisation": "Fraunhofer Institut für Photonische Mikrosysteme",
+      "OrganisationDisplay": "IPMS",
+      "OrganisationId": 560820,
+      "OrganisationKurz": "IPMS",
+      "Ort": "Dresden",
+      "PLZ": 1109,
+      "Telefon": "+49 351 8823-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.886492",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@bundessprachenamt.de",
+  "Hauptadresse": "Horbeller Straße 52",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/das-bundessprachenamt/bundessprachenamt",
+  "Land": "DE",
+  "Längengrad": "6.878754",
+  "Organisation": "Bundessprachenamt",
+  "OrganisationDisplay": "BSprA",
+  "OrganisationId": 20808,
+  "OrganisationKurz": "BSprA",
+  "Ort": "Hürth",
+  "PLZ": 50354,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2233 593-0",
+  "locations": [
+    {
+      "Breitengrad": "50.886492",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@bundessprachenamt.de",
+      "Hauptadresse": "Horbeller Straße 52",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/das-bundessprachenamt/bundessprachenamt",
+      "Land": "DE",
+      "Längengrad": "6.878754",
+      "Organisation": "Bundessprachenamt",
+      "OrganisationDisplay": "BSprA",
+      "OrganisationId": 20808,
+      "OrganisationKurz": "BSprA",
+      "Ort": "Hürth",
+      "PLZ": 50354,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2233 593-0"
+    }
+  ]
+}

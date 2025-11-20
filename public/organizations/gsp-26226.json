@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.737034",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "geschäftsstelle@gsp-sipo.de",
+  "Hauptadresse": "Wenzelgasse 42",
+  "Internetadresse": "https://www.gsp-sipo.de/",
+  "Land": "DE",
+  "Längengrad": "7.10258",
+  "Organisation": "Gesellschaft für Sicherheitspolitik e. V.",
+  "OrganisationDisplay": "GSP",
+  "OrganisationId": 26226,
+  "OrganisationKurz": "GSP",
+  "Ort": "Bonn",
+  "PLZ": 53111,
+  "Telefax": "+49 228 658093",
+  "Telefon": "+49 228 652556",
+  "locations": [
+    {
+      "Breitengrad": "50.737034",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "geschäftsstelle@gsp-sipo.de",
+      "Hauptadresse": "Wenzelgasse 42",
+      "Internetadresse": "https://www.gsp-sipo.de/",
+      "Land": "DE",
+      "Längengrad": "7.10258",
+      "Organisation": "Gesellschaft für Sicherheitspolitik e. V.",
+      "OrganisationDisplay": "GSP",
+      "OrganisationId": 26226,
+      "OrganisationKurz": "GSP",
+      "Ort": "Bonn",
+      "PLZ": 53111,
+      "Telefax": "+49 228 658093",
+      "Telefon": "+49 228 652556"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.206516",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "KdoAufklWirkPresse@bundeswehr.org",
+  "Hauptadresse": "Heinrich-Hertz-Straße 6",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung",
+  "Land": "DE",
+  "Längengrad": "6.825964",
+  "Organisation": "Kommando Aufklärung und Wirkung",
+  "OrganisationDisplay": "KdoAufklWirk",
+  "OrganisationId": 11801466,
+  "OrganisationKurz": "KdoAufklWirk",
+  "Ort": "Daun",
+  "PLZ": 54550,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6592 172110",
+  "locations": [
+    {
+      "Breitengrad": "50.206516",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "KdoAufklWirkPresse@bundeswehr.org",
+      "Hauptadresse": "Heinrich-Hertz-Straße 6",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung",
+      "Land": "DE",
+      "Längengrad": "6.825964",
+      "Organisation": "Kommando Aufklärung und Wirkung",
+      "OrganisationDisplay": "KdoAufklWirk",
+      "OrganisationId": 11801466,
+      "OrganisationKurz": "KdoAufklWirk",
+      "Ort": "Daun",
+      "PLZ": 54550,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6592 172110"
+    }
+  ]
+}

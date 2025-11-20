@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "49.483899",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@bghw.de",
+  "Hauptadresse": "M 5, 7 ",
+  "Internetadresse": "https://www.bghw.de/",
+  "Land": "DE",
+  "Längengrad": "8.467256",
+  "Organisation": "Berufsgenossenschaft Handel und Warenlogistik",
+  "OrganisationDisplay": "BGHW",
+  "OrganisationId": 24922,
+  "OrganisationKurz": "BGHW",
+  "Ort": "Mannheim",
+  "PLZ": 68161,
+  "Ressort": "BMAS",
+  "Telefax": "+49 621 183-5191",
+  "Telefon": "+49 621 183-0",
+  "locations": [
+    {
+      "Breitengrad": "49.483899",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@bghw.de",
+      "Hauptadresse": "M 5, 7 ",
+      "Internetadresse": "https://www.bghw.de/",
+      "Land": "DE",
+      "Längengrad": "8.467256",
+      "Organisation": "Berufsgenossenschaft Handel und Warenlogistik",
+      "OrganisationDisplay": "BGHW",
+      "OrganisationId": 24922,
+      "OrganisationKurz": "BGHW",
+      "Ort": "Mannheim",
+      "PLZ": 68161,
+      "Ressort": "BMAS",
+      "Telefax": "+49 621 183-5191",
+      "Telefon": "+49 621 183-0"
+    },
+    {
+      "Adresse": "Hermann-Milde-Straße 1",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@bghw.de",
+      "Internetadresse": "https://www.bghw.de/",
+      "Land": "DE",
+      "Liegenschaft": "Direktion Bonn",
+      "LiegenschaftsId": 24946,
+      "OrganisationId": 24922,
+      "Ort": "Bonn",
+      "PLZ": 53129,
+      "Telefax": "+49 228 5406-5129",
+      "Telefon": "+49 228 5406-9"
+    }
+  ]
+}

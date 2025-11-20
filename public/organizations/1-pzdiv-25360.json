@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.0924341",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "1.PzDivPressestelle@Bundeswehr.org",
+  "Hauptadresse": "Bümmersteder Tredde 34",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/1-panzerdivision",
+  "Land": "DE",
+  "Längengrad": "8.2172728",
+  "Organisation": "1. Panzerdivision",
+  "OrganisationDisplay": "1. PzDiv",
+  "OrganisationId": 25360,
+  "OrganisationKurz": "1. PzDiv",
+  "Ort": "Oldenburg",
+  "PLZ": 26133,
+  "Ressort": "BMVg",
+  "Telefon": "+49 441 360-2021",
+  "locations": [
+    {
+      "Breitengrad": "53.0924341",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "1.PzDivPressestelle@Bundeswehr.org",
+      "Hauptadresse": "Bümmersteder Tredde 34",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/1-panzerdivision",
+      "Land": "DE",
+      "Längengrad": "8.2172728",
+      "Organisation": "1. Panzerdivision",
+      "OrganisationDisplay": "1. PzDiv",
+      "OrganisationId": 25360,
+      "OrganisationKurz": "1. PzDiv",
+      "Ort": "Oldenburg",
+      "PLZ": 26133,
+      "Ressort": "BMVg",
+      "Telefon": "+49 441 360-2021"
+    }
+  ]
+}

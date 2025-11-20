@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.0304993",
+  "Bundesland": "Sachsen",
+  "Hauptadresse": "Winterbergstraße 28",
+  "Internetadresse": "https://www.fep.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "13.7811507",
+  "Organisation": "Fraunhofer-Institut für Elektronenstrahl- und Plasmatechnik",
+  "OrganisationDisplay": "FEP",
+  "OrganisationId": 450748,
+  "OrganisationKurz": "FEP",
+  "Ort": "Dresden",
+  "PLZ": 1277,
+  "Telefax": "+49 351 2586-105",
+  "Telefon": "+49 351 2586-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.0304993",
+      "Bundesland": "Sachsen",
+      "Hauptadresse": "Winterbergstraße 28",
+      "Internetadresse": "https://www.fep.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "13.7811507",
+      "Organisation": "Fraunhofer-Institut für Elektronenstrahl- und Plasmatechnik",
+      "OrganisationDisplay": "FEP",
+      "OrganisationId": 450748,
+      "OrganisationKurz": "FEP",
+      "Ort": "Dresden",
+      "PLZ": 1277,
+      "Telefax": "+49 351 2586-105",
+      "Telefon": "+49 351 2586-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

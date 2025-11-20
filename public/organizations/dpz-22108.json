@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.560944",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@dpz.eu",
+  "Hauptadresse": "Kellnerweg 4",
+  "Internetadresse": "https://www.dpz.eu/de/startseite.html",
+  "Land": "DE",
+  "Längengrad": "9.953747",
+  "Organisation": "Deutsches Primatenzentrum GmbH - Leibniz-Institut für Primatenforschung",
+  "OrganisationDisplay": "DPZ",
+  "OrganisationId": 22108,
+  "OrganisationKurz": "DPZ",
+  "Ort": "Göttingen",
+  "PLZ": 37077,
+  "Telefax": "+49 551 3851-228",
+  "Telefon": "+49 551 3851-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.560944",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@dpz.eu",
+      "Hauptadresse": "Kellnerweg 4",
+      "Internetadresse": "https://www.dpz.eu/de/startseite.html",
+      "Land": "DE",
+      "Längengrad": "9.953747",
+      "Organisation": "Deutsches Primatenzentrum GmbH - Leibniz-Institut für Primatenforschung",
+      "OrganisationDisplay": "DPZ",
+      "OrganisationId": 22108,
+      "OrganisationKurz": "DPZ",
+      "Ort": "Göttingen",
+      "PLZ": 37077,
+      "Telefax": "+49 551 3851-228",
+      "Telefon": "+49 551 3851-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

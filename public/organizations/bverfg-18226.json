@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.012463",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "bverfg@bundesverfassungsgericht.de",
+  "Hauptadresse": "Schlossbezirk 3",
+  "Internetadresse": "https://www.bundesverfassungsgericht.de/",
+  "Land": "DE",
+  "Längengrad": "8.401772",
+  "Organisation": "Bundesverfassungsgericht",
+  "OrganisationDisplay": "BVerfG",
+  "OrganisationId": 18226,
+  "OrganisationKurz": "BVerfG",
+  "Ort": "Karlsruhe",
+  "PLZ": 76131,
+  "Telefax": "+49 721 9101-382",
+  "Telefon": "+49 721 9101-0",
+  "locations": [
+    {
+      "Breitengrad": "49.012463",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "bverfg@bundesverfassungsgericht.de",
+      "Hauptadresse": "Schlossbezirk 3",
+      "Internetadresse": "https://www.bundesverfassungsgericht.de/",
+      "Land": "DE",
+      "Längengrad": "8.401772",
+      "Organisation": "Bundesverfassungsgericht",
+      "OrganisationDisplay": "BVerfG",
+      "OrganisationId": 18226,
+      "OrganisationKurz": "BVerfG",
+      "Ort": "Karlsruhe",
+      "PLZ": 76131,
+      "Telefax": "+49 721 9101-382",
+      "Telefon": "+49 721 9101-0"
+    }
+  ]
+}

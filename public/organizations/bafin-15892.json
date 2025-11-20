@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "50.748026",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@bafin.de",
+  "Hauptadresse": "Graurheindorfer Straße 108",
+  "Internetadresse": "https://www.bafin.de",
+  "Land": "DE",
+  "Längengrad": "7.093781",
+  "Organisation": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+  "OrganisationDisplay": "BaFin",
+  "OrganisationId": 15892,
+  "OrganisationKurz": "BaFin",
+  "Ort": "Bonn",
+  "PLZ": 53117,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 4108-1550",
+  "Telefon": "+49 228 4108-0",
+  "locations": [
+    {
+      "Breitengrad": "50.748026",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bafin.de",
+      "Hauptadresse": "Graurheindorfer Straße 108",
+      "Internetadresse": "https://www.bafin.de",
+      "Land": "DE",
+      "Längengrad": "7.093781",
+      "Organisation": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+      "OrganisationDisplay": "BaFin",
+      "OrganisationId": 15892,
+      "OrganisationKurz": "BaFin",
+      "Ort": "Bonn",
+      "PLZ": 53117,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 4108-1550",
+      "Telefon": "+49 228 4108-0"
+    },
+    {
+      "Adresse": "Marie-Curie-Straße 24 - 28",
+      "Bundesland": "Hessen",
+      "E-Mail": "poststelle@bafin.de",
+      "Internetadresse": "https://www.bafin.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Frankfurt",
+      "LiegenschaftsId": 15948,
+      "OrganisationId": 15892,
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60439,
+      "Telefax": "+49 228 4108-123",
+      "Telefon": "+49 228 4108-0"
+    }
+  ]
+}

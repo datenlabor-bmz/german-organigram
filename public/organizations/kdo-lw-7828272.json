@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.46689",
+  "Bundesland": "Berlin",
+  "E-Mail": "PIZLwPresse@bundeswehr.org",
+  "Hauptadresse": "Kladower Damm 182",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/kommando-luftwaffe",
+  "Land": "DE",
+  "Längengrad": "13.16088",
+  "Organisation": "Kommando Luftwaffe",
+  "OrganisationDisplay": "Kdo Lw",
+  "OrganisationId": 7828272,
+  "OrganisationKurz": "Kdo Lw",
+  "Ort": "Berlin",
+  "PLZ": 14089,
+  "Ressort": "BMVg",
+  "Telefon": "+49 30 3687-3931",
+  "locations": [
+    {
+      "Breitengrad": "52.46689",
+      "Bundesland": "Berlin",
+      "E-Mail": "PIZLwPresse@bundeswehr.org",
+      "Hauptadresse": "Kladower Damm 182",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/kommando-luftwaffe",
+      "Land": "DE",
+      "Längengrad": "13.16088",
+      "Organisation": "Kommando Luftwaffe",
+      "OrganisationDisplay": "Kdo Lw",
+      "OrganisationId": 7828272,
+      "OrganisationKurz": "Kdo Lw",
+      "Ort": "Berlin",
+      "PLZ": 14089,
+      "Ressort": "BMVg",
+      "Telefon": "+49 30 3687-3931"
+    }
+  ]
+}

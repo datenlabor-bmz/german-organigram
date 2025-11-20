@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.812338",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "service@pbeakk.de",
+  "Hauptadresse": "Nauheimer Str. 98",
+  "Internetadresse": "https://www.pbeakk.de",
+  "Land": "DE",
+  "Längengrad": "9.17786",
+  "Organisation": "Postbeamtenkrankenkasse",
+  "OrganisationDisplay": "PBeaKK",
+  "OrganisationId": 26870,
+  "OrganisationKurz": "PBeaKK",
+  "Ort": "Stuttgart",
+  "PLZ": 70372,
+  "Telefax": "+49 711 346 529-98",
+  "Telefon": "+49 711 346 529-96",
+  "locations": [
+    {
+      "Breitengrad": "48.812338",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "service@pbeakk.de",
+      "Hauptadresse": "Nauheimer Str. 98",
+      "Internetadresse": "https://www.pbeakk.de",
+      "Land": "DE",
+      "Längengrad": "9.17786",
+      "Organisation": "Postbeamtenkrankenkasse",
+      "OrganisationDisplay": "PBeaKK",
+      "OrganisationId": 26870,
+      "OrganisationKurz": "PBeaKK",
+      "Ort": "Stuttgart",
+      "PLZ": 70372,
+      "Telefax": "+49 711 346 529-98",
+      "Telefon": "+49 711 346 529-96"
+    }
+  ]
+}

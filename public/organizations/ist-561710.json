@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.3015437",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@ist.fraunhofer.de",
+  "Hauptadresse": "Bienroder Weg 54 E",
+  "Internetadresse": "https://www.ist.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "10.545708",
+  "Organisation": "Fraunhofer-Institut für Schicht- und Oberflächentechnik",
+  "OrganisationDisplay": "IST",
+  "OrganisationId": 561710,
+  "OrganisationKurz": "IST",
+  "Ort": "Braunschweig",
+  "PLZ": 38108,
+  "Telefax": "+49 531 2155-900",
+  "Telefon": "+49 531 2155-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.3015437",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@ist.fraunhofer.de",
+      "Hauptadresse": "Bienroder Weg 54 E",
+      "Internetadresse": "https://www.ist.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "10.545708",
+      "Organisation": "Fraunhofer-Institut für Schicht- und Oberflächentechnik",
+      "OrganisationDisplay": "IST",
+      "OrganisationId": 561710,
+      "OrganisationKurz": "IST",
+      "Ort": "Braunschweig",
+      "PLZ": 38108,
+      "Telefax": "+49 531 2155-900",
+      "Telefon": "+49 531 2155-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

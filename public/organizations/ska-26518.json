@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.701396",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "SKAGrpPers@bundeswehr.org",
+  "Hauptadresse": "Pascalstraße 10s",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt",
+  "Land": "DE",
+  "Längengrad": "7.051404",
+  "Organisation": "Streitkräfteamt",
+  "OrganisationDisplay": "SKA",
+  "OrganisationId": 26518,
+  "OrganisationKurz": "SKA",
+  "Ort": "Bonn",
+  "PLZ": 53123,
+  "Ressort": "BMVg",
+  "Telefax": "+49 228 5504-6109",
+  "Telefon": "+49 228 5504-6101",
+  "locations": [
+    {
+      "Breitengrad": "50.701396",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "SKAGrpPers@bundeswehr.org",
+      "Hauptadresse": "Pascalstraße 10s",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt",
+      "Land": "DE",
+      "Längengrad": "7.051404",
+      "Organisation": "Streitkräfteamt",
+      "OrganisationDisplay": "SKA",
+      "OrganisationId": 26518,
+      "OrganisationKurz": "SKA",
+      "Ort": "Bonn",
+      "PLZ": 53123,
+      "Ressort": "BMVg",
+      "Telefax": "+49 228 5504-6109",
+      "Telefon": "+49 228 5504-6101"
+    }
+  ]
+}

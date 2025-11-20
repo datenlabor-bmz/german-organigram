@@ -1,0 +1,60 @@
+{
+  "Breitengrad": "49.931682",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@gsi.de",
+  "Hauptadresse": "Planckstraße 1",
+  "Internetadresse": "https://www.gsi.de/start/aktuelles",
+  "Land": "DE",
+  "Längengrad": "8.67614",
+  "Organisation": "Gesellschaft für Schwerionenforschung mbH",
+  "OrganisationDisplay": "GSI",
+  "OrganisationId": 26030,
+  "OrganisationKurz": "GSI",
+  "Ort": "Darmstadt",
+  "PLZ": 64291,
+  "Telefax": "+49 6159 71-2785",
+  "Telefon": "+49 6159 71-0",
+  "locations": [
+    {
+      "Breitengrad": "49.931682",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@gsi.de",
+      "Hauptadresse": "Planckstraße 1",
+      "Internetadresse": "https://www.gsi.de/start/aktuelles",
+      "Land": "DE",
+      "Längengrad": "8.67614",
+      "Organisation": "Gesellschaft für Schwerionenforschung mbH",
+      "OrganisationDisplay": "GSI",
+      "OrganisationId": 26030,
+      "OrganisationKurz": "GSI",
+      "Ort": "Darmstadt",
+      "PLZ": 64291,
+      "Telefax": "+49 6159 71-2785",
+      "Telefon": "+49 6159 71-0"
+    },
+    {
+      "Adresse": "Johann-Joachim-Becherweg 36",
+      "Bundesland": "Rheinland-Pfalz",
+      "Internetadresse": "https://www.gsi.de/start/aktuelles",
+      "Land": "DE",
+      "Liegenschaft": "Helmholtz-Institut Mainz",
+      "LiegenschaftsId": 6868676,
+      "OrganisationId": 26030,
+      "Ort": "Mainz",
+      "PLZ": 55128
+    },
+    {
+      "Adresse": "Fröbelstieg 3",
+      "Bundesland": "Thüringen",
+      "Internetadresse": "https://www.gsi.de/start/aktuelles",
+      "Land": "DE",
+      "Liegenschaft": "Helmholtz-Institut Jena",
+      "LiegenschaftsId": 6868658,
+      "OrganisationId": 26030,
+      "Ort": "Jena",
+      "PLZ": 7743,
+      "Telefax": "+49 3641 947-602",
+      "Telefon": "+49 3641 947-601"
+    }
+  ]
+}

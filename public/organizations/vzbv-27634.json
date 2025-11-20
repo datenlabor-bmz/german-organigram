@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.50608",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@vzbv.de",
+  "Hauptadresse": "Rudi-Dutschke-Straße 17",
+  "Internetadresse": "https://www.vzbv.de/",
+  "Land": "DE",
+  "Längengrad": "13.394506",
+  "Organisation": "Verbraucherzentrale Bundesverband e. V.",
+  "OrganisationDisplay": "VZBV",
+  "OrganisationId": 27634,
+  "OrganisationKurz": "VZBV",
+  "Ort": "Berlin",
+  "PLZ": 10969,
+  "Telefax": "+49 30 25800-518",
+  "Telefon": "+49 30 25800-0",
+  "locations": [
+    {
+      "Breitengrad": "52.50608",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@vzbv.de",
+      "Hauptadresse": "Rudi-Dutschke-Straße 17",
+      "Internetadresse": "https://www.vzbv.de/",
+      "Land": "DE",
+      "Längengrad": "13.394506",
+      "Organisation": "Verbraucherzentrale Bundesverband e. V.",
+      "OrganisationDisplay": "VZBV",
+      "OrganisationId": 27634,
+      "OrganisationKurz": "VZBV",
+      "Ort": "Berlin",
+      "PLZ": 10969,
+      "Telefax": "+49 30 25800-518",
+      "Telefon": "+49 30 25800-0"
+    }
+  ]
+}

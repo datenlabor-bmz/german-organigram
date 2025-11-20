@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.10202",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "abcabwkdoabtfuej1@bundeswehr.org",
+  "Hauptadresse": "Eichelberg 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/abc-abwehrkommando-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "8.584535",
+  "Organisation": "Schule ABC-Abwehr und Gesetzliche Schutzaufgaben",
+  "OrganisationDisplay": "SABCAbw/GSchAufg",
+  "OrganisationId": 610162,
+  "OrganisationKurz": "SABCAbw/GSchAufg",
+  "Ort": "Bruchsal",
+  "PLZ": 76646,
+  "Ressort": "BMVg",
+  "Telefon": "+49 7251 938 2132",
+  "locations": [
+    {
+      "Breitengrad": "49.10202",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "abcabwkdoabtfuej1@bundeswehr.org",
+      "Hauptadresse": "Eichelberg 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/abc-abwehrkommando-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "8.584535",
+      "Organisation": "Schule ABC-Abwehr und Gesetzliche Schutzaufgaben",
+      "OrganisationDisplay": "SABCAbw/GSchAufg",
+      "OrganisationId": 610162,
+      "OrganisationKurz": "SABCAbw/GSchAufg",
+      "Ort": "Bruchsal",
+      "PLZ": 76646,
+      "Ressort": "BMVg",
+      "Telefon": "+49 7251 938 2132"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5085897",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@isst.fraunhofer.de",
+  "Hauptadresse": "Emil-Figge-Straße 91",
+  "Internetadresse": "https://www.isst.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.3254186",
+  "Organisation": "Fraunhofer-Institut für Software- und Systemtechnik",
+  "OrganisationDisplay": "ISST",
+  "OrganisationId": 568648,
+  "OrganisationKurz": "ISST",
+  "Ort": "Dortmund",
+  "PLZ": 44227,
+  "Telefax": "+49 231 97677-199",
+  "Telefon": "+49 231 97677-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5085897",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@isst.fraunhofer.de",
+      "Hauptadresse": "Emil-Figge-Straße 91",
+      "Internetadresse": "https://www.isst.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.3254186",
+      "Organisation": "Fraunhofer-Institut für Software- und Systemtechnik",
+      "OrganisationDisplay": "ISST",
+      "OrganisationId": 568648,
+      "OrganisationKurz": "ISST",
+      "Ort": "Dortmund",
+      "PLZ": 44227,
+      "Telefax": "+49 231 97677-199",
+      "Telefon": "+49 231 97677-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.7118115",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@die-bonn.de",
+  "Hauptadresse": "Heinemannstraße 12-14",
+  "Internetadresse": "https://www.die-bonn.de/",
+  "Land": "DE",
+  "Längengrad": "7.1260085",
+  "Organisation": "Deutsches Institut für Erwachsenenbildung - Leibniz-Zentrum für Lebenslanges Lernen e.V.",
+  "OrganisationDisplay": "DIE",
+  "OrganisationId": 319030,
+  "OrganisationKurz": "DIE",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 3294-399",
+  "Telefon": "+49 228 3294-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.7118115",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@die-bonn.de",
+      "Hauptadresse": "Heinemannstraße 12-14",
+      "Internetadresse": "https://www.die-bonn.de/",
+      "Land": "DE",
+      "Längengrad": "7.1260085",
+      "Organisation": "Deutsches Institut für Erwachsenenbildung - Leibniz-Zentrum für Lebenslanges Lernen e.V.",
+      "OrganisationDisplay": "DIE",
+      "OrganisationId": 319030,
+      "OrganisationKurz": "DIE",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 3294-399",
+      "Telefon": "+49 228 3294-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

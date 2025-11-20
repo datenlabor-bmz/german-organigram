@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.632526",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "BwDLZDoberlugKirchhain@bundeswehr.org",
+  "Hauptadresse": "Torgauer Straße 90",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-doberlug-kirchhain",
+  "Land": "DE",
+  "Längengrad": "13.538892",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Doberlug-Kirchhain",
+  "OrganisationDisplay": "BwDLZ Doberlug-Kirchhain",
+  "OrganisationId": 18568,
+  "OrganisationKurz": "BwDLZ Doberlug-Kirchhain",
+  "Ort": "Doberlug-Kirchhain",
+  "PLZ": 3253,
+  "Ressort": "BMVg",
+  "Telefon": "+49 35322 52-0",
+  "locations": [
+    {
+      "Breitengrad": "51.632526",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "BwDLZDoberlugKirchhain@bundeswehr.org",
+      "Hauptadresse": "Torgauer Straße 90",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-doberlug-kirchhain",
+      "Land": "DE",
+      "Längengrad": "13.538892",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Doberlug-Kirchhain",
+      "OrganisationDisplay": "BwDLZ Doberlug-Kirchhain",
+      "OrganisationId": 18568,
+      "OrganisationKurz": "BwDLZ Doberlug-Kirchhain",
+      "Ort": "Doberlug-Kirchhain",
+      "PLZ": 3253,
+      "Ressort": "BMVg",
+      "Telefon": "+49 35322 52-0"
+    }
+  ]
+}

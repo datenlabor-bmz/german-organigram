@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.793695",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "info@ecmi.de",
+  "Hauptadresse": "Schiffbrücke 12",
+  "Internetadresse": "https://www.ecmi.de/",
+  "Land": "DE",
+  "Längengrad": "9.433297",
+  "Organisation": "Europäisches Zentrum für Minderheitenfragen",
+  "OrganisationDisplay": "ECMI",
+  "OrganisationId": 24714,
+  "OrganisationKurz": "ECMI",
+  "Ort": "Flensburg",
+  "PLZ": 24939,
+  "Telefax": "+49 461 14149-19",
+  "Telefon": "+49 461 14149-0",
+  "locations": [
+    {
+      "Breitengrad": "54.793695",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "info@ecmi.de",
+      "Hauptadresse": "Schiffbrücke 12",
+      "Internetadresse": "https://www.ecmi.de/",
+      "Land": "DE",
+      "Längengrad": "9.433297",
+      "Organisation": "Europäisches Zentrum für Minderheitenfragen",
+      "OrganisationDisplay": "ECMI",
+      "OrganisationId": 24714,
+      "OrganisationKurz": "ECMI",
+      "Ort": "Flensburg",
+      "PLZ": 24939,
+      "Telefax": "+49 461 14149-19",
+      "Telefon": "+49 461 14149-0"
+    }
+  ]
+}

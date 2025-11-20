@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.3158539",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "ihp@ihp-microelectronics.com",
+  "Hauptadresse": "Im Technologiepark 25",
+  "Internetadresse": "https://www.ihp-microelectronics.com",
+  "Land": "DE",
+  "Längengrad": "14.4947556",
+  "Organisation": "IHP GmbH - Leibniz-Institut für innovative Mikroelektronik",
+  "OrganisationDisplay": "IHP",
+  "OrganisationId": 322196,
+  "OrganisationKurz": "IHP",
+  "Ort": "Frankfurt (Oder)",
+  "PLZ": 15236,
+  "Telefax": "+49 335 5625-300",
+  "Telefon": "+49 335 5625-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.3158539",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "ihp@ihp-microelectronics.com",
+      "Hauptadresse": "Im Technologiepark 25",
+      "Internetadresse": "https://www.ihp-microelectronics.com",
+      "Land": "DE",
+      "Längengrad": "14.4947556",
+      "Organisation": "IHP GmbH - Leibniz-Institut für innovative Mikroelektronik",
+      "OrganisationDisplay": "IHP",
+      "OrganisationId": 322196,
+      "OrganisationKurz": "IHP",
+      "Ort": "Frankfurt (Oder)",
+      "PLZ": 15236,
+      "Telefax": "+49 335 5625-300",
+      "Telefon": "+49 335 5625-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

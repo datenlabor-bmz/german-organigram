@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.2100186",
+  "Bundesland": "Bayern",
+  "E-Mail": "KathMilDekanatMuenchen@bundeswehr.org",
+  "Hauptadresse": "Ingolstädter Straße 240",
+  "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge/organisation/militaerdekanate/muenchen",
+  "Land": "DE",
+  "Längengrad": "11.5886323",
+  "Organisation": "Katholisches Militärdekanat München",
+  "OrganisationDisplay": "Militärdekanat München",
+  "OrganisationId": 650936,
+  "Ort": "München",
+  "PLZ": 80939,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 3168 - 6054",
+  "Telefon": "+49 89 3168 - 6050",
+  "locations": [
+    {
+      "Breitengrad": "48.2100186",
+      "Bundesland": "Bayern",
+      "E-Mail": "KathMilDekanatMuenchen@bundeswehr.org",
+      "Hauptadresse": "Ingolstädter Straße 240",
+      "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge/organisation/militaerdekanate/muenchen",
+      "Land": "DE",
+      "Längengrad": "11.5886323",
+      "Organisation": "Katholisches Militärdekanat München",
+      "OrganisationDisplay": "Militärdekanat München",
+      "OrganisationId": 650936,
+      "Ort": "München",
+      "PLZ": 80939,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 3168 - 6054",
+      "Telefon": "+49 89 3168 - 6050"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.4288515",
+  "Bundesland": "Berlin",
+  "E-Mail": "fbh@fbh-berlin.de",
+  "Hauptadresse": "Gustav-Kirchhoff-Straße 4",
+  "Internetadresse": "https://www.fbh-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.5343625",
+  "Organisation": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
+  "OrganisationDisplay": "FBH",
+  "OrganisationId": 319130,
+  "OrganisationKurz": "FBH",
+  "Ort": "Berlin",
+  "PLZ": 12489,
+  "Telefax": "+49 30 6392-2602",
+  "Telefon": "+49 30 6392-2600",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.4288515",
+      "Bundesland": "Berlin",
+      "E-Mail": "fbh@fbh-berlin.de",
+      "Hauptadresse": "Gustav-Kirchhoff-Straße 4",
+      "Internetadresse": "https://www.fbh-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.5343625",
+      "Organisation": "Ferdinand-Braun-Institut, Leibniz-Institut für Höchstfrequenztechnik",
+      "OrganisationDisplay": "FBH",
+      "OrganisationId": 319130,
+      "OrganisationKurz": "FBH",
+      "Ort": "Berlin",
+      "PLZ": 12489,
+      "Telefax": "+49 30 6392-2602",
+      "Telefon": "+49 30 6392-2600",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

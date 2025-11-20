@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.7401498",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "irb@irb.fraunhofer.de",
+  "Hauptadresse": "Nobelstraße 12",
+  "Land": "DE",
+  "Längengrad": "9.0973781",
+  "Organisation": "Fraunhofer Informationszentrum für RAUM und BAU",
+  "OrganisationDisplay": "IRB",
+  "OrganisationId": 514594,
+  "OrganisationKurz": "IRB",
+  "Ort": "Stuttgart",
+  "PLZ": 70569,
+  "Telefax": "+49 711 970-2508",
+  "Telefon": "+49 711 970-2500",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.7401498",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "irb@irb.fraunhofer.de",
+      "Hauptadresse": "Nobelstraße 12",
+      "Land": "DE",
+      "Längengrad": "9.0973781",
+      "Organisation": "Fraunhofer Informationszentrum für RAUM und BAU",
+      "OrganisationDisplay": "IRB",
+      "OrganisationId": 514594,
+      "OrganisationKurz": "IRB",
+      "Ort": "Stuttgart",
+      "PLZ": 70569,
+      "Telefax": "+49 711 970-2508",
+      "Telefon": "+49 711 970-2500",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

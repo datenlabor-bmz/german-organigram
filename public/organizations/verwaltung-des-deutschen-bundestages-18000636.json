@@ -1,0 +1,253 @@
+{
+  "Breitengrad": "52.519244",
+  "Bundesland": "Berlin",
+  "E-Mail": "mail@bundestag.de",
+  "Hauptadresse": "Platz der Republik 1",
+  "Internetadresse": "https://www.bundestag.de/parlament/verwaltung",
+  "Land": "DE",
+  "Längengrad": "13.375096",
+  "Organisation": "Verwaltung des Deutschen Bundestages",
+  "OrganisationDisplay": "Verwaltung des Bundestages",
+  "OrganisationId": 18000636,
+  "Ort": "Berlin",
+  "PLZ": 11011,
+  "Telefax": "+49 30 227-36878, +49 30 227-36979",
+  "Telefon": "+49 30 227-0",
+  "Kategorie": "Oberste Bundesbehörde",
+  "Wikidata ID": "Q131195546",
+  "Ressort": "ORG_18000636",
+  "locations": [
+    {
+      "Breitengrad": "52.519244",
+      "Bundesland": "Berlin",
+      "E-Mail": "mail@bundestag.de",
+      "Hauptadresse": "Platz der Republik 1",
+      "Internetadresse": "https://www.bundestag.de/parlament/verwaltung",
+      "Land": "DE",
+      "Längengrad": "13.375096",
+      "Organisation": "Verwaltung des Deutschen Bundestages",
+      "OrganisationDisplay": "Verwaltung des Bundestages",
+      "OrganisationId": 18000636,
+      "Ort": "Berlin",
+      "PLZ": 11011,
+      "Telefax": "+49 30 227-36878, +49 30 227-36979",
+      "Telefon": "+49 30 227-0",
+      "Kategorie": "Oberste Bundesbehörde",
+      "Wikidata ID": "Q131195546",
+      "Ressort": "ORG_18000636"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q131195546",
+    "data": {
+      "type": "item",
+      "id": "Q131195546",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Verwaltung des Deutschen Bundestages"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Bundesbehörde"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "f71117d7b46495894559b65a4abe6c02fadedf3b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 327333,
+                  "id": "Q327333"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131195546$12b1e214-4000-6890-d6b1-943030686053",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131195546$9ddb8a63-476a-55b7-e98c-0ee7eed9e2b3",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "4805597f42ab14aa2d902d2c297d58b9c1d36e7f",
+              "datavalue": {
+                "value": "https://www.bundestag.de/parlament/verwaltung",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q131195546$7d50cc6b-438f-a15b-526b-612ea10ff1fc",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "62124f50c0badeca54f5058abd5e6e4aa317873a",
+              "datavalue": {
+                "value": "113146997171718890476",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131195546$92cca16f-4381-dd6f-5095-8bf5da03033f",
+            "rank": "normal"
+          }
+        ],
+        "P2388": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2388",
+              "hash": "773b82e4b6b59f6e06c0176f843ebe8e86c049c7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1227626,
+                  "id": "Q1227626"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131195546$88cb3442-44ac-ddbe-0e8c-4a578113516f",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "df6755f9385b80c57f038fccaade885ac60de5d5",
+              "datavalue": {
+                "value": "1322643504",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q131195546$b63e11e0-4931-c8a9-927d-ef2ec25ce0b7",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "46c0c2ebc5ab0e311188419e8fc2b9f53271bc4a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 154797,
+                  "id": "Q154797"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q131195546$401D5D36-144F-44B7-A703-0D88E455F93C",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Verwaltung des Deutschen Bundestages",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q327333": {
+        "type": "item",
+        "id": "Q327333",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Behörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "government agency"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "öffentliche Einrichtung"
+          },
+          "en": {
+            "language": "en",
+            "value": "organisational part of a government responsible for specific public services, such as health, judiciary, education, transportation, foreign affairs, etc"
+          }
+        }
+      },
+      "Q154797": {
+        "type": "item",
+        "id": "Q154797",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Deutscher Bundestag"
+          },
+          "en": {
+            "language": "en",
+            "value": "German Bundestag"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "legislature of Germany; parliament"
+          },
+          "de": {
+            "language": "de",
+            "value": "Volksvertretung und gesetzgebendes Organ der Bundesrepublik Deutschland"
+          }
+        }
+      }
+    }
+  }
+}

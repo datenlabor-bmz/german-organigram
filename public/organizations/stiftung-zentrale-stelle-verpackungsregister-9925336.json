@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.2634331",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@verpackungsregister.org",
+  "Hauptadresse": "Öwer de Hase 18",
+  "Internetadresse": "https://www.verpackungsregister.org/",
+  "Land": "DE",
+  "Längengrad": "8.1117303",
+  "Organisation": "Stiftung Zentrale Stelle Verpackungsregister",
+  "OrganisationDisplay": "ZSVR",
+  "OrganisationId": 9925336,
+  "Ort": "Osnabrück",
+  "PLZ": 49074,
+  "Telefax": "+49 541 201971 - 9810",
+  "Telefon": "+49 541 201971 -10",
+  "locations": [
+    {
+      "Breitengrad": "52.2634331",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@verpackungsregister.org",
+      "Hauptadresse": "Öwer de Hase 18",
+      "Internetadresse": "https://www.verpackungsregister.org/",
+      "Land": "DE",
+      "Längengrad": "8.1117303",
+      "Organisation": "Stiftung Zentrale Stelle Verpackungsregister",
+      "OrganisationDisplay": "ZSVR",
+      "OrganisationId": 9925336,
+      "Ort": "Osnabrück",
+      "PLZ": 49074,
+      "Telefax": "+49 541 201971 - 9810",
+      "Telefon": "+49 541 201971 -10"
+    }
+  ]
+}

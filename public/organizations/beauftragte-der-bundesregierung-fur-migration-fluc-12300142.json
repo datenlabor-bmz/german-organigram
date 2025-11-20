@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5090693",
+  "Bundesland": "Berlin",
+  "E-Mail": "buero.pawlik@bmas.bund.de",
+  "Hauptadresse": "Wilhelmstraße 49",
+  "Internetadresse": "https://www.integrationsbeauftragte.de/",
+  "Land": "DE",
+  "Längengrad": "13.3846845",
+  "Organisation": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration sowie Beauftragte der Bundesregierung für Antirassismus",
+  "OrganisationDisplay": "Integrationsbeauftragte",
+  "OrganisationId": 12300142,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMAS",
+  "Telefon": "+49 30 18400 1606",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5090693",
+      "Bundesland": "Berlin",
+      "E-Mail": "buero.pawlik@bmas.bund.de",
+      "Hauptadresse": "Wilhelmstraße 49",
+      "Internetadresse": "https://www.integrationsbeauftragte.de/",
+      "Land": "DE",
+      "Längengrad": "13.3846845",
+      "Organisation": "Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration sowie Beauftragte der Bundesregierung für Antirassismus",
+      "OrganisationDisplay": "Integrationsbeauftragte",
+      "OrganisationId": 12300142,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMAS",
+      "Telefon": "+49 30 18400 1606",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

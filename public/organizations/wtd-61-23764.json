@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.72273",
+  "Bundesland": "Bayern",
+  "E-Mail": "wtd61posteingang@bundeswehr.org",
+  "Hauptadresse": "Flugplatz ",
+  "Internetadresse": "https://www.baainbw.de/wtd61",
+  "Land": "DE",
+  "Längengrad": "11.552336",
+  "Organisation": "Wehrtechnische Dienststelle für Luftfahrzeuge und Luftfahrtgerät der Bundeswehr",
+  "OrganisationDisplay": "WTD 61",
+  "OrganisationId": 23764,
+  "OrganisationKurz": "WTD 61",
+  "Ort": "Manching",
+  "PLZ": 85077,
+  "Ressort": "BMVg",
+  "Telefax": "+49 8459 80-2022",
+  "Telefon": "+49 8459 80-1",
+  "locations": [
+    {
+      "Breitengrad": "48.72273",
+      "Bundesland": "Bayern",
+      "E-Mail": "wtd61posteingang@bundeswehr.org",
+      "Hauptadresse": "Flugplatz ",
+      "Internetadresse": "https://www.baainbw.de/wtd61",
+      "Land": "DE",
+      "Längengrad": "11.552336",
+      "Organisation": "Wehrtechnische Dienststelle für Luftfahrzeuge und Luftfahrtgerät der Bundeswehr",
+      "OrganisationDisplay": "WTD 61",
+      "OrganisationId": 23764,
+      "OrganisationKurz": "WTD 61",
+      "Ort": "Manching",
+      "PLZ": 85077,
+      "Ressort": "BMVg",
+      "Telefax": "+49 8459 80-2022",
+      "Telefon": "+49 8459 80-1"
+    }
+  ]
+}

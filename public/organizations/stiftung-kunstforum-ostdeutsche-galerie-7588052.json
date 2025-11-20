@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "49.01958",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@kog-regensburg.de",
+  "Hauptadresse": "Dr.-Johann-Maier-Straße 5",
+  "Internetadresse": "https://www.kunstforum.net/",
+  "Land": "DE",
+  "Längengrad": "12.08257",
+  "Organisation": "Stiftung Kunstforum Ostdeutsche Galerie",
+  "OrganisationDisplay": "Ostdeutsche Galerie",
+  "OrganisationId": 7588052,
+  "Ort": "Regensburg",
+  "PLZ": 93049,
+  "Telefax": "+49 94129714-33",
+  "Telefon": "+49 941 29714-0",
+  "locations": [
+    {
+      "Breitengrad": "49.01958",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@kog-regensburg.de",
+      "Hauptadresse": "Dr.-Johann-Maier-Straße 5",
+      "Internetadresse": "https://www.kunstforum.net/",
+      "Land": "DE",
+      "Längengrad": "12.08257",
+      "Organisation": "Stiftung Kunstforum Ostdeutsche Galerie",
+      "OrganisationDisplay": "Ostdeutsche Galerie",
+      "OrganisationId": 7588052,
+      "Ort": "Regensburg",
+      "PLZ": 93049,
+      "Telefax": "+49 94129714-33",
+      "Telefon": "+49 941 29714-0"
+    }
+  ]
+}

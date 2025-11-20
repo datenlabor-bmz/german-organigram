@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.7758404",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@ifa.de",
+  "Hauptadresse": "Charlottenplatz 17",
+  "Internetadresse": "https://www.ifa.de",
+  "Land": "DE",
+  "Längengrad": "9.1824049",
+  "Organisation": "Institut für Auslandsbeziehungen e. V.",
+  "OrganisationDisplay": "ifa",
+  "OrganisationId": 22582,
+  "OrganisationKurz": "ifa",
+  "Ort": "Stuttgart",
+  "PLZ": 70173,
+  "Telefax": "+49 711 2264-346",
+  "Telefon": "+49 711 2225-0",
+  "locations": [
+    {
+      "Breitengrad": "48.7758404",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@ifa.de",
+      "Hauptadresse": "Charlottenplatz 17",
+      "Internetadresse": "https://www.ifa.de",
+      "Land": "DE",
+      "Längengrad": "9.1824049",
+      "Organisation": "Institut für Auslandsbeziehungen e. V.",
+      "OrganisationDisplay": "ifa",
+      "OrganisationId": 22582,
+      "OrganisationKurz": "ifa",
+      "Ort": "Stuttgart",
+      "PLZ": 70173,
+      "Telefax": "+49 711 2264-346",
+      "Telefon": "+49 711 2225-0"
+    }
+  ]
+}

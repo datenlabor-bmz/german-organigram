@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.356262",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "poststelle.hza-koblenz@zoll.bund.de",
+  "Hauptadresse": "Im Metternicher Feld 44",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "7.597904",
+  "Organisation": "Hauptzollamt Koblenz",
+  "OrganisationDisplay": "HZA Koblenz",
+  "OrganisationId": 26770,
+  "OrganisationKurz": "HZA Koblenz",
+  "Ort": "Koblenz",
+  "PLZ": 56072,
+  "Ressort": "BMF",
+  "Telefax": "+49 261 98376-1010",
+  "Telefon": "+49 261 98376-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "50.356262",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "poststelle.hza-koblenz@zoll.bund.de",
+      "Hauptadresse": "Im Metternicher Feld 44",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "7.597904",
+      "Organisation": "Hauptzollamt Koblenz",
+      "OrganisationDisplay": "HZA Koblenz",
+      "OrganisationId": 26770,
+      "OrganisationKurz": "HZA Koblenz",
+      "Ort": "Koblenz",
+      "PLZ": 56072,
+      "Ressort": "BMF",
+      "Telefax": "+49 261 98376-1010",
+      "Telefon": "+49 261 98376-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

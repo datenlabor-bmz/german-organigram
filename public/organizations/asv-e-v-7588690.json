@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.1306115",
+  "Bundesland": "Bayern",
+  "E-Mail": "sekretariat@stifterverein.de",
+  "Hauptadresse": "Hochstraße 8",
+  "Internetadresse": "https://www.stifterverein.de/startseite/",
+  "Land": "DE",
+  "Längengrad": "11.5891073",
+  "Organisation": "Adalbert-Stifter-Verein e. V.",
+  "OrganisationDisplay": "ASV e. V.",
+  "OrganisationId": 7588690,
+  "OrganisationKurz": "ASV e. V.",
+  "Ort": "München",
+  "PLZ": 81669,
+  "Ressort": "BKM",
+  "Telefon": "+49 89 622716-30",
+  "locations": [
+    {
+      "Breitengrad": "48.1306115",
+      "Bundesland": "Bayern",
+      "E-Mail": "sekretariat@stifterverein.de",
+      "Hauptadresse": "Hochstraße 8",
+      "Internetadresse": "https://www.stifterverein.de/startseite/",
+      "Land": "DE",
+      "Längengrad": "11.5891073",
+      "Organisation": "Adalbert-Stifter-Verein e. V.",
+      "OrganisationDisplay": "ASV e. V.",
+      "OrganisationId": 7588690,
+      "OrganisationKurz": "ASV e. V.",
+      "Ort": "München",
+      "PLZ": 81669,
+      "Ressort": "BKM",
+      "Telefon": "+49 89 622716-30"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.161558",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "bkge@bkge.bund.de",
+  "Hauptadresse": "Johann-Justus-Weg 147 a",
+  "Internetadresse": "https://www.bkge.de/",
+  "Land": "DE",
+  "Längengrad": "8.178816",
+  "Organisation": "Bundesinstitut für Kultur und Geschichte des östlichen Europas",
+  "OrganisationDisplay": "BKGE",
+  "OrganisationId": 20198,
+  "OrganisationKurz": "BKGE",
+  "Ort": "Oldenburg",
+  "PLZ": 26127,
+  "Ressort": "BKM",
+  "Telefax": "+49 441 96195-33",
+  "Telefon": "+49 441 96195-0",
+  "locations": [
+    {
+      "Breitengrad": "53.161558",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "bkge@bkge.bund.de",
+      "Hauptadresse": "Johann-Justus-Weg 147 a",
+      "Internetadresse": "https://www.bkge.de/",
+      "Land": "DE",
+      "Längengrad": "8.178816",
+      "Organisation": "Bundesinstitut für Kultur und Geschichte des östlichen Europas",
+      "OrganisationDisplay": "BKGE",
+      "OrganisationId": 20198,
+      "OrganisationKurz": "BKGE",
+      "Ort": "Oldenburg",
+      "PLZ": 26127,
+      "Ressort": "BKM",
+      "Telefax": "+49 441 96195-33",
+      "Telefon": "+49 441 96195-0"
+    }
+  ]
+}

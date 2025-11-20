@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.048584",
+  "Bundesland": "Bayern",
+  "E-Mail": "WTD81posteingang@bundeswehr.org",
+  "Hauptadresse": "Bergstraße 18",
+  "Internetadresse": "https://www.baainbw.de/wtd81",
+  "Land": "DE",
+  "Längengrad": "11.352009",
+  "Organisation": "Wehrtechnische Dienststelle für Informationstechnologie und Elektronik",
+  "OrganisationDisplay": "WTD 81",
+  "OrganisationId": 23714,
+  "OrganisationKurz": "WTD 81",
+  "Ort": "Greding",
+  "PLZ": 91171,
+  "Ressort": "BMVg",
+  "Telefax": "+49 8463 652-607",
+  "Telefon": "+49 8463 652-0",
+  "locations": [
+    {
+      "Breitengrad": "49.048584",
+      "Bundesland": "Bayern",
+      "E-Mail": "WTD81posteingang@bundeswehr.org",
+      "Hauptadresse": "Bergstraße 18",
+      "Internetadresse": "https://www.baainbw.de/wtd81",
+      "Land": "DE",
+      "Längengrad": "11.352009",
+      "Organisation": "Wehrtechnische Dienststelle für Informationstechnologie und Elektronik",
+      "OrganisationDisplay": "WTD 81",
+      "OrganisationId": 23714,
+      "OrganisationKurz": "WTD 81",
+      "Ort": "Greding",
+      "PLZ": 91171,
+      "Ressort": "BMVg",
+      "Telefax": "+49 8463 652-607",
+      "Telefon": "+49 8463 652-0"
+    }
+  ]
+}

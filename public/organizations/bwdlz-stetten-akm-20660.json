@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.129988",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "BwDLZStettena.k.M@Bundeswehr.org",
+  "Hauptadresse": "Lager Heuberg ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-stetten-am-kalten-markt",
+  "Land": "DE",
+  "Längengrad": "9.066775",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Stetten am kalten Markt",
+  "OrganisationDisplay": "BwDLZ Stetten a.k.M",
+  "OrganisationId": 20660,
+  "OrganisationKurz": "BwDLZ Stetten a.k.M",
+  "Ort": "Stetten am kalten Markt",
+  "PLZ": 72510,
+  "Ressort": "BMVg",
+  "Telefon": "+49 7573 504-0",
+  "locations": [
+    {
+      "Breitengrad": "48.129988",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "BwDLZStettena.k.M@Bundeswehr.org",
+      "Hauptadresse": "Lager Heuberg ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-stetten-am-kalten-markt",
+      "Land": "DE",
+      "Längengrad": "9.066775",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Stetten am kalten Markt",
+      "OrganisationDisplay": "BwDLZ Stetten a.k.M",
+      "OrganisationId": 20660,
+      "OrganisationKurz": "BwDLZ Stetten a.k.M",
+      "Ort": "Stetten am kalten Markt",
+      "PLZ": 72510,
+      "Ressort": "BMVg",
+      "Telefon": "+49 7573 504-0"
+    }
+  ]
+}

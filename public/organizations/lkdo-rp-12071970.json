@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.9895146",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "LKdoRPPressestelle@Bundeswehr.org",
+  "Hauptadresse": "Generaloberst-Beck-Straße 1F",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-rheinland-pfalz",
+  "Land": "DE",
+  "Längengrad": "8.2690261",
+  "Organisation": "Landeskommando Rheinland-Pfalz",
+  "OrganisationDisplay": "LKdo RP",
+  "OrganisationId": 12071970,
+  "OrganisationKurz": "LKdo RP",
+  "Ort": "Mainz",
+  "PLZ": 55129,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6131 27750-3020",
+  "locations": [
+    {
+      "Breitengrad": "49.9895146",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "LKdoRPPressestelle@Bundeswehr.org",
+      "Hauptadresse": "Generaloberst-Beck-Straße 1F",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-rheinland-pfalz",
+      "Land": "DE",
+      "Längengrad": "8.2690261",
+      "Organisation": "Landeskommando Rheinland-Pfalz",
+      "OrganisationDisplay": "LKdo RP",
+      "OrganisationId": 12071970,
+      "OrganisationKurz": "LKdo RP",
+      "Ort": "Mainz",
+      "PLZ": 55129,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6131 27750-3020"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.707979",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "na@bibb.de",
+  "Hauptadresse": "Robert-Schuman-Platz 3",
+  "Internetadresse": "https://www.na-bibb.de/",
+  "Land": "DE",
+  "Längengrad": "7.136511",
+  "Organisation": "Nationale Agentur beim Bundesinstitut für Berufsbildung",
+  "OrganisationDisplay": "NABIBB",
+  "OrganisationId": 6516004,
+  "OrganisationKurz": "NABIBB",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 107-2964",
+  "Telefon": "+49 228 107-1608",
+  "locations": [
+    {
+      "Breitengrad": "50.707979",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "na@bibb.de",
+      "Hauptadresse": "Robert-Schuman-Platz 3",
+      "Internetadresse": "https://www.na-bibb.de/",
+      "Land": "DE",
+      "Längengrad": "7.136511",
+      "Organisation": "Nationale Agentur beim Bundesinstitut für Berufsbildung",
+      "OrganisationDisplay": "NABIBB",
+      "OrganisationId": 6516004,
+      "OrganisationKurz": "NABIBB",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 107-2964",
+      "Telefon": "+49 228 107-1608"
+    }
+  ]
+}

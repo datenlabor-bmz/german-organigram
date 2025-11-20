@@ -1,0 +1,50 @@
+{
+  "Breitengrad": "52.508247",
+  "Bundesland": "Berlin",
+  "E-Mail": "iom-germany@iom.int",
+  "Hauptadresse": "Charlottenstraße 68",
+  "Internetadresse": "https://germany.iom.int/",
+  "Land": "DE",
+  "Längengrad": "13.392186",
+  "Organisation": "Internationale Organisation für Migration",
+  "OrganisationDisplay": "IOM",
+  "OrganisationId": 23214,
+  "OrganisationKurz": "IOM",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 278778-99",
+  "Telefon": "+49 30 278778-0",
+  "locations": [
+    {
+      "Breitengrad": "52.508247",
+      "Bundesland": "Berlin",
+      "E-Mail": "iom-germany@iom.int",
+      "Hauptadresse": "Charlottenstraße 68",
+      "Internetadresse": "https://germany.iom.int/",
+      "Land": "DE",
+      "Längengrad": "13.392186",
+      "Organisation": "Internationale Organisation für Migration",
+      "OrganisationDisplay": "IOM",
+      "OrganisationId": 23214,
+      "OrganisationKurz": "IOM",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 278778-99",
+      "Telefon": "+49 30 278778-0"
+    },
+    {
+      "Adresse": "Frankenstraße  210",
+      "Bundesland": "Bayern",
+      "E-Mail": "iom-germany@iom.int",
+      "Internetadresse": "https://germany.iom.int/",
+      "Land": "DE",
+      "Liegenschaft": "IOM Nürnberg",
+      "LiegenschaftsId": 23182,
+      "OrganisationId": 23214,
+      "Ort": "Nürnberg",
+      "PLZ": 90461,
+      "Telefax": "+49 911 4300-260",
+      "Telefon": "+49 911 4300-0"
+    }
+  ]
+}

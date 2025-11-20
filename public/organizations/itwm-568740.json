@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.4303393",
+  "Bundesland": "Rheinland-Pfalz",
+  "Hauptadresse": "Fraunhofer Platz 1",
+  "Internetadresse": "https://www.itwm.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.7511399",
+  "Organisation": "Fraunhofer-Institut für Techno- und Wirtschaftsmathematik",
+  "OrganisationDisplay": "ITWM",
+  "OrganisationId": 568740,
+  "OrganisationKurz": "ITWM",
+  "Ort": "Kaiserslautern",
+  "PLZ": 67663,
+  "Telefax": "+49 631 31600-1099",
+  "Telefon": "+49 631 31600-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.4303393",
+      "Bundesland": "Rheinland-Pfalz",
+      "Hauptadresse": "Fraunhofer Platz 1",
+      "Internetadresse": "https://www.itwm.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.7511399",
+      "Organisation": "Fraunhofer-Institut für Techno- und Wirtschaftsmathematik",
+      "OrganisationDisplay": "ITWM",
+      "OrganisationId": 568740,
+      "OrganisationKurz": "ITWM",
+      "Ort": "Kaiserslautern",
+      "PLZ": 67663,
+      "Telefax": "+49 631 31600-1099",
+      "Telefon": "+49 631 31600-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.965682",
+  "Bundesland": "Bayern",
+  "E-Mail": "wna-aschaffenburg@wsv.bund.de",
+  "Hauptadresse": "Hockstraße 10",
+  "Internetadresse": "https://www.wna-aschaffenburg.wsv.de/Webs/WNA/WNA-Aschaffenburg/DE/Service/impressum/impressum_node.html;jsessionid=4D5623D81E184B0831F2E24626AF38A1.live21321",
+  "Land": "DE",
+  "Längengrad": "9.16619",
+  "Organisation": "Wasserstraßen-Neubauamt Aschaffenburg",
+  "OrganisationDisplay": "WNA Aschaffenburg",
+  "OrganisationId": 23406,
+  "OrganisationKurz": "WNA Aschaffenburg",
+  "Ort": "Aschaffenburg",
+  "PLZ": 63743,
+  "Ressort": "BMV",
+  "Telefax": "+49 6021 312-3101",
+  "Telefon": "+49 6021 312-0",
+  "locations": [
+    {
+      "Breitengrad": "49.965682",
+      "Bundesland": "Bayern",
+      "E-Mail": "wna-aschaffenburg@wsv.bund.de",
+      "Hauptadresse": "Hockstraße 10",
+      "Internetadresse": "https://www.wna-aschaffenburg.wsv.de/Webs/WNA/WNA-Aschaffenburg/DE/Service/impressum/impressum_node.html;jsessionid=4D5623D81E184B0831F2E24626AF38A1.live21321",
+      "Land": "DE",
+      "Längengrad": "9.16619",
+      "Organisation": "Wasserstraßen-Neubauamt Aschaffenburg",
+      "OrganisationDisplay": "WNA Aschaffenburg",
+      "OrganisationId": 23406,
+      "OrganisationKurz": "WNA Aschaffenburg",
+      "Ort": "Aschaffenburg",
+      "PLZ": 63743,
+      "Ressort": "BMV",
+      "Telefax": "+49 6021 312-3101",
+      "Telefon": "+49 6021 312-0"
+    }
+  ]
+}

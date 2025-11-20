@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.7542361",
+  "Bundesland": "Bayern",
+  "E-Mail": "PisPresse@Bundeswehr.org",
+  "Hauptadresse": "Manchinger Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/pionierschule",
+  "Land": "DE",
+  "Längengrad": "11.450592",
+  "Organisation": "Pionierschule",
+  "OrganisationDisplay": "PiS",
+  "OrganisationId": 8739900,
+  "Ort": "Ingolstadt",
+  "PLZ": 85053,
+  "Ressort": "BMVg",
+  "Telefax": "+49 841-88660-2119",
+  "Telefon": "+49 841-88660-2110",
+  "locations": [
+    {
+      "Breitengrad": "48.7542361",
+      "Bundesland": "Bayern",
+      "E-Mail": "PisPresse@Bundeswehr.org",
+      "Hauptadresse": "Manchinger Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/pionierschule",
+      "Land": "DE",
+      "Längengrad": "11.450592",
+      "Organisation": "Pionierschule",
+      "OrganisationDisplay": "PiS",
+      "OrganisationId": 8739900,
+      "Ort": "Ingolstadt",
+      "PLZ": 85053,
+      "Ressort": "BMVg",
+      "Telefax": "+49 841-88660-2119",
+      "Telefon": "+49 841-88660-2110"
+    }
+  ]
+}

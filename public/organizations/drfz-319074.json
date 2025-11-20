@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5227758",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@drfz.de",
+  "Hauptadresse": "Charitéplatz 1",
+  "Internetadresse": "https://www.drfz.de",
+  "Land": "DE",
+  "Längengrad": "13.3790182",
+  "Organisation": "Deutsches Rheuma-Forschungszentrum Berlin",
+  "OrganisationDisplay": "DRFZ",
+  "OrganisationId": 319074,
+  "OrganisationKurz": "DRFZ",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 28460-603",
+  "Telefon": "+49 30 28460-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5227758",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@drfz.de",
+      "Hauptadresse": "Charitéplatz 1",
+      "Internetadresse": "https://www.drfz.de",
+      "Land": "DE",
+      "Längengrad": "13.3790182",
+      "Organisation": "Deutsches Rheuma-Forschungszentrum Berlin",
+      "OrganisationDisplay": "DRFZ",
+      "OrganisationId": 319074,
+      "OrganisationKurz": "DRFZ",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 28460-603",
+      "Telefon": "+49 30 28460-0"
+    }
+  ]
+}

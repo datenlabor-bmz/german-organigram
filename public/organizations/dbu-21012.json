@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.286631",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@dbu.de",
+  "Hauptadresse": "An der Bornau 2",
+  "Internetadresse": "https://www.dbu.de/",
+  "Land": "DE",
+  "Längengrad": "8.032383",
+  "Organisation": "Deutsche Bundesstiftung Umwelt",
+  "OrganisationDisplay": "DBU",
+  "OrganisationId": 21012,
+  "OrganisationKurz": "DBU",
+  "Ort": "Osnabrück",
+  "PLZ": 49090,
+  "Telefax": "+49 541 9633-190",
+  "Telefon": "+49 541 9633-0",
+  "locations": [
+    {
+      "Breitengrad": "52.286631",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@dbu.de",
+      "Hauptadresse": "An der Bornau 2",
+      "Internetadresse": "https://www.dbu.de/",
+      "Land": "DE",
+      "Längengrad": "8.032383",
+      "Organisation": "Deutsche Bundesstiftung Umwelt",
+      "OrganisationDisplay": "DBU",
+      "OrganisationId": 21012,
+      "OrganisationKurz": "DBU",
+      "Ort": "Osnabrück",
+      "PLZ": 49090,
+      "Telefax": "+49 541 9633-190",
+      "Telefon": "+49 541 9633-0"
+    }
+  ]
+}

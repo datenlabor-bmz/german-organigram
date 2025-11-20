@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.515574",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@dbjr.de",
+  "Hauptadresse": "Mühlendamm 3",
+  "Internetadresse": "https://www.dbjr.de/",
+  "Land": "DE",
+  "Längengrad": "13.408105",
+  "Organisation": "Deutscher Bundesjugendring",
+  "OrganisationDisplay": "DBJR",
+  "OrganisationId": 7543938,
+  "OrganisationKurz": "DBJR",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Telefon": "+49 30 400 40-400",
+  "locations": [
+    {
+      "Breitengrad": "52.515574",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@dbjr.de",
+      "Hauptadresse": "Mühlendamm 3",
+      "Internetadresse": "https://www.dbjr.de/",
+      "Land": "DE",
+      "Längengrad": "13.408105",
+      "Organisation": "Deutscher Bundesjugendring",
+      "OrganisationDisplay": "DBJR",
+      "OrganisationId": 7543938,
+      "OrganisationKurz": "DBJR",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefon": "+49 30 400 40-400"
+    }
+  ]
+}

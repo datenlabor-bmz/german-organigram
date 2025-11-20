@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.9573473",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "info@isit.fhg.de",
+  "Hauptadresse": "Fraunhofer Straße 1",
+  "Internetadresse": "https://www.isit.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "9.4867462",
+  "Organisation": "Fraunhofer-Institut für Siliziumtechnologie",
+  "OrganisationDisplay": "ISIT",
+  "OrganisationId": 568616,
+  "OrganisationKurz": "ISIT",
+  "Ort": "Itzehoe",
+  "PLZ": 25524,
+  "Telefax": "+49 4821 17-4250",
+  "Telefon": "+49 4821 17-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.9573473",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "info@isit.fhg.de",
+      "Hauptadresse": "Fraunhofer Straße 1",
+      "Internetadresse": "https://www.isit.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "9.4867462",
+      "Organisation": "Fraunhofer-Institut für Siliziumtechnologie",
+      "OrganisationDisplay": "ISIT",
+      "OrganisationId": 568616,
+      "OrganisationKurz": "ISIT",
+      "Ort": "Itzehoe",
+      "PLZ": 25524,
+      "Telefax": "+49 4821 17-4250",
+      "Telefon": "+49 4821 17-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

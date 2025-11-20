@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.333326",
+  "Bundesland": "Sachsen",
+  "Hauptadresse": "Simsonplatz 1",
+  "Land": "DE",
+  "Längengrad": "12.370569",
+  "Organisation": "Bundeswehrdisziplinaranwalt beim Bundesverwaltungsgericht",
+  "OrganisationDisplay": "BWDA",
+  "OrganisationId": 17530,
+  "OrganisationKurz": "BWDA",
+  "Ort": "Leipzig",
+  "PLZ": 4107,
+  "Ressort": "BMVg",
+  "Telefax": "+49 341 124793-48",
+  "Telefon": "+49 341 124793-51",
+  "locations": [
+    {
+      "Breitengrad": "51.333326",
+      "Bundesland": "Sachsen",
+      "Hauptadresse": "Simsonplatz 1",
+      "Land": "DE",
+      "Längengrad": "12.370569",
+      "Organisation": "Bundeswehrdisziplinaranwalt beim Bundesverwaltungsgericht",
+      "OrganisationDisplay": "BWDA",
+      "OrganisationId": 17530,
+      "OrganisationKurz": "BWDA",
+      "Ort": "Leipzig",
+      "PLZ": 4107,
+      "Ressort": "BMVg",
+      "Telefax": "+49 341 124793-48",
+      "Telefon": "+49 341 124793-51"
+    }
+  ]
+}

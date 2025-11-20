@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.705183",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Fontainengraben 150",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-it-services-bw",
+  "Land": "DE",
+  "Längengrad": "7.046334",
+  "Organisation": "Kommando Informationstechnik der Bundeswehr",
+  "OrganisationDisplay": "KdolTBw",
+  "OrganisationId": 11925274,
+  "OrganisationKurz": "KdolTBw",
+  "Ort": "Bonn",
+  "PLZ": 53123,
+  "Ressort": "BMVg",
+  "Telefax": "+49 228 5504-7029",
+  "Telefon": "+49 228 5504-7025",
+  "locations": [
+    {
+      "Breitengrad": "50.705183",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Fontainengraben 150",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-it-services-bw",
+      "Land": "DE",
+      "Längengrad": "7.046334",
+      "Organisation": "Kommando Informationstechnik der Bundeswehr",
+      "OrganisationDisplay": "KdolTBw",
+      "OrganisationId": 11925274,
+      "OrganisationKurz": "KdolTBw",
+      "Ort": "Bonn",
+      "PLZ": 53123,
+      "Ressort": "BMVg",
+      "Telefax": "+49 228 5504-7029",
+      "Telefon": "+49 228 5504-7025"
+    }
+  ]
+}

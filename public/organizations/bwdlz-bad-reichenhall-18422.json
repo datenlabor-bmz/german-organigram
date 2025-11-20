@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "47.726996",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZBadReichenhall@Bundeswehr.org",
+  "Hauptadresse": "Von-Martius-Straße 7",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bad-reichenhall",
+  "Land": "DE",
+  "Längengrad": "12.856817",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Bad Reichenhall",
+  "OrganisationDisplay": "BwDLZ Bad Reichenhall",
+  "OrganisationId": 18422,
+  "OrganisationKurz": "BwDLZ Bad Reichenhall",
+  "Ort": "Bad Reichenhall",
+  "PLZ": 83435,
+  "Ressort": "BMVg",
+  "Telefon": "+49 8651 79-0",
+  "locations": [
+    {
+      "Breitengrad": "47.726996",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZBadReichenhall@Bundeswehr.org",
+      "Hauptadresse": "Von-Martius-Straße 7",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bad-reichenhall",
+      "Land": "DE",
+      "Längengrad": "12.856817",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Bad Reichenhall",
+      "OrganisationDisplay": "BwDLZ Bad Reichenhall",
+      "OrganisationId": 18422,
+      "OrganisationKurz": "BwDLZ Bad Reichenhall",
+      "Ort": "Bad Reichenhall",
+      "PLZ": 83435,
+      "Ressort": "BMVg",
+      "Telefon": "+49 8651 79-0"
+    }
+  ]
+}

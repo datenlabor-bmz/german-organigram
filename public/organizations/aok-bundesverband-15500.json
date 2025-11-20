@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.5250657",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@bv.aok.de",
+  "Hauptadresse": "Rosenthaler Straße 31",
+  "Internetadresse": "https://www.aok.de/pp/bv",
+  "Land": "DE",
+  "Längengrad": "13.4033371",
+  "Organisation": "AOK- Bundesverband",
+  "OrganisationDisplay": "AOK-BV",
+  "OrganisationId": 15500,
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Ressort": "BMG",
+  "Telefon": "+49 30 34646-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5250657",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@bv.aok.de",
+      "Hauptadresse": "Rosenthaler Straße 31",
+      "Internetadresse": "https://www.aok.de/pp/bv",
+      "Land": "DE",
+      "Längengrad": "13.4033371",
+      "Organisation": "AOK- Bundesverband",
+      "OrganisationDisplay": "AOK-BV",
+      "OrganisationId": 15500,
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Ressort": "BMG",
+      "Telefon": "+49 30 34646-0"
+    }
+  ]
+}

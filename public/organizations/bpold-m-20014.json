@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.156829",
+  "Bundesland": "Bayern",
+  "E-Mail": "bpold.muenchen@polizei.bund.de",
+  "Hauptadresse": "Infanteriestraße 6",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Muenchen/muenchen_node.html",
+  "Land": "DE",
+  "Längengrad": "11.558407",
+  "Organisation": "Bundespolizeidirektion München",
+  "OrganisationDisplay": "BPOLD M",
+  "OrganisationId": 20014,
+  "OrganisationKurz": "BPOLD M",
+  "Ort": "München",
+  "PLZ": 80797,
+  "Ressort": "BMI",
+  "Telefax": "+49 89 12149-1199",
+  "Telefon": "+49 89 12149-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "48.156829",
+      "Bundesland": "Bayern",
+      "E-Mail": "bpold.muenchen@polizei.bund.de",
+      "Hauptadresse": "Infanteriestraße 6",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Muenchen/muenchen_node.html",
+      "Land": "DE",
+      "Längengrad": "11.558407",
+      "Organisation": "Bundespolizeidirektion München",
+      "OrganisationDisplay": "BPOLD M",
+      "OrganisationId": 20014,
+      "OrganisationKurz": "BPOLD M",
+      "Ort": "München",
+      "PLZ": 80797,
+      "Ressort": "BMI",
+      "Telefax": "+49 89 12149-1199",
+      "Telefon": "+49 89 12149-0",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

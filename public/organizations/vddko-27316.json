@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.148962",
+  "Bundesland": "Bayern",
+  "E-Mail": "vddko@versorgungskammer.de",
+  "Hauptadresse": "Arabellastraße 31",
+  "Internetadresse": "https://www.orchesterversorgung.de/",
+  "Land": "DE",
+  "Längengrad": "11.62255",
+  "Organisation": "Versorgungsanstalt der deutschen Kulturorchester",
+  "OrganisationDisplay": "VddKO",
+  "OrganisationId": 27316,
+  "OrganisationKurz": "VddKO",
+  "Ort": "München",
+  "PLZ": 81925,
+  "Ressort": "BMAS",
+  "Telefax": "+49 89 9235-8850",
+  "Telefon": "+49 89 9235-6",
+  "locations": [
+    {
+      "Breitengrad": "48.148962",
+      "Bundesland": "Bayern",
+      "E-Mail": "vddko@versorgungskammer.de",
+      "Hauptadresse": "Arabellastraße 31",
+      "Internetadresse": "https://www.orchesterversorgung.de/",
+      "Land": "DE",
+      "Längengrad": "11.62255",
+      "Organisation": "Versorgungsanstalt der deutschen Kulturorchester",
+      "OrganisationDisplay": "VddKO",
+      "OrganisationId": 27316,
+      "OrganisationKurz": "VddKO",
+      "Ort": "München",
+      "PLZ": 81925,
+      "Ressort": "BMAS",
+      "Telefax": "+49 89 9235-8850",
+      "Telefon": "+49 89 9235-6"
+    }
+  ]
+}

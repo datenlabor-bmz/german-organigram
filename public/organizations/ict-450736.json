@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.013019",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@ict.fraunhofer.de",
+  "Hauptadresse": "Joseph-von-Fraunhofer-Straße 7",
+  "Internetadresse": "https://www.ict.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "8.525695",
+  "Organisation": "Fraunhofer Institut für Chemische Technologie",
+  "OrganisationDisplay": "ICT",
+  "OrganisationId": 450736,
+  "OrganisationKurz": "ICT",
+  "Ort": "Pfinztal",
+  "PLZ": 76327,
+  "Telefon": "+49 721 4640-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.013019",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@ict.fraunhofer.de",
+      "Hauptadresse": "Joseph-von-Fraunhofer-Straße 7",
+      "Internetadresse": "https://www.ict.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "8.525695",
+      "Organisation": "Fraunhofer Institut für Chemische Technologie",
+      "OrganisationDisplay": "ICT",
+      "OrganisationId": 450736,
+      "OrganisationKurz": "ICT",
+      "Ort": "Pfinztal",
+      "PLZ": 76327,
+      "Telefon": "+49 721 4640-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

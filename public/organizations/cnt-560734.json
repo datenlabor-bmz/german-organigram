@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.1072289",
+  "Bundesland": "Sachsen",
+  "Hauptadresse": "Königsbrücker Straße 178",
+  "Internetadresse": "https://www.ipms.fraunhofer.de/de/research-development/nanoelectronic.html",
+  "Land": "DE",
+  "Längengrad": "13.7726306",
+  "Organisation": "Fraunhofer Center Nanoelektronische Technologien",
+  "OrganisationDisplay": "CNT",
+  "OrganisationId": 560734,
+  "OrganisationKurz": "CNT",
+  "Ort": "Dresden",
+  "PLZ": 1099,
+  "Telefax": "+49 351 2607-3005",
+  "Telefon": "+49 351 2607-3001",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.1072289",
+      "Bundesland": "Sachsen",
+      "Hauptadresse": "Königsbrücker Straße 178",
+      "Internetadresse": "https://www.ipms.fraunhofer.de/de/research-development/nanoelectronic.html",
+      "Land": "DE",
+      "Längengrad": "13.7726306",
+      "Organisation": "Fraunhofer Center Nanoelektronische Technologien",
+      "OrganisationDisplay": "CNT",
+      "OrganisationId": 560734,
+      "OrganisationKurz": "CNT",
+      "Ort": "Dresden",
+      "PLZ": 1099,
+      "Telefax": "+49 351 2607-3005",
+      "Telefon": "+49 351 2607-3001",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

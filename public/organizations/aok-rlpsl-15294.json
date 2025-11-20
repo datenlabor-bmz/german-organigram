@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.559185",
+  "Bundesland": "Rheinland-Pfalz",
+  "Hauptadresse": "Virchowstraße 30",
+  "Internetadresse": "https://www.aok.de/pk/rps/",
+  "Land": "DE",
+  "Längengrad": "8.054972",
+  "Organisation": "AOK Rheinland-Pfalz/Saarland (AOK RPS)",
+  "OrganisationDisplay": "AOK RLP/SL",
+  "OrganisationId": 15294,
+  "OrganisationKurz": "AOK RLP/SL",
+  "Ort": "Eisenberg",
+  "PLZ": 67304,
+  "Ressort": "BMG",
+  "Telefax": "+49 6351 403-701",
+  "Telefon": "+49 800 4772000",
+  "locations": [
+    {
+      "Breitengrad": "49.559185",
+      "Bundesland": "Rheinland-Pfalz",
+      "Hauptadresse": "Virchowstraße 30",
+      "Internetadresse": "https://www.aok.de/pk/rps/",
+      "Land": "DE",
+      "Längengrad": "8.054972",
+      "Organisation": "AOK Rheinland-Pfalz/Saarland (AOK RPS)",
+      "OrganisationDisplay": "AOK RLP/SL",
+      "OrganisationId": 15294,
+      "OrganisationKurz": "AOK RLP/SL",
+      "Ort": "Eisenberg",
+      "PLZ": 67304,
+      "Ressort": "BMG",
+      "Telefax": "+49 6351 403-701",
+      "Telefon": "+49 800 4772000"
+    }
+  ]
+}

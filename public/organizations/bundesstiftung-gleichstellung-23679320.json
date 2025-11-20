@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.5258896",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@bundesstiftung-gleichstellung.de",
+  "Hauptadresse": "Karl-Liebknecht-Straße 34",
+  "Internetadresse": "https://www.bundesstiftung-gleichstellung.de/",
+  "Land": "DE",
+  "Längengrad": "13.4151075",
+  "Organisation": "Bundesstiftung Gleichstellung",
+  "OrganisationDisplay": "Stiftung Gleichstellung",
+  "OrganisationId": 23679320,
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Ressort": "BMBFSFJ",
+  "Telefon": "+49 30 9940 570-00",
+  "locations": [
+    {
+      "Breitengrad": "52.5258896",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@bundesstiftung-gleichstellung.de",
+      "Hauptadresse": "Karl-Liebknecht-Straße 34",
+      "Internetadresse": "https://www.bundesstiftung-gleichstellung.de/",
+      "Land": "DE",
+      "Längengrad": "13.4151075",
+      "Organisation": "Bundesstiftung Gleichstellung",
+      "OrganisationDisplay": "Stiftung Gleichstellung",
+      "OrganisationId": 23679320,
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Ressort": "BMBFSFJ",
+      "Telefon": "+49 30 9940 570-00"
+    }
+  ]
+}

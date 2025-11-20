@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.45038",
+  "Bundesland": "Berlin",
+  "E-Mail": "plgabwldi@bundeswehr.org",
+  "Hauptadresse": "Oberspreestraße 61 L",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/planungsamt-der-bundeswehr-",
+  "Land": "DE",
+  "Längengrad": "13.54345",
+  "Organisation": "Planungsamt der Bundeswehr",
+  "OrganisationDisplay": "PlgABw",
+  "OrganisationId": 3716552,
+  "OrganisationKurz": "PlgABw",
+  "Ort": "Berlin",
+  "PLZ": 12439,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 6794-29 1907",
+  "Telefon": "+49 30 6794-1913",
+  "locations": [
+    {
+      "Breitengrad": "52.45038",
+      "Bundesland": "Berlin",
+      "E-Mail": "plgabwldi@bundeswehr.org",
+      "Hauptadresse": "Oberspreestraße 61 L",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/planungsamt-der-bundeswehr-",
+      "Land": "DE",
+      "Längengrad": "13.54345",
+      "Organisation": "Planungsamt der Bundeswehr",
+      "OrganisationDisplay": "PlgABw",
+      "OrganisationId": 3716552,
+      "OrganisationKurz": "PlgABw",
+      "Ort": "Berlin",
+      "PLZ": 12439,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 6794-29 1907",
+      "Telefon": "+49 30 6794-1913"
+    }
+  ]
+}

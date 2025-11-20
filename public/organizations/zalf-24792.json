@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.516365",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "zalf@zalf.de",
+  "Hauptadresse": "Eberswalder Straße 84",
+  "Internetadresse": "https://www.zalf.de",
+  "Land": "DE",
+  "Längengrad": "14.113788",
+  "Organisation": "Leibniz-Zentrum für Agrarlandschaftsforschung e. V.",
+  "OrganisationDisplay": "ZALF",
+  "OrganisationId": 24792,
+  "OrganisationKurz": "ZALF",
+  "Ort": "Müncheberg",
+  "PLZ": 15374,
+  "Telefax": "+49 33432 82-212",
+  "Telefon": "+49 33432 82-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.516365",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "zalf@zalf.de",
+      "Hauptadresse": "Eberswalder Straße 84",
+      "Internetadresse": "https://www.zalf.de",
+      "Land": "DE",
+      "Längengrad": "14.113788",
+      "Organisation": "Leibniz-Zentrum für Agrarlandschaftsforschung e. V.",
+      "OrganisationDisplay": "ZALF",
+      "OrganisationId": 24792,
+      "OrganisationKurz": "ZALF",
+      "Ort": "Müncheberg",
+      "PLZ": 15374,
+      "Telefax": "+49 33432 82-212",
+      "Telefon": "+49 33432 82-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

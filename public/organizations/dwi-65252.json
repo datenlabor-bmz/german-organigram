@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.998826",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "info@deutscheweine.de",
+  "Hauptadresse": "Platz des Weines 2",
+  "Internetadresse": "https://www.deutscheweine.de/",
+  "Land": "DE",
+  "Längengrad": "8.27122",
+  "Organisation": "Deutsches Weininstitut GmbH",
+  "OrganisationDisplay": "DWI",
+  "OrganisationId": 65252,
+  "OrganisationKurz": "DWI",
+  "Ort": "Bodenheim",
+  "PLZ": 55294,
+  "Telefax": "+49 6135 9323-110",
+  "Telefon": "+49 6135 9323-0",
+  "locations": [
+    {
+      "Breitengrad": "49.998826",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "info@deutscheweine.de",
+      "Hauptadresse": "Platz des Weines 2",
+      "Internetadresse": "https://www.deutscheweine.de/",
+      "Land": "DE",
+      "Längengrad": "8.27122",
+      "Organisation": "Deutsches Weininstitut GmbH",
+      "OrganisationDisplay": "DWI",
+      "OrganisationId": 65252,
+      "OrganisationKurz": "DWI",
+      "Ort": "Bodenheim",
+      "PLZ": 55294,
+      "Telefax": "+49 6135 9323-110",
+      "Telefon": "+49 6135 9323-0"
+    }
+  ]
+}

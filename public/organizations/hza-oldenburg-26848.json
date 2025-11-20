@@ -1,0 +1,392 @@
+{
+  "Breitengrad": "53.131768",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "poststelle.hza-oldenburg@zoll.bund.de",
+  "Hauptadresse": "Friedrich-Rüder-Straße 2",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "8.217132",
+  "Organisation": "Hauptzollamt Oldenburg",
+  "OrganisationDisplay": "HZA Oldenburg",
+  "OrganisationId": 26848,
+  "OrganisationKurz": "HZA Oldenburg",
+  "Ort": "Oldenburg",
+  "PLZ": 26135,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-99788",
+  "Telefon": "+49 441 8009-0",
+  "Kategorie": "Bundesunterbehörde",
+  "Wikidata ID": "Q123608555",
+  "locations": [
+    {
+      "Breitengrad": "53.131768",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "poststelle.hza-oldenburg@zoll.bund.de",
+      "Hauptadresse": "Friedrich-Rüder-Straße 2",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "8.217132",
+      "Organisation": "Hauptzollamt Oldenburg",
+      "OrganisationDisplay": "HZA Oldenburg",
+      "OrganisationId": 26848,
+      "OrganisationKurz": "HZA Oldenburg",
+      "Ort": "Oldenburg",
+      "PLZ": 26135,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-99788",
+      "Telefon": "+49 441 8009-0",
+      "Kategorie": "Bundesunterbehörde",
+      "Wikidata ID": "Q123608555"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q123608555",
+    "data": {
+      "type": "item",
+      "id": "Q123608555",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt Oldenburg"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Bestand im Niedersächsischen Landesarchiv"
+        },
+        "en": {
+          "language": "en",
+          "value": "fonds of the Lower Saxony State Archivein"
+        }
+      },
+      "claims": {
+        "P126": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P126",
+              "hash": "5658da8b652a36227916c0112c76ed3a7cec52c7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1549023,
+                  "id": "Q1549023"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q123608555$9577FC05-3C4F-420A-9BB8-A41C9356CD1E",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "251e86c0877aa8ad1ce10bbc7268000f34d8ab6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3533f00ea8a346d2fce35440e0536ed1230bc14a",
+                      "datavalue": {
+                        "value": "https://www.archivportal-d.de/item/3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P4948": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4948",
+              "hash": "5e35b25ab40d543091dc8fc105608a94477328bd",
+              "datavalue": {
+                "value": "3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q123608555$10B4A83B-4EB1-424F-AEDE-2AECAFAFB14E",
+            "rank": "normal"
+          }
+        ],
+        "P195": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P195",
+              "hash": "398e70e4470a23639c33eea43f0f069cdaa9c8a2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1549023,
+                  "id": "Q1549023"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q123608555$33ACB294-1B4E-4AC2-A20D-FACD42B3CB71",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "251e86c0877aa8ad1ce10bbc7268000f34d8ab6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3533f00ea8a346d2fce35440e0536ed1230bc14a",
+                      "datavalue": {
+                        "value": "https://www.archivportal-d.de/item/3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P7103": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7103",
+              "hash": "8e0ee7a67c063c85beb08f3f61b1e28c08625aed",
+              "datavalue": {
+                "value": {
+                  "time": "+1902-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q123608555$C71328DC-D905-45C6-ADC5-6032057DA7AA",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "251e86c0877aa8ad1ce10bbc7268000f34d8ab6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3533f00ea8a346d2fce35440e0536ed1230bc14a",
+                      "datavalue": {
+                        "value": "https://www.archivportal-d.de/item/3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P217": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P217",
+              "hash": "3a38f98cc8e1ca653110e5cf3b95cc6582d834de",
+              "datavalue": {
+                "value": "Nds. Landesarchiv, Abt. Oldenburg, NLA OL, Rep 530 OL",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P195": [
+                {
+                  "snaktype": "value",
+                  "property": "P195",
+                  "hash": "398e70e4470a23639c33eea43f0f069cdaa9c8a2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1549023,
+                      "id": "Q1549023"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P195"
+            ],
+            "id": "Q123608555$21A5D29A-C338-4A14-B974-C4ACEFE95B6B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "251e86c0877aa8ad1ce10bbc7268000f34d8ab6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3533f00ea8a346d2fce35440e0536ed1230bc14a",
+                      "datavalue": {
+                        "value": "https://www.archivportal-d.de/item/3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P7104": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7104",
+              "hash": "0c4d2bdc69c9b6bc9e58c4693139b4f4dfdb35d9",
+              "datavalue": {
+                "value": {
+                  "time": "+1995-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q123608555$5FD8E6F8-8CCC-4CC4-9C81-B2888AB784E4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "251e86c0877aa8ad1ce10bbc7268000f34d8ab6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3533f00ea8a346d2fce35440e0536ed1230bc14a",
+                      "datavalue": {
+                        "value": "https://www.archivportal-d.de/item/3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "b7de2399e72f48aee4e374fc7abf4f9aa5b20a81",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3052382,
+                  "id": "Q3052382"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q123608555$155E4F6A-FA9E-4072-A90A-1A4B2ADEE0F0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "251e86c0877aa8ad1ce10bbc7268000f34d8ab6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "3533f00ea8a346d2fce35440e0536ed1230bc14a",
+                      "datavalue": {
+                        "value": "https://www.archivportal-d.de/item/3NFZ5BQMGLFNYX32VQE33VHGNHZ6FI7U",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {}
+    },
+    "referenced_entities": {
+      "Q3052382": {
+        "type": "item",
+        "id": "Q3052382",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "fonds"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bestand"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "aggregation of records, documents, or works originating from the same creator"
+          },
+          "de": {
+            "language": "de",
+            "value": "Zusammenführung von Archivalien eines Aktenbildners oder zu einem Thema"
+          }
+        }
+      }
+    }
+  }
+}

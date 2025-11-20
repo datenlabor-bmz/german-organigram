@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.214212",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "contact@dsmz.de",
+  "Hauptadresse": "Inhoffenstraße 7 B",
+  "Internetadresse": "https://www.dsmz.de",
+  "Land": "DE",
+  "Längengrad": "10.5281971",
+  "Organisation": "Leibniz-Institut DSMZ - Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH",
+  "OrganisationDisplay": "DSMZ",
+  "OrganisationId": 308156,
+  "OrganisationKurz": "DSMZ",
+  "Ort": "Braunschweig",
+  "PLZ": 38124,
+  "Telefax": "+49 531 2616-418",
+  "Telefon": "+49 531 2616-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.214212",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "contact@dsmz.de",
+      "Hauptadresse": "Inhoffenstraße 7 B",
+      "Internetadresse": "https://www.dsmz.de",
+      "Land": "DE",
+      "Längengrad": "10.5281971",
+      "Organisation": "Leibniz-Institut DSMZ - Deutsche Sammlung von Mikroorganismen und Zellkulturen GmbH",
+      "OrganisationDisplay": "DSMZ",
+      "OrganisationId": 308156,
+      "OrganisationKurz": "DSMZ",
+      "Ort": "Braunschweig",
+      "PLZ": 38124,
+      "Telefax": "+49 531 2616-418",
+      "Telefon": "+49 531 2616-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

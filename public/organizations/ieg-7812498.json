@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.0001998",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "info@ieg-mainz.de",
+  "Hauptadresse": "Alte Universitätsstraße 19",
+  "Internetadresse": "https://www.ieg-mainz.de",
+  "Land": "DE",
+  "Längengrad": "8.2716737",
+  "Organisation": "Leibniz-Institut für Europäische Geschichte",
+  "OrganisationDisplay": "IEG",
+  "OrganisationId": 7812498,
+  "OrganisationKurz": "IEG",
+  "Ort": "Mainz",
+  "PLZ": 55116,
+  "Telefax": "+49 6131 39-35326",
+  "Telefon": "+49 6131 39-39340",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.0001998",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "info@ieg-mainz.de",
+      "Hauptadresse": "Alte Universitätsstraße 19",
+      "Internetadresse": "https://www.ieg-mainz.de",
+      "Land": "DE",
+      "Längengrad": "8.2716737",
+      "Organisation": "Leibniz-Institut für Europäische Geschichte",
+      "OrganisationDisplay": "IEG",
+      "OrganisationId": 7812498,
+      "OrganisationKurz": "IEG",
+      "Ort": "Mainz",
+      "PLZ": 55116,
+      "Telefax": "+49 6131 39-35326",
+      "Telefon": "+49 6131 39-39340",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

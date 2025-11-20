@@ -1,0 +1,1529 @@
+{
+  "Breitengrad": "48.092631",
+  "Bundesland": "Bayern",
+  "E-Mail": "bundespatentgericht@bpatg.bund.de",
+  "Hauptadresse": "Cincinnatistraße 64",
+  "Internetadresse": "https://www.bundespatentgericht.de/cms/",
+  "Land": "DE",
+  "Längengrad": "11.60169",
+  "Organisation": "Bundespatentgericht",
+  "OrganisationDisplay": "BPatG",
+  "OrganisationId": 19542,
+  "OrganisationKurz": "BPatG",
+  "Ort": "München",
+  "PLZ": 81549,
+  "Ressort": "BMJV",
+  "Telefax": "+49 89 69937-5100",
+  "Telefon": "+49 89 69937-0",
+  "Kategorie": "Unklar",
+  "Wikidata ID": "Q314237",
+  "locations": [
+    {
+      "Breitengrad": "48.092631",
+      "Bundesland": "Bayern",
+      "E-Mail": "bundespatentgericht@bpatg.bund.de",
+      "Hauptadresse": "Cincinnatistraße 64",
+      "Internetadresse": "https://www.bundespatentgericht.de/cms/",
+      "Land": "DE",
+      "Längengrad": "11.60169",
+      "Organisation": "Bundespatentgericht",
+      "OrganisationDisplay": "BPatG",
+      "OrganisationId": 19542,
+      "OrganisationKurz": "BPatG",
+      "Ort": "München",
+      "PLZ": 81549,
+      "Ressort": "BMJV",
+      "Telefax": "+49 89 69937-5100",
+      "Telefon": "+49 89 69937-0",
+      "Kategorie": "Unklar",
+      "Wikidata ID": "Q314237"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q314237",
+    "data": {
+      "type": "item",
+      "id": "Q314237",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundespatentgericht"
+        },
+        "en": {
+          "language": "en",
+          "value": "Federal Patent Court of Germany"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Bundesgericht in Deutschland"
+        },
+        "en": {
+          "language": "en",
+          "value": "Bundesgericht"
+        }
+      },
+      "claims": {
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "9b94cd72bc31cb1edbcf8d71b4144b3f7c82cce0",
+              "datavalue": {
+                "value": "Bundespatentgericht",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q314237$DA4C3234-4A9C-469F-90AE-39EFE0155146",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q314237$62B87C2B-DBA2-4DE7-AC22-E9177110395A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "8f6add0bf428baa60d7cca2b5836e424a1d52269",
+              "datavalue": {
+                "value": "35186-6",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$5209C896-53BE-4B94-8A49-DADE101D74D5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "20f626df66ce4b1dedb611f7ffc0a15259df97d5",
+              "datavalue": {
+                "value": "/m/03d0y10",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$39921BD2-9CBB-4414-AB6F-80072F346539",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2b00cb481cddcac7623114367489b5c194901c4a",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a94b740202b097dd33355e0e6c00e54b9395e5e0",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 15241312,
+                          "id": "Q15241312"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P577": [
+                    {
+                      "snaktype": "value",
+                      "property": "P577",
+                      "hash": "fde79ecb015112d2f29229ccc1ec514ed3e71fa2",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2013-10-28T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P577"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "7366cb87231a73e12be12c1427b3727ca1000825",
+              "datavalue": {
+                "value": {
+                  "time": "+1961-07-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q314237$801EA211-8C34-4D6B-86B0-F2FA400B2A40",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "ff5219bcd90e32fd50c9b3f030ae7c086a3b725d",
+              "datavalue": {
+                "value": "143793041",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$7EEF95CE-4294-4679-B92E-8913B8286908",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "396c36135ad7b4ad4fb025499f0ec223d7e0efcf",
+              "datavalue": {
+                "value": "no2013065538",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "784c6d320a52278a0f25b9f85baa270bd8d7aa01",
+                  "datavalue": {
+                    "value": "Germany. Bundespatentgericht",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P7452": [
+                {
+                  "snaktype": "value",
+                  "property": "P7452",
+                  "hash": "4723a3e25f86a03c9c3c2ee4a442acda1100f53f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 71533355,
+                      "id": "Q71533355"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810",
+              "P7452"
+            ],
+            "id": "Q314237$D90D268E-3614-4600-AEBE-29A89823D315",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "15883be9f63c70084ca99360d79bf94de8c4601e",
+              "datavalue": {
+                "value": "no2013065522",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "41c6d5d9bd8251e14009e1d2008d048df70760b0",
+                  "datavalue": {
+                    "value": "Germany (West). Bundespatentgericht",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q314237$C36E7098-DF6E-4F40-85E1-B6E4651CAAF0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2ea7d9cf6569a6790a1abd706c97a06fdef003c3",
+                "snaks": {
+                  "P11797": [
+                    {
+                      "snaktype": "value",
+                      "property": "P11797",
+                      "hash": "395c2c5dc64a74fb596f0b959e9ac6c9307e2068",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 76630151,
+                          "id": "Q76630151"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P11797"
+                ]
+              }
+            ]
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "0833da7ea99a1b6f115629d9cdf9c780e6262e0a",
+              "datavalue": {
+                "value": "http://www.bundespatentgericht.de/cms/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q314237$287A4446-EE94-41A6-A5B9-59458137EE78",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 8447,
+                          "id": "Q8447"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "bc09a9548844f7821ecbdd4d36c6236b1a7b33e9",
+              "datavalue": {
+                "value": "https://www.bundespatentgericht.de/DE/Home/home_node.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q314237$af70658c-4ea9-dafc-7372-62db1adcefc8",
+            "rank": "preferred"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "ca624eec44319dbca762ca18f6af9983d90c81d1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 580200,
+                  "id": "Q580200"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q314237$d30e472a-4b50-15ac-6e3d-7e1b679b0484",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "72ce1af5428273f0df6dbf1e4f7d0f7942b7063e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 7144492,
+                  "id": "Q7144492"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q314237$d79794db-4937-4e4e-6c22-75ccd8e36b8a",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "3c75aa02c438a3345a096821df6b24e81736f93e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1726,
+                  "id": "Q1726"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P625": [
+                {
+                  "snaktype": "value",
+                  "property": "P625",
+                  "hash": "53276be8e8b5fc8ed87d865b5ed015b43484a288",
+                  "datavalue": {
+                    "value": {
+                      "latitude": 48.0917,
+                      "longitude": 11.6014,
+                      "altitude": null,
+                      "precision": 0.0001,
+                      "globe": "http://www.wikidata.org/entity/Q2"
+                    },
+                    "type": "globecoordinate"
+                  },
+                  "datatype": "globe-coordinate"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P625"
+            ],
+            "id": "Q314237$36aca427-4263-869a-abee-37b1066563f1",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "bb345125f4516d0aff07d2065d3287ce21377d1b",
+              "datavalue": {
+                "value": "2012-07-18-Bundespatentgericht-24.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q314237$53043378-473c-daf3-5990-11176fc16370",
+            "rank": "normal"
+          }
+        ],
+        "P1037": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "46821541ccb39d76495552f1cfa2475756cb2dc2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1582697,
+                  "id": "Q1582697"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "f71aa98fd9e4ce4b68c949b8af86cd4f552039e1",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1961-07-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "7a65ea73114f253e7c75c0bdd6a8b9a8e4420b82",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1966-11-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$3b6b4fc4-4af5-be5c-b340-527cb46a5d38",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "2ee6ee4561eb48e9f5fcf6df846711106296d169",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2561644,
+                  "id": "Q2561644"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "5d17673d894484aa3ff8bd70eb8b65ff988960ce",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1967-06-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "7959a3a00605ca3c206f4397ea507e981bdb9592",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1971-05-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$4fd362c3-4df9-137b-c3b6-4d88d92f32a5",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "98a77b62db72b2eaec1f66281f4f564c38ed4b9d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2173518,
+                  "id": "Q2173518"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "eb80c33e1741e4474319fb063ee1df79f106f7c5",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1971-07-18T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "143529446c2a120a76c6c65b4890d235ba296a6a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1972-04-15T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$11ea667e-445e-504c-3365-8456ebe78fb1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "c75f4f0d48700309b52498f51d4b3c6fb5aa2a12",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1358915,
+                  "id": "Q1358915"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "029668f47cc6eb2f7cdb2c96fae12469ecae9c04",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1972-10-18T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "6f2c2b2aca3e99874fe301ab0a69ca3397407f3c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1986-08-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 10,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$1a16682a-4405-10b5-7704-1bf607fb14db",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "9b41c7226992b89533accf3175df87a50c8ab7bb",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1330311,
+                  "id": "Q1330311"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "5b241c717b26e4890c31b2cdf51bf020d9cdce2b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1986-09-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "e25982305fa5175c9c93e38db87a425bac416fd9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1992-05-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$22636071-4ad4-158c-5f4f-61155c8a17a3",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "0cd1a7f4418d9c2171643629bf10be59f8298239",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 584871,
+                  "id": "Q584871"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "868797094c3817a715d800b4d596ddd87d67da35",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1992-06-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "56e5b86ae56bc6d4cae11f599b224410930110f3",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2001-03-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$b98601d9-4912-fee6-c6d4-f77cf384dc57",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "a5e482f1142fe995817461c4e2557cb189b40ce0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1576994,
+                  "id": "Q1576994"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "8fe118eb0b6260ce541f68c94a30b1e1ec1e836c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2001-07-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "1995184afdb87af19a1d4b30fd8dd69d9c71ada9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2006-04-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$d4993936-43b6-efe4-7e30-020df28849d9",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "f329b2f430bbadd509c35ed551ed2d721bd94bdc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1309020,
+                  "id": "Q1309020"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "906f1a84c8523275c7320c59209f8d2e432bc712",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2006-05-02T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "372ddb4d50b372c016be5a5a2d5f8327e26f7eb3",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2010-12-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q314237$3ede63ec-4e77-a5f9-c859-7723fa00c423",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "78182b71a115666719fff4fe3a7cee730d64d388",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 813194,
+                  "id": "Q813194"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e6ef0acec8cb359bec1d91b60aa5ddc9640a00f3",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2011-05-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q314237$591dc13b-477e-7c1d-2a01-ed9a1d2614a7",
+            "rank": "preferred"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q314237$96D1308C-2E64-4061-B07E-027DAD527987",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "920981bc74a0a87e5d8f18756f4f4c2330064411",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 498251,
+                  "id": "Q498251"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q314237$F808A225-787F-433F-8321-1D595FC9A9E7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "684f77e29028067d34ef8d7bc2a32aefac2a3fec",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "85955b85946a3dd53a9685017403f6faa09a7d50",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Bundespatentgericht_(Deutschland)&oldid=179960075",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "546e34cd57edb076b8d6b8788b96522e14dfc782",
+              "datavalue": {
+                "value": "101",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$DF36214B-6368-4B6C-869D-164E952D81D3",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "4400062eb65da16d109308ba6ba89ac20e5c70f0",
+              "datavalue": {
+                "value": {
+                  "text": "BPatG",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q314237$F31CDE1D-4516-43E9-B0CF-4AA36E49694B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3915d4d4e31f083ac56f0617798ddb1da70f855e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f76d0c4139db5a9f43407c0c0eec9e0eb7993b36",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DELeistungen/A/Abkuerzungsverzeichnis-des-Bundes-BMI-BVA.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "15a5da9acd7ebb61c61ded95cfba7255e42e573a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "1e58cbf0b08ca94a0e1f8263805b033227f30c95",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 131257,
+                  "id": "Q131257"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q314237$a8953d0e-4572-a9f0-693c-94a9c31a2677",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "a0c1b551e855b699622fe16f19563b2f8fe6046d",
+              "datavalue": {
+                "value": "Logo Bundespatentgericht.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q314237$bfc33540-413d-2bf5-5e06-3b9c45881c41",
+            "rank": "preferred"
+          }
+        ],
+        "P10603": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10603",
+              "hash": "e975c62aaa804d6ef434d9af82ac00cea9ecf1fb",
+              "datavalue": {
+                "value": "D6261",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$f9933601-4d63-7e06-a2c9-1dd9c9c1df70",
+            "rank": "normal"
+          }
+        ],
+        "P2163": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2163",
+              "hash": "2260b785913e31975e73861fbeeb6fe339164715",
+              "datavalue": {
+                "value": "1979428",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$208c54ec-48da-7758-0637-bf1eeafb869a",
+            "rank": "normal"
+          }
+        ],
+        "P9964": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9964",
+              "hash": "0e39fea588c331143c59c1f92bbb11a67c941899",
+              "datavalue": {
+                "value": "35186-6",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q314237$1C3AC485-0AE8-4317-A2FD-ABFB69432E68",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Bundespatentgericht",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundespatentgericht (Deutschland)",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Federal Patent Court (Germany)",
+          "badges": []
+        },
+        "frwiki": {
+          "site": "frwiki",
+          "title": "Tribunal fédéral des brevets (Allemagne)",
+          "badges": []
+        },
+        "nowiki": {
+          "site": "nowiki",
+          "title": "Bundespatentgericht",
+          "badges": []
+        },
+        "trwiki": {
+          "site": "trwiki",
+          "title": "Federal Patent Mahkemesi",
+          "badges": []
+        },
+        "zhwiki": {
+          "site": "zhwiki",
+          "title": "德国联邦专利法院",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q7144492": {
+        "type": "item",
+        "id": "Q7144492",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "patent court"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "court specializing in patent law"
+          }
+        }
+      },
+      "Q580200": {
+        "type": "item",
+        "id": "Q580200",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesgericht"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal courts (Germany)"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Gerichte in Trägerschaft des Bundes in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German courts"
+          }
+        }
+      },
+      "Q498251": {
+        "type": "item",
+        "id": "Q498251",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of Justice and Consumer Protection"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium der Justiz und für Verbraucherschutz"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of Justice of Germany"
+          }
+        }
+      }
+    }
+  }
+}

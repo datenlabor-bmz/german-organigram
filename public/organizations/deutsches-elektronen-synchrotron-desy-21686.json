@@ -1,0 +1,49 @@
+{
+  "Breitengrad": "53.572886",
+  "Bundesland": "Hamburg",
+  "E-Mail": "desypr@desy.de",
+  "Hauptadresse": "Notkestraße 85",
+  "Internetadresse": "https://www.desy.de/",
+  "Land": "DE",
+  "Längengrad": "9.880669",
+  "Organisation": "Deutsches Elektronen-Synchrotron DESY",
+  "OrganisationDisplay": "DESY",
+  "OrganisationId": 21686,
+  "Ort": "Hamburg",
+  "PLZ": 22607,
+  "Telefax": "+49 40 8998-3282",
+  "Telefon": "+49 40 8998-0",
+  "locations": [
+    {
+      "Breitengrad": "53.572886",
+      "Bundesland": "Hamburg",
+      "E-Mail": "desypr@desy.de",
+      "Hauptadresse": "Notkestraße 85",
+      "Internetadresse": "https://www.desy.de/",
+      "Land": "DE",
+      "Längengrad": "9.880669",
+      "Organisation": "Deutsches Elektronen-Synchrotron DESY",
+      "OrganisationDisplay": "DESY",
+      "OrganisationId": 21686,
+      "Ort": "Hamburg",
+      "PLZ": 22607,
+      "Telefax": "+49 40 8998-3282",
+      "Telefon": "+49 40 8998-0"
+    },
+    {
+      "Adresse": "Platanenallee 6",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "desyinfo-zeuthen@desy.de",
+      "Internetadresse": "https://www.desy.de/",
+      "Land": "DE",
+      "Liegenschaft": "Standort Zeuthen",
+      "LiegenschaftsId": 21678,
+      "OrganisationDisplay": "DESY",
+      "OrganisationId": 21686,
+      "Ort": "Zeuthen",
+      "PLZ": 15738,
+      "Telefax": "+49 33762 7-7413",
+      "Telefon": "+49 33762 7-70"
+    }
+  ]
+}

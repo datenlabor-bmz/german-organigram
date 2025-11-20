@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.1465851",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@cimonline.de",
+  "Hauptadresse": "Dag-Hammarskjöld-Weg 1-5",
+  "Internetadresse": "https://www.cimonline.de/de/html/index.html",
+  "Land": "DE",
+  "Längengrad": "8.5542676",
+  "Organisation": "Centrum für internationale Migration und Entwicklung",
+  "OrganisationDisplay": "CIM",
+  "OrganisationId": 18078,
+  "OrganisationKurz": "CIM",
+  "Ort": "Eschborn",
+  "PLZ": 65760,
+  "Telefax": "+49 6196-79-3650",
+  "Telefon": "+49 6196-79-3500",
+  "locations": [
+    {
+      "Breitengrad": "50.1465851",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@cimonline.de",
+      "Hauptadresse": "Dag-Hammarskjöld-Weg 1-5",
+      "Internetadresse": "https://www.cimonline.de/de/html/index.html",
+      "Land": "DE",
+      "Längengrad": "8.5542676",
+      "Organisation": "Centrum für internationale Migration und Entwicklung",
+      "OrganisationDisplay": "CIM",
+      "OrganisationId": 18078,
+      "OrganisationKurz": "CIM",
+      "Ort": "Eschborn",
+      "PLZ": 65760,
+      "Telefax": "+49 6196-79-3650",
+      "Telefon": "+49 6196-79-3500"
+    }
+  ]
+}

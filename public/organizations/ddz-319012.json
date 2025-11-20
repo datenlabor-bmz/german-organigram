@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.204921",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kontakt@ddz.de",
+  "Hauptadresse": "Auf´m Hennekamp 65",
+  "Internetadresse": "https://ddz.de/",
+  "Land": "DE",
+  "Längengrad": "6.7867863",
+  "Organisation": "Deutsches Diabetes-Zentrum",
+  "OrganisationDisplay": "DDZ",
+  "OrganisationId": 319012,
+  "OrganisationKurz": "DDZ",
+  "Ort": "Düsseldorf",
+  "PLZ": 40225,
+  "Telefax": "+49 211 3382-603",
+  "Telefon": "+49 211 3382-1",
+  "locations": [
+    {
+      "Breitengrad": "51.204921",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kontakt@ddz.de",
+      "Hauptadresse": "Auf´m Hennekamp 65",
+      "Internetadresse": "https://ddz.de/",
+      "Land": "DE",
+      "Längengrad": "6.7867863",
+      "Organisation": "Deutsches Diabetes-Zentrum",
+      "OrganisationDisplay": "DDZ",
+      "OrganisationId": 319012,
+      "OrganisationKurz": "DDZ",
+      "Ort": "Düsseldorf",
+      "PLZ": 40225,
+      "Telefax": "+49 211 3382-603",
+      "Telefon": "+49 211 3382-1"
+    }
+  ]
+}

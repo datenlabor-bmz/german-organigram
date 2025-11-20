@@ -1,0 +1,53 @@
+{
+  "Breitengrad": "53.823054",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "bweller@fz-borstel.de",
+  "Hauptadresse": "Parkallee 1 - 40",
+  "Internetadresse": "https://www.fz-borstel.de",
+  "Land": "DE",
+  "Längengrad": "10.194584",
+  "Organisation": "Forschungszentrum Borstel - Leibniz-Zentrum für Medizin und Biowissenschaften",
+  "OrganisationDisplay": "FZB",
+  "OrganisationId": 7767112,
+  "OrganisationKurz": "FZB",
+  "Ort": "Borstel",
+  "PLZ": 23846,
+  "Telefax": "+49 4537 188-244",
+  "Telefon": "+49 4537 188-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.823054",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "bweller@fz-borstel.de",
+      "Hauptadresse": "Parkallee 1 - 40",
+      "Internetadresse": "https://www.fz-borstel.de",
+      "Land": "DE",
+      "Längengrad": "10.194584",
+      "Organisation": "Forschungszentrum Borstel - Leibniz-Zentrum für Medizin und Biowissenschaften",
+      "OrganisationDisplay": "FZB",
+      "OrganisationId": 7767112,
+      "OrganisationKurz": "FZB",
+      "Ort": "Borstel",
+      "PLZ": 23846,
+      "Telefax": "+49 4537 188-244",
+      "Telefon": "+49 4537 188-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Parkallee 35",
+      "Bundesland": "Schleswig-Holstein",
+      "Internetadresse": "https://www.fz-borstel.de",
+      "Land": "DE",
+      "Liegenschaft": "Forschungszentrum Borstel - Leibniz-Zentrum für Medzin und Biowissenschaften",
+      "LiegenschaftsId": 7767114,
+      "OrganisationId": 7767112,
+      "Ort": "Borstel",
+      "PLZ": 23845,
+      "Telefax": "+49 4537 188-313",
+      "Telefon": "+49 4537 188-369, -370"
+    }
+  ]
+}

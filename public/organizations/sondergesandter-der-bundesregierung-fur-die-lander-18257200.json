@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "E-Mail": "sg-web@zentrale.auswaertiges-amt.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/-/2514372",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Sondergesandter der Bundesregierung für die Länder des westlichen Balkans",
+  "OrganisationDisplay": "SG Westbalkan",
+  "OrganisationId": 18257200,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 30 1817 - 52655",
+  "Telefon": "+49 30 1817 - 2655",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "E-Mail": "sg-web@zentrale.auswaertiges-amt.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/-/2514372",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Sondergesandter der Bundesregierung für die Länder des westlichen Balkans",
+      "OrganisationDisplay": "SG Westbalkan",
+      "OrganisationId": 18257200,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 30 1817 - 52655",
+      "Telefon": "+49 30 1817 - 2655",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

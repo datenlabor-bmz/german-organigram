@@ -1,0 +1,4841 @@
+{
+  "Breitengrad": "50.748389",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "Poststelle@bfdi.bund.de",
+  "Hauptadresse": "Graurheindorfer Straße 153",
+  "Internetadresse": "https://www.bfdi.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": " 7.097093",
+  "Organisation": "Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+  "OrganisationDisplay": "BfDI",
+  "OrganisationId": 27406,
+  "OrganisationKurz": "BfDI",
+  "Ort": "Bonn",
+  "PLZ": 53117,
+  "Telefon": "+49 228 99 77 99-0",
+  "Kategorie": "Oberste Bundesbehörde",
+  "Wikidata ID": "Q1005821",
+  "Ressort": "BfDI",
+  "locations": [
+    {
+      "Breitengrad": "50.748389",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "Poststelle@bfdi.bund.de",
+      "Hauptadresse": "Graurheindorfer Straße 153",
+      "Internetadresse": "https://www.bfdi.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": " 7.097093",
+      "Organisation": "Bundesbeauftragte für den Datenschutz und die Informationsfreiheit",
+      "OrganisationDisplay": "BfDI",
+      "OrganisationId": 27406,
+      "OrganisationKurz": "BfDI",
+      "Ort": "Bonn",
+      "PLZ": 53117,
+      "Telefon": "+49 228 99 77 99-0",
+      "Kategorie": "Oberste Bundesbehörde",
+      "Wikidata ID": "Q1005821",
+      "Ressort": "BfDI"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q1005821",
+    "data": {
+      "type": "item",
+      "id": "Q1005821",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundesbeauftragte für den Datenschutz und die Informationsfreiheit"
+        },
+        "en": {
+          "language": "en",
+          "value": "Federal Commissioner for Data Protection and Freedom of Information"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "independent German data protection and freedom of information authority for federal authorities, postal services and telecommunications providers"
+        },
+        "de": {
+          "language": "de",
+          "value": "unabhängige deutsche Datenschutz- und Informationsfreiheitsbehörde für Bundesbehörden, Postdienste und Telekommunikationsanbieter"
+        }
+      },
+      "claims": {
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "757fdd6d04dbf016b43e483e763a1b01c31841fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005815,
+                  "id": "Q1005815"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$685bef7e-4764-26cd-d7ba-30dfbceeaef0",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "e25b5a098caabe9f85b3559015a27643df9ddd64",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 30682903,
+                  "id": "Q30682903"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$a822a794-46e9-3fae-4657-fbbcb5c7d7dc",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "a75bd251783a04180bf079e7bc5ff0fc474c764f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1662558,
+                  "id": "Q1662558"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$9352f66a-4d61-50d9-a765-dd21c95bc307",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "43de245e417e5a246b80ab6cee08635345cc7d21",
+              "datavalue": {
+                "value": "Federal Commissioner for Data Protection and Freedom of Information",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q1005821$16557D77-8CBA-4499-82EA-8C04E026ABB0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4164871,
+                  "id": "Q4164871"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$d37d9d83-47c0-c8f6-1ee7-63d12632ef2e",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "686d91a55561719102bc82b40d0a454826748f1e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3242920,
+                  "id": "Q3242920"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$aec133b2-4f48-e487-3d30-af65c6cca9be",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "325820bf0d83c1f128b6a9a4d2b60529526c464d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 99935030,
+                  "id": "Q99935030"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$986ce093-4554-8a03-1449-dc9260d2241f",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$054c16a0-409a-d80a-b4ba-f95b959e5c88",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "196626f206eaa8cc7051cfa04cb8428723fb0a72",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 314024,
+                  "id": "Q314024"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$4C9A8174-D64C-4B0F-A3F0-1E255D89568C",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "45ca601a3414486fc4d653f0a52e076992b49a74",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1529128,
+                  "id": "Q1529128"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$7d119f32-4350-cc6a-479e-6280a724ac79",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "88eacf3bdeab126287644c12dd3dc2aa93226ce8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2401749,
+                  "id": "Q2401749"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$f6a97ef3-462b-4601-9932-1879d1dcf5bf",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "570e1b9a19dece36559f41c2b21158d6142eff0e",
+              "datavalue": {
+                "value": "246994449",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1005821$E40F7322-EF82-4105-B8A9-B371B8100D82",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "b12ce67d96d7f54a4c449595605f9ee96a35748b",
+              "datavalue": {
+                "value": "10169107-5",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1005821$F54328AE-6C76-47E8-8796-C92F10349C00",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "75f601ddbd601b7ccc16c578e462e6b77acc0ccc",
+              "datavalue": {
+                "value": {
+                  "time": "+1978-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q1005821$9D0C7583-5632-467C-BF32-6CDF74A50DC4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "ce6588aff7001842acf32637d954ce94eee7e65d",
+              "datavalue": {
+                "value": "http://www.bfdi.bund.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                },
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "daf1c4fcb58181b02dff9cc89deb084004ddae4b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 1860,
+                      "id": "Q1860"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q1005821$52A10DA9-24E7-43C6-9BB3-8D83D12EC986",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 328,
+                          "id": "Q328"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1308": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "4f4f594526cde5498fba94419ef976f28a3b1197",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 493348,
+                  "id": "Q493348"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "cf07818c8327fe735e4e8c1180a83a5b99ff80c4",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-01-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P4353": [
+                {
+                  "snaktype": "value",
+                  "property": "P4353",
+                  "hash": "9a52a9c21e38d81316955a9166d83a869e19c21b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49762,
+                      "id": "Q49762"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "fd88dd2a5dc14cb5c10097aae64efce99763236c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-01-05T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P4353",
+              "P582"
+            ],
+            "id": "Q1005821$22ed2c43-42cb-e58b-55bd-f5a344b5a2e9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "f67383539437917ebec3549108ba71e026fd34fc",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7acde4030f4d81715e21c430fed6e5165e76ced7",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/DE/Infothek/Pressemitteilungen/2014/01_AndreaVosshoffAlsBfDIErnannt.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P953": [
+                    {
+                      "snaktype": "value",
+                      "property": "P953",
+                      "hash": "894508957862dbb82a9dba788935744892e39580",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20180503210841/https://www.bfdi.bund.de/DE/Infothek/Pressemitteilungen/2014/01_AndreaVosshoffAlsBfDIErnannt.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "bb3b018dded232ff942364f59dfcec316b433e80",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20180627034249/https://www.bfdi.bund.de/DE/Infothek/Pressemitteilungen/2014/01_AndreaVosshoffAlsBfDIErnannt.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P2960": [
+                    {
+                      "snaktype": "value",
+                      "property": "P2960",
+                      "hash": "6518e122d86c6985bb9653c6663f9d332c4eb7c4",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2018-06-27T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P953",
+                  "P1065",
+                  "P2960"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "2be3e6db9c225e6cd18b4bcd3f30133619472fd0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2078019,
+                  "id": "Q2078019"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "6f593f71c99fd386b7d7c0d5c187c19a8f37f65b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2003-12-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "13af3f7e78d854c560eb8263244006dd199445a2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-12-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P4353": [
+                {
+                  "snaktype": "value",
+                  "property": "P4353",
+                  "hash": "33c56702c0328e08807fbd323d772dc8cca746d2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 49766,
+                      "id": "Q49766"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582",
+              "P4353"
+            ],
+            "id": "Q1005821$640cf549-4dcd-3aed-ba99-b9e18db49d16",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "87c0182b2c459ec6bee09d1d49829948c7c9297e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "38e7a41a97f741fa8c284e4eb5c356caf436ab59",
+                      "datavalue": {
+                        "value": "https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2013/12/schaar.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              },
+              {
+                "hash": "b3c0293a7edbcdeb17440411d38404f8644103b2",
+                "snaks": {
+                  "P953": [
+                    {
+                      "snaktype": "value",
+                      "property": "P953",
+                      "hash": "ff6d0283e7e1ec7c48a9838144c61c610cd43826",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20180503213520/https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2013/12/schaar.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P953"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "b26fcb2cba2f95a205fc6f4176cb682d7fe1e389",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1690204,
+                  "id": "Q1690204"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "94179cd354c878c0e3a54305f2bc21318c1b98a6",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1993-07-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "ce5453b1c6a86f61ebb210e60b603f38c8127157",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2003-12-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P4353": [
+                {
+                  "snaktype": "value",
+                  "property": "P4353",
+                  "hash": "b75f24617b8a7719a1f97e4d0f3b56d580851c95",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 13124,
+                      "id": "Q13124"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582",
+              "P4353"
+            ],
+            "id": "Q1005821$ce691e2b-478e-dbd6-55ec-9dfd6483885a",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "36d45dc90fe7e93f32dcb918905587fb6e248b22",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1409291,
+                  "id": "Q1409291"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "9b8d5d2b96eb02a7069f2089ba0a14b7391bf610",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1988-06-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "d3c5e7eaaced29a69d081fa88d83f0146fa3f904",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1993-06-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$4c2099ed-4bcd-8bec-24bb-85692a562396",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "2a620544d97cc497e18c4bb9d1232637035b139a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2141321,
+                  "id": "Q2141321"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "4606c702003a28ce8f5d329f24ce05794f0c3971",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1983-05-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "57d5d5c068f3a6ebed2f0d2b291e008640dd3b81",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1988-06-09T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$d9f5a469-4779-f11b-1870-7a9846bba391",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "bc48c7c4d3cfa0d4c78ac756c3a76cc59473f122",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1581656,
+                  "id": "Q1581656"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "b91727f6910f888c00e16c2c3be0398b679adbbb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1978-02-14T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "a07460b3611ac60056f018e0969744ba5fb2049b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1983-05-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$7accd97f-4e9c-7d9e-7dd6-d89659484504",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "3287e96873608432e41fad36f993c3f05de904fc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2476158,
+                  "id": "Q2476158"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "8c7d5b494c72f972bec4ef8a30b3f685bd76ef28",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-01-07T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "2b90008b8de0b4036be8d759b79b5abd42ff1f09",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-01-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$ec70975b-4169-20b0-5abb-e9d4177fc13f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "77a10d0de565c8fd1b20133b785e1e8036fee27c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "2f7f5b18e0945507351c7b09ecd0a8aa38f44811",
+                      "datavalue": {
+                        "value": "https://www.deutschlandfunkkultur.de/datenschutzbeauftragter-ueber-datensicherheit-datenschutz.1008.de.html?dram:article_id=437630",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    },
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a95717787102ee2ed0f6543052e927eb88655478",
+                      "datavalue": {
+                        "value": "https://ondemand-mp3.dradio.de/file/dradio/2019/01/07/wie_weiter_mit_dem_datenschutz_neuer_bundesbeauftragter_drk_20190107_0810_8b2d427f.mp3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "61b2bdc8a1f3adeedf0e184380bd7d7e8efadc10",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20190117232856/https://www.deutschlandfunkkultur.de/datenschutzbeauftragter-ueber-datensicherheit-datenschutz.1008.de.html?dram:article_id=437630",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    },
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "9d769ab38b4d1013569e39db74bb32bcdcf8a4ff",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20190117232958/https://ondemand-mp3.dradio.de/file/dradio/2019/01/07/wie_weiter_mit_dem_datenschutz_neuer_bundesbeauftragter_drk_20190107_0810_8b2d427f.mp3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1065"
+                ]
+              },
+              {
+                "hash": "3523e61e91e7873ee7c6355f6459e0f28805a1db",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "e995f991043aee1d0894bcd80c72213927120830",
+                      "datavalue": {
+                        "value": "https://social.bund.de/@bfdi/112734254171168855",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "9e11085b4c81f261a088af1c1abcab797cc1b824",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20240729085252/https://social.bund.de/@bfdi/112734254171168855",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1065"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "f82015fe5e915c6573cb2c9ce494623931e532e2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 31831396,
+                  "id": "Q31831396"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "d95d87ea4229cc85a8990375174a1a6a0fa45562",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-09-03T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P7452": [
+                {
+                  "snaktype": "value",
+                  "property": "P7452",
+                  "hash": "22ea48be6d30f4e44b5aba1bfaf4eca5c8cc4a56",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 71536244,
+                      "id": "Q71536244"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P7452"
+            ],
+            "id": "Q1005821$685d776d-4bf2-4487-21bd-76cd2aad5e58",
+            "rank": "preferred",
+            "references": [
+              {
+                "hash": "c3d6b7327c9d8c3a5cf97cf6f89cc6f361112b7b",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "06f0346cf3e251734964bd3919699611f1833963",
+                      "datavalue": {
+                        "value": "https://ga.de/news/politik/deutschland/professorin-aus-bonn-louisa-specht-riemenschneider-wird-neue-bundesdatenschutzbeauftragte_aid-116420265",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1308",
+              "hash": "5dc07fb3152312fb78ea733813bba8fd2b235101",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 117825030,
+                  "id": "Q117825030"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "1d52e29c998137e8092d1e95aa4470debfa15f29",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-07-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "6e23b75893e2e84953b7a817121228e76d108e6b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-09-02T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$139d95fa-47b2-0c0c-0772-bdeb82222d7a",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7b098ddb0b6af4dedb9cd8e21c29c2f8200d9ecb",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "06f0346cf3e251734964bd3919699611f1833963",
+                      "datavalue": {
+                        "value": "https://ga.de/news/politik/deutschland/professorin-aus-bonn-louisa-specht-riemenschneider-wird-neue-bundesdatenschutzbeauftragte_aid-116420265",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    },
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "e995f991043aee1d0894bcd80c72213927120830",
+                      "datavalue": {
+                        "value": "https://social.bund.de/@bfdi/112734254171168855",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "13c039a085c6135bd45dc3f7bd4989006bf70922",
+                      "datavalue": {
+                        "value": "http://web.archive.org/web/20240729090353/https://www.bfdi.bund.de/SharedDocs/Downloads/DE/DokumenteBfDI/Organigramm.pdf?__blob=publicationFile&v=42",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1065"
+                ]
+              }
+            ]
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "1cd5b8a7015f34e7ca6d2bf1ea13acd4ec449709",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 586,
+                  "id": "Q586"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P625": [
+                {
+                  "snaktype": "value",
+                  "property": "P625",
+                  "hash": "82044d6b947fe46a41af5076b8687d22275771b2",
+                  "datavalue": {
+                    "value": {
+                      "latitude": 50.75136,
+                      "longitude": 7.08872,
+                      "altitude": null,
+                      "precision": 1e-05,
+                      "globe": "http://www.wikidata.org/entity/Q2"
+                    },
+                    "type": "globecoordinate"
+                  },
+                  "datatype": "globe-coordinate"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P625"
+            ],
+            "id": "Q1005821$a5ec341d-4139-a15f-c77c-4906b8e99690",
+            "rank": "normal"
+          }
+        ],
+        "P1329": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1329",
+              "hash": "f2393b5cda12f58283eaa993cdb0a22e4f707b38",
+              "datavalue": {
+                "value": "+49-228-9977990",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1005821$014b8f8b-4f25-20df-0964-aa6142f5a40b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7fdb594de3ee81092aa62006c9b69258eebd8623",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "252f1e820316b759275fbd6c0465780e3c2425b5",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a212287c68afd12c7194d9901528b2ee3709e812",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-02-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "7ca985daecb0e5c99bf70e7d2ece62598061e3f9",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20200115203600/https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P2960": [
+                    {
+                      "snaktype": "value",
+                      "property": "P2960",
+                      "hash": "ad65ada43857349bb6b68c83bc50c86f5cfb6dce",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-01-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P1065",
+                  "P2960"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2900": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2900",
+              "hash": "8c34e8ac87b2e21213ded51f8d153de382666198",
+              "datavalue": {
+                "value": "+49-228-9977995550",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1005821$fa9e7747-487b-08c4-09b9-bb5d10fe60b7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7fdb594de3ee81092aa62006c9b69258eebd8623",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "252f1e820316b759275fbd6c0465780e3c2425b5",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a212287c68afd12c7194d9901528b2ee3709e812",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-02-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "7ca985daecb0e5c99bf70e7d2ece62598061e3f9",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20200115203600/https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P2960": [
+                    {
+                      "snaktype": "value",
+                      "property": "P2960",
+                      "hash": "ad65ada43857349bb6b68c83bc50c86f5cfb6dce",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-01-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P1065",
+                  "P2960"
+                ]
+              }
+            ]
+          }
+        ],
+        "P968": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P968",
+              "hash": "33a2fc04c79c38396bf3dbc1e00e9aafe8bfd26c",
+              "datavalue": {
+                "value": "mailto:poststelle@bfdi.bund.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q1005821$76475cc8-4ba9-6531-ed11-7ed74f90273b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7fdb594de3ee81092aa62006c9b69258eebd8623",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "252f1e820316b759275fbd6c0465780e3c2425b5",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a212287c68afd12c7194d9901528b2ee3709e812",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-02-09T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "7ca985daecb0e5c99bf70e7d2ece62598061e3f9",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20200115203600/https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P2960": [
+                    {
+                      "snaktype": "value",
+                      "property": "P2960",
+                      "hash": "ad65ada43857349bb6b68c83bc50c86f5cfb6dce",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-01-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P1065",
+                  "P2960"
+                ]
+              }
+            ]
+          }
+        ],
+        "P3721": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3721",
+              "hash": "eab71627da7b89af810de5ca5ba34b0411e5aaa7",
+              "datavalue": {
+                "value": "D2DD 64D0 43B4 81D9 8F21 6168 FBF8 05BD BFDA 08FB",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1005821$047ecffa-4397-7af4-f66a-9dee4ac1cae8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "eae4727566b9eebe0d35c5feea4f3b6d5b458d9e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "252f1e820316b759275fbd6c0465780e3c2425b5",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1065": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1065",
+                      "hash": "94e346d2f7265a66758ea1f2f4b4aef21baf7948",
+                      "datavalue": {
+                        "value": "https://web.archive.org/web/20220121053420/https://www.bfdi.bund.de/DE/Service/Kontakt/kontakt_node.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P2960": [
+                    {
+                      "snaktype": "value",
+                      "property": "P2960",
+                      "hash": "43e8149c035db793866c2532572269c44af73a17",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-01-21T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1065",
+                  "P2960"
+                ]
+              }
+            ]
+          }
+        ],
+        "P463": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "adeca0902f95f1f3d31b298e0355ea2cddf3bf03",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 26877724,
+                  "id": "Q26877724"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$b398f010-4c7a-1b5d-b226-2ef970e2cd53",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "2719dad7fa84a4eeb5d5a3d5a6b7cdd82ce092f9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1654951,
+                  "id": "Q1654951"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$A5C6AE2D-CB95-496D-BBE5-0C5569E8C8F8",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "610a4b3299ecab3c60332979753890c3500975a8",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 627609,
+                  "id": "Q627609"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$db541bd5-4034-ccbf-af26-23d8e9769e7b",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "cc18568a0918279e649436c230995653e9297211",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1763477,
+                  "id": "Q1763477"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$25f8bc8d-4777-5be0-ca18-e5825b0a3c95",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "4e3849a03af027b52443fd6d24a1b7ba10923275",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1525134,
+                  "id": "Q1525134"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "124f5a2b4b1fb9eb815c49b26b42d09909fd537d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1005821$68002f52-48b8-27fc-eac9-7fb92c0c95cb",
+            "rank": "normal"
+          }
+        ],
+        "P1128": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1128",
+              "hash": "530a951407c9fca14af76c9ba7fce527f04ee63c",
+              "datavalue": {
+                "value": {
+                  "amount": "+320.5",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "09f85c089438e099c1cd33998f5c59a57729afd2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$b67fd01b-421a-d918-2d51-bc010b7b2c74",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "eb1268383356c9936379d9e6ef114de6d9eeacbb",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "98b9cc8bf3540ba866de88a02d4325548a604863",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2020/soll/epl21.pdf#page=18",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1128",
+              "hash": "b061fbd3961f78c61af49d75cf5fea853932dae8",
+              "datavalue": {
+                "value": {
+                  "amount": "+253.5",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "77f348fcb49110a0de3c2faf4865527dc30dcbc9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$9bd4951e-4d20-18be-aa06-94911e0211c6",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "eb1268383356c9936379d9e6ef114de6d9eeacbb",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "98b9cc8bf3540ba866de88a02d4325548a604863",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2020/soll/epl21.pdf#page=18",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1128",
+              "hash": "c50c39a9510657d9f06ec09b43f2ba552ece33bd",
+              "datavalue": {
+                "value": {
+                  "amount": "+346.4",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "4a6fe7f861358928efef462e361b21704446d129",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$f77b3a49-4e5e-ebdc-d335-a8e9ab92acc0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c995e389a3dcf7f6c9a00102bc5c5ff458c75ba6",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "143c5eda3a153068d632888a0bd51ec753d7dce2",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/user_upload/BHH%202021%20gesamt.pdf#page=2748",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "hash": "e8a24a70fb96211424b5f65faafddc05d4960941",
+                      "datavalue": {
+                        "value": "2748",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P304"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6375": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "e1598fb2dba5b299ede5e6d6b17d4ca37eea22f2",
+              "datavalue": {
+                "value": {
+                  "text": "Husarenstraße 30, 53117 Bonn",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "d7f416d848aa26f703071f890264dff6784eaf81",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-05-18T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582"
+            ],
+            "id": "Q1005821$6d4cb74b-48ae-c8a2-13e9-284f804640f2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3679c57481b7bb439d05324f0ef67e44ee0626a2",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "16557328fededf3d3baf1ac5d2cfeb2a1dfc3293",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/SharedDocs/Kurzmeldungen/DE/2020/10_Umzug.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "842b60c62a0a2cc1101f6895fd755f3857782640",
+              "datavalue": {
+                "value": {
+                  "text": "Graurheindorfer Straße 153, 53117 Bonn",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "89a45c66492cc19176a0d43937a655d835dedc89",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-05-18T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1005821$763c1e18-45c3-687f-7111-2f39d0c45022",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3679c57481b7bb439d05324f0ef67e44ee0626a2",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "16557328fededf3d3baf1ac5d2cfeb2a1dfc3293",
+                      "datavalue": {
+                        "value": "https://www.bfdi.bund.de/SharedDocs/Kurzmeldungen/DE/2020/10_Umzug.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "9d74596a482e3452de061547cc79c517c11ad498",
+              "datavalue": {
+                "value": "BfDI_info",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "a67528f7eac4a974028d6cde5276227e392eec14",
+                  "datavalue": {
+                    "value": "1086178954673827840",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P1552": [
+                {
+                  "snaktype": "value",
+                  "property": "P1552",
+                  "hash": "62f0039d240f7eeba6c6908a0d8807a6188324a1",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 28378282,
+                      "id": "Q28378282"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e6c0fbc9c81fc06bc4f49da740a35f457464dd39",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-01-18T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P1552",
+              "P580"
+            ],
+            "id": "Q1005821$ae7abcf1-43d9-cc43-f9df-22737ff4c93b",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "b411912a7530ed3d2bd3e46141b2539c20d1c9ed",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 23647168,
+                  "id": "Q23647168"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$428FDA8D-0266-48DD-BC7D-6262FCF520D0",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "36ca53b0d1ba55808e1c968bb6c0f65bb50563c1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 189900,
+                  "id": "Q189900"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$434DEAC0-1D82-4FBC-8093-CB6BD5B1E1A6",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "novalue",
+              "property": "P749",
+              "hash": "341d6ec271d241105bb84d52488e715847e5cb31",
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$fb09e08a-4f49-e95c-31ea-1a1c56ebf67f",
+            "rank": "normal"
+          }
+        ],
+        "P2769": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "aa0291ea2d4aaff40d7e938a07f2f4b30ea5f5bb",
+              "datavalue": {
+                "value": {
+                  "amount": "+23962000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "09f85c089438e099c1cd33998f5c59a57729afd2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$0a9672d0-4066-f4a8-2d30-db723819850a",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5504433339aedfb5ec5eafdde27e64b43d7b7ace",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "091869890d956eab3ac510ae901bc557166b2c41",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2020/soll/epl21.pdf#page=3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "6d9705d5d320a1bfaac19c10d620d527dae75c1c",
+              "datavalue": {
+                "value": {
+                  "amount": "+23896000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "77f348fcb49110a0de3c2faf4865527dc30dcbc9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$13980304-4988-a347-443d-9a1e623863ce",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4b7ea1be5db04902168a9984acc2edde79cf70a7",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "84caceb12e34dd022b84868a3a8520e296bee03c",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2019/soll/epl21.pdf#page=3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "6570a36c299f8b8830685818a8394898694ab564",
+              "datavalue": {
+                "value": {
+                  "amount": "+16576000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "6174553681261aeec411766adf691fdeec1dee47",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$a2c7c433-4623-1789-5d37-4a6e84c89513",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4b7ea1be5db04902168a9984acc2edde79cf70a7",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "84caceb12e34dd022b84868a3a8520e296bee03c",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2019/soll/epl21.pdf#page=3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "f7970cafdf643a3b4c945d0d147cfaa9dc5ddf63",
+              "datavalue": {
+                "value": {
+                  "amount": "+14397000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "c34a8cfb745b0cda47dffa6967839b8f92bcb653",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2017-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$e6459e33-44fb-0fb4-446b-3bc8379b762f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "afc00729951ccadf595747ea9219a63f6eb88346",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "87ddd45cac9637b3bf04c9f5d0e03101bd5da842",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2018/soll/epl21.pdf#page=3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "a9c498a9c5aafc96fd8149ee8c8c8fc9b138a017",
+              "datavalue": {
+                "value": {
+                  "amount": "+12952000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "f4e1bbc6e9b3a72c2e1fd3e6061f4c7e7f5acad9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2016-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$0ba893cf-4749-874b-1f8a-c8ba0dd3f1e9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "400bda7355fa15df61e823da84f2666b182a0255",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "691633ea5484e479f2d758c4fa5b294abe9d2ecc",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2017/soll/epl21.pdf#page=3",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "03f5e7df6d3ee51f5fc70b2400113bb67e7979cf",
+              "datavalue": {
+                "value": {
+                  "amount": "+9265000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "b6849eb7f635c6ee36b75d8adf7e3f89c6624101",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2015-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$3067da30-4022-57e6-9837-b8a829da3b3e",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2826e56a4e53b0f63fc22e666b8862a4dadcee72",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "9e5328b89c1aaa247ea4d51a134b84c4534943f8",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2015/soll/epl06.pdf#page=77",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "86bbe7c68b8b9f05facbe1c58be3bf94aa42c191",
+              "datavalue": {
+                "value": {
+                  "amount": "+9083000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "049bd876bdfea826eaceb6f6056701b74c6d3f08",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$06b57c41-4a1a-74a0-fffc-fe7e45957f3b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2826e56a4e53b0f63fc22e666b8862a4dadcee72",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "9e5328b89c1aaa247ea4d51a134b84c4534943f8",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2015/soll/epl06.pdf#page=77",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "5e07d44d21a4dc6ebcdb61e7518568d5c1d3de4e",
+              "datavalue": {
+                "value": {
+                  "amount": "+9125000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "1e2a78761fecc9e5ba1ba772d86ba7dbf29fe467",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$e1a5113b-4d9b-77f4-0453-ec263831548c",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "8ec6bf2c94b8e9df5f957a042d967fba679e5592",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "29fa7577fe7641a3153f896db7917ddca0d2f692",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2014/soll/epl06.pdf#page=99",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "c2b7940f55531ec9b7cba5b8bec6a6b313d109b3",
+              "datavalue": {
+                "value": {
+                  "amount": "+8765000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "8f3565657428592dc1dd7f92da0f734724d987d7",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2012-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$30d52380-476b-561c-dd7d-85b27849cde7",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "b0e86f9511625b848b97454df3a1edde2ea22bc1",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a337db064a72aed153a5df780d9e91ae6c5ec884",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2013/soll/epl06.pdf#page=44",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "b254710fd8914fd2cee7c175fa4c8d1071da6081",
+              "datavalue": {
+                "value": {
+                  "amount": "+8797000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "1277780215cd5ca03e85ca9c50830783b4fedfe1",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2011-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$f3bf8a38-4739-41b8-1044-1fad67e36582",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5e6eac73e3f24ee10f556b9a95a5c18a999e7cb9",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "2f094dc70c47ab438ed066ef162671a085ea8b3b",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/de.bundeshaushalt/content_de/dokumente/2012/soll/epl06.pdf#page=39",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "fec1d9d1e0eccc56b962e701d0a35c4acf51a5bb",
+              "datavalue": {
+                "value": {
+                  "amount": "+6100000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "3c2d510317e0fcbe8582afb1d706a4b6eb08d233",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2010-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$436ff629-4794-2792-1257-a613ec140f06",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0f8c82e8955c4ba8f002fdccd9c0b4097fb500d6",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "ec8a02a72b592db8e33a040ca12f75934297dc85",
+                      "datavalue": {
+                        "value": "https://dip21.bundestag.de/dip21/btd/16/136/1613600.pdf#page=480",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "5be3b086ae2f48ac6dc14f580127ee7f1208ff32",
+              "datavalue": {
+                "value": {
+                  "amount": "+4533000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "e4ce1ad4d6c6d0289a402c42bf392b7c735cbc30",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2009-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$55c48429-4f8c-7ac8-f1f6-58492a6a8e15",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0f8c82e8955c4ba8f002fdccd9c0b4097fb500d6",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "ec8a02a72b592db8e33a040ca12f75934297dc85",
+                      "datavalue": {
+                        "value": "https://dip21.bundestag.de/dip21/btd/16/136/1613600.pdf#page=480",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "ad5b8d6d1aaf9e8effaa21ebf0bd2c67aa948f13",
+              "datavalue": {
+                "value": {
+                  "amount": "+4511000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "43bdb90ab9b607c864931ed584115ff944210c6b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2008-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$854673cc-430e-96c9-eb81-4d4de26a8a39",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "6857f33894801bb322b4b34d28540b9e0dd60fdb",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "b85be04cf347f6f8d9d92b5034b25057c3e1218a",
+                      "datavalue": {
+                        "value": "http://dip21.bundestag.de/dip21/btd/16/060/1606000.pdf#page=506",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "027bbc7b9671302528692200d808dd7a50122d4c",
+              "datavalue": {
+                "value": {
+                  "amount": "+3807000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "4b8b0672c38a4a213d3ddf5553b775988e65ace9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2007-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$a6e4fd3a-4162-7f8c-93fd-a94528d8abe4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "6857f33894801bb322b4b34d28540b9e0dd60fdb",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "b85be04cf347f6f8d9d92b5034b25057c3e1218a",
+                      "datavalue": {
+                        "value": "http://dip21.bundestag.de/dip21/btd/16/060/1606000.pdf#page=506",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "ec73d0d372f89ae3fbea3d677da76e9c54238fb4",
+              "datavalue": {
+                "value": {
+                  "amount": "+3615000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a910853afc29ee98ebd8b5f67a02ff08aea299d2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2006-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$6deba520-4c8d-d1a2-e353-052cacd55e6f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1594f1c2cd72336641929d8ab3ee9dcd5d143eb9",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "ed7cea1a5f00c691c4f29e085016aa74545188bb",
+                      "datavalue": {
+                        "value": "http://dip21.bundestag.de/dip21/btd/16/007/1600750.pdf#page=488",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "b8ca5ab1202d0ebd6753042b473c0f4233299227",
+              "datavalue": {
+                "value": {
+                  "amount": "+3690000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "26896c2e3b989e92a54f934df3cb9368a0ce7adb",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2005-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$2426ede5-4bb9-8622-e55c-b4f2d3c6b889",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1594f1c2cd72336641929d8ab3ee9dcd5d143eb9",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "ed7cea1a5f00c691c4f29e085016aa74545188bb",
+                      "datavalue": {
+                        "value": "http://dip21.bundestag.de/dip21/btd/16/007/1600750.pdf#page=488",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "8d749dbd738345e7d491da148188873bcb996efd",
+              "datavalue": {
+                "value": {
+                  "amount": "+4548000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "ba4e903e603892e17bd9796e98b823725cab176a",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2004-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$f2951569-4272-d6b2-ce83-1de900edb2d9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "67c3c21b1774379589b13b92119136134bb8f262",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "346b6826aa45e10c0d8a9b59a039becc2b1265e9",
+                      "datavalue": {
+                        "value": "https://dip21.bundestag.de/doc/btd/15/015/1501500.pdf#page=433",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "9f407c65d589de03701aaa763e6bf10aec9cdcfe",
+              "datavalue": {
+                "value": {
+                  "amount": "+4423000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "2c189c7c872983bd10a28e2acfc03f5c3738d76d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2003-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$39a15a05-4748-c102-b2f0-e1040a86aedc",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "67c3c21b1774379589b13b92119136134bb8f262",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "346b6826aa45e10c0d8a9b59a039becc2b1265e9",
+                      "datavalue": {
+                        "value": "https://dip21.bundestag.de/doc/btd/15/015/1501500.pdf#page=433",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "a67b081a47831d3b7f18aaa5173c867f99521e7f",
+              "datavalue": {
+                "value": {
+                  "amount": "+3398000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "9451da042cf866fedbd9efd17f0324c590c5c5dd",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$574cea7e-49f9-d00d-947b-f35b898678f3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1b5c58709fabc78072ab561b9315cc26aa2c637a",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "c1e94d2b4830454e4e67588ba21ecf51b1b9606d",
+                      "datavalue": {
+                        "value": "http://dip21.bundestag.de/dip21/btd/14/068/1406800.pdf#page=452",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "0925617f86cbfc4d677ab71ffc24fa40ef61b0ad",
+              "datavalue": {
+                "value": {
+                  "amount": "+3449000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "eb0ebdca65f8a80fa9de530d9f3efd91003c1544",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2001-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1005821$d635d62e-47e8-5852-b068-9f434533d5c3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1b5c58709fabc78072ab561b9315cc26aa2c637a",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "c1e94d2b4830454e4e67588ba21ecf51b1b9606d",
+                      "datavalue": {
+                        "value": "http://dip21.bundestag.de/dip21/btd/14/068/1406800.pdf#page=452",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2769",
+              "hash": "a93f7346980ca64ac0faf004cf8bd64243fdf63d",
+              "datavalue": {
+                "value": {
+                  "amount": "+31537000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "4a6fe7f861358928efef462e361b21704446d129",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P7452": [
+                {
+                  "snaktype": "value",
+                  "property": "P7452",
+                  "hash": "22ea48be6d30f4e44b5aba1bfaf4eca5c8cc4a56",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 71536244,
+                      "id": "Q71536244"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585",
+              "P7452"
+            ],
+            "id": "Q1005821$b0d3e308-4ae0-ab5c-3891-096f51ae5f75",
+            "rank": "preferred",
+            "references": [
+              {
+                "hash": "dc7498a3d2cda4c05365aa4a6fbba9cb1bc2ff1b",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "58805dc1a136d41e768880608305f9db2dc6733a",
+                      "datavalue": {
+                        "value": "https://www.bundeshaushalt.de/fileadmin/user_upload/BHH%202021%20gesamt.pdf#page=2733",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "hash": "9c3f3f7b9addb20e0350df2bfc07f542188abf9d",
+                      "datavalue": {
+                        "value": "2733",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P304"
+                ]
+              }
+            ]
+          }
+        ],
+        "P4033": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4033",
+              "hash": "cf9fa9b8188998b7cf9081ed15c1346fa52e4bf2",
+              "datavalue": {
+                "value": "bfdi@social.bund.de",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e2dc699e3c6e6fb694c38fc5693ede03bf94e159",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-04-29T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P407"
+            ],
+            "id": "Q1005821$323cc334-4816-0682-dbc4-9fefe774a059",
+            "rank": "normal"
+          }
+        ],
+        "P2541": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2541",
+              "hash": "abcc9df39f6622f0ca58d6b247139d972986fb7b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1005821$07bb321b-4ab0-216c-b013-03eb45c4b90b",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "2a29a40c1ee273a965688a94aef182cf905f7195",
+              "datavalue": {
+                "value": "Logo BfDI (5.2019).svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "8c7d5b494c72f972bec4ef8a30b3f685bd76ef28",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-01-07T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "f8689e7c9d019483c8e2397499b8d32e0138b899",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-07-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$d660766e-4701-db69-3029-7de05d8b1b4c",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "c6623df394ad7c2e33c7706af54c68d66b567c40",
+              "datavalue": {
+                "value": "Logo BfDI (6.2017).svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "cf07818c8327fe735e4e8c1180a83a5b99ff80c4",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-01-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "fd88dd2a5dc14cb5c10097aae64efce99763236c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-01-05T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$d4055690-4c8f-bde6-af5a-59f5290db589",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "32ba4e3da8d65a635021c5916f260f833858bb6a",
+              "datavalue": {
+                "value": "20241001-BfDI-logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "d95d87ea4229cc85a8990375174a1a6a0fa45562",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-09-03T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1005821$eb6e9001-4db5-954a-2bdb-89c6d6da831b",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "3df6a8cd1a87d891e353cce5946950ea3573a226",
+              "datavalue": {
+                "value": "Logo Bundesbeauftragte für den Datenschutz und die Informationsfreiheit.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "dbc99d2943dbca80d7c736a935be23cc7537fba4",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2006-01-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "13af3f7e78d854c560eb8263244006dd199445a2",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-12-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q1005821$0e2d9161-4f0c-b29c-9ffc-06785d2f708b",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "0378149d1aa3b32e889d902a5d6bc819bdab2d55",
+              "datavalue": {
+                "value": "Logo Bundesbeauftragte für den Datenschutz und die Informationsfreiheit 2003.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "859439d3b591cb7cc652d2ffb6a84f6b3da4cac9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2005-12-31T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582"
+            ],
+            "id": "Q1005821$2d1f731d-41f4-72f2-6b24-a378b242ec30",
+            "rank": "normal"
+          }
+        ],
+        "P8687": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "d3069d46b3bf51dfd77be7f86ac597ed3779ab0e",
+              "datavalue": {
+                "value": {
+                  "amount": "+1856",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "a67528f7eac4a974028d6cde5276227e392eec14",
+                  "datavalue": {
+                    "value": "1086178954673827840",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "ca6610e3015cabb3069ecb93a89c1f5245717b35",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-01-10T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P585"
+            ],
+            "id": "Q1005821$e48e8c24-a0ee-4f65-b28e-5e5a30458dae",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "4836499014fe7673b8f1a3464890d207f9201f8f",
+              "datavalue": {
+                "value": {
+                  "amount": "+2329",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "a67528f7eac4a974028d6cde5276227e392eec14",
+                  "datavalue": {
+                    "value": "1086178954673827840",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "28074b0854ea5bc5c3457a48b543d03956e44213",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-12-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P585"
+            ],
+            "id": "Q1005821$a06b81cd-4054-c9eb-04e2-bf9df1a4c49b",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "f4d85905b47a89fd212556dde22c08b1cdba4d1e",
+              "datavalue": {
+                "value": {
+                  "amount": "+2879",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "cf9fa9b8188998b7cf9081ed15c1346fa52e4bf2",
+                  "datavalue": {
+                    "value": "bfdi@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "28074b0854ea5bc5c3457a48b543d03956e44213",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-12-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q1005821$1a06fc2c-4eae-543e-9dbf-4e73ec8e7a9f",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "50c2db5ce71bfa79ae8f0a2b2b07037a4017d5de",
+              "datavalue": {
+                "value": {
+                  "amount": "+44133",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "cf9fa9b8188998b7cf9081ed15c1346fa52e4bf2",
+                  "datavalue": {
+                    "value": "bfdi@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "9d60d69fc8914e1e052163b51526bd50afbdf62b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-02-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q1005821$DE808C0E-68C5-4190-B3E8-1D49DAE7EC61",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "9abf44b9bf37002426c1cf9329588ce86d68de5c",
+              "datavalue": {
+                "value": {
+                  "amount": "+44237",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "cf9fa9b8188998b7cf9081ed15c1346fa52e4bf2",
+                  "datavalue": {
+                    "value": "bfdi@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a238e7341c8aa9bed8f85acab644a10b14752adc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-03-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q1005821$28D3458D-D7BF-4A19-9603-9B1B0784A960",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "d90edfa138335cc8cf236931964409c8086a3e23",
+              "datavalue": {
+                "value": {
+                  "amount": "+44322",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "cf9fa9b8188998b7cf9081ed15c1346fa52e4bf2",
+                  "datavalue": {
+                    "value": "bfdi@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "607184846106e630f6f06910d2df74dca931b9f0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-04-11T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q1005821$7A5140C7-A3EC-4619-B413-94E392F1A49D",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "cf380647361c3e3c4bcd337911102321890aed1d",
+              "datavalue": {
+                "value": {
+                  "text": "BfDI",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1005821$6b208a62-451c-a867-059c-f7a366ce669c",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3915d4d4e31f083ac56f0617798ddb1da70f855e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f76d0c4139db5a9f43407c0c0eec9e0eb7993b36",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DELeistungen/A/Abkuerzungsverzeichnis-des-Bundes-BMI-BVA.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "15a5da9acd7ebb61c61ded95cfba7255e42e573a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P646": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P646",
+              "hash": "872a9c5f3c24e8edbc762007567d16281847da71",
+              "datavalue": {
+                "value": "/m/04ybfmv",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1005821$A15D7C87-4232-4065-A102-D13D8E49E730",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "d922551070c762c096c8adb05f83de27e29787f1",
+              "datavalue": {
+                "value": "305",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1005821$ced7add4-4c4a-fd92-79a4-07b1c2e402a1",
+            "rank": "normal"
+          }
+        ],
+        "P11810": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11810",
+              "hash": "25e60ba99e46cfd13e205ec2e0db1cf9025ebf49",
+              "datavalue": {
+                "value": "https://social.bund.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q1005821$f4c2d549-4be3-8a7f-9949-95fb78c409fd",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Federal Commissioner for Data Protection and Freedom of Information",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundesbeauftragter für den Datenschutz und die Informationsfreiheit",
+          "badges": []
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Federal Commissioner for Data Protection and Freedom of Information",
+          "badges": []
+        },
+        "kowiki": {
+          "site": "kowiki",
+          "title": "자료보호 및 정보자유를 위한 연방위원회",
+          "badges": []
+        },
+        "simplewiki": {
+          "site": "simplewiki",
+          "title": "Federal Commissioner for Data Protection and Freedom of Information",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q31831396": {
+        "type": "item",
+        "id": "Q31831396",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Louisa Specht-Riemenschneider"
+          },
+          "en": {
+            "language": "en",
+            "value": "Louisa Specht-Riemenschneider"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Rechtswissenschaftlerin und Hochschullehrerin"
+          },
+          "en": {
+            "language": "en",
+            "value": "German lawyer and university teacher"
+          }
+        }
+      },
+      "Q2476158": {
+        "type": "item",
+        "id": "Q2476158",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Ulrich Kelber"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ulrich Kelber"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Politiker (SPD), Bundesdatenschutzbeauftragter"
+          },
+          "en": {
+            "language": "en",
+            "value": "German politician"
+          }
+        }
+      },
+      "Q2141321": {
+        "type": "item",
+        "id": "Q2141321",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Reinhold Baumann"
+          },
+          "en": {
+            "language": "en",
+            "value": "Reinhold Baumann"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Datenschutzexperte"
+          },
+          "en": {
+            "language": "en",
+            "value": "German jurist (1924-2016)"
+          }
+        }
+      },
+      "Q1409291": {
+        "type": "item",
+        "id": "Q1409291",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Alfred Einwag"
+          },
+          "en": {
+            "language": "en",
+            "value": "Alfred Einwag"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Jurist"
+          },
+          "en": {
+            "language": "en",
+            "value": "German jurist"
+          }
+        }
+      },
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      },
+      "Q99935030": {
+        "type": "item",
+        "id": "Q99935030",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Oberste Bundesbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Oberste Bundesbehörde"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q1581656": {
+        "type": "item",
+        "id": "Q1581656",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hans Peter Bull"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hans Peter Bull"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Rechtswissenschaftler, Politiker (SPD), Landesminister"
+          },
+          "en": {
+            "language": "en",
+            "value": "German politician"
+          }
+        }
+      },
+      "Q1690204": {
+        "type": "item",
+        "id": "Q1690204",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Joachim Jacob"
+          },
+          "en": {
+            "language": "en",
+            "value": "Joachim Jacob"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Datenschutzexperte"
+          },
+          "en": {
+            "language": "en",
+            "value": "German jurist (1939–2024)"
+          }
+        }
+      },
+      "Q117825030": {
+        "type": "item",
+        "id": "Q117825030",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Jürgen H. Müller"
+          },
+          "en": {
+            "language": "en",
+            "value": "Jürgen H. Müller"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Verwaltungsjurist und politischer Beamter"
+          }
+        }
+      },
+      "Q2078019": {
+        "type": "item",
+        "id": "Q2078019",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Peter Schaar"
+          },
+          "en": {
+            "language": "en",
+            "value": "Peter Schaar"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Datenschutzexperte"
+          },
+          "en": {
+            "language": "en",
+            "value": "former Federal Commissioner for Data Protection and Freedom of Information of Germany"
+          }
+        }
+      },
+      "Q3242920": {
+        "type": "item",
+        "id": "Q3242920",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "data protection authority"
+          },
+          "de": {
+            "language": "de",
+            "value": "Datenschutzaufsichtsbehörde"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Behörde, die durch Ermittlungs- und Abhilfebefugnisse die Anwendung des Datenschutzgesetzes überwacht und beaufsichtigt"
+          },
+          "en": {
+            "language": "en",
+            "value": "public authority that monitor and supervise, through investigative and corrective powers, the application of the data protection law"
+          }
+        }
+      },
+      "Q493348": {
+        "type": "item",
+        "id": "Q493348",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Andrea Voßhoff"
+          },
+          "en": {
+            "language": "en",
+            "value": "Andrea Astrid Voßhoff"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Politikerin, MdB"
+          },
+          "en": {
+            "language": "en",
+            "value": "German politician"
+          }
+        }
+      }
+    }
+  }
+}

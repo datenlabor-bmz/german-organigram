@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.240243",
+  "Bundesland": "Saarland",
+  "E-Mail": "info@dfh-ufa.org",
+  "Hauptadresse": "Kohlweg 7",
+  "Internetadresse": "https://www.dfh-ufa.org/",
+  "Land": "DE",
+  "Längengrad": "7.021925",
+  "Organisation": "Deutsch-Französische Hochschule",
+  "OrganisationDisplay": "DFH",
+  "OrganisationId": 22498,
+  "OrganisationKurz": "DFH",
+  "Ort": "Saarbrücken",
+  "PLZ": 66123,
+  "Telefax": "+49 681 93812-111",
+  "Telefon": "+49 681 93812-100",
+  "locations": [
+    {
+      "Breitengrad": "49.240243",
+      "Bundesland": "Saarland",
+      "E-Mail": "info@dfh-ufa.org",
+      "Hauptadresse": "Kohlweg 7",
+      "Internetadresse": "https://www.dfh-ufa.org/",
+      "Land": "DE",
+      "Längengrad": "7.021925",
+      "Organisation": "Deutsch-Französische Hochschule",
+      "OrganisationDisplay": "DFH",
+      "OrganisationId": 22498,
+      "OrganisationKurz": "DFH",
+      "Ort": "Saarbrücken",
+      "PLZ": 66123,
+      "Telefax": "+49 681 93812-111",
+      "Telefon": "+49 681 93812-100"
+    }
+  ]
+}

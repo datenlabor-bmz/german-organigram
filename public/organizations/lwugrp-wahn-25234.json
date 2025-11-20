@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.856273",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "PIZLwCallCenter@bundeswehr.org",
+  "Hauptadresse": "Flughafenstraße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/luftwaffenunterstuetzungsgruppe-wahn-5337932",
+  "Land": "DE",
+  "Längengrad": "7.11199",
+  "Organisation": "Luftwaffenunterstützungsgruppe Wahn",
+  "OrganisationDisplay": "LwUGrp WAHN",
+  "OrganisationId": 25234,
+  "OrganisationKurz": "LwUGrp WAHN",
+  "Ort": "Köln",
+  "PLZ": 51147,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2203 908-3134",
+  "locations": [
+    {
+      "Breitengrad": "50.856273",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "PIZLwCallCenter@bundeswehr.org",
+      "Hauptadresse": "Flughafenstraße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/luftwaffenunterstuetzungsgruppe-wahn-5337932",
+      "Land": "DE",
+      "Längengrad": "7.11199",
+      "Organisation": "Luftwaffenunterstützungsgruppe Wahn",
+      "OrganisationDisplay": "LwUGrp WAHN",
+      "OrganisationId": 25234,
+      "OrganisationKurz": "LwUGrp WAHN",
+      "Ort": "Köln",
+      "PLZ": 51147,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2203 908-3134"
+    }
+  ]
+}

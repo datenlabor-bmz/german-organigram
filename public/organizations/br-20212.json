@@ -1,0 +1,48 @@
+{
+  "Breitengrad": "52.509826",
+  "Bundesland": "Berlin",
+  "E-Mail": "bundesrat@bundesrat.de",
+  "Hauptadresse": "Leipziger Straße 3 - 4",
+  "Internetadresse": "https://www.bundesrat.de/DE/homepage/homepage-node.html",
+  "Land": "DE",
+  "Längengrad": "13.381187",
+  "Organisation": "Bundesrat",
+  "OrganisationDisplay": "BR",
+  "OrganisationId": 20212,
+  "OrganisationKurz": "BR",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefon": "+49 3018 9100-0",
+  "locations": [
+    {
+      "Breitengrad": "52.509826",
+      "Bundesland": "Berlin",
+      "E-Mail": "bundesrat@bundesrat.de",
+      "Hauptadresse": "Leipziger Straße 3 - 4",
+      "Internetadresse": "https://www.bundesrat.de/DE/homepage/homepage-node.html",
+      "Land": "DE",
+      "Längengrad": "13.381187",
+      "Organisation": "Bundesrat",
+      "OrganisationDisplay": "BR",
+      "OrganisationId": 20212,
+      "OrganisationKurz": "BR",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefon": "+49 3018 9100-0"
+    },
+    {
+      "Adresse": "Platz der Vereinten Nationen 9",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "bundesrat@bundesrat.de",
+      "Internetadresse": "https://www.bundesrat.de/DE/homepage/homepage-node.html",
+      "Land": "DE",
+      "Liegenschaft": "Dienststelle Bonn",
+      "LiegenschaftsId": 20208,
+      "OrganisationId": 20212,
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 3018 9100-400",
+      "Telefon": "+49 3018 9100-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.9927904",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "service@bghm.de",
+  "Hauptadresse": "Isaac-Fulda-Allee 18",
+  "Internetadresse": "https://www.bghm.de/",
+  "Land": "DE",
+  "Längengrad": "8.2195959",
+  "Organisation": "Berufsgenossenschaft Holz und Metall",
+  "OrganisationDisplay": "BGHM",
+  "OrganisationId": 1743010,
+  "OrganisationKurz": "BGHM",
+  "Ort": "Mainz",
+  "PLZ": 55124,
+  "Ressort": "BMAS",
+  "Telefax": "+49 6131 802-20800",
+  "Telefon": "+49 6131 802-0",
+  "locations": [
+    {
+      "Breitengrad": "49.9927904",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "service@bghm.de",
+      "Hauptadresse": "Isaac-Fulda-Allee 18",
+      "Internetadresse": "https://www.bghm.de/",
+      "Land": "DE",
+      "Längengrad": "8.2195959",
+      "Organisation": "Berufsgenossenschaft Holz und Metall",
+      "OrganisationDisplay": "BGHM",
+      "OrganisationId": 1743010,
+      "OrganisationKurz": "BGHM",
+      "Ort": "Mainz",
+      "PLZ": 55124,
+      "Ressort": "BMAS",
+      "Telefax": "+49 6131 802-20800",
+      "Telefon": "+49 6131 802-0"
+    }
+  ]
+}

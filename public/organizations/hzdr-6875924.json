@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "51.061029",
+  "Bundesland": "Sachsen",
+  "E-Mail": "kontakt@hzdr.de",
+  "Hauptadresse": "Bautzener Landstraße 400",
+  "Internetadresse": "https://www.hzdr.de",
+  "Land": "DE",
+  "Längengrad": "13.95766",
+  "Organisation": "Helmholtz-Zentrum Dresden-Rossendorf e. V.",
+  "OrganisationDisplay": "HZDR",
+  "OrganisationId": 6875924,
+  "OrganisationKurz": "HZDR",
+  "Ort": "Dresden",
+  "PLZ": 1328,
+  "Telefax": "+49 351 269-0461",
+  "Telefon": "+49 351 260-0",
+  "Kategorie": "Helmholtz",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.061029",
+      "Bundesland": "Sachsen",
+      "E-Mail": "kontakt@hzdr.de",
+      "Hauptadresse": "Bautzener Landstraße 400",
+      "Internetadresse": "https://www.hzdr.de",
+      "Land": "DE",
+      "Längengrad": "13.95766",
+      "Organisation": "Helmholtz-Zentrum Dresden-Rossendorf e. V.",
+      "OrganisationDisplay": "HZDR",
+      "OrganisationId": 6875924,
+      "OrganisationKurz": "HZDR",
+      "Ort": "Dresden",
+      "PLZ": 1328,
+      "Telefax": "+49 351 269-0461",
+      "Telefon": "+49 351 260-0",
+      "Kategorie": "Helmholtz",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Halsbrücker Straße 34",
+      "Bundesland": "Sachsen",
+      "Internetadresse": "https://www.hzdr.de",
+      "Land": "DE",
+      "Liegenschaft": "Helmholtz-Institut Freiberg für Ressourchentechnologie",
+      "LiegenschaftsId": 6875974,
+      "OrganisationId": 6875924,
+      "Ort": "Freiberg",
+      "PLZ": 9599,
+      "Telefon": "+49 351 260-4427"
+    }
+  ]
+}

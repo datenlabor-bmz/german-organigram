@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.9084124",
+  "Bundesland": "Thüringen",
+  "E-Mail": "info@iof.fraunhofer.de",
+  "Hauptadresse": "Albert-Einstein-Straße 7",
+  "Internetadresse": "https://www.iof.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "11.568446",
+  "Organisation": "Fraunhofer-Institut für Angewandte Optik und Feinmechanik",
+  "OrganisationDisplay": "IOF",
+  "OrganisationId": 444794,
+  "OrganisationKurz": "IOF",
+  "Ort": "Jena",
+  "PLZ": 7745,
+  "Telefax": "+49 3641 807-600",
+  "Telefon": "+49 3641 807-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.9084124",
+      "Bundesland": "Thüringen",
+      "E-Mail": "info@iof.fraunhofer.de",
+      "Hauptadresse": "Albert-Einstein-Straße 7",
+      "Internetadresse": "https://www.iof.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "11.568446",
+      "Organisation": "Fraunhofer-Institut für Angewandte Optik und Feinmechanik",
+      "OrganisationDisplay": "IOF",
+      "OrganisationId": 444794,
+      "OrganisationKurz": "IOF",
+      "Ort": "Jena",
+      "PLZ": 7745,
+      "Telefax": "+49 3641 807-600",
+      "Telefon": "+49 3641 807-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

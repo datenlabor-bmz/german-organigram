@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.2100186",
+  "Bundesland": "Bayern",
+  "E-Mail": "Pressestelle-LKdoBY@bundeswehr.org",
+  "Hauptadresse": "Ingolstädter Straße 240",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-bayern",
+  "Land": "DE",
+  "Längengrad": "11.5886323",
+  "Organisation": "Landeskommando Bayern",
+  "OrganisationDisplay": "LKdo BY",
+  "OrganisationId": 12071442,
+  "OrganisationKurz": "LKdo BY",
+  "Ort": "München",
+  "PLZ": 80939,
+  "Ressort": "BMVg",
+  "Telefon": "+49 089 3168 6040",
+  "locations": [
+    {
+      "Breitengrad": "48.2100186",
+      "Bundesland": "Bayern",
+      "E-Mail": "Pressestelle-LKdoBY@bundeswehr.org",
+      "Hauptadresse": "Ingolstädter Straße 240",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-bayern",
+      "Land": "DE",
+      "Längengrad": "11.5886323",
+      "Organisation": "Landeskommando Bayern",
+      "OrganisationDisplay": "LKdo BY",
+      "OrganisationId": 12071442,
+      "OrganisationKurz": "LKdo BY",
+      "Ort": "München",
+      "PLZ": 80939,
+      "Ressort": "BMVg",
+      "Telefon": "+49 089 3168 6040"
+    }
+  ]
+}

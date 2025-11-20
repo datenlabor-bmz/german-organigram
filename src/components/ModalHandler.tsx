@@ -3,7 +3,7 @@
 import { useSearchParams, useRouter } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import EntityModal from './EntityModal';
-import { getEntityById } from '@/lib/entities';
+import { getFullEntityById } from '@/lib/entities';
 import { Entity } from '@/types/entity';
 
 export default function ModalHandler() {
@@ -21,9 +21,10 @@ export default function ModalHandler() {
     }
 
     setLoading(true);
-    const foundEntity = getEntityById(entityId);
-    setEntity(foundEntity);
-    setLoading(false);
+    getFullEntityById(entityId).then(foundEntity => {
+      setEntity(foundEntity);
+      setLoading(false);
+    });
   }, [entityId]);
 
   const handleClose = () => {

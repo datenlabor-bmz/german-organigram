@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "53.55667114",
+  "Bundesland": "Hamburg",
+  "E-Mail": "info@ebv-oil.org",
+  "Hauptadresse": "Dammtorstraße 29-32",
+  "Internetadresse": "https://www.ebv-oil.org/cms/cms2.asp?sid=56&nid=&cof=56",
+  "Land": "DE",
+  "Längengrad": "9.98814964",
+  "Organisation": "Erdölbevorratungsverband",
+  "OrganisationDisplay": "EBV",
+  "OrganisationId": 24540,
+  "Ort": "Hamburg",
+  "PLZ": 20354,
+  "Telefon": "+49 40 350012-0",
+  "locations": [
+    {
+      "Breitengrad": "53.55667114",
+      "Bundesland": "Hamburg",
+      "E-Mail": "info@ebv-oil.org",
+      "Hauptadresse": "Dammtorstraße 29-32",
+      "Internetadresse": "https://www.ebv-oil.org/cms/cms2.asp?sid=56&nid=&cof=56",
+      "Land": "DE",
+      "Längengrad": "9.98814964",
+      "Organisation": "Erdölbevorratungsverband",
+      "OrganisationDisplay": "EBV",
+      "OrganisationId": 24540,
+      "Ort": "Hamburg",
+      "PLZ": 20354,
+      "Telefon": "+49 40 350012-0"
+    }
+  ]
+}

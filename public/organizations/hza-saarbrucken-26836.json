@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.22634",
+  "Bundesland": "Saarland",
+  "E-Mail": "poststelle.hza-saarbruecken@zoll.bund.de",
+  "Hauptadresse": "Präsident-Baltz-Straße 5",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "7.000914",
+  "Organisation": "Hauptzollamt Saarbrücken",
+  "OrganisationDisplay": "HZA Saarbrücken",
+  "OrganisationId": 26836,
+  "OrganisationKurz": "HZA Saarbrücken",
+  "Ort": "Saarbrücken",
+  "PLZ": 66119,
+  "Ressort": "BMF",
+  "Telefax": "+49 681 8308-0010",
+  "Telefon": "+49 681 8308-0000",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "49.22634",
+      "Bundesland": "Saarland",
+      "E-Mail": "poststelle.hza-saarbruecken@zoll.bund.de",
+      "Hauptadresse": "Präsident-Baltz-Straße 5",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "7.000914",
+      "Organisation": "Hauptzollamt Saarbrücken",
+      "OrganisationDisplay": "HZA Saarbrücken",
+      "OrganisationId": 26836,
+      "OrganisationKurz": "HZA Saarbrücken",
+      "Ort": "Saarbrücken",
+      "PLZ": 66119,
+      "Ressort": "BMF",
+      "Telefax": "+49 681 8308-0010",
+      "Telefon": "+49 681 8308-0000",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.149286",
+  "Bundesland": "Bayern",
+  "E-Mail": "office@isw.de",
+  "Hauptadresse": "Schwanthalerstraße 22",
+  "Internetadresse": "https://www.isw-isb.de",
+  "Land": "DE",
+  "Längengrad": "11.565928",
+  "Organisation": "Institut für Städtebau und Wohnungswesen München",
+  "OrganisationDisplay": "ISW",
+  "OrganisationId": 23080,
+  "OrganisationKurz": "ISW",
+  "Ort": "München",
+  "PLZ": 80336,
+  "Telefax": "+49 89 542706-23",
+  "Telefon": "+49 89 542706-0",
+  "locations": [
+    {
+      "Breitengrad": "48.149286",
+      "Bundesland": "Bayern",
+      "E-Mail": "office@isw.de",
+      "Hauptadresse": "Schwanthalerstraße 22",
+      "Internetadresse": "https://www.isw-isb.de",
+      "Land": "DE",
+      "Längengrad": "11.565928",
+      "Organisation": "Institut für Städtebau und Wohnungswesen München",
+      "OrganisationDisplay": "ISW",
+      "OrganisationId": 23080,
+      "OrganisationKurz": "ISW",
+      "Ort": "München",
+      "PLZ": 80336,
+      "Telefax": "+49 89 542706-23",
+      "Telefon": "+49 89 542706-0"
+    }
+  ]
+}

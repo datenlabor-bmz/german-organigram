@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.193237",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "BwDLZWeissenfels@bundeswehr.org",
+  "Hauptadresse": "Zeitzer Straße 95",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-weissenfels",
+  "Land": "DE",
+  "Längengrad": "11.985689",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Weißenfels",
+  "OrganisationDisplay": "BwDLZ Weißenfels",
+  "OrganisationId": 20826,
+  "OrganisationKurz": "BwDLZ Weißenfels",
+  "Ort": "Weißenfels",
+  "PLZ": 6667,
+  "Ressort": "BMVg",
+  "Telefon": "+49 3443 33-0",
+  "locations": [
+    {
+      "Breitengrad": "51.193237",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "BwDLZWeissenfels@bundeswehr.org",
+      "Hauptadresse": "Zeitzer Straße 95",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-weissenfels",
+      "Land": "DE",
+      "Längengrad": "11.985689",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Weißenfels",
+      "OrganisationDisplay": "BwDLZ Weißenfels",
+      "OrganisationId": 20826,
+      "OrganisationKurz": "BwDLZ Weißenfels",
+      "Ort": "Weißenfels",
+      "PLZ": 6667,
+      "Ressort": "BMVg",
+      "Telefon": "+49 3443 33-0"
+    }
+  ]
+}

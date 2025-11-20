@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.657348",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Frauenberger Straße 250",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/zentrum-fuer-geoinformationswesen-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "6.772003",
+  "Organisation": "Zentrum für Geoinformationswesen der Bundeswehr",
+  "OrganisationDisplay": "ZGeoBw",
+  "OrganisationId": 13352,
+  "OrganisationKurz": "ZGeoBw",
+  "Ort": "Euskirchen",
+  "PLZ": 53879,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2251 953-5055",
+  "Telefon": "+49 2251 953-0",
+  "locations": [
+    {
+      "Breitengrad": "50.657348",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Frauenberger Straße 250",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/zentrum-fuer-geoinformationswesen-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "6.772003",
+      "Organisation": "Zentrum für Geoinformationswesen der Bundeswehr",
+      "OrganisationDisplay": "ZGeoBw",
+      "OrganisationId": 13352,
+      "OrganisationKurz": "ZGeoBw",
+      "Ort": "Euskirchen",
+      "PLZ": 53879,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2251 953-5055",
+      "Telefon": "+49 2251 953-0"
+    }
+  ]
+}

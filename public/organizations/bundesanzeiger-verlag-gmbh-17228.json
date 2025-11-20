@@ -1,0 +1,1031 @@
+{
+  "Breitengrad": "50.974115",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "service@bundesanzeiger.de",
+  "Hauptadresse": "Amsterdamer Straße 192",
+  "Internetadresse": "https://www.bundesanzeiger.de/ebanzwww/wexsservlet",
+  "Land": "DE",
+  "Längengrad": "6.969373",
+  "Organisation": "Bundesanzeiger Verlag GmbH",
+  "OrganisationDisplay": "Bundesanzeiger Verlag",
+  "OrganisationId": 17228,
+  "Ort": "Köln",
+  "PLZ": 50735,
+  "Ressort": "BMJV",
+  "Telefax": "+49 221 97668-278",
+  "Telefon": "+49 221 97668-0",
+  "Kategorie": "Unklar",
+  "Wikidata ID": "Q22691499",
+  "locations": [
+    {
+      "Breitengrad": "50.974115",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "service@bundesanzeiger.de",
+      "Hauptadresse": "Amsterdamer Straße 192",
+      "Internetadresse": "https://www.bundesanzeiger.de/ebanzwww/wexsservlet",
+      "Land": "DE",
+      "Längengrad": "6.969373",
+      "Organisation": "Bundesanzeiger Verlag GmbH",
+      "OrganisationDisplay": "Bundesanzeiger Verlag",
+      "OrganisationId": 17228,
+      "Ort": "Köln",
+      "PLZ": 50735,
+      "Ressort": "BMJV",
+      "Telefax": "+49 221 97668-278",
+      "Telefon": "+49 221 97668-0",
+      "Kategorie": "Unklar",
+      "Wikidata ID": "Q22691499"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q22691499",
+    "data": {
+      "type": "item",
+      "id": "Q22691499",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundesanzeiger Verlag"
+        },
+        "en": {
+          "language": "en",
+          "value": "Bundesanzeiger Verlag"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "deutscher Verlag mit Sitz in Köln, der unter anderem den Bundesanzeiger und von 1949 bis 2022 das Bundesgesetzblatt veröffentlichte"
+        },
+        "en": {
+          "language": "en",
+          "value": "German publisher and distributor of EBR"
+        }
+      },
+      "claims": {
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "cf51576d57830380b8a4ffa6722262fdcc620e53",
+              "datavalue": {
+                "value": "313451501",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$0E4652A6-02DC-409F-8DAA-1A5436A68280",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "3f21f03382116d79dad4ec0e0c10db0d5c57778f",
+              "datavalue": {
+                "value": "1065707673",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$3DFBDBDA-E8F4-48CC-A74C-3FD4C4F4429D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "bd78895b289899dec7e4d131afc9f6d4e434599c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2085381,
+                  "id": "Q2085381"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$2b760d43-4164-48c7-8924-d2413a9480fb",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "2421298f7ebe1ca9960b0c5f215b1b0e0932a6b4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 365,
+                  "id": "Q365"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$fac0c0c2-4de5-4ed5-3d71-7ded070095be",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "e424d43732381784957c12a6bf357f9a479b2298",
+              "datavalue": {
+                "value": "https://www.bundesanzeiger-verlag.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q22691499$6c9d3157-4340-91f2-8548-70aa19ebb61e",
+            "rank": "normal"
+          }
+        ],
+        "P1454": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1454",
+              "hash": "74fdb1902141ad63c707f8dcece2c0d644fe0eab",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 460178,
+                  "id": "Q460178"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$0ce8767d-4eb2-8836-c27d-e37f02db4fd7",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "9ba8e23c38cc85baabe560c85acce48584a0ba14",
+              "datavalue": {
+                "value": {
+                  "time": "+1949-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q22691499$9af5ed88-42a3-631b-d7ea-1d55ac522008",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$56ecd269-4ba1-f0ec-5321-4e68e9a622e2",
+            "rank": "normal"
+          }
+        ],
+        "P127": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P127",
+              "hash": "1b03b3990046dc4dec9fca04e499909f67157eef",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 877099,
+                  "id": "Q877099"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "dbc99d2943dbca80d7c736a935be23cc7537fba4",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2006-01-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q22691499$4b43f022-44f0-bfdf-c058-a0635d37064c",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "11d852d6cf86c62d85af950fece313e03fa0afab",
+              "datavalue": {
+                "value": "Bundesanzeiger Verlag logo.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q22691499$477399d3-4595-d144-ac20-abe004ac02b3",
+            "rank": "normal"
+          }
+        ],
+        "P463": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "386b3a046e2b3198675f63bbf511d64d81e4a60c",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2513649,
+                  "id": "Q2513649"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$481D7E68-1729-4A17-9572-8E5EE0BEE33D",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2776272997d20cab67b07676011b5b033d88929b",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "44461d0b038803e1d0440eb6fa3755bbb22f1111",
+                      "datavalue": {
+                        "value": "https://www.vdz.de/ueber-uns/vdz-mitglieder/anfangsbuchstabe/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "f0c46d6be8488f732e26eb0595248941eedc9fef",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-06-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "439c5ff0fc927f535897e7655a89bf69a12f91c4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 83172177,
+                  "id": "Q83172177"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$BA08A023-3579-4A4D-9862-BA77546C87D0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7e73a709587281d38a9f56d6fdc70e7b93079b1c",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "69755a861b3be434b1adec47d544b7c3dfb222de",
+                      "datavalue": {
+                        "value": "https://www.iccgermany.de/mitglieder/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cdce3a0bceac40451031454cc51195566c4bc9a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-05-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "8d37033064d04f4eca485a95c57c00f2f1c167ea",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 124739356,
+                  "id": "Q124739356"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "8d859e5d1ea0e6b37a5f59d9caed7f345b8cba9c",
+                  "datavalue": {
+                    "value": "EBR Network member for Germany",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P2868": [
+                {
+                  "snaktype": "value",
+                  "property": "P2868",
+                  "hash": "3cf9b56246a563b2df2745f3f1ecff9ef60284e0",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 60614978,
+                      "id": "Q60614978"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810",
+              "P2868"
+            ],
+            "id": "Q22691499$e30e6662-48fd-dc85-8fa2-7e602211291f",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "68c2e1f6abc601bce8def7f9de9e5f3b431623e0",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7ca71d0c1f1ca3429f1331ee34cee6a56ef1f247",
+                      "datavalue": {
+                        "value": "https://ebra.be/germany/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "5447d4809aaca6bb0e29ec981168ceac7632b228",
+              "datavalue": {
+                "value": "/g/11bxftsz8c",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$AF9D3D01-CA75-4CF6-9978-966A8E2E653A",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "d43edcac67870e27ba59ffb2a2f9c0ad0db2b1a9",
+              "datavalue": {
+                "value": "Bundesanzeiger Verlag",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q22691499$19072065-FD52-4788-B91B-E485FC170ACF",
+            "rank": "normal"
+          }
+        ],
+        "P9918": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9918",
+              "hash": "f6c82d87bc704603c73d3e449ddacebc795e6eb0",
+              "datavalue": {
+                "value": "KS00141903",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$F54DD1FA-3C38-4016-B767-93BC23481A34",
+            "rank": "normal"
+          }
+        ],
+        "P2088": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2088",
+              "hash": "7440fb5f8883adab5035f7e951e206286a4dfca0",
+              "datavalue": {
+                "value": "bundesanzeigerverlag",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$5FBE1C58-1E2F-427F-BCCD-792BC462CCD2",
+            "rank": "normal"
+          }
+        ],
+        "P5008": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P5008",
+              "hash": "6a6c47653b55a0b9b6c2923c9ec2ba438b432352",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 117222928,
+                  "id": "Q117222928"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$5D87D58A-C256-49F9-BCDA-6F9A604988DE",
+            "rank": "normal"
+          }
+        ],
+        "P10311": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10311",
+              "hash": "a8ddd2523a05febf032c1225987d141ebd767c9e",
+              "datavalue": {
+                "value": "https://karriere.bundesanzeiger-verlag.de/jobs",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q22691499$1e557b11-45ec-fb17-4a3a-495c5d13edba",
+            "rank": "normal"
+          }
+        ],
+        "P2397": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "4417496f1ae0cd8315a49aa6851b0612bae1f99b",
+              "datavalue": {
+                "value": "UCtrlfjLjZZmQmSyd3261bZg",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "24e379ed0e16fcb4f336c35e8ea9ed8e91dd662f",
+                  "datavalue": {
+                    "value": "Bundesanzeiger Verlag GmbH",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "644e5bb9924dd41fcbd32ac9cf90e1997857126b",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+34",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P3740": [
+                {
+                  "snaktype": "value",
+                  "property": "P3740",
+                  "hash": "f6d7a453b63da358a2b8da5bfbe85f0b2d56dc7f",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+18",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P5436": [
+                {
+                  "snaktype": "value",
+                  "property": "P5436",
+                  "hash": "d6c5f45b6b64d985cb76ca0e9b12421be76e635e",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+128794",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "81b3271b850aa17931c556d567aa9a30958e37c7",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-01-29T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "c8370fee692256f28060feca72aa83161d91941c",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-08-06T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810",
+              "P3744",
+              "P3740",
+              "P5436",
+              "P580",
+              "P585"
+            ],
+            "id": "Q22691499$b8b366d7-41e8-eff6-e0c0-f3f43b64b57b",
+            "rank": "normal"
+          }
+        ],
+        "P4264": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4264",
+              "hash": "f387425411e9babc2f584d18d79d566d1a4c5f99",
+              "datavalue": {
+                "value": "bundesanzeiger-verlag-gmbh",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$a9d0a51f-46ff-bdce-a989-09686c737e93",
+            "rank": "normal"
+          }
+        ],
+        "P1207": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1207",
+              "hash": "2e7b7de0ae08dd1d5d48f962b522e1c909ea890a",
+              "datavalue": {
+                "value": "n2013030843",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "q22691499$29a070f1-43ec-1ba5-44ce-d63d7d7dbc64",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d1c93936407fe5a97f61a8053de3371c66575909",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "6b7d4330c4aac4caec4ede9de0311ce273f88ecd",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P214": [
+                    {
+                      "snaktype": "value",
+                      "property": "P214",
+                      "hash": "cf51576d57830380b8a4ffa6722262fdcc620e53",
+                      "datavalue": {
+                        "value": "313451501",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "0f684dd9b82607a55094d1b776a4ad96ff5617c0",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-09-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P214",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1278": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1278",
+              "hash": "a4b5fe6e4c6b43923cdb198087770ef0b7736718",
+              "datavalue": {
+                "value": "39120001KULK7200U106",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$5a2e936f-40f7-2af7-3c3b-8aee885d7859",
+            "rank": "normal"
+          }
+        ],
+        "P2627": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2627",
+              "hash": "6dec6d75586bdf4559e663abdc0ef46bec82c7fa",
+              "datavalue": {
+                "value": "BANZDE33XXX",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$c6d24dea-4ebe-acd9-e2ab-ebeccd82456b",
+            "rank": "normal"
+          }
+        ],
+        "P1320": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1320",
+              "hash": "bfaafcc681f6097efaef92d50ed9a19db438f554",
+              "datavalue": {
+                "value": "de/R3306_HRB31248",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$1fd6ca89-4863-9c96-d9ed-7e731f997086",
+            "rank": "normal"
+          }
+        ],
+        "P1889": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1889",
+              "hash": "d47fc7ebad9a60a8e9a92ca2849b7e8388c6cdcf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005565,
+                  "id": "Q1005565"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q22691499$a0f37129-4757-b9e3-3018-96a4e3857380",
+            "rank": "normal"
+          }
+        ],
+        "P9964": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9964",
+              "hash": "1c89dd77e7ab35169b1e64901a97bf102d7ca7df",
+              "datavalue": {
+                "value": "1065707673",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q22691499$8915FAE0-3355-4FCC-A0FB-32BAD81609E7",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Bundesanzeiger Verlag",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundesanzeiger Verlag",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q2085381": {
+        "type": "item",
+        "id": "Q2085381",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Verlag"
+          },
+          "en": {
+            "language": "en",
+            "value": "publishing company"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Medienunternehmen, das Werke der Literatur, Kunst, Musik, Unterhaltung oder Wissenschaft vervielfältigt und verbreitet"
+          },
+          "en": {
+            "language": "en",
+            "value": "company that prints and distributes pressed goods or electronic media"
+          }
+        }
+      }
+    }
+  }
+}

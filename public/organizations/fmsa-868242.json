@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.1734589",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@fmsa.de",
+  "Hauptadresse": "Olof-Palme-Straße 35",
+  "Internetadresse": "https://www.fmsa.de",
+  "Land": "DE",
+  "Längengrad": "8.6419532",
+  "Organisation": "Bundesanstalt für Finanzmarktstabilisierung c/o Bundesrepublik Finanzagentur",
+  "OrganisationDisplay": "FMSA",
+  "OrganisationId": 868242,
+  "OrganisationKurz": "FMSA",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60439,
+  "Ressort": "BMF",
+  "Telefax": "+49 69 2561 616-1429",
+  "Telefon": "+49 69 2561 616-1607",
+  "locations": [
+    {
+      "Breitengrad": "50.1734589",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@fmsa.de",
+      "Hauptadresse": "Olof-Palme-Straße 35",
+      "Internetadresse": "https://www.fmsa.de",
+      "Land": "DE",
+      "Längengrad": "8.6419532",
+      "Organisation": "Bundesanstalt für Finanzmarktstabilisierung c/o Bundesrepublik Finanzagentur",
+      "OrganisationDisplay": "FMSA",
+      "OrganisationId": 868242,
+      "OrganisationKurz": "FMSA",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60439,
+      "Ressort": "BMF",
+      "Telefax": "+49 69 2561 616-1429",
+      "Telefon": "+49 69 2561 616-1607"
+    }
+  ]
+}

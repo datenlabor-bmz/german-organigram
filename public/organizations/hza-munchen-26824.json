@@ -1,0 +1,817 @@
+{
+  "Breitengrad": "48.142378",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle.hza-muenchen@zoll.bund.de",
+  "Hauptadresse": "Sophienstraße 6",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "11.565215",
+  "Organisation": "Hauptzollamt München",
+  "OrganisationDisplay": "HZA München",
+  "OrganisationId": 26824,
+  "OrganisationKurz": "HZA München",
+  "Ort": "München",
+  "PLZ": 80333,
+  "Ressort": "BMF",
+  "Telefax": "+49 89 5995-2488",
+  "Telefon": "+49 89 5995-00",
+  "Kategorie": "Bundesunterbehörde",
+  "Wikidata ID": "Q1589828",
+  "locations": [
+    {
+      "Breitengrad": "48.142378",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle.hza-muenchen@zoll.bund.de",
+      "Hauptadresse": "Sophienstraße 6",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "11.565215",
+      "Organisation": "Hauptzollamt München",
+      "OrganisationDisplay": "HZA München",
+      "OrganisationId": 26824,
+      "OrganisationKurz": "HZA München",
+      "Ort": "München",
+      "PLZ": 80333,
+      "Ressort": "BMF",
+      "Telefax": "+49 89 5995-2488",
+      "Telefon": "+49 89 5995-00",
+      "Kategorie": "Bundesunterbehörde",
+      "Wikidata ID": "Q1589828"
+    },
+    {
+      "Adresse": "Landsberger Straße 124",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle@hzam.bfinv.de",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Landsberger Straße",
+      "LiegenschaftsId": 433034,
+      "OrganisationId": 26824,
+      "Ort": "München",
+      "PLZ": 80339,
+      "Telefax": "+49 89 5109-2054",
+      "Telefon": "+49 89 5109-00"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q1589828",
+    "data": {
+      "type": "item",
+      "id": "Q1589828",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt München"
+        },
+        "en": {
+          "language": "en",
+          "value": "Hauptzollamt Munich"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "building group in Munich, Germany"
+        },
+        "de": {
+          "language": "de",
+          "value": "Gebäudekomplex aus dem Jahr 1912 im Münchner Stadtteil Schwanthalerhöh"
+        }
+      },
+      "claims": {
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "ba029c8377530546269af00f7e98453e63b1740e",
+              "datavalue": {
+                "value": "Main Custom Office in Munich",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "q1589828$C60D85FD-D310-44DD-AEDA-2426D8DB5025",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$0343A562-C043-403C-BBBF-7121D1798A8C",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "a4fabc6b93d596ee0c6e2ac996fc75a6e8473bda",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1497364,
+                  "id": "Q1497364"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$0E792AB3-7966-46CD-9B79-172FD8A3C423",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "cd84a48f1c46005c51d69a66833892ebaeb14583",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1726,
+                  "id": "Q1726"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$6C0D4EC4-0772-44DE-98AE-FD457BF9E407",
+            "rank": "normal"
+          }
+        ],
+        "P1435": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1435",
+              "hash": "21283900d181065b03c1cd372839e2da2796c723",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17297633,
+                  "id": "Q17297633"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$EDEDAE73-1D81-403C-ACBA-807248042079",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c995b636d292a84ac7f2a8f43d9c51efaf401586",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "fa433cf8091db790fe360065c88855f2cdbcca63",
+                      "datavalue": {
+                        "value": "http://geodaten.bayern.de/denkmal_static_data/externe_denkmalliste/pdf/denkmalliste_merge_162000.pdf",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "dd86acc56194cfaa84079d0e4905b7bda3f72e99",
+              "datavalue": {
+                "value": "Ehem. Hauptzollamt München.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q1589828$B43B33C1-346B-4ABC-950B-B906C172FFCE",
+            "rank": "normal"
+          }
+        ],
+        "P4244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4244",
+              "hash": "ea8cc7f59e995cb6493f99737a96eb325b1cc56a",
+              "datavalue": {
+                "value": "D-1-62-000-3763",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$4EC465E9-DD9F-4621-AE32-E80EF755C631",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4e642e6efaccbe96227f6a017e4eb0cc58a21ade",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "cb8b77321ca416b4bae2f8f255543a816a93b65d",
+                      "datavalue": {
+                        "value": "https://geoportal.bayern.de/denkmalatlas/searchResult.html?objtyp=bau&koid=22731",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854"
+                ]
+              }
+            ]
+          }
+        ],
+        "P669": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P669",
+              "hash": "521f09124ed8d147426f3de5c29ec963b80b2736",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 43812911,
+                  "id": "Q43812911"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P670": [
+                {
+                  "snaktype": "value",
+                  "property": "P670",
+                  "hash": "0f268100e6ac97bb659eea0a8bb060c02fd5d9a2",
+                  "datavalue": {
+                    "value": "122-132",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P670"
+            ],
+            "id": "Q1589828$402945f4-45bb-39d5-f06f-5cbf7e601fa9",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "c2e846c0ef9d68328fa5ad1a226594e0f1c8c9b1",
+              "datavalue": {
+                "value": {
+                  "time": "+1912-00-00T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 9,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q1589828$435e6b2b-4307-1cf3-75ce-813527c6032a",
+            "rank": "normal"
+          }
+        ],
+        "P7140": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7140",
+              "hash": "eff8ad5366591d4b4ef6b8191f84d48d7940e88b",
+              "datavalue": {
+                "value": "Hauptzollamt_(1912–2004)",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$10EA9E9F-9F13-47B1-8B97-01CEED4F79DA",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7140",
+              "hash": "c1ef5acd9af197b9d49528bba1468bd3ceada8be",
+              "datavalue": {
+                "value": "Hauptzollamt",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$687F86ED-E8A3-4E6E-8FEB-71EDFBAA35EA",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7140",
+              "hash": "557fe94b8075e226a7325280a368be93ca286f36",
+              "datavalue": {
+                "value": "Hauptzollamt_München_I",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$E4409D45-13CD-482C-A4BE-65EFA737F424",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7140",
+              "hash": "6aba15ffbd1f3f65d45716abf5c237ca041e960d",
+              "datavalue": {
+                "value": "Hauptzollamt_München",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$1817B463-967F-4299-8466-E377A0B4589B",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "3c6e12067f5854b0e5d8521983f1f856ea09a1e6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98739924,
+                  "id": "Q98739924"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$47E2C794-DC03-4095-B410-40604F8FBCD6",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "4827ca744c2788174d293d42421084f87d4e30a0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98739922,
+                  "id": "Q98739922"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$29FAB7B2-B289-45D9-B254-A8A90A5ACF9C",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "891882d1c6ca0b7111e01809927037005b3976df",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98739925,
+                  "id": "Q98739925"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$788B9123-AA43-449B-BE1A-EC661333F580",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "5f1731b6312a58ffff4717c5ba8071265f7e3252",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98739923,
+                  "id": "Q98739923"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$E3EA691A-7F9A-42EC-A68D-6A0FCEC8259C",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "47219abd3e6338bce06373b9ff84060406f3dfff",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98739926,
+                  "id": "Q98739926"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$09DE8539-909F-4B50-87D7-C78E0B486B10",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "379071c7aabf4d3d51a3c7c40ee41bce9b42bed0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 98739921,
+                  "id": "Q98739921"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$83DC4A63-33DA-4C03-BD7C-B5DAC8E27CF7",
+            "rank": "normal"
+          }
+        ],
+        "P2817": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2817",
+              "hash": "c8ea1bd94eba82dc8efe966cc4e476e3ab0613da",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1746132,
+                  "id": "Q1746132"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1589828$250E07B1-BC25-4320-85C1-11F83CB6A055",
+            "rank": "normal"
+          }
+        ],
+        "P6375": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "8bfd003615082cf414b069ab56379cde50e55132",
+              "datavalue": {
+                "value": {
+                  "text": "Landsberger Straße 126",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1589828$204C12FE-C6CA-454C-A8AF-4504FAB3B03C",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "be6742e41bc3ee2c26ee7241a86a364142a5b3ab",
+              "datavalue": {
+                "value": "/g/120l2jly",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$005CABD9-ABC7-45D0-8DE2-6DDC134DE3DC",
+            "rank": "normal"
+          }
+        ],
+        "P9339": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P9339",
+              "hash": "ff85da64346731d0c6da4b7be5c0911372f7841c",
+              "datavalue": {
+                "value": "22731",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1589828$1FF8B7EF-7FB4-4222-8374-904E91FE3948",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "eb575470456954dcaf7a9bef29e15f9bbb74be90",
+              "datavalue": {
+                "value": {
+                  "latitude": 48.141124975372,
+                  "longitude": 11.5325885732996,
+                  "altitude": null,
+                  "precision": 1e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q1589828$59409C98-D0AF-49D5-BD5D-E4382D693F0A",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Main Custom Office in Munich",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Hauptzollamt (München)",
+          "badges": [
+            "Q17437796"
+          ]
+        },
+        "enwiki": {
+          "site": "enwiki",
+          "title": "Main Customs Office (Munich)",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q98739922": {
+        "type": "item",
+        "id": "Q98739922",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt Landsberger Straße 126; Landsberger Straße 128; Landsberger Straße 128a; Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#1)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt Landsberger Straße 126; Landsberger Straße 128; Landsberger Straße 128a; Landsberger Straße 130; Landsberger Straße 132 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Dienstwohnhaus"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (1) in München, Bavaria"
+          }
+        }
+      },
+      "Q98739925": {
+        "type": "item",
+        "id": "Q98739925",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt Landsberger Straße 132 in München (D-1-62-000-3763#5)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt Landsberger Straße 132 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Einfriedung"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (5) in München, Bavaria"
+          }
+        }
+      },
+      "Q1497364": {
+        "type": "item",
+        "id": "Q1497364",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Gebäudekomplex"
+          },
+          "en": {
+            "language": "en",
+            "value": "building complex"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "set of related buildings"
+          },
+          "de": {
+            "language": "de",
+            "value": "Menge von zusammengehörenden Gebäuden"
+          }
+        }
+      },
+      "Q98739924": {
+        "type": "item",
+        "id": "Q98739924",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#4)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt Landsberger Straße 130; Landsberger Straße 132 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Brunnen"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (4) in München, Bavaria"
+          }
+        }
+      },
+      "Q98739923": {
+        "type": "item",
+        "id": "Q98739923",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt Landsberger Straße 128; Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#3)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt Landsberger Straße 128; Landsberger Straße 130; Landsberger Straße 132 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Feuerwehrgerätehaus, syn. Feuerwehrhaus, syn. Feuerwehrdepot, syn. Spritzenhaus, syn. Spritzenmagazin"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (3) in München, Bavaria"
+          }
+        }
+      },
+      "Q98739921": {
+        "type": "item",
+        "id": "Q98739921",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Pförtnerhaus Landsberger Straße 124; Landsberger Straße 130 in München (D-1-62-000-3763#2)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Pförtnerhaus Landsberger Straße 124; Landsberger Straße 130 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Pförtnerhaus, syn. Portiershaus, syn.Portierhaus, syn. Parkwächterhaus, syn. Pförtnergebäude, syn. Pförtnerhäuschen, syn. Beschließerei"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (2) in München, Bavaria"
+          }
+        }
+      },
+      "Q98739926": {
+        "type": "item",
+        "id": "Q98739926",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Lehrsaalgebäude Landsberger Straße 122 in München (D-1-62-000-3763#6)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Lehrsaalgebäude Landsberger Straße 122 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Lehrsaalgebäude, syn. Unterrichtsgebäude, syn. Hörsaalgebäude, Zollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (6) in München, Bavaria"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.37486",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kontakt@stiftung-geld-und-waehrung.de",
+  "Hauptadresse": "Barkhovenallee 1",
+  "Internetadresse": "https://www.stiftung-geld-und-waehrung.de/stiftung-de",
+  "Land": "DE",
+  "Längengrad": "7.0151",
+  "Organisation": "Stiftung Geld und Währung",
+  "OrganisationDisplay": "Geld und Währung",
+  "OrganisationId": 8333812,
+  "Ort": "Essen",
+  "PLZ": 45239,
+  "Telefax": "+49 201 8401-255",
+  "Telefon": "+49 201 8401-151",
+  "locations": [
+    {
+      "Breitengrad": "51.37486",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kontakt@stiftung-geld-und-waehrung.de",
+      "Hauptadresse": "Barkhovenallee 1",
+      "Internetadresse": "https://www.stiftung-geld-und-waehrung.de/stiftung-de",
+      "Land": "DE",
+      "Längengrad": "7.0151",
+      "Organisation": "Stiftung Geld und Währung",
+      "OrganisationDisplay": "Geld und Währung",
+      "OrganisationId": 8333812,
+      "Ort": "Essen",
+      "PLZ": 45239,
+      "Telefax": "+49 201 8401-255",
+      "Telefon": "+49 201 8401-151"
+    }
+  ]
+}

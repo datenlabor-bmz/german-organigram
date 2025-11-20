@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.487289",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "presse@leopoldina.org",
+  "Hauptadresse": "Jägerberg 1",
+  "Internetadresse": "https://www.leopoldina.org/leopoldina-home/",
+  "Land": "DE",
+  "Längengrad": "11.963774",
+  "Organisation": "Deutsche Akademie der Naturforscher Leopoldina",
+  "OrganisationDisplay": "Leopoldina",
+  "OrganisationId": 27772,
+  "Ort": "Halle/Saale",
+  "PLZ": 6108,
+  "Ressort": "BMFTR",
+  "Telefon": "+49 345 47239-800",
+  "locations": [
+    {
+      "Breitengrad": "51.487289",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "presse@leopoldina.org",
+      "Hauptadresse": "Jägerberg 1",
+      "Internetadresse": "https://www.leopoldina.org/leopoldina-home/",
+      "Land": "DE",
+      "Längengrad": "11.963774",
+      "Organisation": "Deutsche Akademie der Naturforscher Leopoldina",
+      "OrganisationDisplay": "Leopoldina",
+      "OrganisationId": 27772,
+      "Ort": "Halle/Saale",
+      "PLZ": 6108,
+      "Ressort": "BMFTR",
+      "Telefon": "+49 345 47239-800"
+    }
+  ]
+}

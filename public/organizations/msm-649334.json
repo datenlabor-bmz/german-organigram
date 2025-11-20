@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "54.8134775",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "marine@bundeswehr.org",
+  "Hauptadresse": "Kelmstraße 14",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "9.4602196",
+  "Organisation": "Marineschule Mürwik",
+  "OrganisationDisplay": "MSM",
+  "OrganisationId": 649334,
+  "OrganisationKurz": "MSM",
+  "Ort": "Flensburg",
+  "PLZ": 24944,
+  "Ressort": "BMVg",
+  "locations": [
+    {
+      "Breitengrad": "54.8134775",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "marine@bundeswehr.org",
+      "Hauptadresse": "Kelmstraße 14",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "9.4602196",
+      "Organisation": "Marineschule Mürwik",
+      "OrganisationDisplay": "MSM",
+      "OrganisationId": 649334,
+      "OrganisationKurz": "MSM",
+      "Ort": "Flensburg",
+      "PLZ": 24944,
+      "Ressort": "BMVg"
+    }
+  ]
+}

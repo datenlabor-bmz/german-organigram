@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.8934",
+  "Bundesland": "Bayern",
+  "E-Mail": "kontakt@lifbi.de",
+  "Hauptadresse": "Wilhelmplatz 3",
+  "Internetadresse": "https://www.lifbi.de",
+  "Land": "DE",
+  "Längengrad": "10.8911",
+  "Organisation": "Leibniz-Institut für Bildungsverläufe e. V.",
+  "OrganisationDisplay": "LIfBi",
+  "OrganisationId": 7812252,
+  "OrganisationKurz": "LIfBi",
+  "Ort": "Bamberg",
+  "PLZ": 96047,
+  "Telefax": "+49 951 863-3411",
+  "Telefon": "+49 951 863-3400",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.8934",
+      "Bundesland": "Bayern",
+      "E-Mail": "kontakt@lifbi.de",
+      "Hauptadresse": "Wilhelmplatz 3",
+      "Internetadresse": "https://www.lifbi.de",
+      "Land": "DE",
+      "Längengrad": "10.8911",
+      "Organisation": "Leibniz-Institut für Bildungsverläufe e. V.",
+      "OrganisationDisplay": "LIfBi",
+      "OrganisationId": 7812252,
+      "OrganisationKurz": "LIfBi",
+      "Ort": "Bamberg",
+      "PLZ": 96047,
+      "Telefax": "+49 951 863-3411",
+      "Telefon": "+49 951 863-3400",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

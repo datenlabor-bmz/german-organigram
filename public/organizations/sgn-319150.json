@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.1173615",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@senckenberg.de",
+  "Hauptadresse": "Senckenberganlage 25",
+  "Internetadresse": "https://www.senckenberg.de",
+  "Land": "DE",
+  "Längengrad": "8.6525716",
+  "Organisation": "Senckenberg Gesellschaft für Naturforschung",
+  "OrganisationDisplay": "SGN",
+  "OrganisationId": 319150,
+  "OrganisationKurz": "SGN",
+  "Ort": "Frankfurt",
+  "PLZ": 60325,
+  "Telefax": "+49 69 7542 1437",
+  "Telefon": "+49 69 7542-0",
+  "locations": [
+    {
+      "Breitengrad": "50.1173615",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@senckenberg.de",
+      "Hauptadresse": "Senckenberganlage 25",
+      "Internetadresse": "https://www.senckenberg.de",
+      "Land": "DE",
+      "Längengrad": "8.6525716",
+      "Organisation": "Senckenberg Gesellschaft für Naturforschung",
+      "OrganisationDisplay": "SGN",
+      "OrganisationId": 319150,
+      "OrganisationKurz": "SGN",
+      "Ort": "Frankfurt",
+      "PLZ": 60325,
+      "Telefax": "+49 69 7542 1437",
+      "Telefon": "+49 69 7542-0"
+    }
+  ]
+}

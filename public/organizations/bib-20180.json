@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.076284",
+  "Bundesland": "Hessen",
+  "E-Mail": "post@bib.bund.de",
+  "Hauptadresse": "Friedrich-Ebert-Allee 4",
+  "Internetadresse": "https://www.bib.bund.de",
+  "Land": "DE",
+  "Längengrad": "8.245461",
+  "Organisation": "Bundesinstitut für Bevölkerungsforschung",
+  "OrganisationDisplay": "BIB",
+  "OrganisationId": 20180,
+  "OrganisationKurz": "BIB",
+  "Ort": "Wiesbaden",
+  "PLZ": 65185,
+  "Ressort": "BMI",
+  "Telefax": "+49 611 75-2235",
+  "Telefon": "+49 611 75-2235",
+  "locations": [
+    {
+      "Breitengrad": "50.076284",
+      "Bundesland": "Hessen",
+      "E-Mail": "post@bib.bund.de",
+      "Hauptadresse": "Friedrich-Ebert-Allee 4",
+      "Internetadresse": "https://www.bib.bund.de",
+      "Land": "DE",
+      "Längengrad": "8.245461",
+      "Organisation": "Bundesinstitut für Bevölkerungsforschung",
+      "OrganisationDisplay": "BIB",
+      "OrganisationId": 20180,
+      "OrganisationKurz": "BIB",
+      "Ort": "Wiesbaden",
+      "PLZ": 65185,
+      "Ressort": "BMI",
+      "Telefax": "+49 611 75-2235",
+      "Telefon": "+49 611 75-2235"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.086272",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "BwDLZRostock@bundeswehr.org",
+  "Hauptadresse": "Kopernikusstraße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-rostock",
+  "Land": "DE",
+  "Längengrad": "12.091382",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Rostock",
+  "OrganisationDisplay": "BwDLZ Rostock",
+  "OrganisationId": 20554,
+  "OrganisationKurz": "BwDLZ Rostock",
+  "Ort": "Rostock",
+  "PLZ": 18057,
+  "Ressort": "BMVg",
+  "Telefon": "+49 381 802-50",
+  "locations": [
+    {
+      "Breitengrad": "54.086272",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "BwDLZRostock@bundeswehr.org",
+      "Hauptadresse": "Kopernikusstraße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-rostock",
+      "Land": "DE",
+      "Längengrad": "12.091382",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Rostock",
+      "OrganisationDisplay": "BwDLZ Rostock",
+      "OrganisationId": 20554,
+      "OrganisationKurz": "BwDLZ Rostock",
+      "Ort": "Rostock",
+      "PLZ": 18057,
+      "Ressort": "BMVg",
+      "Telefon": "+49 381 802-50"
+    }
+  ]
+}

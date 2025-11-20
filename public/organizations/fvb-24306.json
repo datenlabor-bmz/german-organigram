@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.431039",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@fv-berlin.de",
+  "Hauptadresse": "Rudower Chaussee 17",
+  "Internetadresse": "https://www.fv-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.533453",
+  "Organisation": "Forschungsverbund Berlin e. V.",
+  "OrganisationDisplay": "FVB",
+  "OrganisationId": 24306,
+  "OrganisationKurz": "FVB",
+  "Ort": "Berlin",
+  "PLZ": 12489,
+  "Telefon": "+49 30 6392-3330",
+  "locations": [
+    {
+      "Breitengrad": "52.431039",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@fv-berlin.de",
+      "Hauptadresse": "Rudower Chaussee 17",
+      "Internetadresse": "https://www.fv-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.533453",
+      "Organisation": "Forschungsverbund Berlin e. V.",
+      "OrganisationDisplay": "FVB",
+      "OrganisationId": 24306,
+      "OrganisationKurz": "FVB",
+      "Ort": "Berlin",
+      "PLZ": 12489,
+      "Telefon": "+49 30 6392-3330"
+    }
+  ]
+}

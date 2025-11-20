@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.705608",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@bfarm.de",
+  "Hauptadresse": "Kurt-Georg-Kiesinger-Allee 3",
+  "Internetadresse": "https://www.bfarm.de/DE/Home/_node.html",
+  "Land": "DE",
+  "Längengrad": "7.13692",
+  "Organisation": "Bundesinstitut für Arzneimittel und Medizinprodukte",
+  "OrganisationDisplay": "BfArM",
+  "OrganisationId": 20138,
+  "OrganisationKurz": "BfArM",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Ressort": "BMG",
+  "Telefax": "+49 22899 307-5207",
+  "Telefon": "+49 22899 307-0",
+  "locations": [
+    {
+      "Breitengrad": "50.705608",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bfarm.de",
+      "Hauptadresse": "Kurt-Georg-Kiesinger-Allee 3",
+      "Internetadresse": "https://www.bfarm.de/DE/Home/_node.html",
+      "Land": "DE",
+      "Längengrad": "7.13692",
+      "Organisation": "Bundesinstitut für Arzneimittel und Medizinprodukte",
+      "OrganisationDisplay": "BfArM",
+      "OrganisationId": 20138,
+      "OrganisationKurz": "BfArM",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Ressort": "BMG",
+      "Telefax": "+49 22899 307-5207",
+      "Telefon": "+49 22899 307-0"
+    }
+  ]
+}

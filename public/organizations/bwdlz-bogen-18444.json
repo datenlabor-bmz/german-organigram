@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.910998",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZBogen@Bundeswehr.org",
+  "Hauptadresse": "Bayerwaldstraße 26",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bogen",
+  "Land": "DE",
+  "Längengrad": "12.700833",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Bogen",
+  "OrganisationDisplay": "BwDLZ Bogen",
+  "OrganisationId": 18444,
+  "OrganisationKurz": "BwDLZ Bogen",
+  "Ort": "Bogen",
+  "PLZ": 94327,
+  "Ressort": "BMVg",
+  "Telefon": "+49 9422 808-0",
+  "locations": [
+    {
+      "Breitengrad": "48.910998",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZBogen@Bundeswehr.org",
+      "Hauptadresse": "Bayerwaldstraße 26",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bogen",
+      "Land": "DE",
+      "Längengrad": "12.700833",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Bogen",
+      "OrganisationDisplay": "BwDLZ Bogen",
+      "OrganisationId": 18444,
+      "OrganisationKurz": "BwDLZ Bogen",
+      "Ort": "Bogen",
+      "PLZ": 94327,
+      "Ressort": "BMVg",
+      "Telefon": "+49 9422 808-0"
+    }
+  ]
+}

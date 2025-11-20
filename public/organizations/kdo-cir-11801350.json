@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.7041352",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "KdoCIRPIZCIR@bundeswehr.org",
+  "Hauptadresse": "Johanna-Kinkel-Straße 2-4",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum",
+  "Land": "DE",
+  "Längengrad": "7.1483398",
+  "Organisation": "Kommando Cyber- und Informationsraum",
+  "OrganisationDisplay": "Kdo CIR",
+  "OrganisationId": 11801350,
+  "OrganisationKurz": "Kdo CIR",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Ressort": "BMVg",
+  "Telefon": "+49 22853683 1412",
+  "locations": [
+    {
+      "Breitengrad": "50.7041352",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "KdoCIRPIZCIR@bundeswehr.org",
+      "Hauptadresse": "Johanna-Kinkel-Straße 2-4",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum",
+      "Land": "DE",
+      "Längengrad": "7.1483398",
+      "Organisation": "Kommando Cyber- und Informationsraum",
+      "OrganisationDisplay": "Kdo CIR",
+      "OrganisationId": 11801350,
+      "OrganisationKurz": "Kdo CIR",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Ressort": "BMVg",
+      "Telefon": "+49 22853683 1412"
+    }
+  ]
+}

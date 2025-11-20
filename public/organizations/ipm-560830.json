@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.0108841",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@ipm.fraunhofer.de",
+  "Hauptadresse": "Georges-Köhler-Allee 301",
+  "Internetadresse": "https://www.ipm.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "7.8342122",
+  "Organisation": "Fraunhofer Institut für Physikalische Messtechnik",
+  "OrganisationDisplay": "IPM",
+  "OrganisationId": 560830,
+  "OrganisationKurz": "IPM",
+  "Ort": "Freiburg",
+  "PLZ": 79110,
+  "Telefax": "+49 761 8857-224",
+  "Telefon": "+49 761 8857-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.0108841",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@ipm.fraunhofer.de",
+      "Hauptadresse": "Georges-Köhler-Allee 301",
+      "Internetadresse": "https://www.ipm.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "7.8342122",
+      "Organisation": "Fraunhofer Institut für Physikalische Messtechnik",
+      "OrganisationDisplay": "IPM",
+      "OrganisationId": 560830,
+      "OrganisationKurz": "IPM",
+      "Ort": "Freiburg",
+      "PLZ": 79110,
+      "Telefax": "+49 761 8857-224",
+      "Telefon": "+49 761 8857-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

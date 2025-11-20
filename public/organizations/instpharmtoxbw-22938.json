@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.211017",
+  "Bundesland": "Bayern",
+  "E-Mail": "InstitutfuerPharmakologieundToxikologie@bundeswehr.org",
+  "Hauptadresse": "Neuherbergstraße 11",
+  "Land": "DE",
+  "Längengrad": "11.579992",
+  "Organisation": "Institut für Pharmakologie und Toxikologie der Bundeswehr",
+  "OrganisationDisplay": "InstPharmToxBw",
+  "OrganisationId": 22938,
+  "OrganisationKurz": "InstPharmToxBw",
+  "Ort": "München",
+  "PLZ": 80937,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 992692-2333",
+  "Telefon": "+49 89 992692-2926 oder 2932",
+  "locations": [
+    {
+      "Breitengrad": "48.211017",
+      "Bundesland": "Bayern",
+      "E-Mail": "InstitutfuerPharmakologieundToxikologie@bundeswehr.org",
+      "Hauptadresse": "Neuherbergstraße 11",
+      "Land": "DE",
+      "Längengrad": "11.579992",
+      "Organisation": "Institut für Pharmakologie und Toxikologie der Bundeswehr",
+      "OrganisationDisplay": "InstPharmToxBw",
+      "OrganisationId": 22938,
+      "OrganisationKurz": "InstPharmToxBw",
+      "Ort": "München",
+      "PLZ": 80937,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 992692-2333",
+      "Telefon": "+49 89 992692-2926 oder 2932"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.560499",
+  "Bundesland": "Berlin",
+  "E-Mail": "BwDLZBerlin@bundeswehr.org",
+  "Hauptadresse": "Kurt-Schumacher-Damm 41",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-berlin",
+  "Land": "DE",
+  "Längengrad": "13.325471",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Berlin",
+  "OrganisationDisplay": "BwDLZ Berlin",
+  "OrganisationId": 18438,
+  "OrganisationKurz": "BwDLZ Berlin",
+  "Ort": "Berlin",
+  "PLZ": 13405,
+  "Ressort": "BMVg",
+  "Telefon": "+49 30 4981-0",
+  "locations": [
+    {
+      "Breitengrad": "52.560499",
+      "Bundesland": "Berlin",
+      "E-Mail": "BwDLZBerlin@bundeswehr.org",
+      "Hauptadresse": "Kurt-Schumacher-Damm 41",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-berlin",
+      "Land": "DE",
+      "Längengrad": "13.325471",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Berlin",
+      "OrganisationDisplay": "BwDLZ Berlin",
+      "OrganisationId": 18438,
+      "OrganisationKurz": "BwDLZ Berlin",
+      "Ort": "Berlin",
+      "PLZ": 13405,
+      "Ressort": "BMVg",
+      "Telefon": "+49 30 4981-0"
+    }
+  ]
+}

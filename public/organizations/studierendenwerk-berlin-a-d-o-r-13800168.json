@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.508617",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@stw.berlin",
+  "Hauptadresse": "Hardenbergstraße 34",
+  "Internetadresse": "https://www.stw.berlin/",
+  "Land": "DE",
+  "Längengrad": "13.327331",
+  "Organisation": "studierendenWERK BERLIN A. d. ö. R.",
+  "OrganisationDisplay": "Studierendenwerk Berlin",
+  "OrganisationId": 13800168,
+  "Ort": "Berlin",
+  "PLZ": 10623,
+  "Ressort": "BKM",
+  "Telefon": "+49 30 939 39-70",
+  "locations": [
+    {
+      "Breitengrad": "52.508617",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@stw.berlin",
+      "Hauptadresse": "Hardenbergstraße 34",
+      "Internetadresse": "https://www.stw.berlin/",
+      "Land": "DE",
+      "Längengrad": "13.327331",
+      "Organisation": "studierendenWERK BERLIN A. d. ö. R.",
+      "OrganisationDisplay": "Studierendenwerk Berlin",
+      "OrganisationId": 13800168,
+      "Ort": "Berlin",
+      "PLZ": 10623,
+      "Ressort": "BKM",
+      "Telefon": "+49 30 939 39-70"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.470322",
+  "Bundesland": "Berlin",
+  "E-Mail": "BwFachSBerlin@bundeswehr.org",
+  "Hauptadresse": "Kladower Damm 182",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-berlin-87216",
+  "Land": "DE",
+  "Längengrad": "13.169262",
+  "Organisation": "Bundeswehrfachschule Berlin",
+  "OrganisationDisplay": "BwFachS Berlin",
+  "OrganisationId": 17542,
+  "OrganisationKurz": "BwFachS Berlin",
+  "Ort": "Berlin",
+  "PLZ": 14086,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 3687-2504",
+  "Telefon": "+49 30 3687-0",
+  "locations": [
+    {
+      "Breitengrad": "52.470322",
+      "Bundesland": "Berlin",
+      "E-Mail": "BwFachSBerlin@bundeswehr.org",
+      "Hauptadresse": "Kladower Damm 182",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-berlin-87216",
+      "Land": "DE",
+      "Längengrad": "13.169262",
+      "Organisation": "Bundeswehrfachschule Berlin",
+      "OrganisationDisplay": "BwFachS Berlin",
+      "OrganisationId": 17542,
+      "OrganisationKurz": "BwFachS Berlin",
+      "Ort": "Berlin",
+      "PLZ": 14086,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 3687-2504",
+      "Telefon": "+49 30 3687-0"
+    }
+  ]
+}

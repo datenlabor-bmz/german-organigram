@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5169819",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@hhi.fraunhofer.de",
+  "Hauptadresse": "Einsteinufer 37",
+  "Internetadresse": "https://www.hhi.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.3243534",
+  "Organisation": "Fraunhofer-Institut für Nachrichtentechnik Heinrich-Hertz-Institut",
+  "OrganisationDisplay": "HHI",
+  "OrganisationId": 560720,
+  "OrganisationKurz": "HHI",
+  "Ort": "Berlin",
+  "PLZ": 10587,
+  "Telefax": "+49 30 31002-213",
+  "Telefon": "+49 30 31002-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5169819",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@hhi.fraunhofer.de",
+      "Hauptadresse": "Einsteinufer 37",
+      "Internetadresse": "https://www.hhi.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.3243534",
+      "Organisation": "Fraunhofer-Institut für Nachrichtentechnik Heinrich-Hertz-Institut",
+      "OrganisationDisplay": "HHI",
+      "OrganisationId": 560720,
+      "OrganisationKurz": "HHI",
+      "Ort": "Berlin",
+      "PLZ": 10587,
+      "Telefax": "+49 30 31002-213",
+      "Telefon": "+49 30 31002-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

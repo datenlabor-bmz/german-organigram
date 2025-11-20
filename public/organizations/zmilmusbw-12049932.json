@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.7064275",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "ZMilMusBw@bundeswehr.org",
+  "Hauptadresse": "Robert-Schuman-Platz 3",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-militaermusik-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "7.1390157",
+  "Organisation": "Zentrum Militärmusik der Bundeswehr",
+  "OrganisationDisplay": "ZMilMusBw",
+  "OrganisationId": 12049932,
+  "OrganisationKurz": "ZMilMusBw",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Ressort": "BMVg",
+  "Telefax": "+49 228 43320 420",
+  "Telefon": "+49 228 43320 310",
+  "locations": [
+    {
+      "Breitengrad": "50.7064275",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "ZMilMusBw@bundeswehr.org",
+      "Hauptadresse": "Robert-Schuman-Platz 3",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-militaermusik-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "7.1390157",
+      "Organisation": "Zentrum Militärmusik der Bundeswehr",
+      "OrganisationDisplay": "ZMilMusBw",
+      "OrganisationId": 12049932,
+      "OrganisationKurz": "ZMilMusBw",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Ressort": "BMVg",
+      "Telefax": "+49 228 43320 420",
+      "Telefon": "+49 228 43320 310"
+    }
+  ]
+}

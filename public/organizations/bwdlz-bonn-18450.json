@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.723082",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BwDLZBonn@bundeswehr.org",
+  "Hauptadresse": "Euskirchener Straße 80",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bonn",
+  "Land": "DE",
+  "Längengrad": "7.065214",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Bonn",
+  "OrganisationDisplay": "BwDLZ Bonn",
+  "OrganisationId": 18450,
+  "OrganisationKurz": "BwDLZ Bonn",
+  "Ort": "Bonn",
+  "PLZ": 53121,
+  "Ressort": "BMVg",
+  "Telefon": "+49 228 96201-",
+  "locations": [
+    {
+      "Breitengrad": "50.723082",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BwDLZBonn@bundeswehr.org",
+      "Hauptadresse": "Euskirchener Straße 80",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-bonn",
+      "Land": "DE",
+      "Längengrad": "7.065214",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Bonn",
+      "OrganisationDisplay": "BwDLZ Bonn",
+      "OrganisationId": 18450,
+      "OrganisationKurz": "BwDLZ Bonn",
+      "Ort": "Bonn",
+      "PLZ": 53121,
+      "Ressort": "BMVg",
+      "Telefon": "+49 228 96201-"
+    }
+  ]
+}

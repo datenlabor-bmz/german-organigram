@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.497972",
+  "Bundesland": "Berlin",
+  "E-Mail": "swp@swp-berlin.org",
+  "Hauptadresse": "Ludwigkirchplatz 3 - 4",
+  "Internetadresse": "https://www.swp-berlin.org/",
+  "Land": "DE",
+  "Längengrad": "13.321187",
+  "Organisation": "Stiftung Wissenschaft und Politik",
+  "OrganisationDisplay": "SWP",
+  "OrganisationId": 26436,
+  "OrganisationKurz": "SWP",
+  "Ort": "Berlin",
+  "PLZ": 10719,
+  "Telefax": "+49 30 88007-100",
+  "Telefon": "+49 30 88007-0",
+  "locations": [
+    {
+      "Breitengrad": "52.497972",
+      "Bundesland": "Berlin",
+      "E-Mail": "swp@swp-berlin.org",
+      "Hauptadresse": "Ludwigkirchplatz 3 - 4",
+      "Internetadresse": "https://www.swp-berlin.org/",
+      "Land": "DE",
+      "Längengrad": "13.321187",
+      "Organisation": "Stiftung Wissenschaft und Politik",
+      "OrganisationDisplay": "SWP",
+      "OrganisationId": 26436,
+      "OrganisationKurz": "SWP",
+      "Ort": "Berlin",
+      "PLZ": 10719,
+      "Telefax": "+49 30 88007-100",
+      "Telefon": "+49 30 88007-0"
+    }
+  ]
+}

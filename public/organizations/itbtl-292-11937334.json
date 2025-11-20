@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.587595",
+  "Bundesland": "Bayern",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Rudolf-Diesel-Straße 1a",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl292/!ut/p/z1/hU67DoIwFP0WB9beKwqiWxeMxldCiNDFVKgFUyipFfx8MUwmEs92njnAIAFW87aU3Ja65qrnKfMv_nK-WbsR7oMgnCI90FN4jAMXY4TzvwDrbRwBRYhyAWm_sRjf8CACBuzOW_4ijTZWCUt49nkIacHrXImTzuggbIFJpa_DdVpfZ4EEZsRNGGHI0_RyYW3zWDnoYNd1RGotlSCZrhz8VSn0w0LynYSmSjqceard0ckbvF4Bww!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820U5",
+  "Land": "DE",
+  "Längengrad": "10.5152169",
+  "Organisation": "Informationstechnikbataillon 292",
+  "OrganisationDisplay": "ITBtl 292",
+  "OrganisationId": 11937334,
+  "OrganisationKurz": "ITBtl 292",
+  "Ort": "Dillingen an der Donau",
+  "PLZ": 89407,
+  "Ressort": "BMVg",
+  "Telefon": "+49 9071 580-0",
+  "locations": [
+    {
+      "Breitengrad": "48.587595",
+      "Bundesland": "Bayern",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Rudolf-Diesel-Straße 1a",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl292/!ut/p/z1/hU67DoIwFP0WB9beKwqiWxeMxldCiNDFVKgFUyipFfx8MUwmEs92njnAIAFW87aU3Ja65qrnKfMv_nK-WbsR7oMgnCI90FN4jAMXY4TzvwDrbRwBRYhyAWm_sRjf8CACBuzOW_4ijTZWCUt49nkIacHrXImTzuggbIFJpa_DdVpfZ4EEZsRNGGHI0_RyYW3zWDnoYNd1RGotlSCZrhz8VSn0w0LynYSmSjqceard0ckbvF4Bww!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820U5",
+      "Land": "DE",
+      "Längengrad": "10.5152169",
+      "Organisation": "Informationstechnikbataillon 292",
+      "OrganisationDisplay": "ITBtl 292",
+      "OrganisationId": 11937334,
+      "OrganisationKurz": "ITBtl 292",
+      "Ort": "Dillingen an der Donau",
+      "PLZ": 89407,
+      "Ressort": "BMVg",
+      "Telefon": "+49 9071 580-0"
+    }
+  ]
+}

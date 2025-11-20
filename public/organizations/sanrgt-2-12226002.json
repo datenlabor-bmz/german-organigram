@@ -1,0 +1,34 @@
+{
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "SanRgt2Posteingang@bundeswehr.org",
+  "Hauptadresse": "Am Alsberg 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-sanitaetsdienstliche-einsatzunterstuetzung/-sanitaetsregiment-2-westerwald-",
+  "Land": "DE",
+  "Organisation": "Sanitätsregiment 2",
+  "OrganisationDisplay": "SanRgt 2 ",
+  "OrganisationId": 12226002,
+  "OrganisationKurz": "SanRgt 2 ",
+  "Ort": "Rennerod",
+  "PLZ": 56477,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2664 503 401",
+  "Telefon": "+49 2664 503 408",
+  "locations": [
+    {
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "SanRgt2Posteingang@bundeswehr.org",
+      "Hauptadresse": "Am Alsberg 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-sanitaetsdienstliche-einsatzunterstuetzung/-sanitaetsregiment-2-westerwald-",
+      "Land": "DE",
+      "Organisation": "Sanitätsregiment 2",
+      "OrganisationDisplay": "SanRgt 2 ",
+      "OrganisationId": 12226002,
+      "OrganisationKurz": "SanRgt 2 ",
+      "Ort": "Rennerod",
+      "PLZ": 56477,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2664 503 401",
+      "Telefon": "+49 2664 503 408"
+    }
+  ]
+}

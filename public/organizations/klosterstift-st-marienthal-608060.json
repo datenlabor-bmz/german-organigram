@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "51.0190192",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@kloster-marienthal.de",
+  "Hauptadresse": "St. Marienthal 1",
+  "Internetadresse": "https://www.kloster-marienthal.de/",
+  "Land": "DE",
+  "Längengrad": "14.932703",
+  "Organisation": "Klosterstift St. Marienthal",
+  "OrganisationDisplay": "Klosterstift Marienthal",
+  "OrganisationId": 608060,
+  "Ort": "Ostritz",
+  "PLZ": 2899,
+  "Telefon": "+49 35823 856300",
+  "locations": [
+    {
+      "Breitengrad": "51.0190192",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@kloster-marienthal.de",
+      "Hauptadresse": "St. Marienthal 1",
+      "Internetadresse": "https://www.kloster-marienthal.de/",
+      "Land": "DE",
+      "Längengrad": "14.932703",
+      "Organisation": "Klosterstift St. Marienthal",
+      "OrganisationDisplay": "Klosterstift Marienthal",
+      "OrganisationId": 608060,
+      "Ort": "Ostritz",
+      "PLZ": 2899,
+      "Telefon": "+49 35823 856300"
+    }
+  ]
+}

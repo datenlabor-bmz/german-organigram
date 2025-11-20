@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.079864",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZLandsberg@Bundeswehr.org",
+  "Hauptadresse": "Siegfried-Meister-Straße 10",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-landsberg-am-lech",
+  "Land": "DE",
+  "Längengrad": "10.912257",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Landsberg am Lech",
+  "OrganisationDisplay": "BwDLZ Landsberg am Lech",
+  "OrganisationId": 19014,
+  "OrganisationKurz": "BwDLZ Landsberg am Lech",
+  "Ort": "Landsberg am Lech",
+  "PLZ": 86899,
+  "Ressort": "BMVg",
+  "Telefax": "+49 8191 911-2090",
+  "Telefon": "+49 8191 911-2075",
+  "locations": [
+    {
+      "Breitengrad": "48.079864",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZLandsberg@Bundeswehr.org",
+      "Hauptadresse": "Siegfried-Meister-Straße 10",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-landsberg-am-lech",
+      "Land": "DE",
+      "Längengrad": "10.912257",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Landsberg am Lech",
+      "OrganisationDisplay": "BwDLZ Landsberg am Lech",
+      "OrganisationId": 19014,
+      "OrganisationKurz": "BwDLZ Landsberg am Lech",
+      "Ort": "Landsberg am Lech",
+      "PLZ": 86899,
+      "Ressort": "BMVg",
+      "Telefax": "+49 8191 911-2090",
+      "Telefon": "+49 8191 911-2075"
+    }
+  ]
+}

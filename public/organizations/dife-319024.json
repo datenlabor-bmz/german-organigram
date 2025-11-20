@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.3483557",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "presse@dife.de",
+  "Hauptadresse": "Arthur-Scheunert-Allee 114-116",
+  "Internetadresse": "https://www.dife.de/",
+  "Land": "DE",
+  "Längengrad": "13.105061",
+  "Organisation": "Deutsches Institut für Ernährungsforschung Potsdam-Rehbrücke",
+  "OrganisationDisplay": "DIfE",
+  "OrganisationId": 319024,
+  "OrganisationKurz": "DIfE",
+  "Ort": "Nuthetal",
+  "PLZ": 14558,
+  "Telefax": "+49 33200 88-2444",
+  "Telefon": "+49 33200 88-0",
+  "locations": [
+    {
+      "Breitengrad": "52.3483557",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "presse@dife.de",
+      "Hauptadresse": "Arthur-Scheunert-Allee 114-116",
+      "Internetadresse": "https://www.dife.de/",
+      "Land": "DE",
+      "Längengrad": "13.105061",
+      "Organisation": "Deutsches Institut für Ernährungsforschung Potsdam-Rehbrücke",
+      "OrganisationDisplay": "DIfE",
+      "OrganisationId": 319024,
+      "OrganisationKurz": "DIfE",
+      "Ort": "Nuthetal",
+      "PLZ": 14558,
+      "Telefax": "+49 33200 88-2444",
+      "Telefon": "+49 33200 88-0"
+    }
+  ]
+}

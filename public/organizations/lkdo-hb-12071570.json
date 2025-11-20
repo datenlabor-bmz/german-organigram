@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.0547111",
+  "Bundesland": "Bremen",
+  "E-Mail": "LkdoHBPressestelle@bundeswehr.org",
+  "Hauptadresse": "Niedersachsendamm 67/68",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-bremen",
+  "Land": "DE",
+  "Längengrad": "8.8244226",
+  "Organisation": "Landeskommando Bremen",
+  "OrganisationDisplay": "LKdo HB",
+  "OrganisationId": 12071570,
+  "OrganisationKurz": "LKdo HB",
+  "Ort": "Bremen",
+  "PLZ": 28201,
+  "Ressort": "BMVg",
+  "Telefax": "+49 421 87190 379",
+  "Telefon": "+49 421 87190 373",
+  "locations": [
+    {
+      "Breitengrad": "53.0547111",
+      "Bundesland": "Bremen",
+      "E-Mail": "LkdoHBPressestelle@bundeswehr.org",
+      "Hauptadresse": "Niedersachsendamm 67/68",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-bremen",
+      "Land": "DE",
+      "Längengrad": "8.8244226",
+      "Organisation": "Landeskommando Bremen",
+      "OrganisationDisplay": "LKdo HB",
+      "OrganisationId": 12071570,
+      "OrganisationKurz": "LKdo HB",
+      "Ort": "Bremen",
+      "PLZ": 28201,
+      "Ressort": "BMVg",
+      "Telefax": "+49 421 87190 379",
+      "Telefon": "+49 421 87190 373"
+    }
+  ]
+}

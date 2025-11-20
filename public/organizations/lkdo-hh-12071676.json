@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.5751579",
+  "Bundesland": "Hamburg",
+  "E-Mail": "LKdoHHInfoarbeit@bundeswehr.org",
+  "Hauptadresse": "Osdorfer Landstraße 365",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-hamburg",
+  "Land": "DE",
+  "Längengrad": "9.8283314",
+  "Organisation": "Landeskommando Hamburg",
+  "OrganisationDisplay": "LKdo HH",
+  "OrganisationId": 12071676,
+  "OrganisationKurz": "LKdo HH",
+  "Ort": "Hamburg",
+  "PLZ": 22589,
+  "Ressort": "BMVg",
+  "Telefax": "+49 40 86648 4313",
+  "Telefon": "+49 40 86648 4310",
+  "locations": [
+    {
+      "Breitengrad": "53.5751579",
+      "Bundesland": "Hamburg",
+      "E-Mail": "LKdoHHInfoarbeit@bundeswehr.org",
+      "Hauptadresse": "Osdorfer Landstraße 365",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-hamburg",
+      "Land": "DE",
+      "Längengrad": "9.8283314",
+      "Organisation": "Landeskommando Hamburg",
+      "OrganisationDisplay": "LKdo HH",
+      "OrganisationId": 12071676,
+      "OrganisationKurz": "LKdo HH",
+      "Ort": "Hamburg",
+      "PLZ": 22589,
+      "Ressort": "BMVg",
+      "Telefax": "+49 40 86648 4313",
+      "Telefon": "+49 40 86648 4310"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.4259",
+  "Bundesland": "Berlin",
+  "E-Mail": "BewerbungenBerlin@bundeswehr.org",
+  "Hauptadresse": "Regattastraße 12",
+  "Internetadresse": "https://www.bundeswehrkarriere.de/",
+  "Land": "DE",
+  "Längengrad": "13.573939",
+  "Organisation": "Karrierecenter der Bundeswehr Berlin",
+  "OrganisationDisplay": "Karrierecenter Bw Berlin",
+  "OrganisationId": 4655008,
+  "Ort": "Berlin",
+  "PLZ": 12527,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 67781-325",
+  "Telefon": "+49 30 67781 401 oder 408",
+  "locations": [
+    {
+      "Breitengrad": "52.4259",
+      "Bundesland": "Berlin",
+      "E-Mail": "BewerbungenBerlin@bundeswehr.org",
+      "Hauptadresse": "Regattastraße 12",
+      "Internetadresse": "https://www.bundeswehrkarriere.de/",
+      "Land": "DE",
+      "Längengrad": "13.573939",
+      "Organisation": "Karrierecenter der Bundeswehr Berlin",
+      "OrganisationDisplay": "Karrierecenter Bw Berlin",
+      "OrganisationId": 4655008,
+      "Ort": "Berlin",
+      "PLZ": 12527,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 67781-325",
+      "Telefon": "+49 30 67781 401 oder 408"
+    }
+  ]
+}

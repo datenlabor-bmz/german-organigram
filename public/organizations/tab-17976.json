@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.524721",
+  "Bundesland": "Berlin",
+  "E-Mail": "buero@tab-beim-bundestag.de",
+  "Hauptadresse": "Neue Schönhauser Straße 10",
+  "Internetadresse": "https://www.tab-beim-bundestag.de/index.php",
+  "Land": "DE",
+  "Längengrad": "13.403308",
+  "Organisation": "Büro für Technikfolgenabschätzung beim Deutschen Bundestag",
+  "OrganisationDisplay": "TAB",
+  "OrganisationId": 17976,
+  "OrganisationKurz": "TAB",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Telefon": "+49 30 28491-0",
+  "locations": [
+    {
+      "Breitengrad": "52.524721",
+      "Bundesland": "Berlin",
+      "E-Mail": "buero@tab-beim-bundestag.de",
+      "Hauptadresse": "Neue Schönhauser Straße 10",
+      "Internetadresse": "https://www.tab-beim-bundestag.de/index.php",
+      "Land": "DE",
+      "Längengrad": "13.403308",
+      "Organisation": "Büro für Technikfolgenabschätzung beim Deutschen Bundestag",
+      "OrganisationDisplay": "TAB",
+      "OrganisationId": 17976,
+      "OrganisationKurz": "TAB",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefon": "+49 30 28491-0"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "43.319355",
+  "E-Mail": "DeutscheSchuleLeLuc@bundeswehr.org",
+  "Hauptadresse": "Quartier St. Lazare ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-frankreich-83684",
+  "Land": "FR",
+  "Längengrad": "6.318367",
+  "Organisation": "Deutsche Abteilung der Grundschule René Char",
+  "OrganisationDisplay": "DA GRC",
+  "OrganisationId": 5482300,
+  "OrganisationKurz": "DA GRC",
+  "Ort": "Le Luc en Provence",
+  "PLZ": 83340,
+  "Ressort": "BMVg",
+  "Telefon": "+33 4 9473 4795",
+  "locations": [
+    {
+      "Breitengrad": "43.319355",
+      "E-Mail": "DeutscheSchuleLeLuc@bundeswehr.org",
+      "Hauptadresse": "Quartier St. Lazare ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr/auslandsschulen-der-bundeswehr-frankreich-83684",
+      "Land": "FR",
+      "Längengrad": "6.318367",
+      "Organisation": "Deutsche Abteilung der Grundschule René Char",
+      "OrganisationDisplay": "DA GRC",
+      "OrganisationId": 5482300,
+      "OrganisationKurz": "DA GRC",
+      "Ort": "Le Luc en Provence",
+      "PLZ": 83340,
+      "Ressort": "BMVg",
+      "Telefon": "+33 4 9473 4795"
+    }
+  ]
+}

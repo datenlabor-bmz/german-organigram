@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.9702119",
+  "Bundesland": "Thüringen",
+  "E-Mail": "LKdoTHPressestelle@bundeswehr.org",
+  "Hauptadresse": "Nissaer Weg 10",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr/landeskommando/thueringen",
+  "Land": "DE",
+  "Längengrad": "11.0854685",
+  "Organisation": "Landeskommando Thüringen",
+  "OrganisationDisplay": "LKdo TH",
+  "OrganisationId": 12072064,
+  "OrganisationKurz": "LKdo TH",
+  "Ort": "Erfurt",
+  "PLZ": 99099,
+  "Ressort": "BMVg",
+  "Telefax": "+49 361 432 19 1709",
+  "Telefon": "+49 361 432 1800",
+  "locations": [
+    {
+      "Breitengrad": "50.9702119",
+      "Bundesland": "Thüringen",
+      "E-Mail": "LKdoTHPressestelle@bundeswehr.org",
+      "Hauptadresse": "Nissaer Weg 10",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr/landeskommando/thueringen",
+      "Land": "DE",
+      "Längengrad": "11.0854685",
+      "Organisation": "Landeskommando Thüringen",
+      "OrganisationDisplay": "LKdo TH",
+      "OrganisationId": 12072064,
+      "OrganisationKurz": "LKdo TH",
+      "Ort": "Erfurt",
+      "PLZ": 99099,
+      "Ressort": "BMVg",
+      "Telefax": "+49 361 432 19 1709",
+      "Telefon": "+49 361 432 1800"
+    }
+  ]
+}

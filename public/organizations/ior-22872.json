@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.015144",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@ostrecht.de",
+  "Hauptadresse": "Landshuter Straße 4",
+  "Internetadresse": "https://www.ostrecht.de/",
+  "Land": "DE",
+  "Längengrad": "12.102532",
+  "Organisation": "Institut für Ostrecht München e. V.",
+  "OrganisationDisplay": "IOR",
+  "OrganisationId": 22872,
+  "OrganisationKurz": "IOR",
+  "Ort": "Regensburg",
+  "PLZ": 93047,
+  "Telefax": "+49 941 943-5465",
+  "Telefon": "+49 941 943-5450",
+  "locations": [
+    {
+      "Breitengrad": "49.015144",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@ostrecht.de",
+      "Hauptadresse": "Landshuter Straße 4",
+      "Internetadresse": "https://www.ostrecht.de/",
+      "Land": "DE",
+      "Längengrad": "12.102532",
+      "Organisation": "Institut für Ostrecht München e. V.",
+      "OrganisationDisplay": "IOR",
+      "OrganisationId": 22872,
+      "OrganisationKurz": "IOR",
+      "Ort": "Regensburg",
+      "PLZ": 93047,
+      "Telefax": "+49 941 943-5465",
+      "Telefon": "+49 941 943-5450"
+    }
+  ]
+}

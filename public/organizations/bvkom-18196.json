@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.5114527",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@landkreistag.de",
+  "Hauptadresse": "Lennéstraße 11",
+  "Land": "DE",
+  "Längengrad": "13.3743809",
+  "Organisation": "Bundesvereinigung der kommunalen Spitzenverbände",
+  "OrganisationDisplay": "BVkom",
+  "OrganisationId": 18196,
+  "OrganisationKurz": "BVkom",
+  "Ort": "Berlin",
+  "PLZ": 10785,
+  "Telefax": "+49 30 590097-400",
+  "Telefon": "+49 30 590097-309",
+  "locations": [
+    {
+      "Breitengrad": "52.5114527",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@landkreistag.de",
+      "Hauptadresse": "Lennéstraße 11",
+      "Land": "DE",
+      "Längengrad": "13.3743809",
+      "Organisation": "Bundesvereinigung der kommunalen Spitzenverbände",
+      "OrganisationDisplay": "BVkom",
+      "OrganisationId": 18196,
+      "OrganisationKurz": "BVkom",
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Telefax": "+49 30 590097-400",
+      "Telefon": "+49 30 590097-309"
+    }
+  ]
+}

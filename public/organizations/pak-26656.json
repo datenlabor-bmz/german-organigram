@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.135643",
+  "Bundesland": "Bayern",
+  "E-Mail": "dpak@patentanwalt.de",
+  "Hauptadresse": "Tal 29",
+  "Internetadresse": "https://www.patentanwalt.de",
+  "Land": "DE",
+  "Längengrad": "11.580563",
+  "Organisation": "Patentanwaltskammer",
+  "OrganisationDisplay": "PAK",
+  "OrganisationId": 26656,
+  "OrganisationKurz": "PAK",
+  "Ort": "München",
+  "PLZ": 80331,
+  "Ressort": "BMJV",
+  "Telefax": "+49 89 242278-24",
+  "Telefon": "+49 89 242278-0",
+  "locations": [
+    {
+      "Breitengrad": "48.135643",
+      "Bundesland": "Bayern",
+      "E-Mail": "dpak@patentanwalt.de",
+      "Hauptadresse": "Tal 29",
+      "Internetadresse": "https://www.patentanwalt.de",
+      "Land": "DE",
+      "Längengrad": "11.580563",
+      "Organisation": "Patentanwaltskammer",
+      "OrganisationDisplay": "PAK",
+      "OrganisationId": 26656,
+      "OrganisationKurz": "PAK",
+      "Ort": "München",
+      "PLZ": 80331,
+      "Ressort": "BMJV",
+      "Telefax": "+49 89 242278-24",
+      "Telefon": "+49 89 242278-0"
+    }
+  ]
+}

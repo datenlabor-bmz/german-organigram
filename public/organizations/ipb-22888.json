@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.496469",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "info@ipb-halle.de",
+  "Hauptadresse": "Weinberg 3",
+  "Internetadresse": "https://www.ipb-halle.de/",
+  "Land": "DE",
+  "Längengrad": "11.945105",
+  "Organisation": "Leibniz-Institut für Pflanzenbiochemie",
+  "OrganisationDisplay": "IPB",
+  "OrganisationId": 22888,
+  "OrganisationKurz": "IPB",
+  "Ort": "Halle",
+  "PLZ": 6120,
+  "Telefax": "+49 345 5582-1009",
+  "Telefon": "+49 345 5582-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.496469",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "info@ipb-halle.de",
+      "Hauptadresse": "Weinberg 3",
+      "Internetadresse": "https://www.ipb-halle.de/",
+      "Land": "DE",
+      "Längengrad": "11.945105",
+      "Organisation": "Leibniz-Institut für Pflanzenbiochemie",
+      "OrganisationDisplay": "IPB",
+      "OrganisationId": 22888,
+      "OrganisationKurz": "IPB",
+      "Ort": "Halle",
+      "PLZ": 6120,
+      "Telefax": "+49 345 5582-1009",
+      "Telefon": "+49 345 5582-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

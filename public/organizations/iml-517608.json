@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.4937056",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@iml.fraunhofer.de",
+  "Hauptadresse": "Joseph-von-Fraunhofer-Straße 2-4",
+  "Internetadresse": "https://www.iml.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.405897",
+  "Organisation": "Fraunhofer-Institut für Materialfluss und Logistik",
+  "OrganisationDisplay": "IML",
+  "OrganisationId": 517608,
+  "OrganisationKurz": "IML",
+  "Ort": "Dortmund",
+  "PLZ": 44227,
+  "Telefon": "+49 231 9743-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.4937056",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@iml.fraunhofer.de",
+      "Hauptadresse": "Joseph-von-Fraunhofer-Straße 2-4",
+      "Internetadresse": "https://www.iml.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.405897",
+      "Organisation": "Fraunhofer-Institut für Materialfluss und Logistik",
+      "OrganisationDisplay": "IML",
+      "OrganisationId": 517608,
+      "OrganisationKurz": "IML",
+      "Ort": "Dortmund",
+      "PLZ": 44227,
+      "Telefon": "+49 231 9743-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

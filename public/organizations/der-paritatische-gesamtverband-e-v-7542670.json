@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.5238316",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@paritaet.org",
+  "Hauptadresse": "Oranienburger Str. 13 - 14",
+  "Internetadresse": "https://www.der-paritaetische.de/",
+  "Land": "DE",
+  "Längengrad": "13.3985704",
+  "Organisation": "Der Paritätische Gesamtverband e. V.",
+  "OrganisationDisplay": "Der Paritätische",
+  "OrganisationId": 7542670,
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Telefax": "+49 30 24636-110",
+  "Telefon": "+49 30 24636-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5238316",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@paritaet.org",
+      "Hauptadresse": "Oranienburger Str. 13 - 14",
+      "Internetadresse": "https://www.der-paritaetische.de/",
+      "Land": "DE",
+      "Längengrad": "13.3985704",
+      "Organisation": "Der Paritätische Gesamtverband e. V.",
+      "OrganisationDisplay": "Der Paritätische",
+      "OrganisationId": 7542670,
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefax": "+49 30 24636-110",
+      "Telefon": "+49 30 24636-0"
+    }
+  ]
+}

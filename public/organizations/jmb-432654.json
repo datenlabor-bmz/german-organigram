@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5023129",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@jmberlin.de",
+  "Hauptadresse": "Lindenstraße 9 - 14",
+  "Internetadresse": "https://www.jmberlin.de/",
+  "Land": "DE",
+  "Längengrad": "13.3947287",
+  "Organisation": "Stiftung Jüdisches Museum Berlin",
+  "OrganisationDisplay": "JMB",
+  "OrganisationId": 432654,
+  "OrganisationKurz": "JMB",
+  "Ort": "Berlin",
+  "PLZ": 10969,
+  "Telefax": "+49 25993-409",
+  "Telefon": "+49 30 25993-300",
+  "locations": [
+    {
+      "Breitengrad": "52.5023129",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@jmberlin.de",
+      "Hauptadresse": "Lindenstraße 9 - 14",
+      "Internetadresse": "https://www.jmberlin.de/",
+      "Land": "DE",
+      "Längengrad": "13.3947287",
+      "Organisation": "Stiftung Jüdisches Museum Berlin",
+      "OrganisationDisplay": "JMB",
+      "OrganisationId": 432654,
+      "OrganisationKurz": "JMB",
+      "Ort": "Berlin",
+      "PLZ": 10969,
+      "Telefax": "+49 25993-409",
+      "Telefon": "+49 30 25993-300"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.40447",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "deutsches@kulturforum.info",
+  "Hauptadresse": "Berliner Straße 135",
+  "Internetadresse": "https://www.kulturforum.info/de/",
+  "Land": "DE",
+  "Längengrad": "13.0714",
+  "Organisation": "Deutsches Kulturforum östliches Europa e. V.",
+  "OrganisationDisplay": "DKOE",
+  "OrganisationId": 21398,
+  "Ort": "Potsdam",
+  "PLZ": 14467,
+  "Telefax": "+49 331 20098-50",
+  "Telefon": "+49 331 20098-0",
+  "locations": [
+    {
+      "Breitengrad": "52.40447",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "deutsches@kulturforum.info",
+      "Hauptadresse": "Berliner Straße 135",
+      "Internetadresse": "https://www.kulturforum.info/de/",
+      "Land": "DE",
+      "Längengrad": "13.0714",
+      "Organisation": "Deutsches Kulturforum östliches Europa e. V.",
+      "OrganisationDisplay": "DKOE",
+      "OrganisationId": 21398,
+      "Ort": "Potsdam",
+      "PLZ": 14467,
+      "Telefax": "+49 331 20098-50",
+      "Telefon": "+49 331 20098-0"
+    }
+  ]
+}

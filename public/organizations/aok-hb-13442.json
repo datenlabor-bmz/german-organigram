@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.080183",
+  "Bundesland": "Bremen",
+  "E-Mail": "info@hb.aok.de",
+  "Hauptadresse": "Bürgermeister-Smidt-Straße 95",
+  "Internetadresse": "https://www.aok.de/pk/bremen/",
+  "Land": "DE",
+  "Längengrad": "8.803236",
+  "Organisation": "Allgemeine Ortskrankenkasse Bremen/Bremerhaven",
+  "OrganisationDisplay": "AOK-HB",
+  "OrganisationId": 13442,
+  "OrganisationKurz": "AOK-HB",
+  "Ort": "Bremen",
+  "PLZ": 28195,
+  "Ressort": "BMG",
+  "Telefax": "+49 421 1761-91991",
+  "Telefon": "+49 421 1761-0",
+  "locations": [
+    {
+      "Breitengrad": "53.080183",
+      "Bundesland": "Bremen",
+      "E-Mail": "info@hb.aok.de",
+      "Hauptadresse": "Bürgermeister-Smidt-Straße 95",
+      "Internetadresse": "https://www.aok.de/pk/bremen/",
+      "Land": "DE",
+      "Längengrad": "8.803236",
+      "Organisation": "Allgemeine Ortskrankenkasse Bremen/Bremerhaven",
+      "OrganisationDisplay": "AOK-HB",
+      "OrganisationId": 13442,
+      "OrganisationKurz": "AOK-HB",
+      "Ort": "Bremen",
+      "PLZ": 28195,
+      "Ressort": "BMG",
+      "Telefax": "+49 421 1761-91991",
+      "Telefon": "+49 421 1761-0"
+    }
+  ]
+}

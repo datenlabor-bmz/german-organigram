@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.402901",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "bbiz-kleinmachnow@wsv.bund.de",
+  "Hauptadresse": "Stahnsdorfer Damm 1",
+  "Internetadresse": "https://www.gdws.wsv.bund.de/DE/gdws/Bildungseinrichtungen/BBIZ_Klm/BBiZ_Klm-node.html",
+  "Land": "DE",
+  "Längengrad": "13.201593",
+  "Organisation": "Berufsbildungszentrum Kleinmachnow (der WSV bei der GDWS)",
+  "OrganisationDisplay": "BBiZ-Kleinmachnow",
+  "OrganisationId": 60254,
+  "OrganisationKurz": "BBiZ-Kleinmachnow",
+  "Ort": "Kleinmachnow",
+  "PLZ": 14532,
+  "Ressort": "BMV",
+  "Telefax": "+49 228 70907301",
+  "Telefon": "+49 228 70907300",
+  "locations": [
+    {
+      "Breitengrad": "52.402901",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "bbiz-kleinmachnow@wsv.bund.de",
+      "Hauptadresse": "Stahnsdorfer Damm 1",
+      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/gdws/Bildungseinrichtungen/BBIZ_Klm/BBiZ_Klm-node.html",
+      "Land": "DE",
+      "Längengrad": "13.201593",
+      "Organisation": "Berufsbildungszentrum Kleinmachnow (der WSV bei der GDWS)",
+      "OrganisationDisplay": "BBiZ-Kleinmachnow",
+      "OrganisationId": 60254,
+      "OrganisationKurz": "BBiZ-Kleinmachnow",
+      "Ort": "Kleinmachnow",
+      "PLZ": 14532,
+      "Ressort": "BMV",
+      "Telefax": "+49 228 70907301",
+      "Telefon": "+49 228 70907300"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.01243",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "fbn@fbn-dummerstorf.de",
+  "Hauptadresse": "Wilhelm-Stahl-Allee 2",
+  "Internetadresse": "https://www.fbn-dummerstorf.de/",
+  "Land": "DE",
+  "Längengrad": "12.227529",
+  "Organisation": "Forschungsinstitut für Nutztierbiologie",
+  "OrganisationDisplay": "FBN",
+  "OrganisationId": 24296,
+  "OrganisationKurz": "FBN",
+  "Ort": "Dummerstorf",
+  "PLZ": 18196,
+  "Telefax": "+49 38208 68-602",
+  "Telefon": "+49 38208 68-5",
+  "locations": [
+    {
+      "Breitengrad": "54.01243",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "fbn@fbn-dummerstorf.de",
+      "Hauptadresse": "Wilhelm-Stahl-Allee 2",
+      "Internetadresse": "https://www.fbn-dummerstorf.de/",
+      "Land": "DE",
+      "Längengrad": "12.227529",
+      "Organisation": "Forschungsinstitut für Nutztierbiologie",
+      "OrganisationDisplay": "FBN",
+      "OrganisationId": 24296,
+      "OrganisationKurz": "FBN",
+      "Ort": "Dummerstorf",
+      "PLZ": 18196,
+      "Telefax": "+49 38208 68-602",
+      "Telefon": "+49 38208 68-5"
+    }
+  ]
+}

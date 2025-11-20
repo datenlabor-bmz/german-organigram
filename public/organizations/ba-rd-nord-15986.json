@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.351096",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "Nord@arbeitsagentur.de",
+  "Hauptadresse": "Projensdorfer Straße 82",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/Nord/index.htm",
+  "Land": "DE",
+  "Längengrad": "10.124455",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Nord",
+  "OrganisationDisplay": "BA-RD-Nord",
+  "OrganisationId": 15986,
+  "OrganisationKurz": "BA-RD-Nord",
+  "Ort": "Kiel",
+  "PLZ": 24106,
+  "Ressort": "BMAS",
+  "Telefax": "+49 431 3395-9999",
+  "Telefon": "+49 431 3395-0",
+  "locations": [
+    {
+      "Breitengrad": "54.351096",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "Nord@arbeitsagentur.de",
+      "Hauptadresse": "Projensdorfer Straße 82",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/Nord/index.htm",
+      "Land": "DE",
+      "Längengrad": "10.124455",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Nord",
+      "OrganisationDisplay": "BA-RD-Nord",
+      "OrganisationId": 15986,
+      "OrganisationKurz": "BA-RD-Nord",
+      "Ort": "Kiel",
+      "PLZ": 24106,
+      "Ressort": "BMAS",
+      "Telefax": "+49 431 3395-9999",
+      "Telefon": "+49 431 3395-0"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "52.4862272",
+  "Bundesland": "Berlin",
+  "E-Mail": "kontakt@museum-karlshorst.de",
+  "Hauptadresse": "Zwieseler Straße 4",
+  "Internetadresse": "https://www.museum-karlshorst.de/",
+  "Land": "DE",
+  "Längengrad": "13.5393339",
+  "Organisation": "Deutsch-Russisches Museum Berlin-Karlshorst e. V.",
+  "OrganisationDisplay": "Deutsch-Russisches Museum",
+  "OrganisationId": 7566416,
+  "Ort": "Berlin",
+  "PLZ": 10318,
+  "Telefon": "+49 30501508-10",
+  "locations": [
+    {
+      "Breitengrad": "52.4862272",
+      "Bundesland": "Berlin",
+      "E-Mail": "kontakt@museum-karlshorst.de",
+      "Hauptadresse": "Zwieseler Straße 4",
+      "Internetadresse": "https://www.museum-karlshorst.de/",
+      "Land": "DE",
+      "Längengrad": "13.5393339",
+      "Organisation": "Deutsch-Russisches Museum Berlin-Karlshorst e. V.",
+      "OrganisationDisplay": "Deutsch-Russisches Museum",
+      "OrganisationId": 7566416,
+      "Ort": "Berlin",
+      "PLZ": 10318,
+      "Telefon": "+49 30501508-10"
+    }
+  ]
+}

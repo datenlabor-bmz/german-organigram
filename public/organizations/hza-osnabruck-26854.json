@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.257143",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "poststelle.hza-osnabrueck@zoll.bund.de",
+  "Hauptadresse": "Meller Straße 272",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "8.081536",
+  "Organisation": "Hauptzollamt Osnabrück",
+  "OrganisationDisplay": "HZA Osnabrück",
+  "OrganisationId": 26854,
+  "OrganisationKurz": "HZA Osnabrück",
+  "Ort": "Osnabrück",
+  "PLZ": 49082,
+  "Ressort": "BMF",
+  "Telefax": "+49 541 3301-1200",
+  "Telefon": "+49 541 3301-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "52.257143",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "poststelle.hza-osnabrueck@zoll.bund.de",
+      "Hauptadresse": "Meller Straße 272",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "8.081536",
+      "Organisation": "Hauptzollamt Osnabrück",
+      "OrganisationDisplay": "HZA Osnabrück",
+      "OrganisationId": 26854,
+      "OrganisationKurz": "HZA Osnabrück",
+      "Ort": "Osnabrück",
+      "PLZ": 49082,
+      "Ressort": "BMF",
+      "Telefax": "+49 541 3301-1200",
+      "Telefon": "+49 541 3301-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

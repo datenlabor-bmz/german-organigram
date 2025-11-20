@@ -1,0 +1,63 @@
+{
+  "Breitengrad": "52.429978",
+  "Bundesland": "Berlin",
+  "E-Mail": "dstgb@dstgb.de",
+  "Hauptadresse": "Marienstraße 6",
+  "Internetadresse": "https://www.dstgb.de/",
+  "Land": "DE",
+  "Längengrad": "13.321671",
+  "Organisation": "Deutscher Städte- und Gemeindebund",
+  "OrganisationDisplay": "DStGB",
+  "OrganisationId": 20958,
+  "OrganisationKurz": "DStGB",
+  "Ort": "Berlin",
+  "PLZ": 12207,
+  "Telefax": "+49 30 77307-222",
+  "Telefon": "+49 30 77307-0",
+  "locations": [
+    {
+      "Breitengrad": "52.429978",
+      "Bundesland": "Berlin",
+      "E-Mail": "dstgb@dstgb.de",
+      "Hauptadresse": "Marienstraße 6",
+      "Internetadresse": "https://www.dstgb.de/",
+      "Land": "DE",
+      "Längengrad": "13.321671",
+      "Organisation": "Deutscher Städte- und Gemeindebund",
+      "OrganisationDisplay": "DStGB",
+      "OrganisationId": 20958,
+      "OrganisationKurz": "DStGB",
+      "Ort": "Berlin",
+      "PLZ": 12207,
+      "Telefax": "+49 30 77307-222",
+      "Telefon": "+49 30 77307-0"
+    },
+    {
+      "Adresse": "Avenue des Nerviens  9 - 31, 3e Et.",
+      "E-Mail": "klaus.Nutzenberger@eurocommunal.eu",
+      "Internetadresse": "https://www.dstgb.de/",
+      "Land": "BE",
+      "Liegenschaft": "Europabüro",
+      "LiegenschaftsId": 20952,
+      "OrganisationId": 20958,
+      "Ort": "Brüssel",
+      "PLZ": -1040,
+      "Telefax": "+32 274016-41",
+      "Telefon": "+32 2 74016-40"
+    },
+    {
+      "Adresse": "August-Bebel-Allee 6",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "daniela.muss@dstgb.de",
+      "Internetadresse": "https://www.dstgb.de/",
+      "Land": "DE",
+      "Liegenschaft": "Bonner Büro",
+      "LiegenschaftsId": 20950,
+      "OrganisationId": 20958,
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 95962-22",
+      "Telefon": "+49 228 95962-21"
+    }
+  ]
+}

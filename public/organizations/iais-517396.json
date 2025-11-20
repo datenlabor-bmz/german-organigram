@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.748824",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@iais.fraunhofer.de",
+  "Hauptadresse": "Schloß Birlinghoven ",
+  "Internetadresse": "https://www.iais.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.203058",
+  "Organisation": "Fraunhofer-Institut für Intelligente Analyse- und Informationssysteme",
+  "OrganisationDisplay": "IAIS",
+  "OrganisationId": 517396,
+  "OrganisationKurz": "IAIS",
+  "Ort": "Sankt Augustin",
+  "PLZ": 53754,
+  "Telefax": "+49 2241 14-43000",
+  "Telefon": "+49 2241 14-3000",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.748824",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@iais.fraunhofer.de",
+      "Hauptadresse": "Schloß Birlinghoven ",
+      "Internetadresse": "https://www.iais.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.203058",
+      "Organisation": "Fraunhofer-Institut für Intelligente Analyse- und Informationssysteme",
+      "OrganisationDisplay": "IAIS",
+      "OrganisationId": 517396,
+      "OrganisationKurz": "IAIS",
+      "Ort": "Sankt Augustin",
+      "PLZ": 53754,
+      "Telefax": "+49 2241 14-43000",
+      "Telefon": "+49 2241 14-3000",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.746068",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "info@leibniz-psychology.org",
+  "Hauptadresse": "Universitätsring 15",
+  "Internetadresse": "https://leibniz-psychology.org/",
+  "Land": "DE",
+  "Längengrad": "6.687187",
+  "Organisation": "Leibniz-Institut für Psychologie",
+  "OrganisationDisplay": "ZPID",
+  "OrganisationId": 430094,
+  "OrganisationKurz": "ZPID",
+  "Ort": "Trier",
+  "PLZ": 54296,
+  "Telefon": "+49 651 603419-011",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.746068",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "info@leibniz-psychology.org",
+      "Hauptadresse": "Universitätsring 15",
+      "Internetadresse": "https://leibniz-psychology.org/",
+      "Land": "DE",
+      "Längengrad": "6.687187",
+      "Organisation": "Leibniz-Institut für Psychologie",
+      "OrganisationDisplay": "ZPID",
+      "OrganisationId": 430094,
+      "OrganisationKurz": "ZPID",
+      "Ort": "Trier",
+      "PLZ": 54296,
+      "Telefon": "+49 651 603419-011",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

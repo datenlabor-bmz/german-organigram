@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "27.25797",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "LKdoBWZentralerPosteingang@bundeswehr.org",
+  "Hauptadresse": "Nürnberger Straße 184",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-baden-wuerttemberg",
+  "Land": "DE",
+  "Längengrad": "83.01465",
+  "Organisation": "Landeskommando Baden-Württemberg",
+  "OrganisationDisplay": "LKdo BW",
+  "OrganisationId": 12071382,
+  "OrganisationKurz": "LKdo BW",
+  "Ort": "Stuttgart",
+  "PLZ": 70374,
+  "Ressort": "BMVg",
+  "Telefax": "+49 711 5210 4096",
+  "Telefon": "+49 711 5210 0",
+  "locations": [
+    {
+      "Breitengrad": "27.25797",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "LKdoBWZentralerPosteingang@bundeswehr.org",
+      "Hauptadresse": "Nürnberger Straße 184",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-baden-wuerttemberg",
+      "Land": "DE",
+      "Längengrad": "83.01465",
+      "Organisation": "Landeskommando Baden-Württemberg",
+      "OrganisationDisplay": "LKdo BW",
+      "OrganisationId": 12071382,
+      "OrganisationKurz": "LKdo BW",
+      "Ort": "Stuttgart",
+      "PLZ": 70374,
+      "Ressort": "BMVg",
+      "Telefax": "+49 711 5210 4096",
+      "Telefon": "+49 711 5210 0"
+    }
+  ]
+}

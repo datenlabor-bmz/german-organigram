@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.15606",
+  "Bundesland": "Sachsen",
+  "E-Mail": "kontakt@schlesisches-museum.de",
+  "Hauptadresse": "Brüderstraße  8",
+  "Internetadresse": "https://www.schlesisches-museum.de/",
+  "Land": "DE",
+  "Längengrad": "14.99099",
+  "Organisation": "Schlesisches Museum zu Görlitz",
+  "OrganisationDisplay": "Schlesisches Museum",
+  "OrganisationId": 7588212,
+  "Ort": "Görlitz",
+  "PLZ": 2826,
+  "Telefax": "+49 3581 8791-200",
+  "Telefon": "+49 3581 8791-0",
+  "locations": [
+    {
+      "Breitengrad": "51.15606",
+      "Bundesland": "Sachsen",
+      "E-Mail": "kontakt@schlesisches-museum.de",
+      "Hauptadresse": "Brüderstraße  8",
+      "Internetadresse": "https://www.schlesisches-museum.de/",
+      "Land": "DE",
+      "Längengrad": "14.99099",
+      "Organisation": "Schlesisches Museum zu Görlitz",
+      "OrganisationDisplay": "Schlesisches Museum",
+      "OrganisationId": 7588212,
+      "Ort": "Görlitz",
+      "PLZ": 2826,
+      "Telefax": "+49 3581 8791-200",
+      "Telefon": "+49 3581 8791-0"
+    }
+  ]
+}

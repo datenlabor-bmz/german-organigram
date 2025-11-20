@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.975735",
+  "Bundesland": "Thüringen",
+  "E-Mail": "BwDLZErfurt@bundeswehr.org",
+  "Hauptadresse": "Thälmannstraße 60",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-erfurt",
+  "Land": "DE",
+  "Längengrad": "11.043901",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Erfurt",
+  "OrganisationDisplay": "BwDLZ Erfurt",
+  "OrganisationId": 18624,
+  "OrganisationKurz": "BwDLZ Erfurt",
+  "Ort": "Erfurt",
+  "PLZ": 99085,
+  "Ressort": "BMVg",
+  "Telefon": "+49 361 342-60",
+  "locations": [
+    {
+      "Breitengrad": "50.975735",
+      "Bundesland": "Thüringen",
+      "E-Mail": "BwDLZErfurt@bundeswehr.org",
+      "Hauptadresse": "Thälmannstraße 60",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-erfurt",
+      "Land": "DE",
+      "Längengrad": "11.043901",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Erfurt",
+      "OrganisationDisplay": "BwDLZ Erfurt",
+      "OrganisationId": 18624,
+      "OrganisationKurz": "BwDLZ Erfurt",
+      "Ort": "Erfurt",
+      "PLZ": 99085,
+      "Ressort": "BMVg",
+      "Telefon": "+49 361 342-60"
+    }
+  ]
+}

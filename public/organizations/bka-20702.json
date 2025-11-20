@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.096348",
+  "Bundesland": "Hessen",
+  "E-Mail": "mail@bka.bund.de",
+  "Hauptadresse": "Thaerstraße 11",
+  "Internetadresse": "https://www.bka.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "8.24453",
+  "Organisation": "Bundeskriminalamt",
+  "OrganisationDisplay": "BKA",
+  "OrganisationId": 20702,
+  "OrganisationKurz": "BKA",
+  "Ort": "Wiesbaden",
+  "PLZ": 65193,
+  "Ressort": "BMI",
+  "Telefax": "+49 611 55-12141",
+  "Telefon": "+49 611 55-0",
+  "locations": [
+    {
+      "Breitengrad": "50.096348",
+      "Bundesland": "Hessen",
+      "E-Mail": "mail@bka.bund.de",
+      "Hauptadresse": "Thaerstraße 11",
+      "Internetadresse": "https://www.bka.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "8.24453",
+      "Organisation": "Bundeskriminalamt",
+      "OrganisationDisplay": "BKA",
+      "OrganisationId": 20702,
+      "OrganisationKurz": "BKA",
+      "Ort": "Wiesbaden",
+      "PLZ": 65193,
+      "Ressort": "BMI",
+      "Telefax": "+49 611 55-12141",
+      "Telefon": "+49 611 55-0"
+    }
+  ]
+}

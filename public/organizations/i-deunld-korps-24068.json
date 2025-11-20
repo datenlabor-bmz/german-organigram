@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.966553",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "PAO@1gnc.org",
+  "Hauptadresse": "Schlossplatz 15",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/1-deutsch-niederlaendisches-corps",
+  "Land": "DE",
+  "Längengrad": "7.616054",
+  "Organisation": "I. Deutsch-Niederländisches Korps",
+  "OrganisationDisplay": "I. DEU/NLD Korps ",
+  "OrganisationId": 24068,
+  "OrganisationKurz": "I. DEU/NLD Korps ",
+  "Ort": "Münster",
+  "PLZ": 48143,
+  "Ressort": "BMVg",
+  "Telefax": "+49 251 452-70",
+  "Telefon": "+49 251 506-2092",
+  "locations": [
+    {
+      "Breitengrad": "51.966553",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "PAO@1gnc.org",
+      "Hauptadresse": "Schlossplatz 15",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/1-deutsch-niederlaendisches-corps",
+      "Land": "DE",
+      "Längengrad": "7.616054",
+      "Organisation": "I. Deutsch-Niederländisches Korps",
+      "OrganisationDisplay": "I. DEU/NLD Korps ",
+      "OrganisationId": 24068,
+      "OrganisationKurz": "I. DEU/NLD Korps ",
+      "Ort": "Münster",
+      "PLZ": 48143,
+      "Ressort": "BMVg",
+      "Telefax": "+49 251 452-70",
+      "Telefon": "+49 251 506-2092"
+    }
+  ]
+}

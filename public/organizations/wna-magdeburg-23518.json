@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.128758",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "Poststelle.WNA-MAG@wsv.bund.de",
+  "Hauptadresse": "Kleiner Werder 5c",
+  "Internetadresse": "https://www.wna-magdeburg.wsv.de/Webs/WNA/WNA-Magdeburg/DE/Startseite/startseite_node.html",
+  "Land": "DE",
+  "Längengrad": "11.64578",
+  "Organisation": "Wasserstraßen-Neubauamt Magdeburg",
+  "OrganisationDisplay": "WNA Magdeburg",
+  "OrganisationId": 23518,
+  "OrganisationKurz": "WNA Magdeburg",
+  "Ort": "Magdeburg",
+  "PLZ": 39114,
+  "Ressort": "BMV",
+  "Telefax": "+49 391 535-2214/2214",
+  "Telefon": "+49 391 535-0",
+  "locations": [
+    {
+      "Breitengrad": "52.128758",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "Poststelle.WNA-MAG@wsv.bund.de",
+      "Hauptadresse": "Kleiner Werder 5c",
+      "Internetadresse": "https://www.wna-magdeburg.wsv.de/Webs/WNA/WNA-Magdeburg/DE/Startseite/startseite_node.html",
+      "Land": "DE",
+      "Längengrad": "11.64578",
+      "Organisation": "Wasserstraßen-Neubauamt Magdeburg",
+      "OrganisationDisplay": "WNA Magdeburg",
+      "OrganisationId": 23518,
+      "OrganisationKurz": "WNA Magdeburg",
+      "Ort": "Magdeburg",
+      "PLZ": 39114,
+      "Ressort": "BMV",
+      "Telefax": "+49 391 535-2214/2214",
+      "Telefon": "+49 391 535-0"
+    }
+  ]
+}

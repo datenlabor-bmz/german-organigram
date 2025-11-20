@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.519244",
+  "Bundesland": "Berlin",
+  "E-Mail": "mail@bundestag.de",
+  "Hauptadresse": "Platz der Republik 1",
+  "Internetadresse": "https://www.bundestag.de",
+  "Land": "DE",
+  "Längengrad": "13.375096",
+  "Organisation": "Deutscher Bundestag",
+  "OrganisationDisplay": "BT",
+  "OrganisationId": 24132,
+  "OrganisationKurz": "BT",
+  "Ort": "Berlin",
+  "PLZ": 11011,
+  "Telefax": "+49 30 227-36878, +49 30 227-36979",
+  "Telefon": "+49 30 227-0",
+  "locations": [
+    {
+      "Breitengrad": "52.519244",
+      "Bundesland": "Berlin",
+      "E-Mail": "mail@bundestag.de",
+      "Hauptadresse": "Platz der Republik 1",
+      "Internetadresse": "https://www.bundestag.de",
+      "Land": "DE",
+      "Längengrad": "13.375096",
+      "Organisation": "Deutscher Bundestag",
+      "OrganisationDisplay": "BT",
+      "OrganisationId": 24132,
+      "OrganisationKurz": "BT",
+      "Ort": "Berlin",
+      "PLZ": 11011,
+      "Telefax": "+49 30 227-36878, +49 30 227-36979",
+      "Telefon": "+49 30 227-0"
+    }
+  ]
+}

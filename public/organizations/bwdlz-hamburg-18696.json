@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.5722",
+  "Bundesland": "Hamburg",
+  "E-Mail": "BwDLZHamburg@bundeswehr.org",
+  "Hauptadresse": "Osdorfer Landstraße 365",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-hamburg",
+  "Land": "DE",
+  "Längengrad": "9.853250",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Hamburg",
+  "OrganisationDisplay": "BwDLZ Hamburg",
+  "OrganisationId": 18696,
+  "OrganisationKurz": "BwDLZ Hamburg",
+  "Ort": "Hamburg",
+  "PLZ": 22589,
+  "Ressort": "BMVg",
+  "Telefon": "+49 40 86648-0",
+  "locations": [
+    {
+      "Breitengrad": "53.5722",
+      "Bundesland": "Hamburg",
+      "E-Mail": "BwDLZHamburg@bundeswehr.org",
+      "Hauptadresse": "Osdorfer Landstraße 365",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-hamburg",
+      "Land": "DE",
+      "Längengrad": "9.853250",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Hamburg",
+      "OrganisationDisplay": "BwDLZ Hamburg",
+      "OrganisationId": 18696,
+      "OrganisationKurz": "BwDLZ Hamburg",
+      "Ort": "Hamburg",
+      "PLZ": 22589,
+      "Ressort": "BMVg",
+      "Telefon": "+49 40 86648-0"
+    }
+  ]
+}

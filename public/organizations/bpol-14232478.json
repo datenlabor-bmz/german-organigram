@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.3826560",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "bpolp@polizei.bund.de",
+  "Hauptadresse": "Heinrich-Mann-Allee 103",
+  "Internetadresse": "https://www.bundespolizei.de",
+  "Land": "DE",
+  "Längengrad": "13.0752162",
+  "Organisation": "Bundespolizei",
+  "OrganisationDisplay": "BPOL",
+  "OrganisationId": 14232478,
+  "OrganisationKurz": "BPOL",
+  "Ort": "Potsdam",
+  "PLZ": 14473,
+  "Ressort": "BMI",
+  "Telefax": "+49 331 97997-1010",
+  "Telefon": "+49 331 97997-0",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.3826560",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "bpolp@polizei.bund.de",
+      "Hauptadresse": "Heinrich-Mann-Allee 103",
+      "Internetadresse": "https://www.bundespolizei.de",
+      "Land": "DE",
+      "Längengrad": "13.0752162",
+      "Organisation": "Bundespolizei",
+      "OrganisationDisplay": "BPOL",
+      "OrganisationId": 14232478,
+      "OrganisationKurz": "BPOL",
+      "Ort": "Potsdam",
+      "PLZ": 14473,
+      "Ressort": "BMI",
+      "Telefax": "+49 331 97997-1010",
+      "Telefon": "+49 331 97997-0",
+      "Versteckt": true
+    }
+  ]
+}

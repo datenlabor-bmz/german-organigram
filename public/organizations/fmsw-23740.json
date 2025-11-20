@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.366367",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "wsa-mosel-saar-lahn@wsv.bund.de",
+  "Hauptadresse": "Schartwiesenweg 4",
+  "Internetadresse": "https://www.wsa-mosel-saar-lahn.wsv.de/Webs/WSA/Mosel-Saar/DE/06_FMSW/FMSW_node.html",
+  "Land": "DE",
+  "Längengrad": "7.603637",
+  "Organisation": "Fachstelle Maschinenwesen Südwest (beim WSA Mosel-Saar-Lahn)",
+  "OrganisationDisplay": "FMSW",
+  "OrganisationId": 23740,
+  "OrganisationKurz": "FMSW",
+  "Ort": "Koblenz",
+  "PLZ": 56070,
+  "Ressort": "BMV",
+  "Telefax": "+49 261 9819-4155",
+  "Telefon": "+49 261 9819-0",
+  "locations": [
+    {
+      "Breitengrad": "50.366367",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "wsa-mosel-saar-lahn@wsv.bund.de",
+      "Hauptadresse": "Schartwiesenweg 4",
+      "Internetadresse": "https://www.wsa-mosel-saar-lahn.wsv.de/Webs/WSA/Mosel-Saar/DE/06_FMSW/FMSW_node.html",
+      "Land": "DE",
+      "Längengrad": "7.603637",
+      "Organisation": "Fachstelle Maschinenwesen Südwest (beim WSA Mosel-Saar-Lahn)",
+      "OrganisationDisplay": "FMSW",
+      "OrganisationId": 23740,
+      "OrganisationKurz": "FMSW",
+      "Ort": "Koblenz",
+      "PLZ": 56070,
+      "Ressort": "BMV",
+      "Telefax": "+49 261 9819-4155",
+      "Telefon": "+49 261 9819-0"
+    }
+  ]
+}

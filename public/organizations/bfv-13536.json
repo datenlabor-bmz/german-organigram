@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.021415",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kontakt@bfv.bund.de",
+  "Hauptadresse": "Merianstraße 100",
+  "Internetadresse": "https://www.verfassungsschutz.de/",
+  "Land": "DE",
+  "Längengrad": "6.888441",
+  "Organisation": "Bundesamt für Verfassungsschutz",
+  "OrganisationDisplay": "BfV",
+  "OrganisationId": 13536,
+  "OrganisationKurz": "BfV",
+  "Ort": "Köln",
+  "PLZ": 50765,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 18 10 792-2915, +49 228 99 10 792-2915",
+  "Telefon": "+49 30 18 792-0, +49 228 99 792-0",
+  "locations": [
+    {
+      "Breitengrad": "51.021415",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kontakt@bfv.bund.de",
+      "Hauptadresse": "Merianstraße 100",
+      "Internetadresse": "https://www.verfassungsschutz.de/",
+      "Land": "DE",
+      "Längengrad": "6.888441",
+      "Organisation": "Bundesamt für Verfassungsschutz",
+      "OrganisationDisplay": "BfV",
+      "OrganisationId": 13536,
+      "OrganisationKurz": "BfV",
+      "Ort": "Köln",
+      "PLZ": 50765,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 18 10 792-2915, +49 228 99 10 792-2915",
+      "Telefon": "+49 30 18 792-0, +49 228 99 792-0"
+    }
+  ]
+}

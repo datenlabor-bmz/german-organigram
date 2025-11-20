@@ -1,0 +1,50 @@
+{
+  "Breitengrad": "52.626083",
+  "Bundesland": "Berlin",
+  "Hauptadresse": "Robert-Rössle-Straße 10",
+  "Internetadresse": "https://www.mdc-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.501356",
+  "Organisation": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+  "OrganisationDisplay": "MDC",
+  "OrganisationId": 317826,
+  "OrganisationKurz": "MDC",
+  "Ort": "Berlin",
+  "PLZ": 13125,
+  "Telefax": "+49 30 949-4161",
+  "Telefon": "+49 30 9406-0",
+  "Kategorie": "Helmholtz",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.626083",
+      "Bundesland": "Berlin",
+      "Hauptadresse": "Robert-Rössle-Straße 10",
+      "Internetadresse": "https://www.mdc-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.501356",
+      "Organisation": "Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft",
+      "OrganisationDisplay": "MDC",
+      "OrganisationId": 317826,
+      "OrganisationKurz": "MDC",
+      "Ort": "Berlin",
+      "PLZ": 13125,
+      "Telefax": "+49 30 949-4161",
+      "Telefon": "+49 30 9406-0",
+      "Kategorie": "Helmholtz",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Hannoversche Straße 28",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.mdc-berlin.de",
+      "Land": "DE",
+      "Liegenschaft": "Zweigstelle Berlin-Mitte",
+      "LiegenschaftsId": 18422948,
+      "OrganisationId": 317826,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Telefon": "+49 30 9406-1300"
+    }
+  ]
+}

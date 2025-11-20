@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.5090439",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@iwm-tuebingen.de",
+  "Hauptadresse": "Schleichstraße 6",
+  "Internetadresse": "https://www.iwm-tuebingen.de",
+  "Land": "DE",
+  "Längengrad": "9.0494426",
+  "Organisation": "Leibniz-Institut für Wissensmedien",
+  "OrganisationDisplay": "IWM",
+  "OrganisationId": 322670,
+  "OrganisationKurz": "IWM",
+  "Ort": "Tübingen",
+  "PLZ": 72076,
+  "Telefax": "+49 7071 979-100",
+  "Telefon": "+49 7071 979-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.5090439",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@iwm-tuebingen.de",
+      "Hauptadresse": "Schleichstraße 6",
+      "Internetadresse": "https://www.iwm-tuebingen.de",
+      "Land": "DE",
+      "Längengrad": "9.0494426",
+      "Organisation": "Leibniz-Institut für Wissensmedien",
+      "OrganisationDisplay": "IWM",
+      "OrganisationId": 322670,
+      "OrganisationKurz": "IWM",
+      "Ort": "Tübingen",
+      "PLZ": 72076,
+      "Telefax": "+49 7071 979-100",
+      "Telefon": "+49 7071 979-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

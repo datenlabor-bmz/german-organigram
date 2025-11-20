@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.23645",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "wna-helmstedt@wsv.bund.de",
+  "Hauptadresse": "Walbecker Straße 23b",
+  "Internetadresse": "https://www.wna-helmstedt.wsv.de/Webs/WNA/WNA-Helmstedt/DE/Projekte/01_Mittellandkanal/Mittellandkanal_text.html",
+  "Land": "DE",
+  "Längengrad": "11.009149",
+  "Organisation": "Wasserstraßen-Neubauamt Helmstedt",
+  "OrganisationDisplay": "WNA Helmstedt",
+  "OrganisationId": 23500,
+  "OrganisationKurz": "WNA Helmstedt",
+  "Ort": "Helmstedt",
+  "PLZ": 38350,
+  "Ressort": "BMV",
+  "Telefon": "+49 5351 394-0",
+  "locations": [
+    {
+      "Breitengrad": "52.23645",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "wna-helmstedt@wsv.bund.de",
+      "Hauptadresse": "Walbecker Straße 23b",
+      "Internetadresse": "https://www.wna-helmstedt.wsv.de/Webs/WNA/WNA-Helmstedt/DE/Projekte/01_Mittellandkanal/Mittellandkanal_text.html",
+      "Land": "DE",
+      "Längengrad": "11.009149",
+      "Organisation": "Wasserstraßen-Neubauamt Helmstedt",
+      "OrganisationDisplay": "WNA Helmstedt",
+      "OrganisationId": 23500,
+      "OrganisationKurz": "WNA Helmstedt",
+      "Ort": "Helmstedt",
+      "PLZ": 38350,
+      "Ressort": "BMV",
+      "Telefon": "+49 5351 394-0"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Breitengrad": "50.751741",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@scai.fraunhofer.de",
+  "Hauptadresse": "Konrad-Adenauer-Straße ",
+  "Internetadresse": "https://www.scai.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.18614",
+  "Organisation": "Fraunhofer-Institut für Algorithmen und Wissenschaftliches Rechnen",
+  "OrganisationDisplay": "SCAI",
+  "OrganisationId": 437130,
+  "OrganisationKurz": "SCAI",
+  "Ort": "Sankt Augustin",
+  "PLZ": 53754,
+  "Telefax": "+49 2241 14-2460",
+  "Telefon": "+49 2241 14-2500",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.751741",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@scai.fraunhofer.de",
+      "Hauptadresse": "Konrad-Adenauer-Straße ",
+      "Internetadresse": "https://www.scai.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.18614",
+      "Organisation": "Fraunhofer-Institut für Algorithmen und Wissenschaftliches Rechnen",
+      "OrganisationDisplay": "SCAI",
+      "OrganisationId": 437130,
+      "OrganisationKurz": "SCAI",
+      "Ort": "Sankt Augustin",
+      "PLZ": 53754,
+      "Telefax": "+49 2241 14-2460",
+      "Telefon": "+49 2241 14-2500",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Gyrhofstraße 8 b",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Internetadresse": "https://www.scai.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Aussenstelle Köln",
+      "LiegenschaftsId": 437378,
+      "OrganisationId": 437130,
+      "Ort": "Köln",
+      "PLZ": 50931,
+      "Telefax": "+49 221 470-6076",
+      "Telefon": "+49 221 470-6082"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.1001433",
+  "Bundesland": "Bremen",
+  "E-Mail": "kontakt@leibniz-bips.de",
+  "Hauptadresse": "Achterstraße 30",
+  "Internetadresse": "https://www.bips-institut.de",
+  "Land": "DE",
+  "Längengrad": "8.8587346",
+  "Organisation": "Leibniz-Institut für Präventionsforschung und Epidemiologie BIPS GmbH",
+  "OrganisationDisplay": "BIPS",
+  "OrganisationId": 7900896,
+  "OrganisationKurz": "BIPS",
+  "Ort": "Bremen",
+  "PLZ": 28359,
+  "Telefax": "+49 421 218-569 41",
+  "Telefon": "+49 421 218-567 50",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.1001433",
+      "Bundesland": "Bremen",
+      "E-Mail": "kontakt@leibniz-bips.de",
+      "Hauptadresse": "Achterstraße 30",
+      "Internetadresse": "https://www.bips-institut.de",
+      "Land": "DE",
+      "Längengrad": "8.8587346",
+      "Organisation": "Leibniz-Institut für Präventionsforschung und Epidemiologie BIPS GmbH",
+      "OrganisationDisplay": "BIPS",
+      "OrganisationId": 7900896,
+      "OrganisationKurz": "BIPS",
+      "Ort": "Bremen",
+      "PLZ": 28359,
+      "Telefax": "+49 421 218-569 41",
+      "Telefon": "+49 421 218-567 50",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

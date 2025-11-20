@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.340859",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "BwDLZKoblenz@bundeswehr.org",
+  "Hauptadresse": "Ellingshohl 69 - 75",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-koblenz",
+  "Land": "DE",
+  "Längengrad": "7.616014",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Koblenz",
+  "OrganisationDisplay": "BwDLZ Kobenz",
+  "OrganisationId": 18892,
+  "OrganisationKurz": "BwDLZ Kobenz",
+  "Ort": "Koblenz",
+  "PLZ": 56076,
+  "Ressort": "BMVg",
+  "Telefon": "+49 261 679992-0",
+  "locations": [
+    {
+      "Breitengrad": "50.340859",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "BwDLZKoblenz@bundeswehr.org",
+      "Hauptadresse": "Ellingshohl 69 - 75",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-koblenz",
+      "Land": "DE",
+      "Längengrad": "7.616014",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Koblenz",
+      "OrganisationDisplay": "BwDLZ Kobenz",
+      "OrganisationId": 18892,
+      "OrganisationKurz": "BwDLZ Kobenz",
+      "Ort": "Koblenz",
+      "PLZ": 56076,
+      "Ressort": "BMVg",
+      "Telefon": "+49 261 679992-0"
+    }
+  ]
+}

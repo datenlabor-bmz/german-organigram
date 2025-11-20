@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.896919",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BwFachSKoeln@bundeswehr.org",
+  "Hauptadresse": "Kardorfer Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-koeln-87152",
+  "Land": "DE",
+  "Längengrad": " 6.957723",
+  "Organisation": "Bundeswehrfachschule Köln",
+  "OrganisationDisplay": "BwFachS Köln",
+  "OrganisationId": 17646,
+  "OrganisationKurz": "BwFachS Köln",
+  "Ort": "Köln",
+  "PLZ": 50968,
+  "Ressort": "BMVg",
+  "Telefax": "+49 221 937774-47",
+  "Telefon": "+49 221 937774-0",
+  "locations": [
+    {
+      "Breitengrad": "50.896919",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BwFachSKoeln@bundeswehr.org",
+      "Hauptadresse": "Kardorfer Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-koeln-87152",
+      "Land": "DE",
+      "Längengrad": " 6.957723",
+      "Organisation": "Bundeswehrfachschule Köln",
+      "OrganisationDisplay": "BwFachS Köln",
+      "OrganisationId": 17646,
+      "OrganisationKurz": "BwFachS Köln",
+      "Ort": "Köln",
+      "PLZ": 50968,
+      "Ressort": "BMVg",
+      "Telefax": "+49 221 937774-47",
+      "Telefon": "+49 221 937774-0"
+    }
+  ]
+}

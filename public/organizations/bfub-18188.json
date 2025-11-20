@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Bayern",
+  "E-Mail": "service@umweltberatung-info.de",
+  "Hauptadresse": "Frankfurter Straße 87",
+  "Internetadresse": "https://www.umweltberatung-info.de/",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Bundesverband für Umweltberatung e. V.",
+  "OrganisationDisplay": "bfub",
+  "OrganisationId": 18188,
+  "OrganisationKurz": "bfub",
+  "Ort": "Würzburg",
+  "PLZ": 97082,
+  "Telefon": "+49 931 4973 9165",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Bayern",
+      "E-Mail": "service@umweltberatung-info.de",
+      "Hauptadresse": "Frankfurter Straße 87",
+      "Internetadresse": "https://www.umweltberatung-info.de/",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Bundesverband für Umweltberatung e. V.",
+      "OrganisationDisplay": "bfub",
+      "OrganisationId": 18188,
+      "OrganisationKurz": "bfub",
+      "Ort": "Würzburg",
+      "PLZ": 97082,
+      "Telefon": "+49 931 4973 9165"
+    }
+  ]
+}

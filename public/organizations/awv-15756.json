@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.130601",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@awv-net.de",
+  "Hauptadresse": "Düsseldorfer Straße 40",
+  "Internetadresse": "https://www.awv-net.de/",
+  "Land": "DE",
+  "Längengrad": "8.567618",
+  "Organisation": "Arbeitsgemeinschaft für wirtschaftliche Verwaltung e. V.",
+  "OrganisationDisplay": "AWV",
+  "OrganisationId": 15756,
+  "OrganisationKurz": "AWV",
+  "Ort": "Eschborn",
+  "PLZ": 65760,
+  "Telefax": "+49 6196 777 26-51",
+  "Telefon": "+49 6196 777 26-0",
+  "locations": [
+    {
+      "Breitengrad": "50.130601",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@awv-net.de",
+      "Hauptadresse": "Düsseldorfer Straße 40",
+      "Internetadresse": "https://www.awv-net.de/",
+      "Land": "DE",
+      "Längengrad": "8.567618",
+      "Organisation": "Arbeitsgemeinschaft für wirtschaftliche Verwaltung e. V.",
+      "OrganisationDisplay": "AWV",
+      "OrganisationId": 15756,
+      "OrganisationKurz": "AWV",
+      "Ort": "Eschborn",
+      "PLZ": 65760,
+      "Telefax": "+49 6196 777 26-51",
+      "Telefon": "+49 6196 777 26-0"
+    }
+  ]
+}

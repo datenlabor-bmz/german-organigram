@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.592732",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "ZInfoABwEingang@bundeswehr.org",
+  "Hauptadresse": "Prötzeler Chaussee 20",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-informationsarbeit-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "13.913906",
+  "Organisation": "Zentrum Informationsarbeit Bundeswehr",
+  "OrganisationDisplay": "ZInfoABw",
+  "OrganisationId": 13182,
+  "OrganisationKurz": "ZInfoABw",
+  "Ort": "Strausberg",
+  "PLZ": 15344,
+  "Ressort": "BMVg",
+  "Telefax": "+49 3341 58-2339",
+  "Telefon": "+49 3341 58-2323",
+  "locations": [
+    {
+      "Breitengrad": "52.592732",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "ZInfoABwEingang@bundeswehr.org",
+      "Hauptadresse": "Prötzeler Chaussee 20",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-informationsarbeit-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "13.913906",
+      "Organisation": "Zentrum Informationsarbeit Bundeswehr",
+      "OrganisationDisplay": "ZInfoABw",
+      "OrganisationId": 13182,
+      "OrganisationKurz": "ZInfoABw",
+      "Ort": "Strausberg",
+      "PLZ": 15344,
+      "Ressort": "BMVg",
+      "Telefax": "+49 3341 58-2339",
+      "Telefon": "+49 3341 58-2323"
+    }
+  ]
+}

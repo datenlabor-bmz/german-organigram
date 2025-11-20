@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.784564",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "Baden-Wuerttemberg@arbeitsagentur.de",
+  "Hauptadresse": "Hölderlinstraße 36",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/BadenWuerttemberg/index.htm",
+  "Land": "DE",
+  "Längengrad": "9.160465",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Baden-Württemberg",
+  "OrganisationDisplay": "BA-RD-BW",
+  "OrganisationId": 15120,
+  "OrganisationKurz": "BA-RD-BW",
+  "Ort": "Stuttgart",
+  "PLZ": 70174,
+  "Ressort": "BMAS",
+  "Telefax": "+49 711 941-1640",
+  "Telefon": "+49 711 941-0",
+  "locations": [
+    {
+      "Breitengrad": "48.784564",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "Baden-Wuerttemberg@arbeitsagentur.de",
+      "Hauptadresse": "Hölderlinstraße 36",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/BadenWuerttemberg/index.htm",
+      "Land": "DE",
+      "Längengrad": "9.160465",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Baden-Württemberg",
+      "OrganisationDisplay": "BA-RD-BW",
+      "OrganisationId": 15120,
+      "OrganisationKurz": "BA-RD-BW",
+      "Ort": "Stuttgart",
+      "PLZ": 70174,
+      "Ressort": "BMAS",
+      "Telefax": "+49 711 941-1640",
+      "Telefon": "+49 711 941-0"
+    }
+  ]
+}

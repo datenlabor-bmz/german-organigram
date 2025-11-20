@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.2676689",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@leibniz-gei.de",
+  "Hauptadresse": "Freisestraße 1",
+  "Internetadresse": "https://www.gei.de/",
+  "Land": "DE",
+  "Längengrad": "10.5102917",
+  "Organisation": "Leibniz-Institut für Bildungsmedien | Georg-Eckert-Institut",
+  "OrganisationDisplay": "GEI",
+  "OrganisationId": 7766744,
+  "OrganisationKurz": "GEI",
+  "Ort": "Braunschweig",
+  "PLZ": 38118,
+  "Telefax": "+49 531 590 99 199",
+  "Telefon": "+49 531 590 99 0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.2676689",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@leibniz-gei.de",
+      "Hauptadresse": "Freisestraße 1",
+      "Internetadresse": "https://www.gei.de/",
+      "Land": "DE",
+      "Längengrad": "10.5102917",
+      "Organisation": "Leibniz-Institut für Bildungsmedien | Georg-Eckert-Institut",
+      "OrganisationDisplay": "GEI",
+      "OrganisationId": 7766744,
+      "OrganisationKurz": "GEI",
+      "Ort": "Braunschweig",
+      "PLZ": 38118,
+      "Telefax": "+49 531 590 99 199",
+      "Telefon": "+49 531 590 99 0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

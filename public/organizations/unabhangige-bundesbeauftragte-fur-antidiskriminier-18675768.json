@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.52437",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@ads.bund.de",
+  "Hauptadresse": "Glinkastraße 24",
+  "Internetadresse": "https://www.antidiskriminierungsstelle.de/DE/ueber-uns/unabhaengige_bundesbeauftragte/unabhaengige_bundesbeauftragte_node.html",
+  "Land": "DE",
+  "Längengrad": "13.41053",
+  "Organisation": "Unabhängige Bundesbeauftragte für Antidiskriminierung",
+  "OrganisationDisplay": "ADS",
+  "OrganisationId": 18675768,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMBFSFJ",
+  "Telefon": "+49 30 18 555-1800",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.52437",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@ads.bund.de",
+      "Hauptadresse": "Glinkastraße 24",
+      "Internetadresse": "https://www.antidiskriminierungsstelle.de/DE/ueber-uns/unabhaengige_bundesbeauftragte/unabhaengige_bundesbeauftragte_node.html",
+      "Land": "DE",
+      "Längengrad": "13.41053",
+      "Organisation": "Unabhängige Bundesbeauftragte für Antidiskriminierung",
+      "OrganisationDisplay": "ADS",
+      "OrganisationId": 18675768,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMBFSFJ",
+      "Telefon": "+49 30 18 555-1800",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.539737",
+  "Bundesland": "Bremen",
+  "E-Mail": "info@dsm.museum",
+  "Hauptadresse": "Hans-Scharoun-Platz 1",
+  "Internetadresse": "https://www.dsm.museum",
+  "Land": "DE",
+  "Längengrad": "8.578214",
+  "Organisation": "Deutsches Schifffahrtsmuseum",
+  "OrganisationDisplay": "DSM",
+  "OrganisationId": 319084,
+  "OrganisationKurz": "DSM",
+  "Ort": "Bremerhaven",
+  "PLZ": 27568,
+  "Telefax": "+49 471 48207-55",
+  "Telefon": "+49 471 48207-0",
+  "locations": [
+    {
+      "Breitengrad": "53.539737",
+      "Bundesland": "Bremen",
+      "E-Mail": "info@dsm.museum",
+      "Hauptadresse": "Hans-Scharoun-Platz 1",
+      "Internetadresse": "https://www.dsm.museum",
+      "Land": "DE",
+      "Längengrad": "8.578214",
+      "Organisation": "Deutsches Schifffahrtsmuseum",
+      "OrganisationDisplay": "DSM",
+      "OrganisationId": 319084,
+      "OrganisationKurz": "DSM",
+      "Ort": "Bremerhaven",
+      "PLZ": 27568,
+      "Telefax": "+49 471 48207-55",
+      "Telefon": "+49 471 48207-0"
+    }
+  ]
+}

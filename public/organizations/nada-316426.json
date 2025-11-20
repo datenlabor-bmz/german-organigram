@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.7178181",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@nada-bonn.de",
+  "Hauptadresse": "Heussallee 38",
+  "Internetadresse": "https://www.nada.de/home",
+  "Land": "DE",
+  "Längengrad": "7.1250082",
+  "Organisation": "Nationale Anti-Doping Agentur",
+  "OrganisationDisplay": "NADA",
+  "OrganisationId": 316426,
+  "OrganisationKurz": "NADA",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Telefax": "+49 228 81292-219",
+  "Telefon": "+49 228 81292-0",
+  "locations": [
+    {
+      "Breitengrad": "50.7178181",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@nada-bonn.de",
+      "Hauptadresse": "Heussallee 38",
+      "Internetadresse": "https://www.nada.de/home",
+      "Land": "DE",
+      "Längengrad": "7.1250082",
+      "Organisation": "Nationale Anti-Doping Agentur",
+      "OrganisationDisplay": "NADA",
+      "OrganisationId": 316426,
+      "OrganisationKurz": "NADA",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 228 81292-219",
+      "Telefon": "+49 228 81292-0"
+    }
+  ]
+}

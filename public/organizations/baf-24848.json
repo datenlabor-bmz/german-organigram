@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.9962814",
+  "Bundesland": "Hessen",
+  "E-Mail": "poststelle@baf.bund.de",
+  "Hauptadresse": "Monzastraße 1",
+  "Internetadresse": "https://www.baf.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "8.6544625",
+  "Organisation": "Bundesaufsichtsamt für Flugsicherung",
+  "OrganisationDisplay": " BAF",
+  "OrganisationId": 24848,
+  "OrganisationKurz": " BAF",
+  "Ort": "Langen",
+  "PLZ": 63225,
+  "Ressort": "BMV",
+  "Telefon": "+49 6103 8043-0",
+  "locations": [
+    {
+      "Breitengrad": "49.9962814",
+      "Bundesland": "Hessen",
+      "E-Mail": "poststelle@baf.bund.de",
+      "Hauptadresse": "Monzastraße 1",
+      "Internetadresse": "https://www.baf.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "8.6544625",
+      "Organisation": "Bundesaufsichtsamt für Flugsicherung",
+      "OrganisationDisplay": " BAF",
+      "OrganisationId": 24848,
+      "OrganisationKurz": " BAF",
+      "Ort": "Langen",
+      "PLZ": 63225,
+      "Ressort": "BMV",
+      "Telefon": "+49 6103 8043-0"
+    }
+  ]
+}

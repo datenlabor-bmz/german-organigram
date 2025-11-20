@@ -1,21 +1,94 @@
-import { Entity, EntityLocation, BudgetMatch } from '@/types/entity';
-import rawData from '../../public/anschriftenverzeichnis.json';
+import { Entity, BudgetMatch } from '@/types/entity';
+import indexData from '../../public/organizations-index.json';
 import budgetMatches from '../../public/budget_matches.json';
 
-// Type for raw entry that may include Liegenschaft-only data
-type RawEntry = Entity & { LiegenschaftsId?: string };
+// Type for index entries (minimal data for grid)
+type IndexEntry = {
+    OrganisationId: number;
+    Organisation?: string;
+    OrganisationDisplay?: string;
+    OrganisationKurz?: string;
+    Kategorie?: string;
+    Ressort?: string;
+    Versteckt: boolean;
+    hasWikidata: boolean;
+};
 
-// Load entities, skipping first element (metadata)
-// Keep all entries (including liegenschaften) for location data extraction
-const rawEntities = (rawData as RawEntry[]).slice(1);
+const rawEntities = indexData as IndexEntry[];
 
-// Load budget data
-const budgetMatchesMap = (budgetMatches as BudgetMatch[]).reduce((acc, match) => {
-    acc[match.organisationId] = match;
-    return acc;
-}, {} as Record<string, BudgetMatch>);
+// Convert index entries to entities (just for grid display)
+const entities = rawEntities
+    .filter(entry => !entry.Versteckt)
+    .map(entry => {
+        const entity: Entity = {
+            OrganisationId: entry.OrganisationId,
+            Organisation: entry.Organisation || '',
+            OrganisationDisplay: entry.OrganisationDisplay,
+            OrganisationKurz: entry.OrganisationKurz,
+            Kategorie: entry.Kategorie,
+            Ressort: entry.Ressort,
+            hasWikidata: entry.hasWikidata,
+        };
+        return entity;
+    });
 
-// Parse budget CSV data - will be loaded dynamically
+// Load full entity data dynamically
+const entityCache: Record<string, Entity> = {};
+
+export const loadFullEntity = async (orgId: string | number): Promise<Entity | null> => {
+    const id = String(orgId);
+    
+    // Check cache
+    if (entityCache[id]) {
+        return entityCache[id];
+    }
+    
+    try {
+        // Find the index entry to get the filename
+        const indexEntry = rawEntities.find(e => String(e.OrganisationId) === id);
+        if (!indexEntry) return null;
+        
+        // Generate filename using same logic as Python script
+        const name = indexEntry.OrganisationKurz || indexEntry.Organisation || indexEntry.OrganisationDisplay || `org_${id}`;
+        const sanitized = name
+            .normalize('NFKD')
+            .replace(/[^\w\s-]/g, '')
+            .toLowerCase()
+            .replace(/[-\s]+/g, '-')
+            .replace(/^-+|-+$/g, '')
+            .substring(0, 50);
+        const filename = `${sanitized}-${id}`;
+        
+        const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+        const response = await fetch(`${basePath}/organizations/${filename}.json`);
+        
+        if (!response.ok) {
+            throw new Error(`Failed to load entity ${id}: ${response.status}`);
+        }
+        
+        const data = await response.json();
+        
+        // Add budget match if available
+        const budgetMatchesMap = (budgetMatches as BudgetMatch[]).reduce((acc, match) => {
+            acc[match.organisationId] = match;
+            return acc;
+        }, {} as Record<string, BudgetMatch>);
+        
+        if (id in budgetMatchesMap) {
+            data.budgetMatch = budgetMatchesMap[id];
+        }
+        
+        // Cache it
+        entityCache[id] = data;
+        
+        return data;
+    } catch (error) {
+        console.error(`Failed to load entity ${orgId}:`, error);
+        return null;
+    }
+};
+
+// Budget data loading (kept for budget features)
 let csvBudgetData: Array<{
     einzelplan: string;
     kapitel: string;
@@ -68,78 +141,14 @@ const calculateBudgetAmount = async (match: BudgetMatch): Promise<number> => {
         .reduce((sum, row) => sum + row.soll, 0);
 };
 
-// Group entities by OrganisationId and collect all locations
-const groupedEntities = rawEntities.reduce((acc: Record<string, Entity>, entity: RawEntry) => {
-    const orgId = String(entity.OrganisationId);
-    
-    // Skip entries that are only liegenschaften (have LiegenschaftsId but no Organisation)
-    const isLiegenschaftOnly = entity.LiegenschaftsId && !entity.Organisation;
-    
-    if (!acc[orgId]) {
-        // Skip if this is only a liegenschaft entry
-        if (isLiegenschaftOnly) {
-            return acc;
-        }
-        
-            // First real entity occurrence - keep as primary
-            const entityCopy = { 
-                ...entity, 
-                locations: []
-            };
-
-            // Add budget match if available
-            if (orgId in budgetMatchesMap) {
-                entityCopy.budgetMatch = budgetMatchesMap[orgId];
-            }
-
-            acc[orgId] = entityCopy;
-    } else if (!isLiegenschaftOnly) {
-        // If this entry is a ressort (IstRessort or OrganisationKurz == Ressort), replace the existing entry
-        const isRessort = entity.IstRessort || (entity.OrganisationKurz && entity.OrganisationKurz === entity.Ressort);
-        const existingIsRessort = acc[orgId].IstRessort || (acc[orgId].OrganisationKurz && acc[orgId].OrganisationKurz === acc[orgId].Ressort);
-        
-                if (isRessort && !existingIsRessort) {
-                    // Keep existing locations but replace the entity data
-                    const existingLocations = acc[orgId].locations || [];
-                    const entityCopy = { 
-                        ...entity, 
-                        locations: existingLocations
-                    };
-
-                    // Add budget match if available
-                    if (orgId in budgetMatchesMap) {
-                        entityCopy.budgetMatch = budgetMatchesMap[orgId];
-                    }
-
-                    acc[orgId] = entityCopy;
-                }
-    }
-    
-    // Add location data from all entries (including liegenschaften) if an entity exists
-    if (acc[orgId] && (entity.Hauptadresse || entity.PLZ || entity.Ort)) {
-        const location: EntityLocation = {
-            Hauptadresse: entity.Hauptadresse || '',
-            PLZ: String(entity.PLZ || ''),
-            Ort: entity.Ort || '',
-            Bundesland: entity.Bundesland || '',
-            Telefon: entity.Telefon || '',
-            Telefax: entity.Telefax || '',
-            'E-Mail': entity['E-Mail'] || '',
-        };
-        
-        acc[orgId].locations!.push(location);
-    }
-    
-    return acc;
-}, {});
-
-// Filter out hidden entities (Versteckt === true)
-export const entities = Object.values(groupedEntities).filter(entity => !entity.Versteckt);
-
 export const getAllEntities = () => entities;
 
 export const getEntityById = (id: string): Entity | null => 
     entities.find(entity => String(entity.OrganisationId) === id) || null;
+
+// Get full entity data (for modal)
+export const getFullEntityById = async (id: string): Promise<Entity | null> => 
+    await loadFullEntity(id);
 
 export const searchEntities = (query: string): Entity[] => {
     const searchTerm = query.toLowerCase();

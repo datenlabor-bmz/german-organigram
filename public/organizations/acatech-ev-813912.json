@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.1453993",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@acatech.de",
+  "Hauptadresse": "Karolinenplatz 4",
+  "Internetadresse": "https://www.acatech.de/",
+  "Land": "DE",
+  "Längengrad": "11.5687597",
+  "Organisation": "Deutsche Akademie der Technikwissenschaften",
+  "OrganisationDisplay": "acatech e.V.",
+  "OrganisationId": 813912,
+  "OrganisationKurz": "acatech e.V.",
+  "Ort": "München",
+  "PLZ": 80333,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 89 520309900",
+  "Telefon": "+49 89 5203090",
+  "locations": [
+    {
+      "Breitengrad": "48.1453993",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@acatech.de",
+      "Hauptadresse": "Karolinenplatz 4",
+      "Internetadresse": "https://www.acatech.de/",
+      "Land": "DE",
+      "Längengrad": "11.5687597",
+      "Organisation": "Deutsche Akademie der Technikwissenschaften",
+      "OrganisationDisplay": "acatech e.V.",
+      "OrganisationId": 813912,
+      "OrganisationKurz": "acatech e.V.",
+      "Ort": "München",
+      "PLZ": 80333,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 89 520309900",
+      "Telefon": "+49 89 5203090"
+    }
+  ]
+}

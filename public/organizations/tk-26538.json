@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "53.591843",
+  "Bundesland": "Hamburg",
+  "E-Mail": "impressum@tk.de",
+  "Hauptadresse": "Bramfelder Straße 140",
+  "Internetadresse": "https://www.tk.de/techniker?tkcm=ab",
+  "Land": "DE",
+  "Längengrad": "10.056521",
+  "Organisation": "Techniker Krankenkasse",
+  "OrganisationDisplay": "TK ",
+  "OrganisationId": 26538,
+  "OrganisationKurz": "TK ",
+  "Ort": "Hamburg",
+  "PLZ": 22305,
+  "Telefon": "+49 800 285 85 85",
+  "locations": [
+    {
+      "Breitengrad": "53.591843",
+      "Bundesland": "Hamburg",
+      "E-Mail": "impressum@tk.de",
+      "Hauptadresse": "Bramfelder Straße 140",
+      "Internetadresse": "https://www.tk.de/techniker?tkcm=ab",
+      "Land": "DE",
+      "Längengrad": "10.056521",
+      "Organisation": "Techniker Krankenkasse",
+      "OrganisationDisplay": "TK ",
+      "OrganisationId": 26538,
+      "OrganisationKurz": "TK ",
+      "Ort": "Hamburg",
+      "PLZ": 22305,
+      "Telefon": "+49 800 285 85 85"
+    }
+  ]
+}

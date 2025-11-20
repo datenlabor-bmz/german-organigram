@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.1502621",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "zkfwbw@bundeswehr.org",
+  "Hauptadresse": "Hardter Straße 9",
+  "Internetadresse": "https://www.kommando.streitkraeftebasis.de/portal/poc/kdoskb?uri=ci%3Abw.skb_kdo.log.zkfwbw",
+  "Land": "DE",
+  "Längengrad": "6.3600645",
+  "Organisation": "Zentrum Kraftfahrwesen der Bundeswehr",
+  "OrganisationDisplay": "ZKfBw",
+  "OrganisationId": 12049782,
+  "OrganisationKurz": "ZKfBw",
+  "Ort": "Mönchengladbach",
+  "PLZ": 41179,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2161 185",
+  "Telefon": "+49 2161 185 1141",
+  "locations": [
+    {
+      "Breitengrad": "51.1502621",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "zkfwbw@bundeswehr.org",
+      "Hauptadresse": "Hardter Straße 9",
+      "Internetadresse": "https://www.kommando.streitkraeftebasis.de/portal/poc/kdoskb?uri=ci%3Abw.skb_kdo.log.zkfwbw",
+      "Land": "DE",
+      "Längengrad": "6.3600645",
+      "Organisation": "Zentrum Kraftfahrwesen der Bundeswehr",
+      "OrganisationDisplay": "ZKfBw",
+      "OrganisationId": 12049782,
+      "OrganisationKurz": "ZKfBw",
+      "Ort": "Mönchengladbach",
+      "PLZ": 41179,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2161 185",
+      "Telefon": "+49 2161 185 1141"
+    }
+  ]
+}

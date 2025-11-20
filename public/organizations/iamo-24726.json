@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.497148",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "iamo@iamo.de",
+  "Hauptadresse": "Theodor-Lieser-Straße 2",
+  "Internetadresse": "https://www.iamo.de",
+  "Land": "DE",
+  "Längengrad": "11.933792",
+  "Organisation": "Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)",
+  "OrganisationDisplay": "IAMO",
+  "OrganisationId": 24726,
+  "OrganisationKurz": "IAMO",
+  "Ort": "Halle",
+  "PLZ": 6120,
+  "Telefax": "+49 345 2928-499",
+  "Telefon": "+49 345 2928-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.497148",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "iamo@iamo.de",
+      "Hauptadresse": "Theodor-Lieser-Straße 2",
+      "Internetadresse": "https://www.iamo.de",
+      "Land": "DE",
+      "Längengrad": "11.933792",
+      "Organisation": "Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)",
+      "OrganisationDisplay": "IAMO",
+      "OrganisationId": 24726,
+      "OrganisationKurz": "IAMO",
+      "Ort": "Halle",
+      "PLZ": 6120,
+      "Telefax": "+49 345 2928-499",
+      "Telefon": "+49 345 2928-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

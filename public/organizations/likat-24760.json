@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.077739",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "info@catalysis.de",
+  "Hauptadresse": "Albert-Einstein-Straße 29a",
+  "Internetadresse": "https://www.catalysis.de",
+  "Land": "DE",
+  "Längengrad": "12.11266",
+  "Organisation": "Leibniz-Institut für Katalyse e. V.",
+  "OrganisationDisplay": "LIKAT",
+  "OrganisationId": 24760,
+  "OrganisationKurz": "LIKAT",
+  "Ort": "Rostock",
+  "PLZ": 18059,
+  "Telefax": "+49 381 1281-5000",
+  "Telefon": "+49 381 1281-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "54.077739",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "info@catalysis.de",
+      "Hauptadresse": "Albert-Einstein-Straße 29a",
+      "Internetadresse": "https://www.catalysis.de",
+      "Land": "DE",
+      "Längengrad": "12.11266",
+      "Organisation": "Leibniz-Institut für Katalyse e. V.",
+      "OrganisationDisplay": "LIKAT",
+      "OrganisationId": 24760,
+      "OrganisationKurz": "LIKAT",
+      "Ort": "Rostock",
+      "PLZ": 18059,
+      "Telefax": "+49 381 1281-5000",
+      "Telefon": "+49 381 1281-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Breitengrad": "54.3391185",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "zbw@zbw-workspace.eu",
+  "Hauptadresse": "Düsternbrooker Weg 120",
+  "Internetadresse": "https://www.zbw.eu/de/",
+  "Land": "DE",
+  "Längengrad": "10.1555796",
+  "Organisation": "ZBW - Leibniz Informationszentrum Wirtschaft",
+  "OrganisationDisplay": "ZBW",
+  "OrganisationId": 308346,
+  "OrganisationKurz": "ZBW",
+  "Ort": "Kiel",
+  "PLZ": 24105,
+  "Ressort": "BMFTR",
+  "Telefon": "+49 431 8814-555",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "54.3391185",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "zbw@zbw-workspace.eu",
+      "Hauptadresse": "Düsternbrooker Weg 120",
+      "Internetadresse": "https://www.zbw.eu/de/",
+      "Land": "DE",
+      "Längengrad": "10.1555796",
+      "Organisation": "ZBW - Leibniz Informationszentrum Wirtschaft",
+      "OrganisationDisplay": "ZBW",
+      "OrganisationId": 308346,
+      "OrganisationKurz": "ZBW",
+      "Ort": "Kiel",
+      "PLZ": 24105,
+      "Ressort": "BMFTR",
+      "Telefon": "+49 431 8814-555",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Neuer Jungfernstieg 21",
+      "Bundesland": "Hamburg",
+      "E-Mail": "info@zbw.eu",
+      "Internetadresse": "https://www.zbw.eu/de/",
+      "Land": "DE",
+      "Liegenschaft": "Standort Hamburg",
+      "LiegenschaftsId": 8740252,
+      "OrganisationId": 308346,
+      "Ort": "Hamburg",
+      "PLZ": 20354,
+      "Telefon": "+49 40 42834-219"
+    }
+  ]
+}

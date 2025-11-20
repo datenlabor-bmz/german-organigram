@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.4311",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle.hza-nuernberg@zoll.bund.de",
+  "Hauptadresse": "Frankenstraße 208",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "11.096899",
+  "Organisation": "Hauptzollamt Nürnberg",
+  "OrganisationDisplay": "HZA Nürnberg",
+  "OrganisationId": 26858,
+  "OrganisationKurz": "HZA Nürnberg",
+  "Ort": "Nürnberg",
+  "PLZ": 90461,
+  "Ressort": "BMF",
+  "Telefax": "+49 911 9463-1199",
+  "Telefon": "+49 911 9463-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "49.4311",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle.hza-nuernberg@zoll.bund.de",
+      "Hauptadresse": "Frankenstraße 208",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "11.096899",
+      "Organisation": "Hauptzollamt Nürnberg",
+      "OrganisationDisplay": "HZA Nürnberg",
+      "OrganisationId": 26858,
+      "OrganisationKurz": "HZA Nürnberg",
+      "Ort": "Nürnberg",
+      "PLZ": 90461,
+      "Ressort": "BMF",
+      "Telefax": "+49 911 9463-1199",
+      "Telefon": "+49 911 9463-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

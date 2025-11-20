@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.699656",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "postmaster@dfg.de",
+  "Hauptadresse": "Kennedyallee 40",
+  "Internetadresse": "https://www.dfg.de/",
+  "Land": "DE",
+  "Längengrad": " 7.147483",
+  "Organisation": "Deutsche Forschungsgemeinschaft e. V.",
+  "OrganisationDisplay": "DFG",
+  "OrganisationId": 21120,
+  "OrganisationKurz": "DFG",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 885-2777",
+  "Telefon": "+49 228 885-1",
+  "locations": [
+    {
+      "Breitengrad": "50.699656",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "postmaster@dfg.de",
+      "Hauptadresse": "Kennedyallee 40",
+      "Internetadresse": "https://www.dfg.de/",
+      "Land": "DE",
+      "Längengrad": " 7.147483",
+      "Organisation": "Deutsche Forschungsgemeinschaft e. V.",
+      "OrganisationDisplay": "DFG",
+      "OrganisationId": 21120,
+      "OrganisationKurz": "DFG",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 885-2777",
+      "Telefon": "+49 228 885-1"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.3951914",
+  "Bundesland": "Bayern",
+  "Hauptadresse": "Giggenhauser Straße 35",
+  "Internetadresse": "https://www.ivv.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "11.7119834",
+  "Organisation": "Fraunhofer-Institut für Verfahrenstechnik und Verpackung",
+  "OrganisationDisplay": "IVV",
+  "OrganisationId": 569136,
+  "OrganisationKurz": "IVV",
+  "Ort": "Freising",
+  "PLZ": 85354,
+  "Telefax": "+49 816 1491-491",
+  "Telefon": "+49 816 1491-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.3951914",
+      "Bundesland": "Bayern",
+      "Hauptadresse": "Giggenhauser Straße 35",
+      "Internetadresse": "https://www.ivv.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "11.7119834",
+      "Organisation": "Fraunhofer-Institut für Verfahrenstechnik und Verpackung",
+      "OrganisationDisplay": "IVV",
+      "OrganisationId": 569136,
+      "OrganisationKurz": "IVV",
+      "Ort": "Freising",
+      "PLZ": 85354,
+      "Telefax": "+49 816 1491-491",
+      "Telefon": "+49 816 1491-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

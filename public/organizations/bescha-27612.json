@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.7408547",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@bescha.bund.de",
+  "Hauptadresse": "Brühler Straße 3",
+  "Internetadresse": "https://www.bescha.bund.de",
+  "Land": "DE",
+  "Längengrad": "7.071603",
+  "Organisation": "Beschaffungsamt des BMI",
+  "OrganisationDisplay": "BeschA",
+  "OrganisationId": 27612,
+  "OrganisationKurz": "BeschA",
+  "Ort": "Bonn",
+  "PLZ": 53119,
+  "Ressort": "BMI",
+  "Telefax": "+49 22899 610-1610",
+  "Telefon": "+49 22899 610-0",
+  "locations": [
+    {
+      "Breitengrad": "50.7408547",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bescha.bund.de",
+      "Hauptadresse": "Brühler Straße 3",
+      "Internetadresse": "https://www.bescha.bund.de",
+      "Land": "DE",
+      "Längengrad": "7.071603",
+      "Organisation": "Beschaffungsamt des BMI",
+      "OrganisationDisplay": "BeschA",
+      "OrganisationId": 27612,
+      "OrganisationKurz": "BeschA",
+      "Ort": "Bonn",
+      "PLZ": 53119,
+      "Ressort": "BMI",
+      "Telefax": "+49 22899 610-1610",
+      "Telefon": "+49 22899 610-0"
+    }
+  ]
+}

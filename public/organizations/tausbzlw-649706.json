@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.9155562",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "TAusbZLwPresse@bundeswehr.org",
+  "Hauptadresse": "Horststraße ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/technisches-ausbildungszentrum-der-luftwaffe",
+  "Land": "DE",
+  "Längengrad": "10.1903838",
+  "Organisation": "Technisches Ausbildungszentrum der Luftwaffe",
+  "OrganisationDisplay": "TAusbZLw",
+  "OrganisationId": 649706,
+  "OrganisationKurz": "TAusbZLw",
+  "Ort": "Faßberg",
+  "PLZ": 29328,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5055 17 20115",
+  "locations": [
+    {
+      "Breitengrad": "52.9155562",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "TAusbZLwPresse@bundeswehr.org",
+      "Hauptadresse": "Horststraße ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/technisches-ausbildungszentrum-der-luftwaffe",
+      "Land": "DE",
+      "Längengrad": "10.1903838",
+      "Organisation": "Technisches Ausbildungszentrum der Luftwaffe",
+      "OrganisationDisplay": "TAusbZLw",
+      "OrganisationId": 649706,
+      "OrganisationKurz": "TAusbZLw",
+      "Ort": "Faßberg",
+      "PLZ": 29328,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5055 17 20115"
+    }
+  ]
+}

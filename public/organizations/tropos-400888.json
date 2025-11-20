@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.3514755",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@tropos.de",
+  "Hauptadresse": "Permoserstraße 15",
+  "Internetadresse": "https://www.tropos.de",
+  "Land": "DE",
+  "Längengrad": "12.42923",
+  "Organisation": "Leibniz-Institut für Troposphärenforschung e. V.",
+  "OrganisationDisplay": "TROPOS",
+  "OrganisationId": 400888,
+  "OrganisationKurz": "TROPOS",
+  "Ort": "Leipzig",
+  "PLZ": 4318,
+  "Telefax": "+49 341 2717 99 7060",
+  "Telefon": "+49 341 2717-7060",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.3514755",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@tropos.de",
+      "Hauptadresse": "Permoserstraße 15",
+      "Internetadresse": "https://www.tropos.de",
+      "Land": "DE",
+      "Längengrad": "12.42923",
+      "Organisation": "Leibniz-Institut für Troposphärenforschung e. V.",
+      "OrganisationDisplay": "TROPOS",
+      "OrganisationId": 400888,
+      "OrganisationKurz": "TROPOS",
+      "Ort": "Leipzig",
+      "PLZ": 4318,
+      "Telefax": "+49 341 2717 99 7060",
+      "Telefon": "+49 341 2717-7060",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

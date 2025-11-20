@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.47731399",
+  "Bundesland": "Bayern",
+  "E-Mail": "wsa-donau-mdk@wsv.bund.de",
+  "Hauptadresse": "Erlanger Straße 1",
+  "Internetadresse": "https://www.wsa-donau-mdk.wsv.de/Webs/WSA/Donau-MDK/DE/04_Donau_MDK/FMS/FMS_node.html",
+  "Land": "DE",
+  "Längengrad": "11.06215000",
+  "Organisation": "Fachstelle Maschinenwesen Süd (beim WSA Donau MDK)",
+  "OrganisationDisplay": "FMS",
+  "OrganisationId": 23608,
+  "OrganisationKurz": "FMS",
+  "Ort": "Nürnberg",
+  "PLZ": 90402,
+  "Ressort": "BMV",
+  "Telefax": "+49 911 20645-117",
+  "Telefon": "+49 911 20645-0",
+  "locations": [
+    {
+      "Breitengrad": "49.47731399",
+      "Bundesland": "Bayern",
+      "E-Mail": "wsa-donau-mdk@wsv.bund.de",
+      "Hauptadresse": "Erlanger Straße 1",
+      "Internetadresse": "https://www.wsa-donau-mdk.wsv.de/Webs/WSA/Donau-MDK/DE/04_Donau_MDK/FMS/FMS_node.html",
+      "Land": "DE",
+      "Längengrad": "11.06215000",
+      "Organisation": "Fachstelle Maschinenwesen Süd (beim WSA Donau MDK)",
+      "OrganisationDisplay": "FMS",
+      "OrganisationId": 23608,
+      "OrganisationKurz": "FMS",
+      "Ort": "Nürnberg",
+      "PLZ": 90402,
+      "Ressort": "BMV",
+      "Telefax": "+49 911 20645-117",
+      "Telefon": "+49 911 20645-0"
+    }
+  ]
+}

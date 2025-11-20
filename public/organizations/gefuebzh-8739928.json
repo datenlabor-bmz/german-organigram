@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.4424661",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "GefUebZHZentralerPosteingang@Bundeswehr.org",
+  "Hauptadresse": "Salchauer Chaussee 1",
+  "Internetadresse": "https://www.deutschesheer.de/portal/poc/heer?uri=ci%3Abw.heer.dienstst.ausbkdo.ausbeinrichtungen.gefechtsuebz",
+  "Land": "DE",
+  "Längengrad": "11.5362766",
+  "Organisation": "Gefechtsübungszentrum Heer",
+  "OrganisationDisplay": "GefUebZH",
+  "OrganisationId": 8739928,
+  "OrganisationKurz": "GefUebZH",
+  "Ort": "Gardelegen",
+  "PLZ": 39638,
+  "Ressort": "BMVg",
+  "Telefax": "+49 39088-90-3050",
+  "Telefon": "+49 39088-90-3010",
+  "locations": [
+    {
+      "Breitengrad": "52.4424661",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "GefUebZHZentralerPosteingang@Bundeswehr.org",
+      "Hauptadresse": "Salchauer Chaussee 1",
+      "Internetadresse": "https://www.deutschesheer.de/portal/poc/heer?uri=ci%3Abw.heer.dienstst.ausbkdo.ausbeinrichtungen.gefechtsuebz",
+      "Land": "DE",
+      "Längengrad": "11.5362766",
+      "Organisation": "Gefechtsübungszentrum Heer",
+      "OrganisationDisplay": "GefUebZH",
+      "OrganisationId": 8739928,
+      "OrganisationKurz": "GefUebZH",
+      "Ort": "Gardelegen",
+      "PLZ": 39638,
+      "Ressort": "BMVg",
+      "Telefax": "+49 39088-90-3050",
+      "Telefon": "+49 39088-90-3010"
+    }
+  ]
+}

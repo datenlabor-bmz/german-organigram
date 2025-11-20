@@ -1,0 +1,49 @@
+{
+  "Breitengrad": "53.560412",
+  "Bundesland": "Hamburg",
+  "E-Mail": "fueakbwinfoa@bundeswehr.org",
+  "Hauptadresse": "Manteuffelstraße 20",
+  "Internetadresse": "https://www.fueakbw.de",
+  "Land": "DE",
+  "Längengrad": "9.83221",
+  "Organisation": "Führungsakademie der Bundeswehr",
+  "OrganisationDisplay": "FüAkBw",
+  "OrganisationId": 25378,
+  "OrganisationKurz": "FüAkBw",
+  "Ort": "Hamburg",
+  "PLZ": 22587,
+  "Ressort": "BMVg",
+  "Telefon": "+49 40 8667-4700",
+  "locations": [
+    {
+      "Breitengrad": "53.560412",
+      "Bundesland": "Hamburg",
+      "E-Mail": "fueakbwinfoa@bundeswehr.org",
+      "Hauptadresse": "Manteuffelstraße 20",
+      "Internetadresse": "https://www.fueakbw.de",
+      "Land": "DE",
+      "Längengrad": "9.83221",
+      "Organisation": "Führungsakademie der Bundeswehr",
+      "OrganisationDisplay": "FüAkBw",
+      "OrganisationId": 25378,
+      "OrganisationKurz": "FüAkBw",
+      "Ort": "Hamburg",
+      "PLZ": 22587,
+      "Ressort": "BMVg",
+      "Telefon": "+49 40 8667-4700"
+    },
+    {
+      "Adresse": "Blomkamp 61",
+      "Bundesland": "Hamburg",
+      "E-Mail": "fueakbwinfoa@bundeswehr.org",
+      "Internetadresse": "https://www.fueakbw.de",
+      "Land": "DE",
+      "Liegenschaft": "Generalleutnant-Graf-von-Baudissin-Kaserne",
+      "LiegenschaftsId": 25414,
+      "OrganisationId": 25378,
+      "Ort": "Hamburg",
+      "PLZ": 22549,
+      "Telefon": "+49 40 8667-4700"
+    }
+  ]
+}

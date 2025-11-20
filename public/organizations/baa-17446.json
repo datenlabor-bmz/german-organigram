@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "50.210812",
+  "Bundesland": "Hessen",
+  "E-Mail": "bundesausgleichsamt@badv.bund.de",
+  "Hauptadresse": "Saalburgstraße 157",
+  "Internetadresse": "https://www.badv.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "8.652302",
+  "Organisation": "Bundesausgleichsamt",
+  "OrganisationDisplay": "BAA",
+  "OrganisationId": 17446,
+  "OrganisationKurz": "BAA",
+  "Ort": "Bad Homburg v.d. Höhe",
+  "PLZ": 61350,
+  "Ressort": "BMI",
+  "Telefax": "+49 3018 7030-3450",
+  "Telefon": "+49 3018 7030-0",
+  "locations": [
+    {
+      "Breitengrad": "50.210812",
+      "Bundesland": "Hessen",
+      "E-Mail": "bundesausgleichsamt@badv.bund.de",
+      "Hauptadresse": "Saalburgstraße 157",
+      "Internetadresse": "https://www.badv.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "8.652302",
+      "Organisation": "Bundesausgleichsamt",
+      "OrganisationDisplay": "BAA",
+      "OrganisationId": 17446,
+      "OrganisationKurz": "BAA",
+      "Ort": "Bad Homburg v.d. Höhe",
+      "PLZ": 61350,
+      "Ressort": "BMI",
+      "Telefax": "+49 3018 7030-3450",
+      "Telefon": "+49 3018 7030-0"
+    },
+    {
+      "Adresse": "DGZ-Ring 12",
+      "Bundesland": "Berlin",
+      "E-Mail": "bundesausgleichsamt@badv.bund.de",
+      "Internetadresse": "https://www.badv.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Berlin",
+      "LiegenschaftsId": 7722366,
+      "OrganisationId": 17446,
+      "Ort": "Berlin",
+      "PLZ": 13086,
+      "Telefax": "+49 3018 7030-3450",
+      "Telefon": "+49 3018 7030-0"
+    }
+  ]
+}

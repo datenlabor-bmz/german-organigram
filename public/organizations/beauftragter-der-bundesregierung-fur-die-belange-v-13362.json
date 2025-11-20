@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5170365",
+  "Bundesland": "Berlin",
+  "E-Mail": "presse@behindertenbeauftragte.de",
+  "Hauptadresse": "Mauerstraße 53",
+  "Internetadresse": "https://www.behindertenbeauftragter.de/DE/AS/startseite/startseite-node.html",
+  "Land": "DE",
+  "Längengrad": "13.3888599",
+  "Organisation": "Beauftragter der Bundesregierung für die Belange von Menschen mit Behinderungen",
+  "OrganisationDisplay": "Behindertenbeauftragter",
+  "OrganisationId": 13362,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMAS",
+  "Telefon": "+49 30 221 911 006",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5170365",
+      "Bundesland": "Berlin",
+      "E-Mail": "presse@behindertenbeauftragte.de",
+      "Hauptadresse": "Mauerstraße 53",
+      "Internetadresse": "https://www.behindertenbeauftragter.de/DE/AS/startseite/startseite-node.html",
+      "Land": "DE",
+      "Längengrad": "13.3888599",
+      "Organisation": "Beauftragter der Bundesregierung für die Belange von Menschen mit Behinderungen",
+      "OrganisationDisplay": "Behindertenbeauftragter",
+      "OrganisationId": 13362,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMAS",
+      "Telefon": "+49 30 221 911 006",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

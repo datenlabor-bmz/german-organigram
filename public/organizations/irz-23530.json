@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.690589",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@irz.de",
+  "Hauptadresse": "Ubierstraße 92",
+  "Internetadresse": "https://www.irz.de/",
+  "Land": "DE",
+  "Längengrad": "7.166252",
+  "Organisation": "Deutsche Stiftung für internationale rechtliche Zusammenarbeit e. V.",
+  "OrganisationDisplay": "IRZ",
+  "OrganisationId": 23530,
+  "OrganisationKurz": "IRZ",
+  "Ort": "Bonn",
+  "PLZ": 53173,
+  "Telefax": "+49 228 9555-100",
+  "Telefon": "+49 228 9555-0",
+  "locations": [
+    {
+      "Breitengrad": "50.690589",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@irz.de",
+      "Hauptadresse": "Ubierstraße 92",
+      "Internetadresse": "https://www.irz.de/",
+      "Land": "DE",
+      "Längengrad": "7.166252",
+      "Organisation": "Deutsche Stiftung für internationale rechtliche Zusammenarbeit e. V.",
+      "OrganisationDisplay": "IRZ",
+      "OrganisationId": 23530,
+      "OrganisationKurz": "IRZ",
+      "Ort": "Bonn",
+      "PLZ": 53173,
+      "Telefax": "+49 228 9555-100",
+      "Telefon": "+49 228 9555-0"
+    }
+  ]
+}

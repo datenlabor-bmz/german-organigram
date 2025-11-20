@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.920759",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "Poststelle.hza-itzehoe@zoll.bund.de",
+  "Hauptadresse": "Kaiserstraße 14 a",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "9.526574",
+  "Organisation": "Hauptzollamt Itzehoe",
+  "OrganisationDisplay": "HZA Itzehoe",
+  "OrganisationId": 26756,
+  "OrganisationKurz": "HZA Itzehoe",
+  "Ort": "Itzehoe",
+  "PLZ": 25524,
+  "Ressort": "BMF",
+  "Telefax": "+49 4821 902-200",
+  "Telefon": "+49 4821 902-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "53.920759",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "Poststelle.hza-itzehoe@zoll.bund.de",
+      "Hauptadresse": "Kaiserstraße 14 a",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "9.526574",
+      "Organisation": "Hauptzollamt Itzehoe",
+      "OrganisationDisplay": "HZA Itzehoe",
+      "OrganisationId": 26756,
+      "OrganisationKurz": "HZA Itzehoe",
+      "Ort": "Itzehoe",
+      "PLZ": 25524,
+      "Ressort": "BMF",
+      "Telefax": "+49 4821 902-200",
+      "Telefon": "+49 4821 902-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

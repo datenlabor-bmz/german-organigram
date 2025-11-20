@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.2467452",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BewerbungenDuesseldorf@bundeswehr.org",
+  "Hauptadresse": "Ludwig-Beck-Straße 23",
+  "Internetadresse": "https://www.bundeswehrkarriere.de/",
+  "Land": "DE",
+  "Längengrad": "6.8136192",
+  "Organisation": "Karrierecenter der Bundeswehr Düsseldorf",
+  "OrganisationDisplay": "Karrierecenter Bw Düsseldorf",
+  "OrganisationId": 4654996,
+  "Ort": "Düsseldorf",
+  "PLZ": 40470,
+  "Ressort": "BMVg",
+  "Telefax": "+49 211 619-3395",
+  "Telefon": "+49 211 619-3400",
+  "locations": [
+    {
+      "Breitengrad": "51.2467452",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BewerbungenDuesseldorf@bundeswehr.org",
+      "Hauptadresse": "Ludwig-Beck-Straße 23",
+      "Internetadresse": "https://www.bundeswehrkarriere.de/",
+      "Land": "DE",
+      "Längengrad": "6.8136192",
+      "Organisation": "Karrierecenter der Bundeswehr Düsseldorf",
+      "OrganisationDisplay": "Karrierecenter Bw Düsseldorf",
+      "OrganisationId": 4654996,
+      "Ort": "Düsseldorf",
+      "PLZ": 40470,
+      "Ressort": "BMVg",
+      "Telefax": "+49 211 619-3395",
+      "Telefon": "+49 211 619-3400"
+    }
+  ]
+}

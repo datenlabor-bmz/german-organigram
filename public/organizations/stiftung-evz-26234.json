@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.508974",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@stiftung-evz.de",
+  "Hauptadresse": "Friedrichstraße 200",
+  "Internetadresse": "https://www.stiftung-evz.de",
+  "Land": "DE",
+  "Längengrad": "13.3895716",
+  "Organisation": "Stiftung Erinnerung, Verantwortung und Zukunft",
+  "OrganisationDisplay": "Stiftung EVZ",
+  "OrganisationId": 26234,
+  "OrganisationKurz": "Stiftung EVZ",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMF",
+  "Telefax": "+49 30 259297-11",
+  "Telefon": "+49 30 259297-0",
+  "locations": [
+    {
+      "Breitengrad": "52.508974",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@stiftung-evz.de",
+      "Hauptadresse": "Friedrichstraße 200",
+      "Internetadresse": "https://www.stiftung-evz.de",
+      "Land": "DE",
+      "Längengrad": "13.3895716",
+      "Organisation": "Stiftung Erinnerung, Verantwortung und Zukunft",
+      "OrganisationDisplay": "Stiftung EVZ",
+      "OrganisationId": 26234,
+      "OrganisationKurz": "Stiftung EVZ",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMF",
+      "Telefax": "+49 30 259297-11",
+      "Telefon": "+49 30 259297-0"
+    }
+  ]
+}

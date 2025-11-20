@@ -1,0 +1,292 @@
+{
+  "Breitengrad": "48.992894",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle.hza-regensburg@zoll.bund.de",
+  "Hauptadresse": "Junkersstraße 12",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "12.15083",
+  "Organisation": "Hauptzollamt Regensburg",
+  "OrganisationDisplay": "HZA Regensburg",
+  "OrganisationId": 26826,
+  "OrganisationKurz": "HZA Regensburg",
+  "Ort": "Regensburg",
+  "PLZ": 93055,
+  "Ressort": "BMF",
+  "Telefax": "+49 941 2086-1399",
+  "Telefon": "+49 941 2086-0",
+  "Kategorie": "Bundesunterbehörde",
+  "Wikidata ID": "Q113273873",
+  "locations": [
+    {
+      "Breitengrad": "48.992894",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle.hza-regensburg@zoll.bund.de",
+      "Hauptadresse": "Junkersstraße 12",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "12.15083",
+      "Organisation": "Hauptzollamt Regensburg",
+      "OrganisationDisplay": "HZA Regensburg",
+      "OrganisationId": 26826,
+      "OrganisationKurz": "HZA Regensburg",
+      "Ort": "Regensburg",
+      "PLZ": 93055,
+      "Ressort": "BMF",
+      "Telefax": "+49 941 2086-1399",
+      "Telefon": "+49 941 2086-0",
+      "Kategorie": "Bundesunterbehörde",
+      "Wikidata ID": "Q113273873"
+    },
+    {
+      "Adresse": "Köditzer Straße 1",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle@hzaho.bfinv.de",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Hof",
+      "LiegenschaftsId": 23498,
+      "OrganisationId": 26826,
+      "Ort": "Hof",
+      "PLZ": 95030,
+      "Telefax": "+49 9281 609-119",
+      "Telefon": "+49 9281 609-0"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q113273873",
+    "data": {
+      "type": "item",
+      "id": "Q113273873",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt Regensburg, Dienstsitz Hof"
+        },
+        "en": {
+          "language": "en",
+          "value": "Hauptzollamt Regensburg, Dienstsitz Hof"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Dienstsitz des Hauptzollamts Regensburgs in Hof"
+        },
+        "en": {
+          "language": "en",
+          "value": "Headquarters of the Regensburg Main Customs Office in Hof"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "c82e7283d6936516e08c013d05d4d39f9a02d582",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 218550,
+                  "id": "Q218550"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q113273873$79198f59-4e2c-6b6b-1b0e-df50f163f5e4",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q113273873$9e3dc4be-4c0f-6225-9d87-9f8bff8bf60a",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "a39b77560af71e0dc9894230dfa516d5d1c1a7b0",
+              "datavalue": {
+                "value": {
+                  "latitude": 50.3223697,
+                  "longitude": 11.8977932,
+                  "altitude": null,
+                  "precision": 1e-07,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q113273873$3a2c6534-4e9e-d929-0e4b-49b78138b6bc",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "116f49bcaad9e6c67c4c311dfcb411b90c59f612",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6938,
+                  "id": "Q6938"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q113273873$d10ad756-4c2c-2f1c-722f-ff2a5fc1546d",
+            "rank": "normal"
+          }
+        ],
+        "P6375": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6375",
+              "hash": "c4dc695e34aef17b7009d96a20311387eda8e027",
+              "datavalue": {
+                "value": {
+                  "text": "Köditzer Str. 1, 95030 Hof, Bayern, Deutschland",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q113273873$e9f37181-4afb-949b-e2fb-b7bd2f989db7",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "3313e3c27de2155ef135c4a27e2c2fb6951f7546",
+              "datavalue": {
+                "value": "Hauptzollamt Regensburg, Dienstsitz Hof 20220320 HOF09543 RAW-Export 20220724004298cens.png",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q113273873$6cc31313-4fd5-04b4-96d2-25f7cf5e11c2",
+            "rank": "normal"
+          }
+        ],
+        "P281": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P281",
+              "hash": "e496dcd9693c4341abbcb3ea3cb8a124f8a0fe3c",
+              "datavalue": {
+                "value": "95030",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q113273873$321cb420-4a24-4472-5bc5-791d30f60522",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "890c36b873d1f2cadebb63189a661280155afc68",
+              "datavalue": {
+                "value": "Hauptzollamt Regensburg, Dienstsitz Hof 20220320 HOF09542 RAW-Export 20220724004297cens.png",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q113273873$d3c31e3c-4d28-8d02-26f7-9a90f3f46371",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "ce3e94c75741bd16e5860288911136e5ec71e187",
+              "datavalue": {
+                "value": "Hauptzollamt Regensburg, Dienstsitz Hof",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q113273873$ED180D4A-DDFF-47A6-8CAE-18677CC6C584",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Hauptzollamt Regensburg, Dienstsitz Hof",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q218550": {
+        "type": "item",
+        "id": "Q218550",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Zollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Zollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Zollbehörde in Deutschland und Österreich"
+          },
+          "en": {
+            "language": "en",
+            "value": "customs agency in Germany and Austria"
+          }
+        }
+      }
+    }
+  }
+}

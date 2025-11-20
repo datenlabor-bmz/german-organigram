@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.41583",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwFachSHannover@bundeswehr.org",
+  "Hauptadresse": "Langenforther Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-hannover-87212",
+  "Land": "DE",
+  "Längengrad": "9.793178",
+  "Organisation": "Bundeswehrfachschule Hannover",
+  "OrganisationDisplay": "BwFachS Hannover",
+  "OrganisationId": 17594,
+  "OrganisationKurz": "BwFachS Hannover",
+  "Ort": "Hannover",
+  "PLZ": 30657,
+  "Ressort": "BMVg",
+  "Telefax": "+49 511 903-4636",
+  "Telefon": "+49 511 903-4637",
+  "locations": [
+    {
+      "Breitengrad": "52.41583",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwFachSHannover@bundeswehr.org",
+      "Hauptadresse": "Langenforther Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-hannover-87212",
+      "Land": "DE",
+      "Längengrad": "9.793178",
+      "Organisation": "Bundeswehrfachschule Hannover",
+      "OrganisationDisplay": "BwFachS Hannover",
+      "OrganisationId": 17594,
+      "OrganisationKurz": "BwFachS Hannover",
+      "Ort": "Hannover",
+      "PLZ": 30657,
+      "Ressort": "BMVg",
+      "Telefax": "+49 511 903-4636",
+      "Telefon": "+49 511 903-4637"
+    }
+  ]
+}

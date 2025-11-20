@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.789064",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "poststelle.hza-stuttgart@zoll.bund.de",
+  "Hauptadresse": "Hackstraße 85",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "9.208317",
+  "Organisation": "Hauptzollamt Stuttgart",
+  "OrganisationDisplay": "HZA Stuttgart",
+  "OrganisationId": 26840,
+  "OrganisationKurz": "HZA Stuttgart",
+  "Ort": "Stuttgart",
+  "PLZ": 70190,
+  "Ressort": "BMF",
+  "Telefax": "+49 711 922-2209",
+  "Telefon": "+49 711 922-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "48.789064",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle.hza-stuttgart@zoll.bund.de",
+      "Hauptadresse": "Hackstraße 85",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "9.208317",
+      "Organisation": "Hauptzollamt Stuttgart",
+      "OrganisationDisplay": "HZA Stuttgart",
+      "OrganisationId": 26840,
+      "OrganisationKurz": "HZA Stuttgart",
+      "Ort": "Stuttgart",
+      "PLZ": 70190,
+      "Ressort": "BMF",
+      "Telefax": "+49 711 922-2209",
+      "Telefon": "+49 711 922-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

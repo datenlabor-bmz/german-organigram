@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.68725",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@avh.de",
+  "Hauptadresse": "Jean-Paul-Straße 12",
+  "Internetadresse": "https://www.humboldt-foundation.de",
+  "Land": "DE",
+  "Längengrad": "7.166262",
+  "Organisation": "Alexander von Humboldt-Stiftung",
+  "OrganisationDisplay": "AvH",
+  "OrganisationId": 13168,
+  "OrganisationKurz": "AvH",
+  "Ort": "Bonn",
+  "PLZ": 53173,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 228 833-199",
+  "Telefon": "+49 228 833-0",
+  "locations": [
+    {
+      "Breitengrad": "50.68725",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@avh.de",
+      "Hauptadresse": "Jean-Paul-Straße 12",
+      "Internetadresse": "https://www.humboldt-foundation.de",
+      "Land": "DE",
+      "Längengrad": "7.166262",
+      "Organisation": "Alexander von Humboldt-Stiftung",
+      "OrganisationDisplay": "AvH",
+      "OrganisationId": 13168,
+      "OrganisationKurz": "AvH",
+      "Ort": "Bonn",
+      "PLZ": 53173,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 228 833-199",
+      "Telefon": "+49 228 833-0"
+    }
+  ]
+}

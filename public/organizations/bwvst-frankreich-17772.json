@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.5341",
+  "E-Mail": "BWVStFrankreichLeitung@bundeswehr.org",
+  "Hauptadresse": "Route du Rhin 12",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-frankreich",
+  "Land": "Frankreich",
+  "Längengrad": "7.735869",
+  "Organisation": "Bundeswehrverwaltungsstelle Frankreich",
+  "OrganisationDisplay": "BWVSt Frankreich ",
+  "OrganisationId": 17772,
+  "OrganisationKurz": "BWVSt Frankreich ",
+  "Ort": "Illkirch-Graffenstaden",
+  "PLZ": 67400,
+  "Ressort": "BMVg",
+  "Telefax": "+33 36932 2709",
+  "Telefon": "+33 36932 2701",
+  "locations": [
+    {
+      "Breitengrad": "48.5341",
+      "E-Mail": "BWVStFrankreichLeitung@bundeswehr.org",
+      "Hauptadresse": "Route du Rhin 12",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-frankreich",
+      "Land": "Frankreich",
+      "Längengrad": "7.735869",
+      "Organisation": "Bundeswehrverwaltungsstelle Frankreich",
+      "OrganisationDisplay": "BWVSt Frankreich ",
+      "OrganisationId": 17772,
+      "OrganisationKurz": "BWVSt Frankreich ",
+      "Ort": "Illkirch-Graffenstaden",
+      "PLZ": 67400,
+      "Ressort": "BMVg",
+      "Telefax": "+33 36932 2709",
+      "Telefon": "+33 36932 2701"
+    }
+  ]
+}

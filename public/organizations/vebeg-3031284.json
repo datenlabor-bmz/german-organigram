@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "50.12546",
+  "Bundesland": "Hessen",
+  "E-Mail": "mail@vebeg.de",
+  "Hauptadresse": "Rödelheimer Bahnweg 23",
+  "Internetadresse": "https://www.vebeg.de/web/de/start/index.htm",
+  "Land": "DE",
+  "Längengrad": "8.60697",
+  "Organisation": "VEBEG - Das Verwertungsunternehmen des Bundes",
+  "OrganisationDisplay": "VEBEG",
+  "OrganisationId": 3031284,
+  "OrganisationKurz": "VEBEG",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60489,
+  "Ressort": "BMF",
+  "Telefax": "+49 69 75897-479",
+  "Telefon": "+49 69 75897-0",
+  "locations": [
+    {
+      "Breitengrad": "50.12546",
+      "Bundesland": "Hessen",
+      "E-Mail": "mail@vebeg.de",
+      "Hauptadresse": "Rödelheimer Bahnweg 23",
+      "Internetadresse": "https://www.vebeg.de/web/de/start/index.htm",
+      "Land": "DE",
+      "Längengrad": "8.60697",
+      "Organisation": "VEBEG - Das Verwertungsunternehmen des Bundes",
+      "OrganisationDisplay": "VEBEG",
+      "OrganisationId": 3031284,
+      "OrganisationKurz": "VEBEG",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60489,
+      "Ressort": "BMF",
+      "Telefax": "+49 69 75897-479",
+      "Telefon": "+49 69 75897-0"
+    },
+    {
+      "Adresse": "Grellstraße 24",
+      "Bundesland": "Berlin",
+      "E-Mail": "mail@vebeg.de",
+      "Internetadresse": "https://www.vebeg.de/web/de/start/index.htm",
+      "Land": "DE",
+      "Liegenschaft": "Büro Berlin",
+      "LiegenschaftsId": 3031282,
+      "OrganisationId": 3031284,
+      "Ort": "Berlin",
+      "PLZ": 10409,
+      "Telefax": "+49 30 639906-30",
+      "Telefon": "+49 30 639906-0"
+    }
+  ]
+}

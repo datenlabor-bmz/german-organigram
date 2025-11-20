@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.306966",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "poststelle.hza-stralsund@zoll.bund.de",
+  "Hauptadresse": "Hiddenseer Straße 2",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "13.124991",
+  "Organisation": "Hauptzollamt Stralsund",
+  "OrganisationDisplay": "HZA Stralsund",
+  "OrganisationId": 26850,
+  "OrganisationKurz": "HZA Stralsund",
+  "Ort": "Stralsund",
+  "PLZ": 18439,
+  "Ressort": "BMF",
+  "Telefax": "+49 3831 356-1121",
+  "Telefon": "+49 3831 356-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "54.306966",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "poststelle.hza-stralsund@zoll.bund.de",
+      "Hauptadresse": "Hiddenseer Straße 2",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "13.124991",
+      "Organisation": "Hauptzollamt Stralsund",
+      "OrganisationDisplay": "HZA Stralsund",
+      "OrganisationId": 26850,
+      "OrganisationKurz": "HZA Stralsund",
+      "Ort": "Stralsund",
+      "PLZ": 18439,
+      "Ressort": "BMF",
+      "Telefax": "+49 3831 356-1121",
+      "Telefon": "+49 3831 356-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

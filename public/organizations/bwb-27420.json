@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.51256",
+  "Bundesland": "Berlin",
+  "E-Mail": "bwb@bmas.bund.de",
+  "Hauptadresse": "Taubenstraße 4-6",
+  "Internetadresse": "https://www.bmas.de/DE/Soziales/Sozialversicherung/Sozialversicherungswahlen/der-bundeswahlbeauftragte-und-seine-stellvertreterin.html",
+  "Land": "DE",
+  "Längengrad": "13.38422",
+  "Organisation": "Bundeswahlbeauftragter für die Sozialversicherungswahlen",
+  "OrganisationDisplay": "BWB",
+  "OrganisationId": 27420,
+  "OrganisationKurz": "BWB",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMAS",
+  "Telefax": "+49 18 88 527-1204",
+  "Telefon": "+49 18 88 527-2555",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.51256",
+      "Bundesland": "Berlin",
+      "E-Mail": "bwb@bmas.bund.de",
+      "Hauptadresse": "Taubenstraße 4-6",
+      "Internetadresse": "https://www.bmas.de/DE/Soziales/Sozialversicherung/Sozialversicherungswahlen/der-bundeswahlbeauftragte-und-seine-stellvertreterin.html",
+      "Land": "DE",
+      "Längengrad": "13.38422",
+      "Organisation": "Bundeswahlbeauftragter für die Sozialversicherungswahlen",
+      "OrganisationDisplay": "BWB",
+      "OrganisationId": 27420,
+      "OrganisationKurz": "BWB",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMAS",
+      "Telefax": "+49 18 88 527-1204",
+      "Telefon": "+49 18 88 527-2555",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

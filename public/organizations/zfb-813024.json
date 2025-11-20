@@ -1,0 +1,334 @@
+{
+  "Breitengrad": "50.7396435",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@zrb.bund.de",
+  "Hauptadresse": "Justus-von-Liebig-Straße 18",
+  "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Bundeskasse_node.html",
+  "Land": "DE",
+  "Längengrad": "7.0579821",
+  "Organisation": "Zentrales Finanzwesen des Bundes",
+  "OrganisationDisplay": "ZFB",
+  "OrganisationId": 813024,
+  "OrganisationKurz": "ZFB",
+  "Ort": "Bonn",
+  "PLZ": 53121,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 99370-177",
+  "Telefon": "+49 228 99370-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "Wikidata ID": "Q110143708",
+  "locations": [
+    {
+      "Breitengrad": "50.7396435",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@zrb.bund.de",
+      "Hauptadresse": "Justus-von-Liebig-Straße 18",
+      "Internetadresse": "https://www.zrb.bund.de/DE/3_Bundeskasse/Bundeskasse_node.html",
+      "Land": "DE",
+      "Längengrad": "7.0579821",
+      "Organisation": "Zentrales Finanzwesen des Bundes",
+      "OrganisationDisplay": "ZFB",
+      "OrganisationId": 813024,
+      "OrganisationKurz": "ZFB",
+      "Ort": "Bonn",
+      "PLZ": 53121,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 99370-177",
+      "Telefon": "+49 228 99370-0",
+      "Kategorie": "Bundesmittelbehörde",
+      "Wikidata ID": "Q110143708"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q110143708",
+    "data": {
+      "type": "item",
+      "id": "Q110143708",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Zentrales Finanzwesen des Bundes"
+        }
+      },
+      "descriptions": {},
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "8fa294edad36cabae3907ca9139c619f218094e7",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 314024,
+                  "id": "Q314024"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q110143708$1A519BFF-E1AA-4543-8CC0-5FB738BD9372",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q110143708$3C4300D1-AC40-4D20-8099-D64F41E0AAA5",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q110143708$EA4AF7E5-511F-45A9-A7D9-B41BA1C18482",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "10312ef4f3dfb869442e3f376df876c3942e9993",
+              "datavalue": {
+                "value": "https://www.zrb.bund.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q110143708$0F54B5BE-2A7A-4604-958C-09ABDDF065F5",
+            "rank": "normal"
+          }
+        ],
+        "P1365": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1365",
+              "hash": "18650923eb620c423bbf3bf6f987b4e43df60e84",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 16319639,
+                  "id": "Q16319639"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q110143708$f78280cb-4e58-7d10-51b1-e08937d98dc0",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "9e94314779f16d7f1913b056192ca86b143ace61",
+              "datavalue": {
+                "value": {
+                  "text": "ZFB",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q110143708$7bdf0f36-4565-3393-ca5a-cb45b0c8e697",
+            "rank": "normal"
+          }
+        ],
+        "P1448": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1448",
+              "hash": "885a91c22c9777e5c01a0103e8ee6dbaace2f505",
+              "datavalue": {
+                "value": {
+                  "text": "Zentrales Finanzwesen des Bundes",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q110143708$2c176a1a-441c-da0e-fa05-fc5fa5710f86",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "f9ea6714a5f41c2af78a0140435942c14415f751",
+              "datavalue": {
+                "value": {
+                  "time": "+2019-10-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q110143708$810e1a53-4831-cd3f-e704-5669d26a75c6",
+            "rank": "normal"
+          }
+        ],
+        "P527": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P527",
+              "hash": "c4646f3d1755ac5e9d6b65509fb3c16a5e4ea515",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 18287062,
+                  "id": "Q18287062"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q110143708$89ea71a7-4b04-060b-58e9-60bfc9ba98e8",
+            "rank": "normal"
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "1cd5b8a7015f34e7ca6d2bf1ea13acd4ec449709",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 586,
+                  "id": "Q586"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q110143708$eacf2e44-45fa-3421-089c-766d99aef2a6",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Zentrales Finanzwesen des Bundes",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q18287062": {
+        "type": "item",
+        "id": "Q18287062",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Generalzolldirektion"
+          },
+          "en": {
+            "language": "en",
+            "value": "Generalzolldirektion"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums der Finanzen"
+          }
+        }
+      },
+      "Q16319639": {
+        "type": "item",
+        "id": "Q16319639",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Kompetenzzentrum für das Kassen- und Rechnungswesen des Bundes"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "ehemalige Bundesbehörde"
+          }
+        }
+      },
+      "Q314024": {
+        "type": "item",
+        "id": "Q314024",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesbehörde in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal agency of Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "highest federal agency in Germany, usually a ministry in the Federal Government of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Behörden in Deutschland, die dem Bund unterstehen"
+          }
+        }
+      }
+    }
+  }
+}

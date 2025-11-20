@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5257841",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@fokus.fraunhofer.de",
+  "Hauptadresse": "Kaiserin-Augusta-Allee 31",
+  "Internetadresse": "https://www.fokus.fraunhofer.de/",
+  "Land": "DE",
+  "Längengrad": "13.314266",
+  "Organisation": "Fraunhofer-Institut für Offene Kommunikationssysteme",
+  "OrganisationDisplay": "FOKUS",
+  "OrganisationId": 560794,
+  "OrganisationKurz": "FOKUS",
+  "Ort": "Berlin",
+  "PLZ": 10589,
+  "Telefax": "+49 30 3463-8000",
+  "Telefon": "+49 30 3463-7000",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5257841",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@fokus.fraunhofer.de",
+      "Hauptadresse": "Kaiserin-Augusta-Allee 31",
+      "Internetadresse": "https://www.fokus.fraunhofer.de/",
+      "Land": "DE",
+      "Längengrad": "13.314266",
+      "Organisation": "Fraunhofer-Institut für Offene Kommunikationssysteme",
+      "OrganisationDisplay": "FOKUS",
+      "OrganisationId": 560794,
+      "OrganisationKurz": "FOKUS",
+      "Ort": "Berlin",
+      "PLZ": 10589,
+      "Telefax": "+49 30 3463-8000",
+      "Telefon": "+49 30 3463-7000",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

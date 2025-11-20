@@ -1,0 +1,47 @@
+{
+  "Breitengrad": "51.5557489",
+  "Bundesland": "Sachsen",
+  "E-Mail": "USHStabS4@Bundeswehr.org",
+  "Hauptadresse": "Feldwebel-Boldt-Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/unteroffizierschule-des-heeres",
+  "Land": "DE",
+  "Längengrad": "12.3235444",
+  "Organisation": "Unteroffizierschule des Heeres",
+  "OrganisationDisplay": "USH",
+  "OrganisationId": 650974,
+  "OrganisationKurz": "USH",
+  "Ort": "Delitzsch",
+  "PLZ": 4509,
+  "Ressort": "BMVg",
+  "Telefon": "+49 34202 77-2002",
+  "locations": [
+    {
+      "Breitengrad": "51.5557489",
+      "Bundesland": "Sachsen",
+      "E-Mail": "USHStabS4@Bundeswehr.org",
+      "Hauptadresse": "Feldwebel-Boldt-Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/unteroffizierschule-des-heeres",
+      "Land": "DE",
+      "Längengrad": "12.3235444",
+      "Organisation": "Unteroffizierschule des Heeres",
+      "OrganisationDisplay": "USH",
+      "OrganisationId": 650974,
+      "OrganisationKurz": "USH",
+      "Ort": "Delitzsch",
+      "PLZ": 4509,
+      "Ressort": "BMVg",
+      "Telefon": "+49 34202 77-2002"
+    },
+    {
+      "Adresse": "Lützowstraße 1a",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/unteroffizierschule-des-heeres",
+      "Land": "DE",
+      "Liegenschaft": "Lehrgruppe B",
+      "LiegenschaftsId": 650966,
+      "OrganisationId": 650974,
+      "Ort": "Münster",
+      "PLZ": 48157
+    }
+  ]
+}

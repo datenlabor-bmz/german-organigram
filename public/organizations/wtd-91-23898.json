@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.713706",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "WTD91@bundeswehr.org",
+  "Hauptadresse": "Am Schießplatz ",
+  "Internetadresse": "https://www.baainbw.de/wtd91",
+  "Land": "DE",
+  "Längengrad": "7.305232",
+  "Organisation": "Wehrtechnische Dienststelle für Waffen und Munition",
+  "OrganisationDisplay": "WTD 91",
+  "OrganisationId": 23898,
+  "OrganisationKurz": "WTD 91",
+  "Ort": "Meppen",
+  "PLZ": 49716,
+  "Ressort": "BMVg",
+  "Telefax": "+49 5931 43-2091",
+  "Telefon": "+49 5931 43-0",
+  "locations": [
+    {
+      "Breitengrad": "52.713706",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "WTD91@bundeswehr.org",
+      "Hauptadresse": "Am Schießplatz ",
+      "Internetadresse": "https://www.baainbw.de/wtd91",
+      "Land": "DE",
+      "Längengrad": "7.305232",
+      "Organisation": "Wehrtechnische Dienststelle für Waffen und Munition",
+      "OrganisationDisplay": "WTD 91",
+      "OrganisationId": 23898,
+      "OrganisationKurz": "WTD 91",
+      "Ort": "Meppen",
+      "PLZ": 49716,
+      "Ressort": "BMVg",
+      "Telefax": "+49 5931 43-2091",
+      "Telefon": "+49 5931 43-0"
+    }
+  ]
+}

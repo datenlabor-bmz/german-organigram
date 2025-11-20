@@ -1,0 +1,50 @@
+{
+  "Breitengrad": "50.717418",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@dw.com",
+  "Hauptadresse": "Kurt-Schumacher-Straße 3",
+  "Internetadresse": "https://www.dw.com",
+  "Land": "DE",
+  "Längengrad": "7.12626",
+  "Organisation": "Deutsche Welle",
+  "OrganisationDisplay": "DW",
+  "OrganisationId": 23662,
+  "OrganisationKurz": "DW",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Telefax": "+49 228 429-3000",
+  "Telefon": "+49 228 429-0",
+  "locations": [
+    {
+      "Breitengrad": "50.717418",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@dw.com",
+      "Hauptadresse": "Kurt-Schumacher-Straße 3",
+      "Internetadresse": "https://www.dw.com",
+      "Land": "DE",
+      "Längengrad": "7.12626",
+      "Organisation": "Deutsche Welle",
+      "OrganisationDisplay": "DW",
+      "OrganisationId": 23662,
+      "OrganisationKurz": "DW",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 228 429-3000",
+      "Telefon": "+49 228 429-0"
+    },
+    {
+      "Adresse": "Voltastraße 6",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@dw.com",
+      "Internetadresse": "https://www.dw.com",
+      "Land": "DE",
+      "Liegenschaft": "Standort Berlin",
+      "LiegenschaftsId": 23682,
+      "OrganisationId": 23662,
+      "Ort": "Berlin",
+      "PLZ": 13355,
+      "Telefax": "+49 30 463-1998",
+      "Telefon": "+49 30 4646-0"
+    }
+  ]
+}

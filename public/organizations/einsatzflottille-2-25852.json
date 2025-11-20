@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "53.540371",
+  "Bundesland": "Niedersachsen",
+  "Hauptadresse": "Opdenhoffstraße 24",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "8.160564",
+  "Organisation": "Einsatzflottille 2",
+  "OrganisationDisplay": "EinsFlot 2",
+  "OrganisationId": 25852,
+  "Ort": "Wilhelmshaven",
+  "PLZ": 26384,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4421 68-5506",
+  "Telefon": "+49 4421 68-7",
+  "locations": [
+    {
+      "Breitengrad": "53.540371",
+      "Bundesland": "Niedersachsen",
+      "Hauptadresse": "Opdenhoffstraße 24",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "8.160564",
+      "Organisation": "Einsatzflottille 2",
+      "OrganisationDisplay": "EinsFlot 2",
+      "OrganisationId": 25852,
+      "Ort": "Wilhelmshaven",
+      "PLZ": 26384,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4421 68-5506",
+      "Telefon": "+49 4421 68-7"
+    }
+  ]
+}

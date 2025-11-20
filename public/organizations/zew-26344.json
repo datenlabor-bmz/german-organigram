@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.481788",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@zew.de",
+  "Hauptadresse": "L7 1",
+  "Internetadresse": "https://www.zew.de",
+  "Land": "DE",
+  "Längengrad": "8.4664436",
+  "Organisation": "Zentrum für Europäische Wirtschaftsforschung GmbH",
+  "OrganisationDisplay": "ZEW",
+  "OrganisationId": 26344,
+  "OrganisationKurz": "ZEW",
+  "Ort": "Mannheim",
+  "PLZ": 68161,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 621 1235-225",
+  "Telefon": "+49 621 1235-01",
+  "locations": [
+    {
+      "Breitengrad": "49.481788",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@zew.de",
+      "Hauptadresse": "L7 1",
+      "Internetadresse": "https://www.zew.de",
+      "Land": "DE",
+      "Längengrad": "8.4664436",
+      "Organisation": "Zentrum für Europäische Wirtschaftsforschung GmbH",
+      "OrganisationDisplay": "ZEW",
+      "OrganisationId": 26344,
+      "OrganisationKurz": "ZEW",
+      "Ort": "Mannheim",
+      "PLZ": 68161,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 621 1235-225",
+      "Telefon": "+49 621 1235-01"
+    }
+  ]
+}

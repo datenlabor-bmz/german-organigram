@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.2083",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "SDstHundeBwabtfuepers@Bundeswehr.org",
+  "Hauptadresse": "Hochstraße ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/schule-fuer-diensthundewesen-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "6.979960000",
+  "Organisation": "Schule für Diensthundewesen der Bundeswehr",
+  "OrganisationDisplay": "SDstHundeBw",
+  "OrganisationId": 12049904,
+  "OrganisationKurz": "SDstHundeBw",
+  "Ort": "Ulmen",
+  "PLZ": 56766,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2676 95203 5119",
+  "Telefon": "+49 2676 95203 5111",
+  "locations": [
+    {
+      "Breitengrad": "50.2083",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "SDstHundeBwabtfuepers@Bundeswehr.org",
+      "Hauptadresse": "Hochstraße ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/schule-fuer-diensthundewesen-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "6.979960000",
+      "Organisation": "Schule für Diensthundewesen der Bundeswehr",
+      "OrganisationDisplay": "SDstHundeBw",
+      "OrganisationId": 12049904,
+      "OrganisationKurz": "SDstHundeBw",
+      "Ort": "Ulmen",
+      "PLZ": 56766,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2676 95203 5119",
+      "Telefon": "+49 2676 95203 5111"
+    }
+  ]
+}

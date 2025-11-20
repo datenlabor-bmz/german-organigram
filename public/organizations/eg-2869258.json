@@ -1,0 +1,1293 @@
+{
+  "Breitengrad": "50.710219",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@engagement-global.de",
+  "Hauptadresse": "Friedrich-Ebert-Allee 40",
+  "Internetadresse": "https://www.engagement-global.de",
+  "Land": "DE",
+  "Längengrad": "7.1248864",
+  "Organisation": "Engagement Global gGmbH",
+  "OrganisationDisplay": "EG",
+  "OrganisationId": 2869258,
+  "OrganisationKurz": "EG",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Ressort": "BMZ",
+  "Telefax": "+49 228 20717-150",
+  "Telefon": "+49 228 20717-0",
+  "Kategorie": "Unternehmen",
+  "Wikidata ID": "Q43302028",
+  "locations": [
+    {
+      "Breitengrad": "50.710219",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@engagement-global.de",
+      "Hauptadresse": "Friedrich-Ebert-Allee 40",
+      "Internetadresse": "https://www.engagement-global.de",
+      "Land": "DE",
+      "Längengrad": "7.1248864",
+      "Organisation": "Engagement Global gGmbH",
+      "OrganisationDisplay": "EG",
+      "OrganisationId": 2869258,
+      "OrganisationKurz": "EG",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Ressort": "BMZ",
+      "Telefax": "+49 228 20717-150",
+      "Telefon": "+49 228 20717-0",
+      "Kategorie": "Unternehmen",
+      "Wikidata ID": "Q43302028"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q43302028",
+    "data": {
+      "type": "item",
+      "id": "Q43302028",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Engagement Global"
+        },
+        "en": {
+          "language": "en",
+          "value": "Engagement Global"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "deutsches öffentliches Unternehmen"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "326e3d41d1e9c34715e880be6e1c6a1e822e4317",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4830453,
+                  "id": "Q4830453"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q43302028$3B60EB1F-20B9-43F5-A4D4-1EE65DC1C024",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "844f580f2ae69065ce17006b18d17c8214a5cda2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17990971,
+                  "id": "Q17990971"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q43302028$cf88ab0b-4c05-4960-e7dc-3f8942cad12c",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q43302028$95F6C4C4-F04E-4033-B0BE-E07EEDB5F91E",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "1f56f26c6b939d667111b10cd1ff5c71df9ba9e5",
+              "datavalue": {
+                "value": "https://www.engagement-global.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q43302028$4BAD4F37-0C37-49C8-82F8-64AA1190D8DA",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1454": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1454",
+              "hash": "32b62ecf8a4092ed30ad0ad34be775e20a21878b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1500859,
+                  "id": "Q1500859"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q43302028$3D5B9F1C-AA07-40D1-8C57-CE878DB1C4C1",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "32cab9fa808cc58a2900cd2dd3cee869fecdcf8b",
+              "datavalue": {
+                "value": {
+                  "time": "+2012-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q43302028$5B13C004-ED8A-466D-A70A-558C8C24C029",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7a6013505a114c43aa7a04b7c1727cf9b8138b0b",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "1dc4a4872fafabbbb95689669a968f78cb60c904",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Engagement_Global&oldid=176259613",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "1cd5b8a7015f34e7ca6d2bf1ea13acd4ec449709",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 586,
+                  "id": "Q586"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q43302028$72629BBE-4209-422B-9C7D-E1BCF7CFE850",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7a6013505a114c43aa7a04b7c1727cf9b8138b0b",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "1dc4a4872fafabbbb95689669a968f78cb60c904",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Engagement_Global&oldid=176259613",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1037": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1037",
+              "hash": "aa23df0b1d9b6f3e7eb62b7320f37f234e5bb312",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1639841,
+                  "id": "Q1639841"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q43302028$705C5BCA-391F-4F93-838E-8166733BC165",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "7a6013505a114c43aa7a04b7c1727cf9b8138b0b",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P4656": [
+                    {
+                      "snaktype": "value",
+                      "property": "P4656",
+                      "hash": "1dc4a4872fafabbbb95689669a968f78cb60c904",
+                      "datavalue": {
+                        "value": "https://de.wikipedia.org/w/index.php?title=Engagement_Global&oldid=176259613",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143",
+                  "P4656"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "ddecf31deada0eac0c411c9e2c06770503549566",
+              "datavalue": {
+                "value": "EngGlobal",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "940fe054aa412779a3a6217c1210b391ad10788a",
+                  "datavalue": {
+                    "value": "425038091",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P1552": [
+                {
+                  "snaktype": "value",
+                  "property": "P1552",
+                  "hash": "62f0039d240f7eeba6c6908a0d8807a6188324a1",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 28378282,
+                      "id": "Q28378282"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "3b82d0b8065afca2f42274991e46d0c7536c7125",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+4499",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e9fd1d0fc5e1f7ae121a32d3b6432996e27379c9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2011-11-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "d23772ed2b8b4c4e31ec158c814140af0379c572",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-04-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P1552",
+              "P3744",
+              "P580",
+              "P585"
+            ],
+            "id": "Q43302028$ce7ec148-4831-8b05-a4d2-b5d6a2cf8239",
+            "rank": "normal"
+          }
+        ],
+        "P2013": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2013",
+              "hash": "fc780505bf4a4446afc19a988c394e9fcdf2d545",
+              "datavalue": {
+                "value": "engagement.global",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$379f549e-401b-5e84-ab7c-d47acb9b3f81",
+            "rank": "normal"
+          }
+        ],
+        "P3608": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3608",
+              "hash": "b554a3b552f805fb2481c57c736299afb744b2c8",
+              "datavalue": {
+                "value": "DE280482195",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$a90e3b15-4195-6d36-4617-a1efed3b9c80",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "6777ada7f79751e7b4cbe132a77909c833f16835",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "bda8bbd5bdcaf6f4428a9b191fe00b9e80337d06",
+                      "datavalue": {
+                        "value": "https://www.engagement-global.de/impressum.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "195108957eff26a4c4350918e0cbf092092eae69",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2019-07-01T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "26fde168a2f25cfadc764b4adc8f3a35be85beb5",
+              "datavalue": {
+                "value": "15850",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$774199FB-9AE3-4624-9D76-0820159C44EC",
+            "rank": "normal"
+          }
+        ],
+        "P2139": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2139",
+              "hash": "92d270b9ad321da9ab7674ebfec17757ba019b80",
+              "datavalue": {
+                "value": {
+                  "amount": "+316320000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "6174553681261aeec411766adf691fdeec1dee47",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q43302028$f8e521d8-4a19-5890-72bd-52457bc7449d",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "244306ace557a9e835c380c8d8ff53cc0bda82d2",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a76f6002421a8c0dc6d3db2fb9d9ffdcf8cb400d",
+                      "datavalue": {
+                        "value": "https://www.engagement-global.de/berichte.html?file=files/2_Mediathek/Mediathek_EG/Ueber_uns/Wer_wir_sind/Berichte/Ver%C3%B6ffentlichung%20Intranet%20Bundesanzeiger_Jahresabschluss%202018%20Engagement%20Global.pdf&cid=641",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a83e0f39a49711d6c2e26b1f91253e826c5e5dfc",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2020-06-15T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8687": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "481e08dbf71aff005647245277870e216098c922",
+              "datavalue": {
+                "value": {
+                  "amount": "+4728",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "940fe054aa412779a3a6217c1210b391ad10788a",
+                  "datavalue": {
+                    "value": "425038091",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "b229e273d630d08a16bd314fb56b3ddc967668fc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-01-07T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P585"
+            ],
+            "id": "Q43302028$37531d00-d20d-497b-b45b-51714b23f66f",
+            "rank": "preferred"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "82a00a7e8ad68c5cb67ada8348a3aeabdf3dddb7",
+              "datavalue": {
+                "value": {
+                  "amount": "+4499",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "940fe054aa412779a3a6217c1210b391ad10788a",
+                  "datavalue": {
+                    "value": "425038091",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "d23772ed2b8b4c4e31ec158c814140af0379c572",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2020-04-25T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P585"
+            ],
+            "id": "Q43302028$a26dca18-97fb-44d7-8485-e75550cc0557",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "b21cfe47df95ed2f7c56a023a35a863505955a24",
+              "datavalue": {
+                "value": "/g/1pznmjv2t",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$079ED715-0C3F-41B3-99EA-29651719D01B",
+            "rank": "normal"
+          }
+        ],
+        "P127": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P127",
+              "hash": "4cef2bd97e1512620b6840b884cbe5f5d16f1049",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1107": [
+                {
+                  "snaktype": "value",
+                  "property": "P1107",
+                  "hash": "08c02e3f0ccc381d85bb111cf5b01c17bb79a4e2",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+1",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P1875": [
+                {
+                  "snaktype": "value",
+                  "property": "P1875",
+                  "hash": "224b0016ae3b945434230573d45079305e7949b6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 684357,
+                      "id": "Q684357"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1107",
+              "P1875"
+            ],
+            "id": "Q43302028$cc8e7bcb-4364-2a03-4576-24b6457853f0",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "92225b77f19c7025d0068a57511fbc586fe6b7f5",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "755f9118e8d52853a81506e95bc85b2842f42607",
+                      "datavalue": {
+                        "value": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/Broschueren_Bestellservice/2021-04-08-beteiligungsbericht-des-bundes-2020.pdf?__blob=publicationFile&v=10",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "8197cf330a4f4fee9a4673e98dd5c958f4c9aaed",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-04-27T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P304": [
+                    {
+                      "snaktype": "value",
+                      "property": "P304",
+                      "hash": "bbdbe90a2522f3977baf58afb611d9826649acbe",
+                      "datavalue": {
+                        "value": "253",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "791fdb2540012b2832a0e2f7d3ef84f2d739d0ea",
+                      "datavalue": {
+                        "value": {
+                          "text": "Beteiligungsbericht des Bundes 2020",
+                          "language": "de"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "c2392158ee5cea208cf651fe7a050859c22ac7d7",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 120736037,
+                          "id": "Q120736037"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P304",
+                  "P1476",
+                  "P3865"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "b192c7dc479aa38143016c4f20fff0b448cf6698",
+              "datavalue": {
+                "value": {
+                  "text": "EG",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q43302028$1A23E160-5F60-459E-84FC-0C9B40C0A32B",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3915d4d4e31f083ac56f0617798ddb1da70f855e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f76d0c4139db5a9f43407c0c0eec9e0eb7993b36",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DELeistungen/A/Abkuerzungsverzeichnis-des-Bundes-BMI-BVA.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "15a5da9acd7ebb61c61ded95cfba7255e42e573a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2088": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2088",
+              "hash": "7c9b66b2ef6f59ff630b4ca4f254f470b646cd31",
+              "datavalue": {
+                "value": "engagement-global",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$44160D34-1520-49A4-9498-4F8793AEE127",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "b1f28181a2fe34edb7a70ec29b8184434fe2bf79",
+              "datavalue": {
+                "value": "Engagement-global-logo.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q43302028$9762d0dc-48cf-4300-c16e-4ec719cce189",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "8e16f78a04ff1227384bc78af07e6e86efe18eab",
+              "datavalue": {
+                "value": "Engagement Global",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q43302028$92f6c4e6-a865-4054-9c33-ef3ace599b18",
+            "rank": "normal"
+          }
+        ],
+        "P3267": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3267",
+              "hash": "f8d4c17edfd2135dd065f888f1e5e3ffc7644682",
+              "datavalue": {
+                "value": "engagement-global",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$a6fdcfe4-4925-5b45-3e13-d14d08766512",
+            "rank": "normal"
+          }
+        ],
+        "P2397": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2397",
+              "hash": "d28111ccb9c8cbbe06d31d0d973deea83d7e0cb4",
+              "datavalue": {
+                "value": "UCghiv4y4L3ZFDTRWqDatMsQ",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "bcc545e311ec6e90f2b49b7c51c5f26f88ca259e",
+                  "datavalue": {
+                    "value": "engagementglobal",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P3744": [
+                {
+                  "snaktype": "value",
+                  "property": "P3744",
+                  "hash": "92406764abee4e0132ecf9ff77843815bd796d37",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+2850",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P3740": [
+                {
+                  "snaktype": "value",
+                  "property": "P3740",
+                  "hash": "cc52e0636a0c5c45949641b6a2b605d0c64e3a10",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+225",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P5436": [
+                {
+                  "snaktype": "value",
+                  "property": "P5436",
+                  "hash": "05bdacbf1eb9df47e6f7f81d30a440e3a658830b",
+                  "datavalue": {
+                    "value": {
+                      "amount": "+1266447",
+                      "unit": "1"
+                    },
+                    "type": "quantity"
+                  },
+                  "datatype": "quantity"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e9fd1d0fc5e1f7ae121a32d3b6432996e27379c9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2011-11-30T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a7e3323ab389bde49424c27f2e531e6a03ad0e54",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2023-11-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810",
+              "P3744",
+              "P3740",
+              "P5436",
+              "P580",
+              "P585"
+            ],
+            "id": "Q43302028$c6673d0f-428e-8918-fdcc-40bf6880b8ed",
+            "rank": "normal"
+          }
+        ],
+        "P13591": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P13591",
+              "hash": "830849daf6bca68c600ebc7d6ed96826561090c5",
+              "datavalue": {
+                "value": "group/a951c119-7900-4faa-80c8-3e6880e11b6d",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q43302028$3FDB88E0-966A-45AB-94CA-E2A44115BE42",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Engagement Global",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Engagement Global",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q17990971": {
+        "type": "item",
+        "id": "Q17990971",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "public enterprise"
+          },
+          "de": {
+            "language": "de",
+            "value": "öffentliches Unternehmen"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "business organization wholly or partly owned by a government and controlled through a public authority"
+          },
+          "de": {
+            "language": "de",
+            "value": "öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates oder seiner Untergliederungen"
+          }
+        }
+      },
+      "Q4830453": {
+        "type": "item",
+        "id": "Q4830453",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Gewerbebetrieb"
+          },
+          "en": {
+            "language": "en",
+            "value": "business"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "gewerbliche oder kaufmännische Geschäftseinheit"
+          },
+          "en": {
+            "language": "en",
+            "value": "organization undertaking commercial, industrial, or professional activity"
+          }
+        }
+      }
+    }
+  }
+}

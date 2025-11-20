@@ -1,0 +1,2860 @@
+{
+  "Breitengrad": "52.5123062",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@mh-stiftung.de",
+  "Hauptadresse": "Mohrenstraße 34",
+  "Internetadresse": "http://www.mh-stiftung.de",
+  "Land": "DE",
+  "Längengrad": "13.3945307",
+  "Organisation": "Bundesstiftung Magnus Hirschfeld",
+  "OrganisationDisplay": "BMH",
+  "OrganisationId": 11494654,
+  "OrganisationKurz": "BMH",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMJV",
+  "Telefax": "+49 30 208 987 65-2",
+  "Telefon": "+49 30 208 987 65-0",
+  "Kategorie": "Unklar",
+  "Wikidata ID": "Q1006748",
+  "locations": [
+    {
+      "Breitengrad": "52.5123062",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@mh-stiftung.de",
+      "Hauptadresse": "Mohrenstraße 34",
+      "Internetadresse": "http://www.mh-stiftung.de",
+      "Land": "DE",
+      "Längengrad": "13.3945307",
+      "Organisation": "Bundesstiftung Magnus Hirschfeld",
+      "OrganisationDisplay": "BMH",
+      "OrganisationId": 11494654,
+      "OrganisationKurz": "BMH",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMJV",
+      "Telefax": "+49 30 208 987 65-2",
+      "Telefon": "+49 30 208 987 65-0",
+      "Kategorie": "Unklar",
+      "Wikidata ID": "Q1006748"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q1006748",
+    "data": {
+      "type": "item",
+      "id": "Q1006748",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bundesstiftung Magnus Hirschfeld"
+        },
+        "en": {
+          "language": "en",
+          "value": "Magnus Hirschfeld Federal Foundation"
+        }
+      },
+      "descriptions": {
+        "en": {
+          "language": "en",
+          "value": "foundation with legal capacity to strengthen LGBT acceptance in Germany"
+        },
+        "de": {
+          "language": "de",
+          "value": "rechtsfähige Stiftung zur Stärkung der LGBT-Akzeptanz in Deutschland"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "86ef3fb67de57a7f50cd5a5f24f3e67437432fd1",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 157031,
+                  "id": "Q157031"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$2b7d1a84-4e21-b099-522f-a77be4dcea6a",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "714967fac35a0dcfebbc014f93ccb6dffc3ac118",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 64606659,
+                  "id": "Q64606659"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$81B3E027-D0C1-4773-9862-8801E5C04CB1",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "713267da4ba9954413c61b52d15317711efd949e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 113805953,
+                  "id": "Q113805953"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P790": [
+                {
+                  "snaktype": "value",
+                  "property": "P790",
+                  "hash": "f9c343d7072249a880a0badee3b44138dca8f4da",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 28841018,
+                      "id": "Q28841018"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P790"
+            ],
+            "id": "Q1006748$0c06afa7-4550-392e-8333-89059e9a5cf9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c9e32fad71a2c7e158033a917ef8507693358a8a",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "5a4da6f94f804160a3a8d7b59292a39a4eb9e6d1",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/transparenz/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "e20b9acf79c870710f922ec25216072838efcdaf",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-09-07T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "5b555715d82fb2edce40e2f5a3854aa5b5ea0f76",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 163740,
+                  "id": "Q163740"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$3E394CE1-7BEF-4867-86C0-F542EB54F99A",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "49aecac1df14de68f27a79493e95296db148d09f",
+                "snaks": {
+                  "P1278": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1278",
+                      "hash": "293199482468cd5d065b77e9fdce1fc7571bfc25",
+                      "datavalue": {
+                        "value": "391200I1GKFTUPTBZP85",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P1278"
+                ]
+              }
+            ]
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "d3ed33fbd206ced42a624867b8d84ebdd5309910",
+              "datavalue": {
+                "value": "https://mh-stiftung.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q1006748$c88e7e54-4844-8807-812f-4568565f4dd5",
+            "rank": "normal"
+          }
+        ],
+        "P214": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P214",
+              "hash": "554d3bc623eac418969817ab349c5ea034fcf88f",
+              "datavalue": {
+                "value": "295773183",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$25756EB9-E853-47A0-8CBB-19505C333828",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ad3713df772ae88af6a7458d084a40ad20b226d6",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "6b7d4330c4aac4caec4ede9de0311ce273f88ecd",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 54919,
+                          "id": "Q54919"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "a00cc299e508357647636e29593b8ca3e534077d",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2015-08-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$3002346F-8870-4460-A71E-81C4A4D09746",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "0e64f7dd6cad8cefe3cbc8d60541f350d3a276c1",
+              "datavalue": {
+                "value": {
+                  "time": "+2011-10-27T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q1006748$B900F912-0111-4E0D-97E5-FE6F4E43EA29",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "559a36681d1a73f9baf3e4b60d527847b2d44bf7",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a7d9899174e1da9e5687c4db62fb538ed55f15b4",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/ueber-die-stiftung/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "a0a320a245aa310cec3c883498746637941e8761",
+                      "datavalue": {
+                        "value": {
+                          "text": "Über die Stiftung",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1454": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1454",
+              "hash": "2aceae5d345abcda25df10c7660e7d6a30e7fc5e",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 56242138,
+                  "id": "Q56242138"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$1915c5dc-4fd0-235f-03fd-60e5c8cdce05",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c4d92e87d3555fc75f2b905f38efd010f95f2aec",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "517d78542c249097322f178d263e4ba30998b630",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/impressum/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "6fac33907923ca5d2d6435073ecf6c293dbf3d82",
+                      "datavalue": {
+                        "value": {
+                          "text": "Impressum",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P159": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P159",
+              "hash": "d715e5aff5c64901432a522dbd089976bf429f5b",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 64,
+                  "id": "Q64"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P669": [
+                {
+                  "snaktype": "value",
+                  "property": "P669",
+                  "hash": "ebeeea5ab6715b4806e68834fff0e144a2e39af6",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 278802,
+                      "id": "Q278802"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P670": [
+                {
+                  "snaktype": "value",
+                  "property": "P670",
+                  "hash": "f433f738fe184a1d2d381ab34b960e2e0f60d91f",
+                  "datavalue": {
+                    "value": "34",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P281": [
+                {
+                  "snaktype": "value",
+                  "property": "P281",
+                  "hash": "e9514f768ed811873ccfb9eb6423cce8b89423eb",
+                  "datavalue": {
+                    "value": "10117",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ],
+              "P276": [
+                {
+                  "snaktype": "value",
+                  "property": "P276",
+                  "hash": "dae1568adb22ea539f6826198463e25ecdfcefe2",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 64,
+                      "id": "Q64"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P17": [
+                {
+                  "snaktype": "value",
+                  "property": "P17",
+                  "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 183,
+                      "id": "Q183"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P625": [
+                {
+                  "snaktype": "value",
+                  "property": "P625",
+                  "hash": "64420985b997b93984718c54ccbe73a73b4a8d28",
+                  "datavalue": {
+                    "value": {
+                      "latitude": 52.51248743275017,
+                      "longitude": 13.394477966470488,
+                      "altitude": null,
+                      "precision": 1e-08,
+                      "globe": "http://www.wikidata.org/entity/Q2"
+                    },
+                    "type": "globecoordinate"
+                  },
+                  "datatype": "globe-coordinate"
+                }
+              ],
+              "P6375": [
+                {
+                  "snaktype": "value",
+                  "property": "P6375",
+                  "hash": "718ff29498ae6b8020a168e2815bdfca1ee2b04a",
+                  "datavalue": {
+                    "value": {
+                      "text": "Mohrenstraße 34, 10117 Berlin",
+                      "language": "de"
+                    },
+                    "type": "monolingualtext"
+                  },
+                  "datatype": "monolingualtext"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P669",
+              "P670",
+              "P281",
+              "P276",
+              "P17",
+              "P625",
+              "P6375"
+            ],
+            "id": "Q1006748$9B570401-1307-435C-90EB-003BD01A05C3",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "39b7b5c7f91be7aba596f57718c857830aa952ed",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "517d78542c249097322f178d263e4ba30998b630",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/impressum/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "6fac33907923ca5d2d6435073ecf6c293dbf3d82",
+                      "datavalue": {
+                        "value": {
+                          "text": "Impressum",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "49aecac1df14de68f27a79493e95296db148d09f",
+                "snaks": {
+                  "P1278": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1278",
+                      "hash": "293199482468cd5d065b77e9fdce1fc7571bfc25",
+                      "datavalue": {
+                        "value": "391200I1GKFTUPTBZP85",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P1278"
+                ]
+              }
+            ]
+          }
+        ],
+        "P112": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P112",
+              "hash": "f7eb8a130293d8c50e99b101ad3bc1342b22fbce",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$c5e06b54-487f-308c-fdcc-2da405333d5b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3148250dd0abba206d3fbd90ddb5fb0d4bb37e6d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7ddef928d6465896e4224db364bec1e69ca1ad64",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/ueber-die-stiftung/satzung/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d13a4416596b47f53ccdd352c89523dac2608c83",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-01-30T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1128": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1128",
+              "hash": "a301737d40fddf771ba0558fe8037e114e260b9a",
+              "datavalue": {
+                "value": {
+                  "amount": "+7",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "77f348fcb49110a0de3c2faf4865527dc30dcbc9",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2019-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1006748$38a118f3-4c24-1a83-8c5a-4da4a42b80d1",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "5d1e09115fadb7ca4d59ba96083063c028f4ab1f",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "5a4da6f94f804160a3a8d7b59292a39a4eb9e6d1",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/transparenz/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d13a4416596b47f53ccdd352c89523dac2608c83",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-01-30T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6589": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6589",
+              "hash": "cf329ad194ee80cf2a87e72f93cfe5eb4e773008",
+              "datavalue": {
+                "value": {
+                  "amount": "+11097000",
+                  "unit": "http://www.wikidata.org/entity/Q4916"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "6174553681261aeec411766adf691fdeec1dee47",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-00-00T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 9,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P585"
+            ],
+            "id": "Q1006748$4307a237-4a65-75f3-4d36-6aea431e0e10",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ba3c010b2b1c5ac40b094809477ac4355bafde60",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "2a4297155c4098f881410158a4643a19732c2858",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/ueber-die-stiftung/vermoegen/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "d13a4416596b47f53ccdd352c89523dac2608c83",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-01-30T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P463": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P463",
+              "hash": "7c504c42c1bc7b16364721220a5c2f3e7dd7b2ce",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1663590,
+                  "id": "Q1663590"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "aa8c1f07c9223931ea3967506bec85eabd905485",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2014-11-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1006748$be70edc2-4e90-7306-6859-8994a3e3d81e",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "fa716e4b066ea83a710ebd7bc88f22333b500ad0",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7607e29e9bde788737d01e9a8baf46b7a405a3c2",
+                      "datavalue": {
+                        "value": "https://www.transparente-zivilgesellschaft.de/ueber-uns/unterzeichnerorganisationen",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "e436367173f27c254c3a3c420738015c3c4648e0",
+                      "datavalue": {
+                        "value": {
+                          "text": "Initiative Transparente Zivilgesellschaft | Unterzeichnerliste",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "bca65e7288659b578da766b01eeb7717dbc3fe46",
+              "datavalue": {
+                "value": "/g/121bctcx",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$9F141440-9465-4622-A14D-3C86636C9DE1",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "95e42cbbffc27b0fdb3a22815da5aef3ae22f4f9",
+              "datavalue": {
+                "value": "Logo-Bundesstiftung-Magnus-Hirschfeld.svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q1006748$67b1bcd4-4452-be1b-d185-8b512215a966",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "d314dd52b6d933adaa7b7567f3728ecbcc1b7e18",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "caed963bcc20761143e48e7b65c40ff2cb5c1c01",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "87031991c148b7167463b8e5c9f851b61389d0fc",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-17T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8168": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8168",
+              "hash": "ca0a26b4927ada743972011f57e3db50f455949b",
+              "datavalue": {
+                "value": "Q405501",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$8B0C35D2-441E-4AAC-A66C-37D9D9036557",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "e5897dd8feb5ae776c347c6818731a4d4bb79582",
+              "datavalue": {
+                "value": "1030164169",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$F3B7D97C-C075-473B-8F1B-B0709A2F008D",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "46edb0bb7d32cb705f7d5297020c11356382d3fa",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17884,
+                  "id": "Q17884"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$12FBB63D-B29C-44F1-934C-48D3901859C9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3b3efbc768f7f41d2d8fbedfaeb730e0095fea10",
+                "snaks": {
+                  "P8168": [
+                    {
+                      "snaktype": "value",
+                      "property": "P8168",
+                      "hash": "83093d86e66b5b6d6d2ee3646d85954af83a1eac",
+                      "datavalue": {
+                        "value": "Q399988",
+                        "type": "string"
+                      },
+                      "datatype": "external-id"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6833f55c1346b7c6cb5406ff3773a8c365c9ffee",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-07-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P8168",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "7504e8bb90fdcd78dbbb0d1f281adc91829ad83e",
+              "datavalue": {
+                "value": "50073",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$b0dfb57e-4e47-d35e-1f81-5f7cfc66fd2c",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "5d7f688a0845bd92931603d8f697e286b44919b6",
+              "datavalue": {
+                "value": {
+                  "text": "BMH",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1006748$3722edc4-4c48-18f7-8110-8940be45265c",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "559a36681d1a73f9baf3e4b60d527847b2d44bf7",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a7d9899174e1da9e5687c4db62fb538ed55f15b4",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/ueber-die-stiftung/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "a0a320a245aa310cec3c883498746637941e8761",
+                      "datavalue": {
+                        "value": {
+                          "text": "Über die Stiftung",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P2013": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2013",
+              "hash": "a3fe8f43595984429a4276b86cee78ec29c61aef",
+              "datavalue": {
+                "value": "mhstiftung",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$184C2BC8-17E7-4DA3-947B-ED3515671668",
+            "rank": "normal"
+          }
+        ],
+        "P2003": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2003",
+              "hash": "5a7fa0b954e81e17896a7ca76ed4e59c0f3744f1",
+              "datavalue": {
+                "value": "hirschfeldstiftung",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$1C9A8F57-22A8-4500-88FD-6DCC6AF54585",
+            "rank": "normal"
+          }
+        ],
+        "P2002": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2002",
+              "hash": "fa6f8e98c387ec9411107c140e67dc32d178611f",
+              "datavalue": {
+                "value": "mhstiftung",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P6552": [
+                {
+                  "snaktype": "value",
+                  "property": "P6552",
+                  "hash": "da122e250769bf8e41e6f69e851178a77f7c5315",
+                  "datavalue": {
+                    "value": "1868782574",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "4f02bba9b1780d9714138d7d12aa284f655d0193",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-09-15T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a2590a04a331a3d27089fd5024fd6caec25a3819",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-09-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P6552",
+              "P580",
+              "P585"
+            ],
+            "id": "Q1006748$AB31A3D1-4742-4195-9F84-25C573CB6082",
+            "rank": "normal"
+          }
+        ],
+        "P138": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P138",
+              "hash": "414f72894066a19b4887d08b190138307d537139",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 57592,
+                  "id": "Q57592"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$51b84bad-4c55-78b6-5b6a-18c9b34020dd",
+            "rank": "normal"
+          }
+        ],
+        "P8189": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8189",
+              "hash": "ce8b4819d22124d1784a1ff94c4ee5d6efc013a5",
+              "datavalue": {
+                "value": "987007519041905171",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$BA1AFC87-3FD3-4A71-9517-500CBA25A319",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "ecb7a39cf436eb1fba419853af168ef9f2ba1dab",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "a03bb6ffe37be9554492f4eea5bd18afcb57df19",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 106509962,
+                          "id": "Q106509962"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1448": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1448",
+              "hash": "81c1edbc62897276679a820af4f0bf733afdbb41",
+              "datavalue": {
+                "value": {
+                  "text": "Bundesstiftung Magnus Hirschfeld",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q1006748$693b3fc6-4495-6481-ebe5-ab6c704b9183",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "559a36681d1a73f9baf3e4b60d527847b2d44bf7",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a7d9899174e1da9e5687c4db62fb538ed55f15b4",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/ueber-die-stiftung/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "a0a320a245aa310cec3c883498746637941e8761",
+                      "datavalue": {
+                        "value": {
+                          "text": "Über die Stiftung",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P921": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P921",
+              "hash": "f5b50f361a06e029b5cc0587ff7476dbeab580f9",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17884,
+                  "id": "Q17884"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$821eb5ad-4781-bf71-3c8f-9e6a7453b7bd",
+            "rank": "normal"
+          }
+        ],
+        "P3712": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3712",
+              "hash": "638e9fabcd47790086196a5fe77ba2e8e0fcd134",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 17625913,
+                  "id": "Q17625913"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$ef4339db-4d78-830f-fcc3-6709adb51ba3",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P3712",
+              "hash": "6ee33eee6ba6412bcc1eb6c3e6dbbb715500de79",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 13416790,
+                  "id": "Q13416790"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$2475a149-4aea-39e6-8c5a-fe72c0de7f24",
+            "rank": "normal"
+          }
+        ],
+        "P8324": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8324",
+              "hash": "2ea9471f9c13fb85e09a576c7148fdc1c2d8de44",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 498251,
+                  "id": "Q498251"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$00dec905-4b41-254c-841f-a5a29a0b3cb8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "559a36681d1a73f9baf3e4b60d527847b2d44bf7",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "a7d9899174e1da9e5687c4db62fb538ed55f15b4",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/ueber-die-stiftung/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "a0a320a245aa310cec3c883498746637941e8761",
+                      "datavalue": {
+                        "value": {
+                          "text": "Über die Stiftung",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1329": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1329",
+              "hash": "776b55af454d71b55a860cf6c4a207e560782c2e",
+              "datavalue": {
+                "value": "+49-30-208-987-65-0",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q1006748$06ba5ba3-496c-7707-1685-dbbf1e08129b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c4d92e87d3555fc75f2b905f38efd010f95f2aec",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "517d78542c249097322f178d263e4ba30998b630",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/impressum/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "6fac33907923ca5d2d6435073ecf6c293dbf3d82",
+                      "datavalue": {
+                        "value": {
+                          "text": "Impressum",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P968": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P968",
+              "hash": "4a619cc91b26692efbd715a3ab5b645e33382349",
+              "datavalue": {
+                "value": "mailto:info@mh-stiftung.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q1006748$c3458a8e-4383-e45e-25f5-a099f7b0218a",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "c4d92e87d3555fc75f2b905f38efd010f95f2aec",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "517d78542c249097322f178d263e4ba30998b630",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/impressum/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P1476": [
+                    {
+                      "snaktype": "value",
+                      "property": "P1476",
+                      "hash": "6fac33907923ca5d2d6435073ecf6c293dbf3d82",
+                      "datavalue": {
+                        "value": {
+                          "text": "Impressum",
+                          "language": "en"
+                        },
+                        "type": "monolingualtext"
+                      },
+                      "datatype": "monolingualtext"
+                    }
+                  ],
+                  "P407": [
+                    {
+                      "snaktype": "value",
+                      "property": "P407",
+                      "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 188,
+                          "id": "Q188"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "997eb33b0d995db84c7ff54ea10dea029e3b9829",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2024-08-05T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P1476",
+                  "P407",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P11326": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11326",
+              "hash": "6cf6c62ce11d6714ad7ea7ae500aacdfb04123a0",
+              "datavalue": {
+                "value": "https://mh-stiftung.de/impressum/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q1006748$3e94b8e4-4a13-851d-c001-db1a413e4284",
+            "rank": "normal"
+          }
+        ],
+        "P11268": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P11268",
+              "hash": "0dfe923c7dc057f94acd81c9e1ba891c1e8772e4",
+              "datavalue": {
+                "value": "https://mh-stiftung.de/presse/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q1006748$8cfceff9-4252-123f-a287-d984cab4c23b",
+            "rank": "normal"
+          }
+        ],
+        "P7101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P7101",
+              "hash": "4e43abbc776225af567d32bc0777f9dc8e1442d8",
+              "datavalue": {
+                "value": "https://mh-stiftung.de/datenschutzerklaerung/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q1006748$15d828f4-4f3c-6e81-2b0b-0c3e861f6612",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "920981bc74a0a87e5d8f18756f4f4c2330064411",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 498251,
+                  "id": "Q498251"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$b723f1ed-4162-6f52-7c66-59b3d1c98d71",
+            "rank": "normal"
+          }
+        ],
+        "P1278": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1278",
+              "hash": "293199482468cd5d065b77e9fdce1fc7571bfc25",
+              "datavalue": {
+                "value": "391200I1GKFTUPTBZP85",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "746984d4ea690ae849f5caf5b5618b6810912a43",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2018-01-19T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1006748$4192278B-7512-40E2-9812-046E9A5953C8",
+            "rank": "normal"
+          }
+        ],
+        "P10832": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10832",
+              "hash": "31cac56f332f28036d693b44a754defe31c7dfb2",
+              "datavalue": {
+                "value": "E39QH7JmpbvyCG7FwxXFYxwK9t",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$ffccc2bd-405f-c637-0c0b-0108d2c75f7d",
+            "rank": "normal"
+          }
+        ],
+        "P244": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P244",
+              "hash": "102329ca444083221baae9a007a61a441535aa3e",
+              "datavalue": {
+                "value": "no2019038078",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$3091B6BC-82F6-4A8E-897E-029560B2FB36",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "2ea7d9cf6569a6790a1abd706c97a06fdef003c3",
+                "snaks": {
+                  "P11797": [
+                    {
+                      "snaktype": "value",
+                      "property": "P11797",
+                      "hash": "395c2c5dc64a74fb596f0b959e9ac6c9307e2068",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 76630151,
+                          "id": "Q76630151"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P11797"
+                ]
+              }
+            ]
+          }
+        ],
+        "P13210": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P13210",
+              "hash": "2fee9d53d269e0483c43ec38327451aea421d6cd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 131438677,
+                  "id": "Q131438677"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$B334101C-FAA9-4574-8899-18DFCCACB0F4",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a30f9722747f7ebea27841e05b7089222560035c",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "d1b36a4074920841bf13df50ae892a70bdd7a5bc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 125526764,
+                          "id": "Q125526764"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "fb29f661a9094a9e9025d6b2b702f12d78d57846",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-01-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P452": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P452",
+              "hash": "1b28a637ac7b34f0fff7672e19b3836fd6a53e59",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 104918055,
+                  "id": "Q104918055"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$F525D251-B34B-4CC3-8F04-1008BC4B1AFE",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a30f9722747f7ebea27841e05b7089222560035c",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "d1b36a4074920841bf13df50ae892a70bdd7a5bc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 125526764,
+                          "id": "Q125526764"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "fb29f661a9094a9e9025d6b2b702f12d78d57846",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-01-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P452",
+              "hash": "f5dd037331f861bd466b2ceaa965776d4d17f208",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 104917936,
+                  "id": "Q104917936"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q1006748$78DB4AF3-D821-4F09-99E2-13E9CBFED5AB",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "a30f9722747f7ebea27841e05b7089222560035c",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "d1b36a4074920841bf13df50ae892a70bdd7a5bc",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 125526764,
+                          "id": "Q125526764"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "fb29f661a9094a9e9025d6b2b702f12d78d57846",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-01-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P12012": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P12012",
+              "hash": "bd39bf1375fea99a33affead0d1f9e97c8ac961d",
+              "datavalue": {
+                "value": "V2YH",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P10604": [
+                {
+                  "snaktype": "value",
+                  "property": "P10604",
+                  "hash": "3db10b2a3fb773176a9ce2744ec5388753ac262b",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 107178864,
+                      "id": "Q107178864"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ],
+              "P2378": [
+                {
+                  "snaktype": "value",
+                  "property": "P2378",
+                  "hash": "a15188d96abc28f59b8930e4f44714be6e220b66",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 27978804,
+                      "id": "Q27978804"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P10604",
+              "P2378"
+            ],
+            "id": "Q1006748$1cb1ee9f-4d17-1431-60c6-ca844059e112",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "4540273bcdccd460bbfccd6d8eae6f76e1cad845",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "9021a7a1fa20d3d1102159c3df89fa1788c29828",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 6517388,
+                          "id": "Q6517388"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248"
+                ]
+              }
+            ]
+          }
+        ],
+        "P13591": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P13591",
+              "hash": "c8104fe6e408d11fa2148fd60fb440c7eca77cd1",
+              "datavalue": {
+                "value": "group/f2c3281e-60f4-44b5-9405-f0d620b5c3a1",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$8EB8271D-88B4-48F9-988C-CBAA80C3BA21",
+            "rank": "normal"
+          }
+        ],
+        "P13631": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P13631",
+              "hash": "97cb122f859e0818ea070b5481fff6851b16c3c6",
+              "datavalue": {
+                "value": "https://mh-stiftung.de/service/spenden/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q1006748$ABC86921-AA46-4118-B4C8-5BBE40FCA8D9",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "655af75a3340673670e23b966fc71f8c8d37c28d",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "caed963bcc20761143e48e7b65c40ff2cb5c1c01",
+                      "datavalue": {
+                        "value": "https://mh-stiftung.de/",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "fd3bed3b8591bde260c42fa0946839a5da2e88ea",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-09-07T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P10301": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P10301",
+              "hash": "3241561f6ce7c1c8ccb0c3efbe3d0087ad72195c",
+              "datavalue": {
+                "value": "R005470",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "9cb0dbf9e80c8429feea9c2cf63bb4bbde2eb9f6",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-11-18T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q1006748$D74C5A7A-162E-4AE8-AFFE-6931639FA548",
+            "rank": "normal"
+          }
+        ],
+        "P13337": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P13337",
+              "hash": "092f26a38e12c4acb38656548b926f98de6aaf95",
+              "datavalue": {
+                "value": "mh-stiftung.de",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q1006748$5058A748-F882-41B6-82C6-FCBE1F0BD6E5",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "1e14c8f7b09127950dea9800093197b020a0b22b",
+                "snaks": {
+                  "P248": [
+                    {
+                      "snaktype": "value",
+                      "property": "P248",
+                      "hash": "536d53ff02da88d069979ff4abadf71ed01786a6",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 110733123,
+                          "id": "Q110733123"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "06215e635befe2be67841275b8aaa96ce3e6761b",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2025-10-19T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P248",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bundesstiftung Magnus Hirschfeld",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q64606659": {
+        "type": "item",
+        "id": "Q64606659",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "LGBTQ+ organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "LGBT-Organisation"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "association working for LGBTQIA+ community and/or individuals"
+          },
+          "de": {
+            "language": "de",
+            "value": "Organisation, der sich um Belange der LGBT Communities kümmert"
+          }
+        }
+      },
+      "Q498251": {
+        "type": "item",
+        "id": "Q498251",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of Justice and Consumer Protection"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium der Justiz und für Verbraucherschutz"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of Justice of Germany"
+          }
+        }
+      },
+      "Q163740": {
+        "type": "item",
+        "id": "Q163740",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Non-Profit-Organisation"
+          },
+          "en": {
+            "language": "en",
+            "value": "nonprofit organization"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "organization operated for a collective benefit"
+          },
+          "de": {
+            "language": "de",
+            "value": "Einrichtung, die gemeinnützigen sozialen, kulturellen oder wissenschaftlichen Zielen ihrer Mitglieder dient"
+          }
+        }
+      },
+      "Q157031": {
+        "type": "item",
+        "id": "Q157031",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Stiftung"
+          },
+          "en": {
+            "language": "en",
+            "value": "foundation"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Einrichtung, die mit Hilfe eines Vermögens einen vom Stifter oder Stiftern festgelegten Stiftungszweck verfolgt"
+          },
+          "en": {
+            "language": "en",
+            "value": "type of nonprofit organization"
+          }
+        }
+      },
+      "Q113805953": {
+        "type": "item",
+        "id": "Q113805953",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "gemeinnützige Körperschaft"
+          },
+          "en": {
+            "language": "en",
+            "value": "charitable corporation"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Organisation, die die deutsche Definition von Gemeinnützigkeit nach der Abgabenordnung erfüllt"
+          },
+          "en": {
+            "language": "en",
+            "value": "type of non-profit organization in Germany"
+          }
+        }
+      }
+    }
+  }
+}

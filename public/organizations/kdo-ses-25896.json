@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.225076",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "KdoSES@bundeswehr.org",
+  "Hauptadresse": "Papenburgstraße 82",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-sanitaetsdienstliche-einsatzunterstuetzung/kommando-schnelle-einsatzkraefte-sanitaetsdienst",
+  "Land": "DE",
+  "Längengrad": "7.478326",
+  "Organisation": "Kommando Schnelle Einsatzkräfte Sanitätsdienst",
+  "OrganisationDisplay": "Kdo SES",
+  "OrganisationId": 25896,
+  "OrganisationKurz": "Kdo SES",
+  "Ort": "Leer",
+  "PLZ": 26789,
+  "Ressort": "BMVg",
+  "Telefax": "+49 491 9195 4610",
+  "Telefon": "+49 491 9195 4001",
+  "locations": [
+    {
+      "Breitengrad": "53.225076",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "KdoSES@bundeswehr.org",
+      "Hauptadresse": "Papenburgstraße 82",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-sanitaetsdienstliche-einsatzunterstuetzung/kommando-schnelle-einsatzkraefte-sanitaetsdienst",
+      "Land": "DE",
+      "Längengrad": "7.478326",
+      "Organisation": "Kommando Schnelle Einsatzkräfte Sanitätsdienst",
+      "OrganisationDisplay": "Kdo SES",
+      "OrganisationId": 25896,
+      "OrganisationKurz": "Kdo SES",
+      "Ort": "Leer",
+      "PLZ": 26789,
+      "Ressort": "BMVg",
+      "Telefax": "+49 491 9195 4610",
+      "Telefon": "+49 491 9195 4001"
+    }
+  ]
+}

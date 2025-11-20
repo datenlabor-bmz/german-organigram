@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "kontakt@z-u-g.org",
+  "Hauptadresse": "Stresemannstraße 69-71",
+  "Internetadresse": "https://www.z-u-g.org",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Zukunft-Umwelt-Gesellschaft gGmbH",
+  "OrganisationDisplay": "ZUG",
+  "OrganisationId": 11319924,
+  "OrganisationKurz": "ZUG",
+  "Ort": "Berlin",
+  "PLZ": 10963,
+  "Ressort": "BMUKN",
+  "Telefon": "+49 3072618 0000",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "kontakt@z-u-g.org",
+      "Hauptadresse": "Stresemannstraße 69-71",
+      "Internetadresse": "https://www.z-u-g.org",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Zukunft-Umwelt-Gesellschaft gGmbH",
+      "OrganisationDisplay": "ZUG",
+      "OrganisationId": 11319924,
+      "OrganisationKurz": "ZUG",
+      "Ort": "Berlin",
+      "PLZ": 10963,
+      "Ressort": "BMUKN",
+      "Telefon": "+49 3072618 0000"
+    }
+  ]
+}

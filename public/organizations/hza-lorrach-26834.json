@@ -1,0 +1,341 @@
+{
+  "Breitengrad": "47.620059",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "poststelle.hza-loerrach@zoll.bund.de",
+  "Hauptadresse": "Mozartstraße 32",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "7.663159",
+  "Organisation": "Hauptzollamt Lörrach",
+  "OrganisationDisplay": "HZA Lörrach",
+  "OrganisationId": 26834,
+  "OrganisationKurz": "HZA Lörrach",
+  "Ort": "Lörrach",
+  "PLZ": 79539,
+  "Ressort": "BMF",
+  "Telefax": "+49 7621 170-1090",
+  "Telefon": "+49 7621 170-0",
+  "Kategorie": "Bundesunterbehörde",
+  "Wikidata ID": "Q97013699",
+  "locations": [
+    {
+      "Breitengrad": "47.620059",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle.hza-loerrach@zoll.bund.de",
+      "Hauptadresse": "Mozartstraße 32",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "7.663159",
+      "Organisation": "Hauptzollamt Lörrach",
+      "OrganisationDisplay": "HZA Lörrach",
+      "OrganisationId": 26834,
+      "OrganisationKurz": "HZA Lörrach",
+      "Ort": "Lörrach",
+      "PLZ": 79539,
+      "Ressort": "BMF",
+      "Telefax": "+49 7621 170-1090",
+      "Telefon": "+49 7621 170-0",
+      "Kategorie": "Bundesunterbehörde",
+      "Wikidata ID": "Q97013699"
+    },
+    {
+      "Adresse": "Tennenbacher Straße 23",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienstsitz Freiburg",
+      "LiegenschaftsId": 432796,
+      "OrganisationId": 26834,
+      "Ort": "Freiburg",
+      "PLZ": 79106,
+      "Telefax": "+49 761 1509-1150",
+      "Telefon": "+49 761 1509-0"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q97013699",
+    "data": {
+      "type": "item",
+      "id": "Q97013699",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt Lörrach"
+        },
+        "en": {
+          "language": "en",
+          "value": "Hauptzollamt Lörrach"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Hauptzollamt in Deutschland"
+        }
+      },
+      "claims": {
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q97013699$045A70BB-5785-49D4-85DE-17180BE8A0DE",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "21b1ec2511f9231cdf19bf8dd73290a710c9e770",
+              "datavalue": {
+                "value": "/g/11jbjw9r1r",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q97013699$440AD804-5A69-4FDB-A07A-156B9E3F562A",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "429c94e5010937198eab3bc47ad79ceb05b3ccd1",
+              "datavalue": {
+                "value": "Hauptzollamt Lörrach",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q97013699$CCA092BF-E684-4797-AC5E-8C765CDB0524",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "d6e7db6dd0b7cad36492380f83125fbe18769307",
+              "datavalue": {
+                "value": "563",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q97013699$620AFE55-207D-46FF-9723-35191FE042A8",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "c541e660ea15bb30e997a5ed16f8b6e54d7e955a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 811979,
+                  "id": "Q811979"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q97013699$9D8812DA-438A-4B8D-8974-9F706C832F8D",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "b6198d8f30b08f4e770d04945ae069d586e062cf",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1354730,
+                  "id": "Q1354730"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q97013699$84f117da-4f8d-8a80-f837-a07db5fadbbc",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "815e244f57fab2a9374e0338707156b83bfef42a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 6855,
+                  "id": "Q6855"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q97013699$d463aef4-48d9-ccce-bfbb-431fe0b957a1",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "304b3f33623f45eeea688e7d57eea570415593b7",
+              "datavalue": {
+                "value": "Lörrach - Hauptzollamt1.jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q97013699$4ae0f755-4043-31a6-9a72-526afda2124c",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "139f755936e02ca398570184e6f10898361e8696",
+              "datavalue": {
+                "value": {
+                  "latitude": 47.620365,
+                  "longitude": 7.66293,
+                  "altitude": null,
+                  "precision": 1e-06,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q97013699$D9802E63-B885-4167-97FB-E4F8E6028699",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Hauptzollamt Lörrach",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Hauptzollamt Lörrach",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q1354730": {
+        "type": "item",
+        "id": "Q1354730",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bestandteil der Bundeszollverwaltung in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Part of the Federal Customs Administration in Germany"
+          }
+        }
+      },
+      "Q811979": {
+        "type": "item",
+        "id": "Q811979",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "architectural structure"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bauwerk"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Konstruktion mit ruhendem Kontakt zum Untergrund, z. B. Straße, Brücke, Fundament"
+          },
+          "en": {
+            "language": "en",
+            "value": "human-designed and -made structure"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.425223",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "BwKrhsUlm@bundeswehr.org",
+  "Hauptadresse": "Oberer Eselsberg 40",
+  "Internetadresse": "https://ulm.bwkrankenhaus.de/startseite/",
+  "Land": "DE",
+  "Längengrad": "9.9455168",
+  "Organisation": "Bundeswehrkrankenhaus Ulm",
+  "OrganisationDisplay": "BwKrhsUlm ",
+  "OrganisationId": 630910,
+  "OrganisationKurz": "BwKrhsUlm ",
+  "Ort": "Ulm",
+  "PLZ": 89081,
+  "Ressort": "BMVg",
+  "Telefon": "+49 731 1710-0",
+  "locations": [
+    {
+      "Breitengrad": "48.425223",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "BwKrhsUlm@bundeswehr.org",
+      "Hauptadresse": "Oberer Eselsberg 40",
+      "Internetadresse": "https://ulm.bwkrankenhaus.de/startseite/",
+      "Land": "DE",
+      "Längengrad": "9.9455168",
+      "Organisation": "Bundeswehrkrankenhaus Ulm",
+      "OrganisationDisplay": "BwKrhsUlm ",
+      "OrganisationId": 630910,
+      "OrganisationKurz": "BwKrhsUlm ",
+      "Ort": "Ulm",
+      "PLZ": 89081,
+      "Ressort": "BMVg",
+      "Telefon": "+49 731 1710-0"
+    }
+  ]
+}

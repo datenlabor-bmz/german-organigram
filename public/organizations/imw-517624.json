@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.3387486",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@imw.fraunhofer.de",
+  "Hauptadresse": "Martin-Luther-Ring 13",
+  "Internetadresse": "https://www.imw.fraunhofer.de/de.html",
+  "Land": "DE",
+  "Längengrad": "12.3763487",
+  "Organisation": "Fraunhofer Zentrum für Internationales Management und Wissensökonomie",
+  "OrganisationDisplay": "IMW",
+  "OrganisationId": 517624,
+  "OrganisationKurz": "IMW",
+  "Ort": "Leipzig",
+  "PLZ": 4109,
+  "Telefax": "+49 341 231039-153",
+  "Telefon": "+49 341 231039-153",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.3387486",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@imw.fraunhofer.de",
+      "Hauptadresse": "Martin-Luther-Ring 13",
+      "Internetadresse": "https://www.imw.fraunhofer.de/de.html",
+      "Land": "DE",
+      "Längengrad": "12.3763487",
+      "Organisation": "Fraunhofer Zentrum für Internationales Management und Wissensökonomie",
+      "OrganisationDisplay": "IMW",
+      "OrganisationId": 517624,
+      "OrganisationKurz": "IMW",
+      "Ort": "Leipzig",
+      "PLZ": 4109,
+      "Telefax": "+49 341 231039-153",
+      "Telefon": "+49 341 231039-153",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

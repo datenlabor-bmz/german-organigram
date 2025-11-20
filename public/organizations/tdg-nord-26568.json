@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.958943",
+  "Bundesland": "Nordrhein-Westfalen",
+  "Hauptadresse": "Hohenzollernring 40",
+  "Land": "DE",
+  "Längengrad": "7.649297",
+  "Organisation": "Truppendienstgericht Nord",
+  "OrganisationDisplay": "TDG Nord",
+  "OrganisationId": 26568,
+  "OrganisationKurz": "TDG Nord",
+  "Ort": "Münster",
+  "PLZ": 48145,
+  "Ressort": "BMVg",
+  "Telefax": "+49 251 936-2455",
+  "Telefon": "+49 251 936-2451",
+  "locations": [
+    {
+      "Breitengrad": "51.958943",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Hauptadresse": "Hohenzollernring 40",
+      "Land": "DE",
+      "Längengrad": "7.649297",
+      "Organisation": "Truppendienstgericht Nord",
+      "OrganisationDisplay": "TDG Nord",
+      "OrganisationId": 26568,
+      "OrganisationKurz": "TDG Nord",
+      "Ort": "Münster",
+      "PLZ": 48145,
+      "Ressort": "BMVg",
+      "Telefax": "+49 251 936-2455",
+      "Telefon": "+49 251 936-2451"
+    }
+  ]
+}

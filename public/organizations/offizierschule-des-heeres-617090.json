@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.0774983",
+  "Bundesland": "Sachsen",
+  "E-Mail": "osh@bundeswehr.org",
+  "Hauptadresse": "Marienallee 14",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/offizierschule-des-heeres",
+  "Land": "DE",
+  "Längengrad": "13.770167",
+  "Organisation": "Offizierschule des Heeres",
+  "OrganisationDisplay": "OSchH",
+  "OrganisationId": 617090,
+  "Ort": "Dresden",
+  "PLZ": 1099,
+  "Ressort": "BMVg",
+  "Telefax": "+49 351 823 - 3653",
+  "Telefon": "+49 351 823 - 3031",
+  "locations": [
+    {
+      "Breitengrad": "51.0774983",
+      "Bundesland": "Sachsen",
+      "E-Mail": "osh@bundeswehr.org",
+      "Hauptadresse": "Marienallee 14",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/offizierschule-des-heeres",
+      "Land": "DE",
+      "Längengrad": "13.770167",
+      "Organisation": "Offizierschule des Heeres",
+      "OrganisationDisplay": "OSchH",
+      "OrganisationId": 617090,
+      "Ort": "Dresden",
+      "PLZ": 1099,
+      "Ressort": "BMVg",
+      "Telefax": "+49 351 823 - 3653",
+      "Telefon": "+49 351 823 - 3031"
+    }
+  ]
+}

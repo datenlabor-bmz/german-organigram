@@ -1,0 +1,34 @@
+{
+  "Bundesland": "Bayern",
+  "E-Mail": "OSLwPresseundOeffentlichkeitsarbeit@bundeswehr.org",
+  "Hauptadresse": "Straße der Luftwaffe 352",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/offizierschule-der-luftwaffe",
+  "Land": "DE",
+  "Organisation": "Offizierschule der Luftwaffe",
+  "OrganisationDisplay": "OSLw",
+  "OrganisationId": 649498,
+  "OrganisationKurz": "OSLw",
+  "Ort": "Fürstenfeldbruck",
+  "PLZ": 82256,
+  "Ressort": "BMVg",
+  "Telefax": "+49 81 41 5360 2980",
+  "Telefon": "+49 81 41 5360 1110",
+  "locations": [
+    {
+      "Bundesland": "Bayern",
+      "E-Mail": "OSLwPresseundOeffentlichkeitsarbeit@bundeswehr.org",
+      "Hauptadresse": "Straße der Luftwaffe 352",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/luftwaffe/organisation-/luftwaffentruppenkommando/offizierschule-der-luftwaffe",
+      "Land": "DE",
+      "Organisation": "Offizierschule der Luftwaffe",
+      "OrganisationDisplay": "OSLw",
+      "OrganisationId": 649498,
+      "OrganisationKurz": "OSLw",
+      "Ort": "Fürstenfeldbruck",
+      "PLZ": 82256,
+      "Ressort": "BMVg",
+      "Telefax": "+49 81 41 5360 2980",
+      "Telefon": "+49 81 41 5360 1110"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "50.726894",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@bpb.de",
+  "Hauptadresse": "Bundeskanzlerplatz 2",
+  "Internetadresse": "https://www.bpb.de/",
+  "Land": "DE",
+  "Längengrad": "7.110608",
+  "Organisation": "Bundeszentrale für politische Bildung",
+  "OrganisationDisplay": "BpB",
+  "OrganisationId": 17944,
+  "OrganisationKurz": "BpB",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Ressort": "BMI",
+  "Telefax": "+49 22899 515-113",
+  "Telefon": "+49 22899 515-0",
+  "locations": [
+    {
+      "Breitengrad": "50.726894",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bpb.de",
+      "Hauptadresse": "Bundeskanzlerplatz 2",
+      "Internetadresse": "https://www.bpb.de/",
+      "Land": "DE",
+      "Längengrad": "7.110608",
+      "Organisation": "Bundeszentrale für politische Bildung",
+      "OrganisationDisplay": "BpB",
+      "OrganisationId": 17944,
+      "OrganisationKurz": "BpB",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Ressort": "BMI",
+      "Telefax": "+49 22899 515-113",
+      "Telefon": "+49 22899 515-0"
+    },
+    {
+      "Adresse": "Krausenstraße 4  / Ecke Friedrichstraße  ",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.bpb.de/",
+      "Land": "DE",
+      "Liegenschaft": "Medien - und Kommunikazionszentrum Berlin",
+      "LiegenschaftsId": 17938,
+      "OrganisationId": 17944,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 254504-22",
+      "Telefon": "+49 30 254504-0"
+    }
+  ]
+}

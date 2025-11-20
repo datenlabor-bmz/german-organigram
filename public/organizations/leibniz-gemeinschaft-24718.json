@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "52.532",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@leibniz-gemeinschaft.de",
+  "Hauptadresse": "Chausseestraße 111",
+  "Internetadresse": "https://www.leibniz-gemeinschaft.de/",
+  "Land": "DE",
+  "Längengrad": "13.3922",
+  "Organisation": "Leibniz-Gemeinschaft - Wissenschaftsgemeinschaft Gottfried Wilhelm Leibniz e. V.",
+  "OrganisationDisplay": "Leibniz-Gemeinschaft",
+  "OrganisationId": 24718,
+  "OrganisationKurz": "Leibniz-Gemeinschaft",
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Telefax": "+49 30 206049-55",
+  "Telefon": "+49 30 206049-0",
+  "Kategorie": "Leibniz-Institut",
+  "locations": [
+    {
+      "Breitengrad": "52.532",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@leibniz-gemeinschaft.de",
+      "Hauptadresse": "Chausseestraße 111",
+      "Internetadresse": "https://www.leibniz-gemeinschaft.de/",
+      "Land": "DE",
+      "Längengrad": "13.3922",
+      "Organisation": "Leibniz-Gemeinschaft - Wissenschaftsgemeinschaft Gottfried Wilhelm Leibniz e. V.",
+      "OrganisationDisplay": "Leibniz-Gemeinschaft",
+      "OrganisationId": 24718,
+      "OrganisationKurz": "Leibniz-Gemeinschaft",
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Telefax": "+49 30 206049-55",
+      "Telefon": "+49 30 206049-0",
+      "Kategorie": "Leibniz-Institut"
+    },
+    {
+      "Adresse": "Rue du Trône 98",
+      "E-Mail": "info-bxl@leibniz-association.eu",
+      "Internetadresse": "https://www.leibniz-gemeinschaft.de/",
+      "Land": "BE",
+      "Liegenschaft": "LG Büro Brüssel",
+      "LiegenschaftsId": 24716,
+      "OrganisationId": 24718,
+      "Ort": "Brüssel",
+      "PLZ": -1050,
+      "Telefax": "+32 2 27420-69",
+      "Telefon": "+32 2 27420-60"
+    }
+  ]
+}

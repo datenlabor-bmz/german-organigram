@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.353401",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "posteingang@bafg.de",
+  "Hauptadresse": "Am Mainzer Tor 1",
+  "Internetadresse": "https://www.bafg.de/DE/0_Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "7.598342",
+  "Organisation": "Bundesanstalt für Gewässerkunde",
+  "OrganisationDisplay": "BfG",
+  "OrganisationId": 17388,
+  "OrganisationKurz": "BfG",
+  "Ort": "Koblenz",
+  "PLZ": 56068,
+  "Ressort": "BMV",
+  "Telefon": "+49 261 1306-0",
+  "locations": [
+    {
+      "Breitengrad": "50.353401",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "posteingang@bafg.de",
+      "Hauptadresse": "Am Mainzer Tor 1",
+      "Internetadresse": "https://www.bafg.de/DE/0_Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "7.598342",
+      "Organisation": "Bundesanstalt für Gewässerkunde",
+      "OrganisationDisplay": "BfG",
+      "OrganisationId": 17388,
+      "OrganisationKurz": "BfG",
+      "Ort": "Koblenz",
+      "PLZ": 56068,
+      "Ressort": "BMV",
+      "Telefon": "+49 261 1306-0"
+    }
+  ]
+}

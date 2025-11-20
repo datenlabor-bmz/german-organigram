@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.589015",
+  "Bundesland": "Hamburg",
+  "E-Mail": "liv@leibniz-liv.de",
+  "Hauptadresse": "Martinistraße 52",
+  "Internetadresse": "https://www.leibniz-gemeinschaft.de/institute/leibniz-institute-alle-listen/leibniz-institut-fuer-virologie",
+  "Land": "DE",
+  "Längengrad": "9.976082",
+  "Organisation": "Leibniz-Institut für Virologie",
+  "OrganisationDisplay": "LIV",
+  "OrganisationId": 22182,
+  "OrganisationKurz": "LIV",
+  "Ort": "Hamburg",
+  "PLZ": 20251,
+  "Telefax": "+49 40 48051-103",
+  "Telefon": "+49 40 48051-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.589015",
+      "Bundesland": "Hamburg",
+      "E-Mail": "liv@leibniz-liv.de",
+      "Hauptadresse": "Martinistraße 52",
+      "Internetadresse": "https://www.leibniz-gemeinschaft.de/institute/leibniz-institute-alle-listen/leibniz-institut-fuer-virologie",
+      "Land": "DE",
+      "Längengrad": "9.976082",
+      "Organisation": "Leibniz-Institut für Virologie",
+      "OrganisationDisplay": "LIV",
+      "OrganisationId": 22182,
+      "OrganisationKurz": "LIV",
+      "Ort": "Hamburg",
+      "PLZ": 20251,
+      "Telefax": "+49 40 48051-103",
+      "Telefon": "+49 40 48051-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

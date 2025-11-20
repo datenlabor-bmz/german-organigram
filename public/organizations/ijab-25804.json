@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.700103",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@ijab.de",
+  "Hauptadresse": "Godesberger Allee 142 - 148",
+  "Internetadresse": "https://www.ijab.de",
+  "Land": "DE",
+  "Längengrad": "7.138362",
+  "Organisation": "IJAB - Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e. V.",
+  "OrganisationDisplay": "IJAB",
+  "OrganisationId": 25804,
+  "OrganisationKurz": "IJAB",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 9506-199",
+  "Telefon": "+49 228 9506-0",
+  "locations": [
+    {
+      "Breitengrad": "50.700103",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@ijab.de",
+      "Hauptadresse": "Godesberger Allee 142 - 148",
+      "Internetadresse": "https://www.ijab.de",
+      "Land": "DE",
+      "Längengrad": "7.138362",
+      "Organisation": "IJAB - Fachstelle für Internationale Jugendarbeit der Bundesrepublik Deutschland e. V.",
+      "OrganisationDisplay": "IJAB",
+      "OrganisationId": 25804,
+      "OrganisationKurz": "IJAB",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 9506-199",
+      "Telefon": "+49 228 9506-0"
+    }
+  ]
+}

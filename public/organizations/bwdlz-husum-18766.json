@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.489542",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "BwDLZHusum@bundeswehr.org",
+  "Hauptadresse": "Industriestraße 15",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-husum",
+  "Land": "DE",
+  "Längengrad": "9.07311",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Husum",
+  "OrganisationDisplay": "BwDLZ Husum",
+  "OrganisationId": 18766,
+  "OrganisationKurz": "BwDLZ Husum",
+  "Ort": "Husum",
+  "PLZ": 25813,
+  "Ressort": "BMVg",
+  "Telefon": "+49 4841 7765-0",
+  "locations": [
+    {
+      "Breitengrad": "54.489542",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "BwDLZHusum@bundeswehr.org",
+      "Hauptadresse": "Industriestraße 15",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-husum",
+      "Land": "DE",
+      "Längengrad": "9.07311",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Husum",
+      "OrganisationDisplay": "BwDLZ Husum",
+      "OrganisationId": 18766,
+      "OrganisationKurz": "BwDLZ Husum",
+      "Ort": "Husum",
+      "PLZ": 25813,
+      "Ressort": "BMVg",
+      "Telefon": "+49 4841 7765-0"
+    }
+  ]
+}

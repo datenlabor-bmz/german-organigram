@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.8016173",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@bw.aok.de",
+  "Hauptadresse": "Presselstraße 19",
+  "Internetadresse": "https://www.aok.de/pk/bw/",
+  "Land": "DE",
+  "Längengrad": "9.1850333",
+  "Organisation": "Allgemeine Ortskrankenkasse Baden-Württemberg",
+  "OrganisationDisplay": "AOK BW",
+  "OrganisationId": 13390,
+  "OrganisationKurz": "AOK BW",
+  "Ort": "Stuttgart",
+  "PLZ": 70191,
+  "Ressort": "BMG",
+  "Telefon": "+49 711 76161923",
+  "locations": [
+    {
+      "Breitengrad": "48.8016173",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@bw.aok.de",
+      "Hauptadresse": "Presselstraße 19",
+      "Internetadresse": "https://www.aok.de/pk/bw/",
+      "Land": "DE",
+      "Längengrad": "9.1850333",
+      "Organisation": "Allgemeine Ortskrankenkasse Baden-Württemberg",
+      "OrganisationDisplay": "AOK BW",
+      "OrganisationId": 13390,
+      "OrganisationKurz": "AOK BW",
+      "Ort": "Stuttgart",
+      "PLZ": 70191,
+      "Ressort": "BMG",
+      "Telefon": "+49 711 76161923"
+    }
+  ]
+}

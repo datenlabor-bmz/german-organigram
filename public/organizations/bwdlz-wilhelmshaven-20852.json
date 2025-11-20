@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.193237",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZWilhelmshaven@bundeswehr.org",
+  "Hauptadresse": "Rheinstraße 53",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-wilhelmshaven",
+  "Land": "DE",
+  "Längengrad": "11.985689",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Wilhelmshaven",
+  "OrganisationDisplay": "BwDLZ Wilhelmshaven",
+  "OrganisationId": 20852,
+  "OrganisationKurz": "BwDLZ Wilhelmshaven",
+  "Ort": "Wilhelmshaven",
+  "PLZ": 26382,
+  "Ressort": "BMVg",
+  "Telefon": "+49 4421 4838-0",
+  "locations": [
+    {
+      "Breitengrad": "51.193237",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZWilhelmshaven@bundeswehr.org",
+      "Hauptadresse": "Rheinstraße 53",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-wilhelmshaven",
+      "Land": "DE",
+      "Längengrad": "11.985689",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Wilhelmshaven",
+      "OrganisationDisplay": "BwDLZ Wilhelmshaven",
+      "OrganisationId": 20852,
+      "OrganisationKurz": "BwDLZ Wilhelmshaven",
+      "Ort": "Wilhelmshaven",
+      "PLZ": 26382,
+      "Ressort": "BMVg",
+      "Telefon": "+49 4421 4838-0"
+    }
+  ]
+}

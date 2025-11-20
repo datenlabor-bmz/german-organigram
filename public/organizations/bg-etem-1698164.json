@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.90909",
+  "Bundesland": "Nordrhein-Westfalen",
+  "Hauptadresse": "Gustav-Heinemann-Ufer 130",
+  "Internetadresse": "https://www.bgetem.de",
+  "Land": "DE",
+  "Längengrad": "6.975509",
+  "Organisation": "Berufsgenossenschaft Energie Textil Elektro Medienerzeugnisse",
+  "OrganisationDisplay": "BG ETEM",
+  "OrganisationId": 1698164,
+  "OrganisationKurz": "BG ETEM",
+  "Ort": "Köln",
+  "PLZ": 50968,
+  "Ressort": "BMAS",
+  "Telefax": "+49 221 3778-1199",
+  "Telefon": "+49 221 3778-0",
+  "locations": [
+    {
+      "Breitengrad": "50.90909",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Hauptadresse": "Gustav-Heinemann-Ufer 130",
+      "Internetadresse": "https://www.bgetem.de",
+      "Land": "DE",
+      "Längengrad": "6.975509",
+      "Organisation": "Berufsgenossenschaft Energie Textil Elektro Medienerzeugnisse",
+      "OrganisationDisplay": "BG ETEM",
+      "OrganisationId": 1698164,
+      "OrganisationKurz": "BG ETEM",
+      "Ort": "Köln",
+      "PLZ": 50968,
+      "Ressort": "BMAS",
+      "Telefax": "+49 221 3778-1199",
+      "Telefon": "+49 221 3778-0"
+    }
+  ]
+}

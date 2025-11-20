@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.335593",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "ZInstSanBwKiel@bundeswehr.org",
+  "Hauptadresse": "Kopperpahler Allee 120",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-sanitaetsdienst/zentrales-institut-des-sanitaetsdienstes-der-bundeswehr-kiel",
+  "Land": "DE",
+  "Längengrad": "10.0864867",
+  "Organisation": "Zentrales Institut des Sanitätsdienstes der Bundeswehr Kiel",
+  "OrganisationDisplay": "ZInstSanBwKiel ",
+  "OrganisationId": 12225044,
+  "OrganisationKurz": "ZInstSanBwKiel ",
+  "Ort": "Kronshagen",
+  "PLZ": 24119,
+  "Ressort": "BMVg",
+  "Telefax": "+49 431 5409-1598",
+  "Telefon": "+49 431 5409-1650",
+  "locations": [
+    {
+      "Breitengrad": "54.335593",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "ZInstSanBwKiel@bundeswehr.org",
+      "Hauptadresse": "Kopperpahler Allee 120",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-sanitaetsdienst/zentrales-institut-des-sanitaetsdienstes-der-bundeswehr-kiel",
+      "Land": "DE",
+      "Längengrad": "10.0864867",
+      "Organisation": "Zentrales Institut des Sanitätsdienstes der Bundeswehr Kiel",
+      "OrganisationDisplay": "ZInstSanBwKiel ",
+      "OrganisationId": 12225044,
+      "OrganisationKurz": "ZInstSanBwKiel ",
+      "Ort": "Kronshagen",
+      "PLZ": 24119,
+      "Ressort": "BMVg",
+      "Telefax": "+49 431 5409-1598",
+      "Telefon": "+49 431 5409-1650"
+    }
+  ]
+}

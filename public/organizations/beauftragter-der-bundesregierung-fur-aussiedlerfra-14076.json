@@ -1,0 +1,505 @@
+{
+  "Breitengrad": "52.52263",
+  "Bundesland": "Berlin",
+  "E-Mail": "BAFabritius@bmi.bund.de",
+  "Hauptadresse": "Alt-Moabit 140",
+  "Internetadresse": "https://www.aussiedlerbeauftragte.de/Webs/AUSB/DE/startseite/startseite-node.html",
+  "Land": "DE",
+  "Längengrad": "13.36342",
+  "Organisation": "Beauftragter der Bundesregierung für Aussiedlerfragen und nationale Minderheiten",
+  "OrganisationDisplay": "B Aussiedler",
+  "OrganisationId": 14076,
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 18 681-11138",
+  "Telefon": "+49 30 18 681-11120",
+  "Kategorie": "Beauftragter",
+  "Wikidata ID": "Q813384",
+  "locations": [
+    {
+      "Breitengrad": "52.52263",
+      "Bundesland": "Berlin",
+      "E-Mail": "BAFabritius@bmi.bund.de",
+      "Hauptadresse": "Alt-Moabit 140",
+      "Internetadresse": "https://www.aussiedlerbeauftragte.de/Webs/AUSB/DE/startseite/startseite-node.html",
+      "Land": "DE",
+      "Längengrad": "13.36342",
+      "Organisation": "Beauftragter der Bundesregierung für Aussiedlerfragen und nationale Minderheiten",
+      "OrganisationDisplay": "B Aussiedler",
+      "OrganisationId": 14076,
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 18 681-11138",
+      "Telefon": "+49 30 18 681-11120",
+      "Kategorie": "Beauftragter",
+      "Wikidata ID": "Q813384"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q813384",
+    "data": {
+      "type": "item",
+      "id": "Q813384",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Beauftragter der Bundesregierung für Aussiedlerfragen und nationale Minderheiten"
+        },
+        "en": {
+          "language": "en",
+          "value": "Federal Government Commissioner for Matters Related to Ethnic German Resettlers and National Minorities"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "im Bundesinnenministerium angesiedeltes Amt"
+        },
+        "en": {
+          "language": "en",
+          "value": "at the Federal Ministry of the Interior"
+        }
+      },
+      "claims": {
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "757fdd6d04dbf016b43e483e763a1b01c31841fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005815,
+                  "id": "Q1005815"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$9fdb1b6a-4c24-fa47-92b9-94bb1d09276f",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "18d11a78b9c080b94c0616506372883269b8faf4",
+              "datavalue": {
+                "value": {
+                  "time": "+1988-09-28T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q813384$835e0f1a-48d7-2b54-2639-fe0a3f8bbc9e",
+            "rank": "normal"
+          }
+        ],
+        "P1448": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1448",
+              "hash": "d2f6b5b9b869139f8d56d3b38b743ddfe754fcb4",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragter der Bundesregierung für Aussiedlerfragen",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "100c545e5d22056bcbc5b1ffb876a5e0c2a06b47",
+                  "datavalue": {
+                    "value": {
+                      "time": "+1988-09-28T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "25858fdcc2e028bc6d1a65ac2d38e1e1f64e5cd4",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-11-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P582"
+            ],
+            "id": "Q813384$303c9d0f-4710-12ab-931a-4c4053aa8fbe",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1448",
+              "hash": "688c1afdb97c32f036a64e4ef8ec4e9f6400fb1e",
+              "datavalue": {
+                "value": {
+                  "text": "Beauftragter der Bundesregierung für Aussiedlerfragen und nationale Minderheiten",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "ecdb47768e2f7ed1255fcfa42414f7ea8df19b2d",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2002-11-20T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q813384$6dbe2adc-485f-d01a-664d-e7c2e6334e9d",
+            "rank": "preferred"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "5438df05709624268d45cf0e565e338779a32167",
+              "datavalue": {
+                "value": "10065598-1",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q813384$31BBBCDD-6643-4D96-BB45-FD7E8344C80F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                "snaks": {
+                  "P143": [
+                    {
+                      "snaktype": "value",
+                      "property": "P143",
+                      "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 48183,
+                          "id": "Q48183"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P143"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4164871,
+                  "id": "Q4164871"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$B8786C8A-917E-434E-BC29-4BB2FC1D4E48",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "f2a919b6a46764bf1699f00e29f03165c012546d",
+              "datavalue": {
+                "value": "48",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q813384$0F88CE53-E741-46FD-9A68-7A9A6A076481",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$4240913B-C03E-40E6-897C-D431CD34BCA7",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$264f3473-4a54-8403-df4d-fbf54ebf03f9",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "f920efda4428993b2ec296f5443b464e0931b59a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 89161,
+                  "id": "Q89161"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$5ee04d4b-4594-9e98-8b96-b38f95f838d0",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "10a19a17401b9427d9a7f49d16988fd113c4d7f6",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 769696,
+                  "id": "Q769696"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$e8659170-4b50-276b-cd4f-f42ba43cd938",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "d80f51768b6f1a6461ff73e75a17b78f5abbd4c6",
+              "datavalue": {
+                "value": "https://www.aussiedlerbeauftragter.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q813384$f3170c24-4716-5152-b971-26e87ef34d01",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "fa60fab1e4f59a7b25974e49193eebad4af3f9b3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 502698,
+                  "id": "Q502698"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813384$cbaa3621-4210-7a87-924d-c735c0a8ae57",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "58e27565c786d2d938ce9264a143e28bcc70e9b8",
+              "datavalue": {
+                "value": "/g/120r4kwn",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q813384$73A59971-8213-40C4-918D-5B7213B2E822",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Beauftragter der Bundesregierung für Aussiedlerfragen und nationale Minderheiten",
+          "badges": []
+        },
+        "ndswiki": {
+          "site": "ndswiki",
+          "title": "Beopdragter vun de Bundsregeren för Utsiedlerfragen un natschonale Minnerheiten",
+          "badges": []
+        },
+        "ruwiki": {
+          "site": "ruwiki",
+          "title": "Уполномоченный Федерального правительства Германии по делам переселенцев и национальных меньшинств",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q502698": {
+        "type": "item",
+        "id": "Q502698",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of the Interior"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium des Innern"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of the Interior of Germany"
+          }
+        }
+      },
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      }
+    }
+  }
+}

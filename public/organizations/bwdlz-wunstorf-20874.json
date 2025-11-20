@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.465247",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZWunstorf@bundeswehr.org",
+  "Hauptadresse": "Am Dänenberg 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-wunstorf",
+  "Land": "DE",
+  "Längengrad": "9.436465",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Wunstorf",
+  "OrganisationDisplay": "BwDLZ Wunstorf",
+  "OrganisationId": 20874,
+  "OrganisationKurz": "BwDLZ Wunstorf",
+  "Ort": "Wunstorf",
+  "PLZ": 31515,
+  "Ressort": "BMVg",
+  "Telefax": "+49 5031 405-2015",
+  "Telefon": "+49 5031 405-0",
+  "locations": [
+    {
+      "Breitengrad": "52.465247",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZWunstorf@bundeswehr.org",
+      "Hauptadresse": "Am Dänenberg 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-wunstorf",
+      "Land": "DE",
+      "Längengrad": "9.436465",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Wunstorf",
+      "OrganisationDisplay": "BwDLZ Wunstorf",
+      "OrganisationId": 20874,
+      "OrganisationKurz": "BwDLZ Wunstorf",
+      "Ort": "Wunstorf",
+      "PLZ": 31515,
+      "Ressort": "BMVg",
+      "Telefax": "+49 5031 405-2015",
+      "Telefon": "+49 5031 405-0"
+    }
+  ]
+}

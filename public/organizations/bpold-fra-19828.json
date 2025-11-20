@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.051225",
+  "Bundesland": "Hessen",
+  "E-Mail": "bpold.frankfurt@polizei.bund.de",
+  "Hauptadresse": "Flughafen ",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Frankfurt/frankfurt_node.html",
+  "Land": "DE",
+  "Längengrad": "8.571722",
+  "Organisation": "Bundespolizeidirektion Flughafen Frankfurt/Main",
+  "OrganisationDisplay": "BPOLD FRA",
+  "OrganisationId": 19828,
+  "OrganisationKurz": "BPOLD FRA",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60549,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 204 561-4160",
+  "Telefon": "+49 69 6800-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "50.051225",
+      "Bundesland": "Hessen",
+      "E-Mail": "bpold.frankfurt@polizei.bund.de",
+      "Hauptadresse": "Flughafen ",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Frankfurt/frankfurt_node.html",
+      "Land": "DE",
+      "Längengrad": "8.571722",
+      "Organisation": "Bundespolizeidirektion Flughafen Frankfurt/Main",
+      "OrganisationDisplay": "BPOLD FRA",
+      "OrganisationId": 19828,
+      "OrganisationKurz": "BPOLD FRA",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60549,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 204 561-4160",
+      "Telefon": "+49 69 6800-0",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

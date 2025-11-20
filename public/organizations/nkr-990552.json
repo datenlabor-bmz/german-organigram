@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "nkr@bmj.bund.de",
+  "Hauptadresse": "Mohrenstraße 37",
+  "Internetadresse": "https://www.normenkontrollrat.bund.de/Webs/NKR/DE/home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Nationaler Normenkontrollrat",
+  "OrganisationDisplay": "NKR",
+  "OrganisationId": 990552,
+  "OrganisationKurz": "NKR",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 3018 580-1234",
+  "Telefon": "+49 3018 580-8245",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "nkr@bmj.bund.de",
+      "Hauptadresse": "Mohrenstraße 37",
+      "Internetadresse": "https://www.normenkontrollrat.bund.de/Webs/NKR/DE/home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Nationaler Normenkontrollrat",
+      "OrganisationDisplay": "NKR",
+      "OrganisationId": 990552,
+      "OrganisationKurz": "NKR",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 3018 580-1234",
+      "Telefon": "+49 3018 580-8245"
+    }
+  ]
+}

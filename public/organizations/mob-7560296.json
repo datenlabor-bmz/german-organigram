@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.5372594",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "information.mob@herne.de",
+  "Hauptadresse": "Berliner Platz 5",
+  "Internetadresse": "https://www.martin-opitz-bibliothek.de/de",
+  "Land": "DE",
+  "Längengrad": "7.2227856",
+  "Organisation": "Stiftung Martin-Opitz-Bibliothek",
+  "OrganisationDisplay": "MOB",
+  "OrganisationId": 7560296,
+  "OrganisationKurz": "MOB",
+  "Ort": "Herne",
+  "PLZ": 44623,
+  "Telefax": "+49 2323 16-2609",
+  "Telefon": "+49 2323 16-2805",
+  "locations": [
+    {
+      "Breitengrad": "51.5372594",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "information.mob@herne.de",
+      "Hauptadresse": "Berliner Platz 5",
+      "Internetadresse": "https://www.martin-opitz-bibliothek.de/de",
+      "Land": "DE",
+      "Längengrad": "7.2227856",
+      "Organisation": "Stiftung Martin-Opitz-Bibliothek",
+      "OrganisationDisplay": "MOB",
+      "OrganisationId": 7560296,
+      "OrganisationKurz": "MOB",
+      "Ort": "Herne",
+      "PLZ": 44623,
+      "Telefax": "+49 2323 16-2609",
+      "Telefon": "+49 2323 16-2805"
+    }
+  ]
+}

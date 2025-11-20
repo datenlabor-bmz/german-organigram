@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "50.980054",
+  "Bundesland": "Thüringen",
+  "E-Mail": "info@klassik-stiftung.de",
+  "Hauptadresse": "Burgplatz 4",
+  "Internetadresse": "https://www.klassik-stiftung.de/",
+  "Land": "DE",
+  "Längengrad": "11.331258",
+  "Organisation": "Klassik Stiftung Weimar",
+  "OrganisationDisplay": "KSW",
+  "OrganisationId": 26334,
+  "Ort": "Weimar",
+  "PLZ": 99423,
+  "Telefax": "+49 3643 545-454",
+  "Telefon": "+49 3643 545-0",
+  "locations": [
+    {
+      "Breitengrad": "50.980054",
+      "Bundesland": "Thüringen",
+      "E-Mail": "info@klassik-stiftung.de",
+      "Hauptadresse": "Burgplatz 4",
+      "Internetadresse": "https://www.klassik-stiftung.de/",
+      "Land": "DE",
+      "Längengrad": "11.331258",
+      "Organisation": "Klassik Stiftung Weimar",
+      "OrganisationDisplay": "KSW",
+      "OrganisationId": 26334,
+      "Ort": "Weimar",
+      "PLZ": 99423,
+      "Telefax": "+49 3643 545-454",
+      "Telefon": "+49 3643 545-0"
+    }
+  ]
+}

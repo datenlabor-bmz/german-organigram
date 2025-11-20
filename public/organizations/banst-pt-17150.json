@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "50.691441",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "stab@banst-pt.de",
+  "Hauptadresse": "Friesdorfer Straße 123",
+  "Internetadresse": "https://www.banst-pt.de",
+  "Land": "DE",
+  "Längengrad": "7.138968",
+  "Organisation": "Bundesanstalt für Post und Telekommunikation Deutsche Bundespost",
+  "OrganisationDisplay": "BAnst PT",
+  "OrganisationId": 17150,
+  "OrganisationKurz": "BAnst PT",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 9744-870",
+  "Telefon": "+49 228 9744-0",
+  "locations": [
+    {
+      "Breitengrad": "50.691441",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "stab@banst-pt.de",
+      "Hauptadresse": "Friesdorfer Straße 123",
+      "Internetadresse": "https://www.banst-pt.de",
+      "Land": "DE",
+      "Längengrad": "7.138968",
+      "Organisation": "Bundesanstalt für Post und Telekommunikation Deutsche Bundespost",
+      "OrganisationDisplay": "BAnst PT",
+      "OrganisationId": 17150,
+      "OrganisationKurz": "BAnst PT",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 9744-870",
+      "Telefon": "+49 228 9744-0"
+    },
+    {
+      "Adresse": "Nauheimer Straße  98",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "webmaster@banst-pt.de",
+      "Internetadresse": "https://www.banst-pt.de",
+      "Land": "DE",
+      "Liegenschaft": "Außenstelle Stuttgart",
+      "LiegenschaftsId": 17146,
+      "OrganisationId": 17150,
+      "Ort": "Stuttgart",
+      "PLZ": 70372,
+      "Telefax": "+49 228 9744-870",
+      "Telefon": "+49 711 1356-0"
+    }
+  ]
+}

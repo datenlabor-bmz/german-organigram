@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.119444",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@germany.travel",
+  "Hauptadresse": "Beethovenstraße 69",
+  "Internetadresse": "https://www.germany.travel/de/ueber-uns/uebersicht.html",
+  "Land": "DE",
+  "Längengrad": "8.656735",
+  "Organisation": "Deutsche Zentrale für Tourismus e. V.",
+  "OrganisationDisplay": "DZT",
+  "OrganisationId": 23708,
+  "OrganisationKurz": "DZT",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60325,
+  "Telefax": "+49 69 751903",
+  "Telefon": "+49 69 974640",
+  "locations": [
+    {
+      "Breitengrad": "50.119444",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@germany.travel",
+      "Hauptadresse": "Beethovenstraße 69",
+      "Internetadresse": "https://www.germany.travel/de/ueber-uns/uebersicht.html",
+      "Land": "DE",
+      "Längengrad": "8.656735",
+      "Organisation": "Deutsche Zentrale für Tourismus e. V.",
+      "OrganisationDisplay": "DZT",
+      "OrganisationId": 23708,
+      "OrganisationKurz": "DZT",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60325,
+      "Telefax": "+49 69 751903",
+      "Telefon": "+49 69 974640"
+    }
+  ]
+}

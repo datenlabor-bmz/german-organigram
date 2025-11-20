@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.5693928",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Max-Planck-Straße 17",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/zentrale-abbildende-aufklaerung",
+  "Land": "DE",
+  "Längengrad": "7.0331905",
+  "Organisation": "Zentrale Abbildende Aufklärung",
+  "OrganisationDisplay": "ZAbbAufkl",
+  "OrganisationId": 11887270,
+  "OrganisationKurz": "ZAbbAufkl",
+  "Ort": "Grafschaft-Gelsdorf",
+  "PLZ": 53501,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2225 93 421-0",
+  "locations": [
+    {
+      "Breitengrad": "50.5693928",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Max-Planck-Straße 17",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/zentrale-abbildende-aufklaerung",
+      "Land": "DE",
+      "Längengrad": "7.0331905",
+      "Organisation": "Zentrale Abbildende Aufklärung",
+      "OrganisationDisplay": "ZAbbAufkl",
+      "OrganisationId": 11887270,
+      "OrganisationKurz": "ZAbbAufkl",
+      "Ort": "Grafschaft-Gelsdorf",
+      "PLZ": 53501,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2225 93 421-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@alliiertenmuseum.de",
+  "Hauptadresse": "Clayallee 135",
+  "Internetadresse": "https://www.alliiertenmuseum.de",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "AlliiertenMuseum e. V.",
+  "OrganisationDisplay": "AMeV",
+  "OrganisationId": 7566370,
+  "OrganisationKurz": "AMeV",
+  "Ort": "Berlin",
+  "PLZ": 14195,
+  "Ressort": "BKM",
+  "Telefon": "+49 30 818199-0",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@alliiertenmuseum.de",
+      "Hauptadresse": "Clayallee 135",
+      "Internetadresse": "https://www.alliiertenmuseum.de",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "AlliiertenMuseum e. V.",
+      "OrganisationDisplay": "AMeV",
+      "OrganisationId": 7566370,
+      "OrganisationKurz": "AMeV",
+      "Ort": "Berlin",
+      "PLZ": 14195,
+      "Ressort": "BKM",
+      "Telefon": "+49 30 818199-0"
+    }
+  ]
+}

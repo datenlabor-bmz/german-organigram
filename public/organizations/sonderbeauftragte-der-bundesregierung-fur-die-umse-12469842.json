@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bmwe.bund.de",
+  "Hauptadresse": "Scharnhorststraße 34 - 37",
+  "Internetadresse": "https://www.bmwk.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-brantner.html",
+  "Land": "DE",
+  "Längengrad": "13.376935 ",
+  "Organisation": "Sonderbeauftragte der Bundesregierung für die Umsetzung der internationalen Initiative für mehr Transparenz im rohstoffgewinnenden Sektor (Extractive Industries Transparency Initiative - EITI) in Deutschland (D-EITI)",
+  "OrganisationDisplay": "D-EITI",
+  "OrganisationId": 12469842,
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BMWE",
+  "Telefon": "+49 30 18615-0",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bmwe.bund.de",
+      "Hauptadresse": "Scharnhorststraße 34 - 37",
+      "Internetadresse": "https://www.bmwk.de/Redaktion/DE/Dossier/Visitenkarten/visitenkarte-brantner.html",
+      "Land": "DE",
+      "Längengrad": "13.376935 ",
+      "Organisation": "Sonderbeauftragte der Bundesregierung für die Umsetzung der internationalen Initiative für mehr Transparenz im rohstoffgewinnenden Sektor (Extractive Industries Transparency Initiative - EITI) in Deutschland (D-EITI)",
+      "OrganisationDisplay": "D-EITI",
+      "OrganisationId": 12469842,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BMWE",
+      "Telefon": "+49 30 18615-0",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

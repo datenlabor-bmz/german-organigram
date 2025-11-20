@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.15257",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "BwFachSNaumburg@bundeswehr.org",
+  "Hauptadresse": "Kösener Straße 50",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-naumburg-87172",
+  "Land": "DE",
+  "Längengrad": "11.790084",
+  "Organisation": "Bundeswehrfachschule Naumburg",
+  "OrganisationDisplay": "BwFachS Naumburg",
+  "OrganisationId": 17674,
+  "OrganisationKurz": "BwFachS Naumburg",
+  "Ort": "Naumburg",
+  "PLZ": 6618,
+  "Ressort": "BMVg",
+  "Telefax": "+49 3443 33-1908",
+  "Telefon": "+49 3443 33-0",
+  "locations": [
+    {
+      "Breitengrad": "51.15257",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "BwFachSNaumburg@bundeswehr.org",
+      "Hauptadresse": "Kösener Straße 50",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-naumburg-87172",
+      "Land": "DE",
+      "Längengrad": "11.790084",
+      "Organisation": "Bundeswehrfachschule Naumburg",
+      "OrganisationDisplay": "BwFachS Naumburg",
+      "OrganisationId": 17674,
+      "OrganisationKurz": "BwFachS Naumburg",
+      "Ort": "Naumburg",
+      "PLZ": 6618,
+      "Ressort": "BMVg",
+      "Telefax": "+49 3443 33-1908",
+      "Telefon": "+49 3443 33-0"
+    }
+  ]
+}

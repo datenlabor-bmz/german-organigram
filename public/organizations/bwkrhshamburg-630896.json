@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.5938059",
+  "Bundesland": "Hamburg",
+  "E-Mail": "BwkrhsHamburg@bundeswehr.org",
+  "Hauptadresse": "Lesserstraße 180",
+  "Internetadresse": "https://hamburg.bwkrankenhaus.de/startseite.html",
+  "Land": "DE",
+  "Längengrad": "10.0744894",
+  "Organisation": "Bundeswehrkrankenhaus-Hamburg",
+  "OrganisationDisplay": "BwKrhsHamburg ",
+  "OrganisationId": 630896,
+  "OrganisationKurz": "BwKrhsHamburg ",
+  "Ort": "Hamburg",
+  "PLZ": 22049,
+  "Ressort": "BMVg",
+  "Telefax": "+49 40 6947-2930",
+  "Telefon": "+49 40 6947-0",
+  "locations": [
+    {
+      "Breitengrad": "53.5938059",
+      "Bundesland": "Hamburg",
+      "E-Mail": "BwkrhsHamburg@bundeswehr.org",
+      "Hauptadresse": "Lesserstraße 180",
+      "Internetadresse": "https://hamburg.bwkrankenhaus.de/startseite.html",
+      "Land": "DE",
+      "Längengrad": "10.0744894",
+      "Organisation": "Bundeswehrkrankenhaus-Hamburg",
+      "OrganisationDisplay": "BwKrhsHamburg ",
+      "OrganisationId": 630896,
+      "OrganisationKurz": "BwKrhsHamburg ",
+      "Ort": "Hamburg",
+      "PLZ": 22049,
+      "Ressort": "BMVg",
+      "Telefax": "+49 40 6947-2930",
+      "Telefon": "+49 40 6947-0"
+    }
+  ]
+}

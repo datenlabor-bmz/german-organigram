@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.711811",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "gwk@gwk-bonn.de",
+  "Hauptadresse": "Godesberger Allee 20",
+  "Internetadresse": "https://www.gwk-bonn.de/",
+  "Land": "DE",
+  "Längengrad": "7.126008",
+  "Organisation": "Büro der Gemeinsamen Wissenschaftskonferenz",
+  "OrganisationDisplay": "GWK",
+  "OrganisationId": 25734,
+  "OrganisationKurz": "GWK",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 99 5402-150",
+  "Telefon": "+49 228 99 5402-0",
+  "locations": [
+    {
+      "Breitengrad": "50.711811",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "gwk@gwk-bonn.de",
+      "Hauptadresse": "Godesberger Allee 20",
+      "Internetadresse": "https://www.gwk-bonn.de/",
+      "Land": "DE",
+      "Längengrad": "7.126008",
+      "Organisation": "Büro der Gemeinsamen Wissenschaftskonferenz",
+      "OrganisationDisplay": "GWK",
+      "OrganisationId": 25734,
+      "OrganisationKurz": "GWK",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 99 5402-150",
+      "Telefon": "+49 228 99 5402-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.0773339",
+  "Bundesland": "Sachsen",
+  "E-Mail": "LKdoSNZentralerPosteingang@bundeswehr.org",
+  "Hauptadresse": "Marienallee 14",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-sachsen",
+  "Land": "DE",
+  "Längengrad": "13.7694684",
+  "Organisation": "Landeskommando Sachsen",
+  "OrganisationDisplay": "LKdo SN",
+  "OrganisationId": 12072006,
+  "OrganisationKurz": "LKdo SN",
+  "Ort": "Dresden",
+  "PLZ": 1099,
+  "Ressort": "BMVg",
+  "Telefax": "+49 351 823 4263",
+  "Telefon": "+49 351 823 4237",
+  "locations": [
+    {
+      "Breitengrad": "51.0773339",
+      "Bundesland": "Sachsen",
+      "E-Mail": "LKdoSNZentralerPosteingang@bundeswehr.org",
+      "Hauptadresse": "Marienallee 14",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-sachsen",
+      "Land": "DE",
+      "Längengrad": "13.7694684",
+      "Organisation": "Landeskommando Sachsen",
+      "OrganisationDisplay": "LKdo SN",
+      "OrganisationId": 12072006,
+      "OrganisationKurz": "LKdo SN",
+      "Ort": "Dresden",
+      "PLZ": 1099,
+      "Ressort": "BMVg",
+      "Telefax": "+49 351 823 4263",
+      "Telefon": "+49 351 823 4237"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.705183",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "KdoSKBPIZSKB@bundeswehr.org",
+  "Hauptadresse": "Fontaingraben 150",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis",
+  "Land": "DE",
+  "Längengrad": "7.046334",
+  "Organisation": "Kommando Streitkräftebasis",
+  "OrganisationDisplay": "KdoSKB",
+  "OrganisationId": 12037430,
+  "OrganisationKurz": "KdoSKB",
+  "Ort": "Bonn",
+  "PLZ": 53123,
+  "Ressort": "BMVg",
+  "Telefax": "+49 228 5504-1112",
+  "Telefon": "+49 228 5504-1112",
+  "locations": [
+    {
+      "Breitengrad": "50.705183",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "KdoSKBPIZSKB@bundeswehr.org",
+      "Hauptadresse": "Fontaingraben 150",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis",
+      "Land": "DE",
+      "Längengrad": "7.046334",
+      "Organisation": "Kommando Streitkräftebasis",
+      "OrganisationDisplay": "KdoSKB",
+      "OrganisationId": 12037430,
+      "OrganisationKurz": "KdoSKB",
+      "Ort": "Bonn",
+      "PLZ": 53123,
+      "Ressort": "BMVg",
+      "Telefax": "+49 228 5504-1112",
+      "Telefon": "+49 228 5504-1112"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.3556746",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@dbfz.de",
+  "Hauptadresse": "Torgauer Straße 116",
+  "Internetadresse": "https://www.dbfz.de/",
+  "Land": "DE",
+  "Längengrad": "12.4371054",
+  "Organisation": "DBFZ Deutsches Biomasseforschungszentrum gemeinnützige GmbH",
+  "OrganisationDisplay": "DBFZ",
+  "OrganisationId": 995614,
+  "OrganisationKurz": "DBFZ",
+  "Ort": "Leipzig",
+  "PLZ": 4347,
+  "Telefon": "+49 341 2434-112",
+  "locations": [
+    {
+      "Breitengrad": "51.3556746",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@dbfz.de",
+      "Hauptadresse": "Torgauer Straße 116",
+      "Internetadresse": "https://www.dbfz.de/",
+      "Land": "DE",
+      "Längengrad": "12.4371054",
+      "Organisation": "DBFZ Deutsches Biomasseforschungszentrum gemeinnützige GmbH",
+      "OrganisationDisplay": "DBFZ",
+      "OrganisationId": 995614,
+      "OrganisationKurz": "DBFZ",
+      "Ort": "Leipzig",
+      "PLZ": 4347,
+      "Telefon": "+49 341 2434-112"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.511131",
+  "Bundesland": "Berlin",
+  "E-Mail": "buero@bundesstiftung-aufarbeitung.de",
+  "Hauptadresse": "Kronenstraße 5",
+  "Internetadresse": "https://www.bundesstiftung-aufarbeitung.de/de/start",
+  "Land": "DE",
+  "Längengrad": "13.387705",
+  "Organisation": "Bundesstiftung zur Aufarbeitung der SED-Diktatur",
+  "OrganisationDisplay": "STAA",
+  "OrganisationId": 26504,
+  "OrganisationKurz": "STAA",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BKM",
+  "Telefax": "+49 30 3198 95-210",
+  "Telefon": "+49 30 3198 95-0",
+  "locations": [
+    {
+      "Breitengrad": "52.511131",
+      "Bundesland": "Berlin",
+      "E-Mail": "buero@bundesstiftung-aufarbeitung.de",
+      "Hauptadresse": "Kronenstraße 5",
+      "Internetadresse": "https://www.bundesstiftung-aufarbeitung.de/de/start",
+      "Land": "DE",
+      "Längengrad": "13.387705",
+      "Organisation": "Bundesstiftung zur Aufarbeitung der SED-Diktatur",
+      "OrganisationDisplay": "STAA",
+      "OrganisationId": 26504,
+      "OrganisationKurz": "STAA",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BKM",
+      "Telefax": "+49 30 3198 95-210",
+      "Telefon": "+49 30 3198 95-0"
+    }
+  ]
+}

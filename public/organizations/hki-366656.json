@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.9091815",
+  "Bundesland": "Thüringen",
+  "E-Mail": "info@leibniz-hki.de",
+  "Hauptadresse": "Beutenbergstraße 11a",
+  "Internetadresse": "https://www.leibniz-hki.de",
+  "Land": "DE",
+  "Längengrad": "11.5728625",
+  "Organisation": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie - Hans-Knöll-Institut e. V.",
+  "OrganisationDisplay": "HKI",
+  "OrganisationId": 366656,
+  "OrganisationKurz": "HKI",
+  "Ort": "Jena",
+  "PLZ": 7745,
+  "Telefax": "+49 3641 532-0800",
+  "Telefon": "+49 3641 532-1000",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.9091815",
+      "Bundesland": "Thüringen",
+      "E-Mail": "info@leibniz-hki.de",
+      "Hauptadresse": "Beutenbergstraße 11a",
+      "Internetadresse": "https://www.leibniz-hki.de",
+      "Land": "DE",
+      "Längengrad": "11.5728625",
+      "Organisation": "Leibniz-Institut für Naturstoff-Forschung und Infektionsbiologie - Hans-Knöll-Institut e. V.",
+      "OrganisationDisplay": "HKI",
+      "OrganisationId": 366656,
+      "OrganisationKurz": "HKI",
+      "Ort": "Jena",
+      "PLZ": 7745,
+      "Telefax": "+49 3641 532-0800",
+      "Telefon": "+49 3641 532-1000",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

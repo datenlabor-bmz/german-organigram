@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.50517",
+  "Bundesland": "Berlin",
+  "E-Mail": "Berlin-Brandenburg@arbeitsagentur.de",
+  "Hauptadresse": "Friedrichstraße 34",
+  "Internetadresse": "https://www.arbeitsagentur.de/vor-ort/rd-bb/startseite",
+  "Land": "DE",
+  "Längengrad": "13.390725",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Berlin Brandenburg",
+  "OrganisationDisplay": "BA-RD-BE-BB",
+  "OrganisationId": 15510,
+  "OrganisationKurz": "BA-RD-BE-BB",
+  "Ort": "Berlin",
+  "PLZ": 10969,
+  "Ressort": "BMAS",
+  "Telefax": "+49 30 555599-4999",
+  "Telefon": "+49 30 555599-5599",
+  "locations": [
+    {
+      "Breitengrad": "52.50517",
+      "Bundesland": "Berlin",
+      "E-Mail": "Berlin-Brandenburg@arbeitsagentur.de",
+      "Hauptadresse": "Friedrichstraße 34",
+      "Internetadresse": "https://www.arbeitsagentur.de/vor-ort/rd-bb/startseite",
+      "Land": "DE",
+      "Längengrad": "13.390725",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Berlin Brandenburg",
+      "OrganisationDisplay": "BA-RD-BE-BB",
+      "OrganisationId": 15510,
+      "OrganisationKurz": "BA-RD-BE-BB",
+      "Ort": "Berlin",
+      "PLZ": 10969,
+      "Ressort": "BMAS",
+      "Telefax": "+49 30 555599-4999",
+      "Telefon": "+49 30 555599-5599"
+    }
+  ]
+}

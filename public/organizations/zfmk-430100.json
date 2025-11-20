@@ -1,0 +1,42 @@
+{
+  "Breitengrad": "50.721785",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@leibniz-lib.de",
+  "Hauptadresse": "Adenauerallee 160",
+  "Internetadresse": "https://bonn.leibniz-lib.de/de/zoologisches-forschungs-museum-alexander-koenig",
+  "Land": "DE",
+  "Längengrad": "7.1144306",
+  "Organisation": "Zoologisches Forschungsmuseum Alexander König - Leibniz-Institut für Biodiversität der Tiere",
+  "OrganisationDisplay": "ZFMK",
+  "OrganisationId": 430100,
+  "OrganisationKurz": "ZFMK",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 228 9122-212",
+  "Telefon": "+49 228 9122-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.721785",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@leibniz-lib.de",
+      "Hauptadresse": "Adenauerallee 160",
+      "Internetadresse": "https://bonn.leibniz-lib.de/de/zoologisches-forschungs-museum-alexander-koenig",
+      "Land": "DE",
+      "Längengrad": "7.1144306",
+      "Organisation": "Zoologisches Forschungsmuseum Alexander König - Leibniz-Institut für Biodiversität der Tiere",
+      "OrganisationDisplay": "ZFMK",
+      "OrganisationId": 430100,
+      "OrganisationKurz": "ZFMK",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 228 9122-212",
+      "Telefon": "+49 228 9122-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.713456",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "BwDLZIdarOberstein@bundeswehr.org",
+  "Hauptadresse": "Am Rilchenberg 61",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-idar-oberstein",
+  "Land": "DE",
+  "Längengrad": "7.3035",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Idar-Oberstein",
+  "OrganisationDisplay": "BwDLZ Idar-Oberstein",
+  "OrganisationId": 18788,
+  "OrganisationKurz": "BwDLZ Idar-Oberstein",
+  "Ort": "Idar-Oberstein",
+  "PLZ": 55743,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6781-51 0",
+  "locations": [
+    {
+      "Breitengrad": "49.713456",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "BwDLZIdarOberstein@bundeswehr.org",
+      "Hauptadresse": "Am Rilchenberg 61",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-idar-oberstein",
+      "Land": "DE",
+      "Längengrad": "7.3035",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Idar-Oberstein",
+      "OrganisationDisplay": "BwDLZ Idar-Oberstein",
+      "OrganisationId": 18788,
+      "OrganisationKurz": "BwDLZ Idar-Oberstein",
+      "Ort": "Idar-Oberstein",
+      "PLZ": 55743,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6781-51 0"
+    }
+  ]
+}

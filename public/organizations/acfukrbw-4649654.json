@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.9024734",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "ac-bewerbung@bundeswehr.org",
+  "Hauptadresse": "Kölner Straße 262",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/organisation-/bundesamt-fuer-das-personalmanagement-der-bundeswehr-/assessmentcenter-fuer-fuehrungskraefte-der-bundeswehr-",
+  "Land": "DE",
+  "Längengrad": "7.02441740",
+  "Organisation": "Assessmentcenter für Führungskräfte der Bundeswehr",
+  "OrganisationDisplay": "ACFüKrBw",
+  "OrganisationId": 4649654,
+  "OrganisationKurz": "ACFüKrBw",
+  "Ort": "Köln",
+  "PLZ": 51149,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2203 105 2418",
+  "locations": [
+    {
+      "Breitengrad": "50.9024734",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "ac-bewerbung@bundeswehr.org",
+      "Hauptadresse": "Kölner Straße 262",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/organisation-/bundesamt-fuer-das-personalmanagement-der-bundeswehr-/assessmentcenter-fuer-fuehrungskraefte-der-bundeswehr-",
+      "Land": "DE",
+      "Längengrad": "7.02441740",
+      "Organisation": "Assessmentcenter für Führungskräfte der Bundeswehr",
+      "OrganisationDisplay": "ACFüKrBw",
+      "OrganisationId": 4649654,
+      "OrganisationKurz": "ACFüKrBw",
+      "Ort": "Köln",
+      "PLZ": 51149,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2203 105 2418"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.514988",
+  "Bundesland": "Berlin",
+  "E-Mail": "post@dbb.de",
+  "Hauptadresse": "Friedrichstraße 169",
+  "Internetadresse": "https://www.dbb.de/",
+  "Land": "DE",
+  "Längengrad": "13.389129",
+  "Organisation": "dbb Beamtenbund und Tarifunion",
+  "OrganisationDisplay": "dbb",
+  "OrganisationId": 24108,
+  "OrganisationKurz": "dbb",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 4081-4999",
+  "Telefon": "+49 30 4081-40",
+  "locations": [
+    {
+      "Breitengrad": "52.514988",
+      "Bundesland": "Berlin",
+      "E-Mail": "post@dbb.de",
+      "Hauptadresse": "Friedrichstraße 169",
+      "Internetadresse": "https://www.dbb.de/",
+      "Land": "DE",
+      "Längengrad": "13.389129",
+      "Organisation": "dbb Beamtenbund und Tarifunion",
+      "OrganisationDisplay": "dbb",
+      "OrganisationId": 24108,
+      "OrganisationKurz": "dbb",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 4081-4999",
+      "Telefon": "+49 30 4081-40"
+    }
+  ]
+}

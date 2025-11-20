@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.3182585",
+  "Bundesland": "Saarland",
+  "E-Mail": "LKdoSLPosteingang@bundeswehr.org",
+  "Hauptadresse": "Wallenfanger Straße 31",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-saarland",
+  "Land": "DE",
+  "Längengrad": "6.7348747",
+  "Organisation": "Landeskommando Saarland",
+  "OrganisationDisplay": "LKdo SL",
+  "OrganisationId": 12071982,
+  "OrganisationKurz": "LKdo SL",
+  "Ort": "Saarlouis",
+  "PLZ": 66740,
+  "Ressort": "BMVg",
+  "Telefax": "+49 6831 1271 2655",
+  "Telefon": "+49 6831 1271 2605",
+  "locations": [
+    {
+      "Breitengrad": "49.3182585",
+      "Bundesland": "Saarland",
+      "E-Mail": "LKdoSLPosteingang@bundeswehr.org",
+      "Hauptadresse": "Wallenfanger Straße 31",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-saarland",
+      "Land": "DE",
+      "Längengrad": "6.7348747",
+      "Organisation": "Landeskommando Saarland",
+      "OrganisationDisplay": "LKdo SL",
+      "OrganisationId": 12071982,
+      "OrganisationKurz": "LKdo SL",
+      "Ort": "Saarlouis",
+      "PLZ": 66740,
+      "Ressort": "BMVg",
+      "Telefax": "+49 6831 1271 2655",
+      "Telefon": "+49 6831 1271 2605"
+    }
+  ]
+}

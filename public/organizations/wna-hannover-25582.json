@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.381984",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "wna-hannover@wsv.bund.de",
+  "Hauptadresse": "Nikolaistraße 14/16",
+  "Internetadresse": "https://www.wna-hannover.wsv.de/Webs/WNA/NBA-Hannover/DE/Service/Impressum/impressum_node.html;jsessionid=6D4648AF6BE37A9618149AF252C4CE3C.live21321",
+  "Land": "DE",
+  "Längengrad": "9.733122",
+  "Organisation": "Wasserstraßen-Neubauamt Hannover",
+  "OrganisationDisplay": "WNA Hannover",
+  "OrganisationId": 25582,
+  "OrganisationKurz": "WNA Hannover",
+  "Ort": "Hannover",
+  "PLZ": 30159,
+  "Ressort": "BMV",
+  "Telefax": "+49 511 9115-5140",
+  "Telefon": "+49 511 9115-5111",
+  "locations": [
+    {
+      "Breitengrad": "52.381984",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "wna-hannover@wsv.bund.de",
+      "Hauptadresse": "Nikolaistraße 14/16",
+      "Internetadresse": "https://www.wna-hannover.wsv.de/Webs/WNA/NBA-Hannover/DE/Service/Impressum/impressum_node.html;jsessionid=6D4648AF6BE37A9618149AF252C4CE3C.live21321",
+      "Land": "DE",
+      "Längengrad": "9.733122",
+      "Organisation": "Wasserstraßen-Neubauamt Hannover",
+      "OrganisationDisplay": "WNA Hannover",
+      "OrganisationId": 25582,
+      "OrganisationKurz": "WNA Hannover",
+      "Ort": "Hannover",
+      "PLZ": 30159,
+      "Ressort": "BMV",
+      "Telefax": "+49 511 9115-5140",
+      "Telefon": "+49 511 9115-5111"
+    }
+  ]
+}

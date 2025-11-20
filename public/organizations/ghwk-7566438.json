@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.4323082",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@ghwk.de",
+  "Hauptadresse": "Am Großen Wannsee 56-58",
+  "Internetadresse": "https://www.ghwk.de/",
+  "Land": "DE",
+  "Längengrad": "13.1664935",
+  "Organisation": "Haus der Wannsee-Konferenz - Gedenk- und Bildungstätte -",
+  "OrganisationDisplay": "GHWK",
+  "OrganisationId": 7566438,
+  "OrganisationKurz": "GHWK",
+  "Ort": "Berlin",
+  "PLZ": 14109,
+  "Telefon": "+49 30805001-0",
+  "locations": [
+    {
+      "Breitengrad": "52.4323082",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@ghwk.de",
+      "Hauptadresse": "Am Großen Wannsee 56-58",
+      "Internetadresse": "https://www.ghwk.de/",
+      "Land": "DE",
+      "Längengrad": "13.1664935",
+      "Organisation": "Haus der Wannsee-Konferenz - Gedenk- und Bildungstätte -",
+      "OrganisationDisplay": "GHWK",
+      "OrganisationId": 7566438,
+      "OrganisationKurz": "GHWK",
+      "Ort": "Berlin",
+      "PLZ": 14109,
+      "Telefon": "+49 30805001-0"
+    }
+  ]
+}

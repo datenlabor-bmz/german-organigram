@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.4227131",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "SFJg-StDstBwZentralerPosteingang@bundeswehr.org",
+  "Hauptadresse": "Kugelfangtrift 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-feldjaeger-der-bundeswehr/schule-fuer-feldjaeger-und-stabsdienst-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "9.7376786",
+  "Organisation": "Schule für Feldjäger und Stabsdienst der Bundeswehr",
+  "OrganisationDisplay": "SFJg/StDstBw ",
+  "OrganisationId": 12072164,
+  "OrganisationKurz": "SFJg/StDstBw ",
+  "Ort": "Hannover",
+  "PLZ": 30179,
+  "Ressort": "BMVg",
+  "Telefax": "+49 511 6783 6015",
+  "Telefon": "+49 511 6783 0",
+  "locations": [
+    {
+      "Breitengrad": "52.4227131",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "SFJg-StDstBwZentralerPosteingang@bundeswehr.org",
+      "Hauptadresse": "Kugelfangtrift 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-feldjaeger-der-bundeswehr/schule-fuer-feldjaeger-und-stabsdienst-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "9.7376786",
+      "Organisation": "Schule für Feldjäger und Stabsdienst der Bundeswehr",
+      "OrganisationDisplay": "SFJg/StDstBw ",
+      "OrganisationId": 12072164,
+      "OrganisationKurz": "SFJg/StDstBw ",
+      "Ort": "Hannover",
+      "PLZ": 30179,
+      "Ressort": "BMVg",
+      "Telefax": "+49 511 6783 6015",
+      "Telefon": "+49 511 6783 0"
+    }
+  ]
+}

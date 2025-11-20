@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.9260739",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@zbmed.de",
+  "Hauptadresse": "Gleueler Straße 60",
+  "Internetadresse": "https://www.zbmed.de",
+  "Land": "DE",
+  "Längengrad": "6.9159151",
+  "Organisation": "Leibniz-Informationszentrum Lebenswissenschaften",
+  "OrganisationDisplay": "ZB MED",
+  "OrganisationId": 308218,
+  "OrganisationKurz": "ZB MED",
+  "Ort": "Köln",
+  "PLZ": 50931,
+  "Telefax": "+49 221 478-7102",
+  "Telefon": "+49 221 478-5600",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.9260739",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@zbmed.de",
+      "Hauptadresse": "Gleueler Straße 60",
+      "Internetadresse": "https://www.zbmed.de",
+      "Land": "DE",
+      "Längengrad": "6.9159151",
+      "Organisation": "Leibniz-Informationszentrum Lebenswissenschaften",
+      "OrganisationDisplay": "ZB MED",
+      "OrganisationId": 308218,
+      "OrganisationKurz": "ZB MED",
+      "Ort": "Köln",
+      "PLZ": 50931,
+      "Telefax": "+49 221 478-7102",
+      "Telefon": "+49 221 478-5600",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

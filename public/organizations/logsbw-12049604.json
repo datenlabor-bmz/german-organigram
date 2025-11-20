@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.2707685",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "logsbws1@bundeswehr.org",
+  "Hauptadresse": "Bremerhavener Heerstraße 10",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikschule-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "8.7073461",
+  "Organisation": "Logistikschule der Bundeswehr",
+  "OrganisationDisplay": "LogSBw",
+  "OrganisationId": 12049604,
+  "OrganisationKurz": "LogSBw",
+  "Ort": "Osterholz-Scharmbeck",
+  "PLZ": 27711,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4795 94 10108",
+  "Telefon": "+49 4795 94 10100",
+  "locations": [
+    {
+      "Breitengrad": "53.2707685",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "logsbws1@bundeswehr.org",
+      "Hauptadresse": "Bremerhavener Heerstraße 10",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikschule-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "8.7073461",
+      "Organisation": "Logistikschule der Bundeswehr",
+      "OrganisationDisplay": "LogSBw",
+      "OrganisationId": 12049604,
+      "OrganisationKurz": "LogSBw",
+      "Ort": "Osterholz-Scharmbeck",
+      "PLZ": 27711,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4795 94 10108",
+      "Telefon": "+49 4795 94 10100"
+    }
+  ]
+}

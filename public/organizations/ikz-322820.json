@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.4318989",
+  "Bundesland": "Berlin",
+  "E-Mail": "cryst@ikz-berlin.de",
+  "Hauptadresse": "Max-Born-Straße 2",
+  "Internetadresse": "https://www.ikz-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.5272052",
+  "Organisation": "Leibniz-Institut für Kristallzüchtung (IKZ) im Forschungsverbund Berlin e. V.",
+  "OrganisationDisplay": "IKZ",
+  "OrganisationId": 322820,
+  "OrganisationKurz": "IKZ",
+  "Ort": "Berlin",
+  "PLZ": 12489,
+  "Telefax": "+49 30 6392-3003",
+  "Telefon": "+49 30 6392-3001",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.4318989",
+      "Bundesland": "Berlin",
+      "E-Mail": "cryst@ikz-berlin.de",
+      "Hauptadresse": "Max-Born-Straße 2",
+      "Internetadresse": "https://www.ikz-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.5272052",
+      "Organisation": "Leibniz-Institut für Kristallzüchtung (IKZ) im Forschungsverbund Berlin e. V.",
+      "OrganisationDisplay": "IKZ",
+      "OrganisationId": 322820,
+      "OrganisationKurz": "IKZ",
+      "Ort": "Berlin",
+      "PLZ": 12489,
+      "Telefax": "+49 30 6392-3003",
+      "Telefon": "+49 30 6392-3001",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

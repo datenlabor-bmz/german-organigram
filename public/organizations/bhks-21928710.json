@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5117089",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@bundesstiftung-helmut-kohl.de",
+  "Hauptadresse": "Friedrichstraße 187",
+  "Internetadresse": "https://www.bundesstiftung-helmut-kohl.de/",
+  "Land": "DE",
+  "Längengrad": "13.3869391",
+  "Organisation": "Bundeskanzler Helmut Kohl Stiftung",
+  "OrganisationDisplay": "BHKS",
+  "OrganisationId": 21928710,
+  "OrganisationKurz": "BHKS",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BKM",
+  "Telefon": "+49 30 2 2012 7680",
+  "locations": [
+    {
+      "Breitengrad": "52.5117089",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@bundesstiftung-helmut-kohl.de",
+      "Hauptadresse": "Friedrichstraße 187",
+      "Internetadresse": "https://www.bundesstiftung-helmut-kohl.de/",
+      "Land": "DE",
+      "Längengrad": "13.3869391",
+      "Organisation": "Bundeskanzler Helmut Kohl Stiftung",
+      "OrganisationDisplay": "BHKS",
+      "OrganisationId": 21928710,
+      "OrganisationKurz": "BHKS",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BKM",
+      "Telefon": "+49 30 2 2012 7680"
+    }
+  ]
+}

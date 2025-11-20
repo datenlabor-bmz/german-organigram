@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "50.6630177",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@int.fraunhofer.de",
+  "Hauptadresse": "Appelsgarten 2",
+  "Internetadresse": "https://www.int.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "6.8065173",
+  "Organisation": "Fraunhofer-Institut für Naturwissenschaftlich-Technische Trendanalysen",
+  "OrganisationDisplay": "INT",
+  "OrganisationId": 560768,
+  "OrganisationKurz": "INT",
+  "Ort": "Euskirchen",
+  "PLZ": 53879,
+  "Telefax": "+49 2251 18-277",
+  "Telefon": "+49 2251 18-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.6630177",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@int.fraunhofer.de",
+      "Hauptadresse": "Appelsgarten 2",
+      "Internetadresse": "https://www.int.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "6.8065173",
+      "Organisation": "Fraunhofer-Institut für Naturwissenschaftlich-Technische Trendanalysen",
+      "OrganisationDisplay": "INT",
+      "OrganisationId": 560768,
+      "OrganisationKurz": "INT",
+      "Ort": "Euskirchen",
+      "PLZ": 53879,
+      "Telefax": "+49 2251 18-277",
+      "Telefon": "+49 2251 18-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

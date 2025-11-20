@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.20538",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@iuf-duesseldorf.de",
+  "Hauptadresse": "Aufm Hennekamp 50",
+  "Internetadresse": "https://www.iuf-duesseldorf.de",
+  "Land": "DE",
+  "Längengrad": "6.7871964",
+  "Organisation": "IUF - Leibniz-Institut für umweltmedizinische Forschung an der Heinrich-Heine-Universität Düsseldorf gGmbH",
+  "OrganisationDisplay": "IUF",
+  "OrganisationId": 322268,
+  "OrganisationKurz": "IUF",
+  "Ort": "Düsseldorf",
+  "PLZ": 40225,
+  "Telefax": "+49 211 31909-10",
+  "Telefon": "+49 211 3389-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.20538",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@iuf-duesseldorf.de",
+      "Hauptadresse": "Aufm Hennekamp 50",
+      "Internetadresse": "https://www.iuf-duesseldorf.de",
+      "Land": "DE",
+      "Längengrad": "6.7871964",
+      "Organisation": "IUF - Leibniz-Institut für umweltmedizinische Forschung an der Heinrich-Heine-Universität Düsseldorf gGmbH",
+      "OrganisationDisplay": "IUF",
+      "OrganisationId": 322268,
+      "OrganisationKurz": "IUF",
+      "Ort": "Düsseldorf",
+      "PLZ": 40225,
+      "Telefax": "+49 211 31909-10",
+      "Telefon": "+49 211 3389-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

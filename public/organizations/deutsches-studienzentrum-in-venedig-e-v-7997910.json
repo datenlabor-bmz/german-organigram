@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "45.4402476",
+  "E-Mail": "info@dszv.it",
+  "Hauptadresse": "S.Polo 2765",
+  "Internetadresse": "https://www.dszv.it/de/",
+  "Land": "IT",
+  "Längengrad": "12.3316167",
+  "Organisation": "Deutsches Studienzentrum in Venedig e. V.",
+  "OrganisationDisplay": "DSZV",
+  "OrganisationId": 7997910,
+  "Ort": "Venezia",
+  "PLZ": -30125,
+  "Telefax": "+39 041 5206780",
+  "Telefon": "+39 041 5206355",
+  "locations": [
+    {
+      "Breitengrad": "45.4402476",
+      "E-Mail": "info@dszv.it",
+      "Hauptadresse": "S.Polo 2765",
+      "Internetadresse": "https://www.dszv.it/de/",
+      "Land": "IT",
+      "Längengrad": "12.3316167",
+      "Organisation": "Deutsches Studienzentrum in Venedig e. V.",
+      "OrganisationDisplay": "DSZV",
+      "OrganisationId": 7997910,
+      "Ort": "Venezia",
+      "PLZ": -30125,
+      "Telefax": "+39 041 5206780",
+      "Telefon": "+39 041 5206355"
+    }
+  ]
+}

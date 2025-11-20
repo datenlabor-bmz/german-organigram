@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.273645",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "BwDLZBurg@bundeswehr.org",
+  "Hauptadresse": "Thomas-Müntzer-Straße 5 b",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-burg",
+  "Land": "DE",
+  "Längengrad": " 11.847163",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Burg",
+  "OrganisationDisplay": "BwDLZ Burg",
+  "OrganisationId": 18504,
+  "OrganisationKurz": "BwDLZ Burg",
+  "Ort": "Burg",
+  "PLZ": 39288,
+  "Ressort": "BMVg",
+  "Telefon": "+49 3921 90-0",
+  "locations": [
+    {
+      "Breitengrad": "52.273645",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "BwDLZBurg@bundeswehr.org",
+      "Hauptadresse": "Thomas-Müntzer-Straße 5 b",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-burg",
+      "Land": "DE",
+      "Längengrad": " 11.847163",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Burg",
+      "OrganisationDisplay": "BwDLZ Burg",
+      "OrganisationId": 18504,
+      "OrganisationKurz": "BwDLZ Burg",
+      "Ort": "Burg",
+      "PLZ": 39288,
+      "Ressort": "BMVg",
+      "Telefon": "+49 3921 90-0"
+    }
+  ]
+}

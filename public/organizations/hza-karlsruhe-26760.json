@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.00343",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "poststelle.hza-karlsruhe@zoll.bund.de",
+  "Hauptadresse": "Philipp-Reis-Straße 4",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "8.410405",
+  "Organisation": "Hauptzollamt Karlsruhe",
+  "OrganisationDisplay": "HZA Karlsruhe",
+  "OrganisationId": 26760,
+  "OrganisationKurz": "HZA Karlsruhe",
+  "Ort": "Karlsruhe",
+  "PLZ": 76137,
+  "Ressort": "BMF",
+  "Telefax": "+49 721 1833-1010",
+  "Telefon": "+49 721 1833-1",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "49.00343",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle.hza-karlsruhe@zoll.bund.de",
+      "Hauptadresse": "Philipp-Reis-Straße 4",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "8.410405",
+      "Organisation": "Hauptzollamt Karlsruhe",
+      "OrganisationDisplay": "HZA Karlsruhe",
+      "OrganisationId": 26760,
+      "OrganisationKurz": "HZA Karlsruhe",
+      "Ort": "Karlsruhe",
+      "PLZ": 76137,
+      "Ressort": "BMF",
+      "Telefax": "+49 721 1833-1010",
+      "Telefon": "+49 721 1833-1",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

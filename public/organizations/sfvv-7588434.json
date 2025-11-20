@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5087851",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@f-v-v.de",
+  "Hauptadresse": "Stresemannstraße 90",
+  "Internetadresse": "https://www.flucht-vertreibung-versoehnung.de/",
+  "Land": "DE",
+  "Längengrad": "13.3884736",
+  "Organisation": "Stiftung Flucht, Vertreibung, Versöhnung",
+  "OrganisationDisplay": "SFVV",
+  "OrganisationId": 7588434,
+  "OrganisationKurz": "SFVV",
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BKM",
+  "Telefon": "+49 30 206 2998-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5087851",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@f-v-v.de",
+      "Hauptadresse": "Stresemannstraße 90",
+      "Internetadresse": "https://www.flucht-vertreibung-versoehnung.de/",
+      "Land": "DE",
+      "Längengrad": "13.3884736",
+      "Organisation": "Stiftung Flucht, Vertreibung, Versöhnung",
+      "OrganisationDisplay": "SFVV",
+      "OrganisationId": 7588434,
+      "OrganisationKurz": "SFVV",
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BKM",
+      "Telefon": "+49 30 206 2998-0"
+    }
+  ]
+}

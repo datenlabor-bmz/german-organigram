@@ -1,0 +1,50 @@
+{
+  "Breitengrad": "53.5519851",
+  "Bundesland": "Hamburg",
+  "E-Mail": "info@bg-verkehr.de",
+  "Hauptadresse": "Ottenser Hauptstraße 54",
+  "Internetadresse": "https://www.bg-verkehr.de/",
+  "Land": "DE",
+  "Längengrad": "9.9268444",
+  "Organisation": "Berufsgenossenschaft Verkehrswirtschaft, Post-Logistik und Telekommunikation",
+  "OrganisationDisplay": "BG Verkehr",
+  "OrganisationId": 14194,
+  "OrganisationKurz": "BG Verkehr",
+  "Ort": "Hamburg",
+  "PLZ": 22765,
+  "Ressort": "BMAS",
+  "Telefon": "+49 40 3980-0",
+  "locations": [
+    {
+      "Breitengrad": "53.5519851",
+      "Bundesland": "Hamburg",
+      "E-Mail": "info@bg-verkehr.de",
+      "Hauptadresse": "Ottenser Hauptstraße 54",
+      "Internetadresse": "https://www.bg-verkehr.de/",
+      "Land": "DE",
+      "Längengrad": "9.9268444",
+      "Organisation": "Berufsgenossenschaft Verkehrswirtschaft, Post-Logistik und Telekommunikation",
+      "OrganisationDisplay": "BG Verkehr",
+      "OrganisationId": 14194,
+      "OrganisationKurz": "BG Verkehr",
+      "Ort": "Hamburg",
+      "PLZ": 22765,
+      "Ressort": "BMAS",
+      "Telefon": "+49 40 3980-0"
+    },
+    {
+      "Adresse": "Brandstwiete 1",
+      "Bundesland": "Hamburg",
+      "E-Mail": "schiffssicherheit@bg-verkehr.de",
+      "Internetadresse": "https://www.bg-verkehr.de/",
+      "Land": "DE",
+      "Liegenschaft": "Dienststelle Schiffssicherheit",
+      "LiegenschaftsId": 913646,
+      "OrganisationId": 14194,
+      "Ort": "Hamburg",
+      "PLZ": 20457,
+      "Telefax": "+49 40 36137-204",
+      "Telefon": "+49 40 36137-0"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "51.5152918",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@ils-forschung.de",
+  "Hauptadresse": "Brüderweg 22 - 24",
+  "Land": "DE",
+  "Längengrad": "7.4713828",
+  "Organisation": "ILS - Institut für Landes- und Stadtentwicklungsforschung GmbH",
+  "OrganisationDisplay": "ILS",
+  "OrganisationId": 7773250,
+  "OrganisationKurz": "ILS",
+  "Ort": "Dortmund",
+  "PLZ": 44135,
+  "Telefax": "+49 231 9051-155",
+  "Telefon": "+49 231 9051-0",
+  "locations": [
+    {
+      "Breitengrad": "51.5152918",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@ils-forschung.de",
+      "Hauptadresse": "Brüderweg 22 - 24",
+      "Land": "DE",
+      "Längengrad": "7.4713828",
+      "Organisation": "ILS - Institut für Landes- und Stadtentwicklungsforschung GmbH",
+      "OrganisationDisplay": "ILS",
+      "OrganisationId": 7773250,
+      "OrganisationKurz": "ILS",
+      "Ort": "Dortmund",
+      "PLZ": 44135,
+      "Telefax": "+49 231 9051-155",
+      "Telefon": "+49 231 9051-0"
+    }
+  ]
+}

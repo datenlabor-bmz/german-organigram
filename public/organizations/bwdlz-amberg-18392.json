@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.43396",
+  "Bundesland": "Bayern",
+  "E-Mail": "BwDLZAmberg@bundeswehr.org",
+  "Hauptadresse": "Kümmersbrucker Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-amberg",
+  "Land": "DE",
+  "Längengrad": "11.872603",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Amberg",
+  "OrganisationDisplay": "BwDLZ Amberg",
+  "OrganisationId": 18392,
+  "OrganisationKurz": "BwDLZ Amberg",
+  "Ort": "Amberg",
+  "PLZ": 92224,
+  "Ressort": "BMVg",
+  "Telefon": "+49 9621 7847-0",
+  "locations": [
+    {
+      "Breitengrad": "49.43396",
+      "Bundesland": "Bayern",
+      "E-Mail": "BwDLZAmberg@bundeswehr.org",
+      "Hauptadresse": "Kümmersbrucker Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-amberg",
+      "Land": "DE",
+      "Längengrad": "11.872603",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Amberg",
+      "OrganisationDisplay": "BwDLZ Amberg",
+      "OrganisationId": 18392,
+      "OrganisationKurz": "BwDLZ Amberg",
+      "Ort": "Amberg",
+      "PLZ": 92224,
+      "Ressort": "BMVg",
+      "Telefon": "+49 9621 7847-0"
+    }
+  ]
+}

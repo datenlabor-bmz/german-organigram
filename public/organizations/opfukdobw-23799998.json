@@ -1,0 +1,49 @@
+{
+  "Breitengrad": "52.559421539",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "Ofkpresse@bundeswehr.org",
+  "Hauptadresse": "Kurt-Schumacher-Damm 41",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "13.315337181",
+  "Organisation": "Operatives Führungskommando der Bundeswehr",
+  "OrganisationDisplay": "OpFüKdoBw",
+  "OrganisationId": 23799998,
+  "OrganisationKurz": "OpFüKdoBw",
+  "Ort": "Berlin",
+  "PLZ": 13405,
+  "Ressort": "BMVg",
+  "Telefon": "+49 30 4981 4555",
+  "locations": [
+    {
+      "Breitengrad": "52.559421539",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "Ofkpresse@bundeswehr.org",
+      "Hauptadresse": "Kurt-Schumacher-Damm 41",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "13.315337181",
+      "Organisation": "Operatives Führungskommando der Bundeswehr",
+      "OrganisationDisplay": "OpFüKdoBw",
+      "OrganisationId": 23799998,
+      "OrganisationKurz": "OpFüKdoBw",
+      "Ort": "Berlin",
+      "PLZ": 13405,
+      "Ressort": "BMVg",
+      "Telefon": "+49 30 4981 4555"
+    },
+    {
+      "Adresse": "Werderscher Damm 21-29",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "Ofkpresse@bundeswehr.org",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr",
+      "Land": "DE",
+      "Liegenschaft": "Liegenschaft Brandenburg",
+      "LiegenschaftsId": 23812320,
+      "OrganisationId": 23799998,
+      "Ort": "Schwielosee",
+      "PLZ": 14548,
+      "Telefon": "+49 30 4981 4555"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "Breitengrad": "52.511543",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@vorsorgeregister.de",
+  "Hauptadresse": "Kronenstraße 42",
+  "Internetadresse": "https://www.testamentsregister.de/",
+  "Land": "DE",
+  "Längengrad": "13.3946872",
+  "Organisation": "Zentrales Testamentsregister",
+  "OrganisationDisplay": "ZTR",
+  "OrganisationId": 1964762,
+  "OrganisationKurz": "ZTR",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMJV",
+  "Telefon": "+49 800 35 50 700",
+  "Kategorie": "Unklar",
+  "Wikidata ID": "Q190459",
+  "locations": [
+    {
+      "Breitengrad": "52.511543",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@vorsorgeregister.de",
+      "Hauptadresse": "Kronenstraße 42",
+      "Internetadresse": "https://www.testamentsregister.de/",
+      "Land": "DE",
+      "Längengrad": "13.3946872",
+      "Organisation": "Zentrales Testamentsregister",
+      "OrganisationDisplay": "ZTR",
+      "OrganisationId": 1964762,
+      "OrganisationKurz": "ZTR",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMJV",
+      "Telefon": "+49 800 35 50 700",
+      "Kategorie": "Unklar",
+      "Wikidata ID": "Q190459"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q190459",
+    "data": {
+      "type": "item",
+      "id": "Q190459",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Zentrales Testamentsregister"
+        },
+        "en": {
+          "language": "en",
+          "value": "Zentrales Testamentsregister"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Register zur Ermittlung von erbfolgerelevanten Urkunden in der Bundesrepublik Deutschland"
+        }
+      },
+      "claims": {
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "72b10b4f1f10fca2569306d494349a60b524d4ef",
+              "datavalue": {
+                "value": {
+                  "text": "ZTR",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q190459$792daa32-4dd7-4f5a-2929-7a85f7c7c4a4",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190459$97f2a54a-4ef6-6209-9a67-88f8abbf5573",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "7b71905418627ebc2238b24fb0615324532d1bee",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 8513,
+                  "id": "Q8513"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190459$f940f3a7-4aef-7afa-9dd0-ba9304601500",
+            "rank": "normal"
+          }
+        ],
+        "P571": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P571",
+              "hash": "32cab9fa808cc58a2900cd2dd3cee869fecdcf8b",
+              "datavalue": {
+                "value": {
+                  "time": "+2012-01-01T00:00:00Z",
+                  "timezone": 0,
+                  "before": 0,
+                  "after": 0,
+                  "precision": 11,
+                  "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                },
+                "type": "time"
+              },
+              "datatype": "time"
+            },
+            "type": "statement",
+            "id": "Q190459$d95a6f52-44d1-7ad9-eca2-afc64803ee79",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "72ace90b6e21e18aca3346a97bf71a3e4c6711e6",
+              "datavalue": {
+                "value": "https://www.testamentsregister.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q190459$ee9adc04-44c2-7c13-1eae-2511f450e465",
+            "rank": "normal"
+          }
+        ],
+        "P137": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P137",
+              "hash": "b6b5c08c7b7da2728fe22d22c16c47c63de453a0",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 836148,
+                  "id": "Q836148"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190459$2d39cb7b-4176-9573-1fbf-4dc01eabd22e",
+            "rank": "normal"
+          }
+        ],
+        "P92": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P92",
+              "hash": "ce3dc207a80d87a87eed9dc155e70c0494ac6af2",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1006426,
+                  "id": "Q1006426"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190459$1feeab6b-4a85-1844-22ef-bbcc5858da69",
+            "rank": "normal"
+          }
+        ],
+        "P1365": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1365",
+              "hash": "a6b788c51915de6a92564416280fe8f39b5c8cbc",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1283247,
+                  "id": "Q1283247"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190459$f78c14c1-42b1-034d-178d-6a53642b432b",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "2886cff9198825283944261748dd3438b64d8f97",
+              "datavalue": {
+                "value": "/g/122s8ywv",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q190459$17B43932-3466-4753-BC05-042DBB40BFE7",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "31862607ac14c85c659d49a9d52cbd35532a8a14",
+              "datavalue": {
+                "value": "Zentrales Testamentsregister (Bundesnotarkammer) logo (2024).svg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q190459$73ba127e-4f00-c740-fcc0-5ba04d7a501b",
+            "rank": "normal"
+          }
+        ],
+        "P2670": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2670",
+              "hash": "51742557674bdcb89c9d2296f0863d4f2b82897a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 705914,
+                  "id": "Q705914"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q190459$AF1CBC5D-1657-4D14-BFB4-A9D50C65329A",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Zentrales Testamentsregister",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q8513": {
+        "type": "item",
+        "id": "Q8513",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "database"
+          },
+          "de": {
+            "language": "de",
+            "value": "Datenbank"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "organized collection of data in computing"
+          },
+          "de": {
+            "language": "de",
+            "value": "Menge der (von einem Datenbankmanagementsystem) verwalteten Daten"
+          }
+        }
+      },
+      "Q1283247": {
+        "type": "item",
+        "id": "Q1283247",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Testamentskartei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Testamentskartei"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "ehemals beim Standesamt des Geburtsortes einer dort eingetragenen Person geführte Kartei in Deutschland"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.41972",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "bewerbungenhannover@bundeswehr.org",
+  "Hauptadresse": "General-Wever-Straße 119",
+  "Internetadresse": "https://www.bundeswehrkarriere.de/",
+  "Land": "DE",
+  "Längengrad": "9.7813099",
+  "Organisation": "Karrierecenter der Bundeswehr Hannover",
+  "OrganisationDisplay": "Karrierecenter Bw Hannover",
+  "OrganisationId": 4651016,
+  "Ort": "Hannover",
+  "PLZ": 30657,
+  "Ressort": "BMVg",
+  "Telefax": "+49 511 86699-4372",
+  "Telefon": "+49 511 86699-4444",
+  "locations": [
+    {
+      "Breitengrad": "52.41972",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "bewerbungenhannover@bundeswehr.org",
+      "Hauptadresse": "General-Wever-Straße 119",
+      "Internetadresse": "https://www.bundeswehrkarriere.de/",
+      "Land": "DE",
+      "Längengrad": "9.7813099",
+      "Organisation": "Karrierecenter der Bundeswehr Hannover",
+      "OrganisationDisplay": "Karrierecenter Bw Hannover",
+      "OrganisationId": 4651016,
+      "Ort": "Hannover",
+      "PLZ": 30657,
+      "Ressort": "BMVg",
+      "Telefax": "+49 511 86699-4372",
+      "Telefon": "+49 511 86699-4444"
+    }
+  ]
+}

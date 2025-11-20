@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.5251433",
+  "Bundesland": "Berlin",
+  "E-Mail": "generalsekretariat@musikrat.de",
+  "Hauptadresse": "Schumannstraße 17",
+  "Internetadresse": "https://www.musikrat.de",
+  "Land": "DE",
+  "Längengrad": "13.3922269",
+  "Organisation": "Deutscher Musikrat e. V.",
+  "OrganisationDisplay": "DMR",
+  "OrganisationId": 296720,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 30881011",
+  "Telefon": "+49 30 30881010",
+  "locations": [
+    {
+      "Breitengrad": "52.5251433",
+      "Bundesland": "Berlin",
+      "E-Mail": "generalsekretariat@musikrat.de",
+      "Hauptadresse": "Schumannstraße 17",
+      "Internetadresse": "https://www.musikrat.de",
+      "Land": "DE",
+      "Längengrad": "13.3922269",
+      "Organisation": "Deutscher Musikrat e. V.",
+      "OrganisationDisplay": "DMR",
+      "OrganisationId": 296720,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 30881011",
+      "Telefon": "+49 30 30881010"
+    }
+  ]
+}

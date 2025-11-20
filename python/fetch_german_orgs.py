@@ -11,6 +11,7 @@ from pyairtable import Api
 from dotenv import load_dotenv
 import httpx
 from tqdm.asyncio import tqdm_asyncio
+from unicodedata import normalize
 
 load_dotenv()
 
@@ -287,10 +288,87 @@ async def fetch_all_wikidata():
 # Run async Wikidata fetching
 wikidata_data = asyncio.run(fetch_all_wikidata())
 
-# Write Wikidata data to separate file
-wikidata_path = Path(__file__).parent.parent / "public" / "wikidata.json"
-with open(wikidata_path, "w", encoding="utf-8") as f:
-    json.dump(wikidata_data, f, ensure_ascii=False, indent=2)
+# Create sanitized filename from organization name/abbreviation
+def sanitize_filename(org_data):
+    """Create a descriptive, URL-safe filename from organization data."""
+    # Prefer abbreviation, fall back to name
+    name = org_data.get('OrganisationKurz') or org_data.get('Organisation') or org_data.get('OrganisationDisplay') or f"org_{org_data['OrganisationId']}"
+    
+    # Normalize unicode characters (ü -> u, etc.)
+    name = normalize('NFKD', name).encode('ASCII', 'ignore').decode('ASCII')
+    
+    # Convert to lowercase and replace spaces/special chars with hyphens
+    name = re.sub(r'[^\w\s-]', '', name.lower())
+    name = re.sub(r'[-\s]+', '-', name).strip('-')
+    
+    # Limit length and add org ID to ensure uniqueness
+    name = name[:50]
+    return f"{name}-{org_data['OrganisationId']}"
 
-print(f"✓ Saved Wikidata information for {len(wikidata_data)} organizations to {wikidata_path}")
+# Create output directory for individual org files
+org_dir = Path(__file__).parent.parent / "public" / "organizations"
+org_dir.mkdir(exist_ok=True)
+
+# Build index with minimal data for grid display
+print("\n📦 Building organization index and individual files...")
+index = []
+org_count = 0
+
+# Group output_data by OrganisationId to combine main entries with locations
+org_map = defaultdict(lambda: {"main": None, "locations": []})
+for entry in output_data:
+    org_id = entry.get('OrganisationId')
+    if not org_id:
+        continue
+    if entry.get('LiegenschaftsId'):
+        # This is a location entry
+        org_map[org_id]["locations"].append(entry)
+    else:
+        # This is the main org entry
+        org_map[org_id]["main"] = entry
+
+# Create index and individual files
+for org_id, data in org_map.items():
+    main_entry = data["main"]
+    if not main_entry:
+        continue
+    
+    # Add to index (minimal data for grid)
+    index_entry = {
+        "OrganisationId": main_entry["OrganisationId"],
+        "Organisation": main_entry.get("Organisation"),
+        "OrganisationDisplay": main_entry.get("OrganisationDisplay"),
+        "OrganisationKurz": main_entry.get("OrganisationKurz"),
+        "Kategorie": main_entry.get("Kategorie"),
+        "Ressort": main_entry.get("Ressort"),
+        "Versteckt": main_entry.get("Versteckt", False),
+        "hasWikidata": str(org_id) in wikidata_data,
+    }
+    index.append(index_entry)
+    
+    # Create full org file (BVA data + Wikidata)
+    full_org_data = {
+        **main_entry,
+        "locations": [main_entry] + data["locations"],  # All location entries
+    }
+    
+    # Add Wikidata if available
+    if str(org_id) in wikidata_data:
+        full_org_data["wikidata"] = wikidata_data[str(org_id)]
+    
+    # Write individual org file
+    filename = sanitize_filename(main_entry)
+    org_file_path = org_dir / f"{filename}.json"
+    with open(org_file_path, "w", encoding="utf-8") as f:
+        json.dump(full_org_data, f, ensure_ascii=False, indent=2)
+    
+    org_count += 1
+
+# Write index file
+index_path = Path(__file__).parent.parent / "public" / "organizations-index.json"
+with open(index_path, "w", encoding="utf-8") as f:
+    json.dump(index, f, ensure_ascii=False, indent=2)
+
+print(f"✓ Created organization index with {len(index)} entries → {index_path}")
+print(f"✓ Created {org_count} individual organization files → {org_dir}/")
 

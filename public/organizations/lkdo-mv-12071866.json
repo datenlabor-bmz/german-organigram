@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.0939761",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "LKdomvZentralerPosteingang@bundeswehr.org",
+  "Hauptadresse": "Walther-Rathenau-Straße 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-mecklenburg-vorpommern",
+  "Land": "DE",
+  "Längengrad": "13.4008074",
+  "Organisation": "Landeskommando Mecklenburg-Vorpommern",
+  "OrganisationDisplay": "LKdo MV",
+  "OrganisationId": 12071866,
+  "OrganisationKurz": "LKdo MV",
+  "Ort": "Schwerin",
+  "PLZ": 19055,
+  "Ressort": "BMVg",
+  "Telefax": "+49 385 511 3104",
+  "Telefon": "+49 385 511 3110",
+  "locations": [
+    {
+      "Breitengrad": "54.0939761",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "LKdomvZentralerPosteingang@bundeswehr.org",
+      "Hauptadresse": "Walther-Rathenau-Straße 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-mecklenburg-vorpommern",
+      "Land": "DE",
+      "Längengrad": "13.4008074",
+      "Organisation": "Landeskommando Mecklenburg-Vorpommern",
+      "OrganisationDisplay": "LKdo MV",
+      "OrganisationId": 12071866,
+      "OrganisationKurz": "LKdo MV",
+      "Ort": "Schwerin",
+      "PLZ": 19055,
+      "Ressort": "BMVg",
+      "Telefax": "+49 385 511 3104",
+      "Telefon": "+49 385 511 3110"
+    }
+  ]
+}

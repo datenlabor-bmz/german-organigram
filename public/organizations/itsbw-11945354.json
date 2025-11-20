@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "47.9378168",
+  "Bundesland": "Bayern",
+  "E-Mail": "ITSBwPressearbeit@bundeswehr.org",
+  "Hauptadresse": "Maxhofstraße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-informationstechnik-der-bundeswehr/schule-informationstechnik-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "11.2922143",
+  "Organisation": "Schule Informationstechnik der Bundeswehr",
+  "OrganisationDisplay": "ITSBw",
+  "OrganisationId": 11945354,
+  "OrganisationKurz": "ITSBw",
+  "Ort": "Pöcking",
+  "PLZ": 82343,
+  "Ressort": "BMVg",
+  "Telefon": "+49 8157 273 6842",
+  "locations": [
+    {
+      "Breitengrad": "47.9378168",
+      "Bundesland": "Bayern",
+      "E-Mail": "ITSBwPressearbeit@bundeswehr.org",
+      "Hauptadresse": "Maxhofstraße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-informationstechnik-der-bundeswehr/schule-informationstechnik-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "11.2922143",
+      "Organisation": "Schule Informationstechnik der Bundeswehr",
+      "OrganisationDisplay": "ITSBw",
+      "OrganisationId": 11945354,
+      "OrganisationKurz": "ITSBw",
+      "Ort": "Pöcking",
+      "PLZ": 82343,
+      "Ressort": "BMVg",
+      "Telefon": "+49 8157 273 6842"
+    }
+  ]
+}

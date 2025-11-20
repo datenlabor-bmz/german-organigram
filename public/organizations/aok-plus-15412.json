@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.045911",
+  "Bundesland": "Sachsen",
+  "E-Mail": "service@plus.aok.de",
+  "Hauptadresse": "Sternplatz 7",
+  "Internetadresse": "https://www.aok.de/pk/plus/",
+  "Land": "DE",
+  "Längengrad": "13.726039",
+  "Organisation": "Allgemeine Ortskrankenkasse Plus",
+  "OrganisationDisplay": "AOK Plus",
+  "OrganisationId": 15412,
+  "OrganisationKurz": "AOK Plus",
+  "Ort": "Dresden",
+  "PLZ": 1067,
+  "Ressort": "BMG",
+  "Telefax": "+49 800-105 900 1",
+  "Telefon": "+49 800-105 900 0",
+  "locations": [
+    {
+      "Breitengrad": "51.045911",
+      "Bundesland": "Sachsen",
+      "E-Mail": "service@plus.aok.de",
+      "Hauptadresse": "Sternplatz 7",
+      "Internetadresse": "https://www.aok.de/pk/plus/",
+      "Land": "DE",
+      "Längengrad": "13.726039",
+      "Organisation": "Allgemeine Ortskrankenkasse Plus",
+      "OrganisationDisplay": "AOK Plus",
+      "OrganisationId": 15412,
+      "OrganisationKurz": "AOK Plus",
+      "Ort": "Dresden",
+      "PLZ": 1067,
+      "Ressort": "BMG",
+      "Telefax": "+49 800-105 900 1",
+      "Telefon": "+49 800-105 900 0"
+    }
+  ]
+}

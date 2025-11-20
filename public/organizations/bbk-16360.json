@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.711284",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@bbk.bund.de",
+  "Hauptadresse": "Provinzialstraße 93",
+  "Internetadresse": "https://www.bbk.bund.de",
+  "Land": "DE",
+  "Längengrad": "7.066835",
+  "Organisation": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+  "OrganisationDisplay": "BBK",
+  "OrganisationId": 16360,
+  "OrganisationKurz": "BBK",
+  "Ort": "Bonn",
+  "PLZ": 53127,
+  "Ressort": "BMI",
+  "Telefax": "+49 22899 550-1620",
+  "Telefon": "+49 22899 550-0",
+  "locations": [
+    {
+      "Breitengrad": "50.711284",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bbk.bund.de",
+      "Hauptadresse": "Provinzialstraße 93",
+      "Internetadresse": "https://www.bbk.bund.de",
+      "Land": "DE",
+      "Längengrad": "7.066835",
+      "Organisation": "Bundesamt für Bevölkerungsschutz und Katastrophenhilfe",
+      "OrganisationDisplay": "BBK",
+      "OrganisationId": 16360,
+      "OrganisationKurz": "BBK",
+      "Ort": "Bonn",
+      "PLZ": 53127,
+      "Ressort": "BMI",
+      "Telefax": "+49 22899 550-1620",
+      "Telefon": "+49 22899 550-0"
+    }
+  ]
+}

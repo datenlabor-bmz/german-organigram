@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "52.516038",
+  "Bundesland": "Berlin",
+  "Hauptadresse": "Charlottenstraße 47",
+  "Land": "DE",
+  "Längengrad": "13.390852",
+  "Organisation": "Deutscher Sparkassen- und Giroverband öK",
+  "OrganisationDisplay": "DSGV ",
+  "OrganisationId": 25012,
+  "OrganisationKurz": "DSGV ",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 20225-5255",
+  "Telefon": "+49 30 20225-0",
+  "locations": [
+    {
+      "Breitengrad": "52.516038",
+      "Bundesland": "Berlin",
+      "Hauptadresse": "Charlottenstraße 47",
+      "Land": "DE",
+      "Längengrad": "13.390852",
+      "Organisation": "Deutscher Sparkassen- und Giroverband öK",
+      "OrganisationDisplay": "DSGV ",
+      "OrganisationId": 25012,
+      "OrganisationKurz": "DSGV ",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 20225-5255",
+      "Telefon": "+49 30 20225-0"
+    }
+  ]
+}

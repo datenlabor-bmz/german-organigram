@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.7333",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "EloKaBtl911s3@bundeswehr.org",
+  "Hauptadresse": "Am Tannenberg 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/bataillon-elektronische-kampffuehrung-911",
+  "Land": "DE",
+  "Längengrad": "8.9667",
+  "Organisation": "Bataillon Elektronische Kampfführung 911",
+  "OrganisationDisplay": "EloKaBtl 911",
+  "OrganisationId": 11859452,
+  "OrganisationKurz": "EloKaBtl 911",
+  "Ort": "Stadum",
+  "PLZ": 25917,
+  "Ressort": "BMVg",
+  "Telefon": "+49 4662 82-0",
+  "locations": [
+    {
+      "Breitengrad": "54.7333",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "EloKaBtl911s3@bundeswehr.org",
+      "Hauptadresse": "Am Tannenberg 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/bataillon-elektronische-kampffuehrung-911",
+      "Land": "DE",
+      "Längengrad": "8.9667",
+      "Organisation": "Bataillon Elektronische Kampfführung 911",
+      "OrganisationDisplay": "EloKaBtl 911",
+      "OrganisationId": 11859452,
+      "OrganisationKurz": "EloKaBtl 911",
+      "Ort": "Stadum",
+      "PLZ": 25917,
+      "Ressort": "BMVg",
+      "Telefon": "+49 4662 82-0"
+    }
+  ]
+}

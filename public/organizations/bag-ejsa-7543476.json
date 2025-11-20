@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.77912",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "mail@bagejsa.de",
+  "Hauptadresse": "Wagenburgstr. 26 - 28",
+  "Internetadresse": "https://www.bagejsa.de/",
+  "Land": "DE",
+  "Längengrad": "9.19509",
+  "Organisation": "Bundesarbeitsgemeinschaft Evangelische Jugendsozialarbeit e.V.",
+  "OrganisationDisplay": "BAG EJSA",
+  "OrganisationId": 7543476,
+  "OrganisationKurz": "BAG EJSA",
+  "Ort": "Stuttgart",
+  "PLZ": 70184,
+  "Ressort": "BMBFSFJ",
+  "Telefax": "+49 711 16489-21",
+  "Telefon": "+49 711 164 89-0",
+  "locations": [
+    {
+      "Breitengrad": "48.77912",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "mail@bagejsa.de",
+      "Hauptadresse": "Wagenburgstr. 26 - 28",
+      "Internetadresse": "https://www.bagejsa.de/",
+      "Land": "DE",
+      "Längengrad": "9.19509",
+      "Organisation": "Bundesarbeitsgemeinschaft Evangelische Jugendsozialarbeit e.V.",
+      "OrganisationDisplay": "BAG EJSA",
+      "OrganisationId": 7543476,
+      "OrganisationKurz": "BAG EJSA",
+      "Ort": "Stuttgart",
+      "PLZ": 70184,
+      "Ressort": "BMBFSFJ",
+      "Telefax": "+49 711 16489-21",
+      "Telefon": "+49 711 164 89-0"
+    }
+  ]
+}

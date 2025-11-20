@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.029594",
+  "Bundesland": "Sachsen",
+  "E-Mail": "BwDLZDresden@bundeswehr.org",
+  "Hauptadresse": "August-Bebel-Straße 19",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-dresden",
+  "Land": "DE",
+  "Längengrad": "13.755774",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Dresden",
+  "OrganisationDisplay": "BwDLZ Dresden",
+  "OrganisationId": 18582,
+  "OrganisationKurz": "BwDLZ Dresden",
+  "Ort": "Dresden",
+  "PLZ": 1219,
+  "Ressort": "BMVg",
+  "Telefon": "+49 351 4654-0",
+  "locations": [
+    {
+      "Breitengrad": "51.029594",
+      "Bundesland": "Sachsen",
+      "E-Mail": "BwDLZDresden@bundeswehr.org",
+      "Hauptadresse": "August-Bebel-Straße 19",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-dresden",
+      "Land": "DE",
+      "Längengrad": "13.755774",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Dresden",
+      "OrganisationDisplay": "BwDLZ Dresden",
+      "OrganisationId": 18582,
+      "OrganisationKurz": "BwDLZ Dresden",
+      "Ort": "Dresden",
+      "PLZ": 1219,
+      "Ressort": "BMVg",
+      "Telefon": "+49 351 4654-0"
+    }
+  ]
+}

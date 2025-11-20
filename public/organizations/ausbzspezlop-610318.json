@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "47.9176868",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "AusbZSpezlOpStabS1@Bundeswehr.org",
+  "Hauptadresse": "Kasernenstraße 20",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/ausbildungszentrum-spezielle-operationen",
+  "Land": "DE",
+  "Längengrad": "9.2591461",
+  "Organisation": "Ausbildungszentrum Spezielle Operationen",
+  "OrganisationDisplay": "AusbZSpezlOp",
+  "OrganisationId": 610318,
+  "OrganisationKurz": "AusbZSpezlOp",
+  "Ort": "Pfullendorf",
+  "PLZ": 88630,
+  "Ressort": "BMVg",
+  "Telefax": "+49 7552 405-2018",
+  "Telefon": "+49 7552 405-2600",
+  "locations": [
+    {
+      "Breitengrad": "47.9176868",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "AusbZSpezlOpStabS1@Bundeswehr.org",
+      "Hauptadresse": "Kasernenstraße 20",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/ausbildungszentrum-spezielle-operationen",
+      "Land": "DE",
+      "Längengrad": "9.2591461",
+      "Organisation": "Ausbildungszentrum Spezielle Operationen",
+      "OrganisationDisplay": "AusbZSpezlOp",
+      "OrganisationId": 610318,
+      "OrganisationKurz": "AusbZSpezlOp",
+      "Ort": "Pfullendorf",
+      "PLZ": 88630,
+      "Ressort": "BMVg",
+      "Telefax": "+49 7552 405-2018",
+      "Telefon": "+49 7552 405-2600"
+    }
+  ]
+}

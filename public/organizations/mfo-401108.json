@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.3453197",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "admin@mfo.de",
+  "Hauptadresse": "Schwarzwaldstraße 9-11",
+  "Internetadresse": "https://www.mfo.de",
+  "Land": "DE",
+  "Längengrad": "8.2333237",
+  "Organisation": "Mathematisches Forschungsinstitut Oberwolfach gGmbH",
+  "OrganisationDisplay": "MFO",
+  "OrganisationId": 401108,
+  "OrganisationKurz": "MFO",
+  "Ort": "Oberwolfach-Walke",
+  "PLZ": 77709,
+  "Telefax": "+49 7834 979-38",
+  "Telefon": "+49 7834 979-0",
+  "locations": [
+    {
+      "Breitengrad": "48.3453197",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "admin@mfo.de",
+      "Hauptadresse": "Schwarzwaldstraße 9-11",
+      "Internetadresse": "https://www.mfo.de",
+      "Land": "DE",
+      "Längengrad": "8.2333237",
+      "Organisation": "Mathematisches Forschungsinstitut Oberwolfach gGmbH",
+      "OrganisationDisplay": "MFO",
+      "OrganisationId": 401108,
+      "OrganisationKurz": "MFO",
+      "Ort": "Oberwolfach-Walke",
+      "PLZ": 77709,
+      "Telefax": "+49 7834 979-38",
+      "Telefon": "+49 7834 979-0"
+    }
+  ]
+}

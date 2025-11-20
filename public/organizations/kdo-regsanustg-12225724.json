@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.3837655",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "KdoRegSanUstg@bundeswehr.org",
+  "Hauptadresse": "Schloß Oranienstein ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-regionale-sanitaetsdienstliche-unterstuetzung",
+  "Land": "DE",
+  "Längengrad": "8.0104648",
+  "Organisation": "Kommando Regionale sanitätsdienstliche Unterstützung",
+  "OrganisationDisplay": "Kdo RegSanUstg ",
+  "OrganisationId": 12225724,
+  "OrganisationKurz": "Kdo RegSanUstg ",
+  "Ort": "Diez",
+  "PLZ": 65582,
+  "Ressort": "BMVg",
+  "Telefax": "+49 6432 940 2099",
+  "Telefon": "+49 6432 940 2011",
+  "locations": [
+    {
+      "Breitengrad": "50.3837655",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "KdoRegSanUstg@bundeswehr.org",
+      "Hauptadresse": "Schloß Oranienstein ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/sanitaetsdienst/kommando-und-organisation-sanitaetsdienst/kommando-regionale-sanitaetsdienstliche-unterstuetzung",
+      "Land": "DE",
+      "Längengrad": "8.0104648",
+      "Organisation": "Kommando Regionale sanitätsdienstliche Unterstützung",
+      "OrganisationDisplay": "Kdo RegSanUstg ",
+      "OrganisationId": 12225724,
+      "OrganisationKurz": "Kdo RegSanUstg ",
+      "Ort": "Diez",
+      "PLZ": 65582,
+      "Ressort": "BMVg",
+      "Telefax": "+49 6432 940 2099",
+      "Telefon": "+49 6432 940 2011"
+    }
+  ]
+}

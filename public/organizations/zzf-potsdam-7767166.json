@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.3958677",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "sekretariat@zzf-potsdam.de",
+  "Hauptadresse": "Am Neuen Markt 1",
+  "Internetadresse": "https://www.zzf-potsdam.de",
+  "Land": "DE",
+  "Längengrad": "13.0577526",
+  "Organisation": "Zentrum für Zeithistorische Forschung Potsdam e.V.",
+  "OrganisationDisplay": "ZZF Potsdam",
+  "OrganisationId": 7767166,
+  "OrganisationKurz": "ZZF Potsdam",
+  "Ort": "Potsdam",
+  "PLZ": 14467,
+  "Telefax": "+49 331 28991-40",
+  "Telefon": "+49 331 28991-56, -57",
+  "locations": [
+    {
+      "Breitengrad": "52.3958677",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "sekretariat@zzf-potsdam.de",
+      "Hauptadresse": "Am Neuen Markt 1",
+      "Internetadresse": "https://www.zzf-potsdam.de",
+      "Land": "DE",
+      "Längengrad": "13.0577526",
+      "Organisation": "Zentrum für Zeithistorische Forschung Potsdam e.V.",
+      "OrganisationDisplay": "ZZF Potsdam",
+      "OrganisationId": 7767166,
+      "OrganisationKurz": "ZZF Potsdam",
+      "Ort": "Potsdam",
+      "PLZ": 14467,
+      "Telefax": "+49 331 28991-40",
+      "Telefon": "+49 331 28991-56, -57"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.833011",
+  "Bundesland": "Bayern",
+  "E-Mail": "SanLehrRgt@Bundeswehr.org",
+  "Hauptadresse": "Mitterharthausen 55",
+  "Land": "DE",
+  "Längengrad": "12.546104",
+  "Organisation": "Sanitätslehrregiment",
+  "OrganisationDisplay": "SanLehrRgt",
+  "OrganisationId": 25864,
+  "OrganisationKurz": "SanLehrRgt",
+  "Ort": "Feldkirchen",
+  "PLZ": 94351,
+  "Ressort": "BMVg",
+  "Telefax": "+49 9420 754 1037",
+  "Telefon": "+49 9420 754-1002",
+  "locations": [
+    {
+      "Breitengrad": "48.833011",
+      "Bundesland": "Bayern",
+      "E-Mail": "SanLehrRgt@Bundeswehr.org",
+      "Hauptadresse": "Mitterharthausen 55",
+      "Land": "DE",
+      "Längengrad": "12.546104",
+      "Organisation": "Sanitätslehrregiment",
+      "OrganisationDisplay": "SanLehrRgt",
+      "OrganisationId": 25864,
+      "OrganisationKurz": "SanLehrRgt",
+      "Ort": "Feldkirchen",
+      "PLZ": 94351,
+      "Ressort": "BMVg",
+      "Telefax": "+49 9420 754 1037",
+      "Telefon": "+49 9420 754-1002"
+    }
+  ]
+}

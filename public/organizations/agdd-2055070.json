@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.7315791",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@agdd.de",
+  "Hauptadresse": "Meckenheimer Allee 67 - 69",
+  "Internetadresse": "https://www.agdd.de/de/agdd/foerderungswerk",
+  "Land": "DE",
+  "Längengrad": "7.0951691",
+  "Organisation": "Arbeitsgemeinschaft der Entwicklungsdienste e. V. - Förderungswerk -",
+  "OrganisationDisplay": "AGdD",
+  "OrganisationId": 2055070,
+  "OrganisationKurz": "AGdD",
+  "Ort": "Bonn",
+  "PLZ": 53115,
+  "Telefax": "+49 228 908 99-38",
+  "Telefon": "+49 228 908 99-30",
+  "locations": [
+    {
+      "Breitengrad": "50.7315791",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@agdd.de",
+      "Hauptadresse": "Meckenheimer Allee 67 - 69",
+      "Internetadresse": "https://www.agdd.de/de/agdd/foerderungswerk",
+      "Land": "DE",
+      "Längengrad": "7.0951691",
+      "Organisation": "Arbeitsgemeinschaft der Entwicklungsdienste e. V. - Förderungswerk -",
+      "OrganisationDisplay": "AGdD",
+      "OrganisationId": 2055070,
+      "OrganisationKurz": "AGdD",
+      "Ort": "Bonn",
+      "PLZ": 53115,
+      "Telefax": "+49 228 908 99-38",
+      "Telefon": "+49 228 908 99-30"
+    }
+  ]
+}

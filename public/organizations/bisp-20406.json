@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.752519",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@bisp.de",
+  "Hauptadresse": "Graurheindorfer Straße 198 - Haus 7 ",
+  "Internetadresse": "https://www.bisp.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "7.089609",
+  "Organisation": "Bundesinstitut für Sportwissenschaft",
+  "OrganisationDisplay": "BISp",
+  "OrganisationId": 20406,
+  "OrganisationKurz": "BISp",
+  "Ort": "Bonn",
+  "PLZ": 53117,
+  "Ressort": "BMI",
+  "Telefax": "+49 22899 640-9008",
+  "Telefon": "+49 22899 640-0",
+  "locations": [
+    {
+      "Breitengrad": "50.752519",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@bisp.de",
+      "Hauptadresse": "Graurheindorfer Straße 198 - Haus 7 ",
+      "Internetadresse": "https://www.bisp.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "7.089609",
+      "Organisation": "Bundesinstitut für Sportwissenschaft",
+      "OrganisationDisplay": "BISp",
+      "OrganisationId": 20406,
+      "OrganisationKurz": "BISp",
+      "Ort": "Bonn",
+      "PLZ": 53117,
+      "Ressort": "BMI",
+      "Telefax": "+49 22899 640-9008",
+      "Telefon": "+49 22899 640-0"
+    }
+  ]
+}

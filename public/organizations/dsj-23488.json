@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.066757",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@dsj.de",
+  "Hauptadresse": "Otto-Fleck-Schneise 12",
+  "Internetadresse": "https://www.dsj.de/",
+  "Land": "DE",
+  "Längengrad": "8.644438",
+  "Organisation": "Deutsche Sportjugend",
+  "OrganisationDisplay": "dsj",
+  "OrganisationId": 23488,
+  "OrganisationKurz": "dsj",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60528,
+  "Telefax": "+49 69 6702-69",
+  "Telefon": "+49 69 6700-0",
+  "locations": [
+    {
+      "Breitengrad": "50.066757",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@dsj.de",
+      "Hauptadresse": "Otto-Fleck-Schneise 12",
+      "Internetadresse": "https://www.dsj.de/",
+      "Land": "DE",
+      "Längengrad": "8.644438",
+      "Organisation": "Deutsche Sportjugend",
+      "OrganisationDisplay": "dsj",
+      "OrganisationId": 23488,
+      "OrganisationKurz": "dsj",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60528,
+      "Telefax": "+49 69 6702-69",
+      "Telefon": "+49 69 6700-0"
+    }
+  ]
+}

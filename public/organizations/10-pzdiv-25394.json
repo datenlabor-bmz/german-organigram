@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.825639",
+  "Bundesland": "Bayern",
+  "E-Mail": "10.PzDivPressestelle@bundeswehr.org",
+  "Hauptadresse": "Oberdürrbacher Straße 2a",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/10-panzerdivision",
+  "Land": "DE",
+  "Längengrad": "9.901631",
+  "Organisation": "10. Panzerdivision",
+  "OrganisationDisplay": "10. PzDiv",
+  "OrganisationId": 25394,
+  "OrganisationKurz": "10. PzDiv",
+  "Ort": "Veitshöchheim",
+  "PLZ": 97209,
+  "Ressort": "BMVg",
+  "Telefon": "+49 931 9707-3160",
+  "locations": [
+    {
+      "Breitengrad": "49.825639",
+      "Bundesland": "Bayern",
+      "E-Mail": "10.PzDivPressestelle@bundeswehr.org",
+      "Hauptadresse": "Oberdürrbacher Straße 2a",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/10-panzerdivision",
+      "Land": "DE",
+      "Längengrad": "9.901631",
+      "Organisation": "10. Panzerdivision",
+      "OrganisationDisplay": "10. PzDiv",
+      "OrganisationId": 25394,
+      "OrganisationKurz": "10. PzDiv",
+      "Ort": "Veitshöchheim",
+      "PLZ": 97209,
+      "Ressort": "BMVg",
+      "Telefon": "+49 931 9707-3160"
+    }
+  ]
+}

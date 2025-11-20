@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.9362315",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@dla-marbach.de",
+  "Hauptadresse": "Schillerhöhe 8-10",
+  "Internetadresse": "https://www.dla-marbach.de/",
+  "Land": "DE",
+  "Längengrad": "9.2559833",
+  "Organisation": "Deutsches Literaturarchiv Marbach",
+  "OrganisationDisplay": "DLA",
+  "OrganisationId": 22906,
+  "OrganisationKurz": "DLA",
+  "Ort": "Marbach a. N.",
+  "PLZ": 71672,
+  "Telefax": "+49 7144 848-299",
+  "Telefon": "+49 7144 848-0",
+  "locations": [
+    {
+      "Breitengrad": "48.9362315",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@dla-marbach.de",
+      "Hauptadresse": "Schillerhöhe 8-10",
+      "Internetadresse": "https://www.dla-marbach.de/",
+      "Land": "DE",
+      "Längengrad": "9.2559833",
+      "Organisation": "Deutsches Literaturarchiv Marbach",
+      "OrganisationDisplay": "DLA",
+      "OrganisationId": 22906,
+      "OrganisationKurz": "DLA",
+      "Ort": "Marbach a. N.",
+      "PLZ": 71672,
+      "Telefax": "+49 7144 848-299",
+      "Telefon": "+49 7144 848-0"
+    }
+  ]
+}

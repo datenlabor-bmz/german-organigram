@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.861779",
+  "Bundesland": "Hessen",
+  "E-Mail": "poststelle.hza-darmstadt@zoll.bund.de",
+  "Hauptadresse": "Hilpertstraße 20 a",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "8.623308",
+  "Organisation": "Hauptzollamt Darmstadt",
+  "OrganisationDisplay": "HZA Darmstadt",
+  "OrganisationId": 25876,
+  "OrganisationKurz": "HZA Darmstadt",
+  "Ort": "Darmstadt",
+  "PLZ": 64295,
+  "Ressort": "BMF",
+  "Telefax": "+49 6151 9180-1900",
+  "Telefon": "+49 6151 9180-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "49.861779",
+      "Bundesland": "Hessen",
+      "E-Mail": "poststelle.hza-darmstadt@zoll.bund.de",
+      "Hauptadresse": "Hilpertstraße 20 a",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "8.623308",
+      "Organisation": "Hauptzollamt Darmstadt",
+      "OrganisationDisplay": "HZA Darmstadt",
+      "OrganisationId": 25876,
+      "OrganisationKurz": "HZA Darmstadt",
+      "Ort": "Darmstadt",
+      "PLZ": 64295,
+      "Ressort": "BMF",
+      "Telefax": "+49 6151 9180-1900",
+      "Telefon": "+49 6151 9180-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "E-Mail": "KO-TRA@diplo.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/transatlantische-zusammenarbeit/216436",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Koordinator für die transatlantische zwischengesellschaftliche, kultur- und informationspolitische Zusammenarbeit",
+  "OrganisationDisplay": "Z Transatlantik",
+  "OrganisationId": 26010,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 30 1817 -52870",
+  "Telefon": "+49 30 1817 - 2870",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "E-Mail": "KO-TRA@diplo.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/koordinatoren/transatlantische-zusammenarbeit/216436",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Koordinator für die transatlantische zwischengesellschaftliche, kultur- und informationspolitische Zusammenarbeit",
+      "OrganisationDisplay": "Z Transatlantik",
+      "OrganisationId": 26010,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 30 1817 -52870",
+      "Telefon": "+49 30 1817 - 2870",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

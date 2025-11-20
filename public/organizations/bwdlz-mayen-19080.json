@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.328122",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "BwDLZMayen@bundeswehr.org",
+  "Hauptadresse": "Holler Pfad 6",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-mayen",
+  "Land": "DE",
+  "Längengrad": "7.212909",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Mayen",
+  "OrganisationDisplay": "BwDLZ Mayen",
+  "OrganisationId": 19080,
+  "OrganisationKurz": "BwDLZ Mayen",
+  "Ort": "Mayen",
+  "PLZ": 56727,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2651 4960-0",
+  "locations": [
+    {
+      "Breitengrad": "50.328122",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "BwDLZMayen@bundeswehr.org",
+      "Hauptadresse": "Holler Pfad 6",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-mayen",
+      "Land": "DE",
+      "Längengrad": "7.212909",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Mayen",
+      "OrganisationDisplay": "BwDLZ Mayen",
+      "OrganisationId": 19080,
+      "OrganisationKurz": "BwDLZ Mayen",
+      "Ort": "Mayen",
+      "PLZ": 56727,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2651 4960-0"
+    }
+  ]
+}

@@ -15,6 +15,8 @@ export interface BudgetMatch {
     titel?: string;
 }
 
+import { WikidataEntity } from '@/lib/wikidata';
+
 export interface Entity {
     OrganisationId: string | number;
     Organisation: string;
@@ -40,4 +42,6 @@ export interface Entity {
     locations?: EntityLocation[];
     budgetMatch?: BudgetMatch;
     budgetAmount?: number;
+    hasWikidata?: boolean;
+    wikidata?: WikidataEntity;
 }

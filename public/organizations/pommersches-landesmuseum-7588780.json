@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "54.09492",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "info@pommersches-landesmuseum.de",
+  "Hauptadresse": "Rakower Straße 9",
+  "Internetadresse": "https://www.pommersches-landesmuseum.de/",
+  "Land": "DE",
+  "Längengrad": "13.38234",
+  "Organisation": "Pommersches Landesmuseum",
+  "OrganisationDisplay": "Pommersches LM",
+  "OrganisationId": 7588780,
+  "Ort": "Greifswald",
+  "PLZ": 17489,
+  "Telefax": "+49 3834 831211",
+  "Telefon": "+49 3834 8312-0",
+  "locations": [
+    {
+      "Breitengrad": "54.09492",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "info@pommersches-landesmuseum.de",
+      "Hauptadresse": "Rakower Straße 9",
+      "Internetadresse": "https://www.pommersches-landesmuseum.de/",
+      "Land": "DE",
+      "Längengrad": "13.38234",
+      "Organisation": "Pommersches Landesmuseum",
+      "OrganisationDisplay": "Pommersches LM",
+      "OrganisationId": 7588780,
+      "Ort": "Greifswald",
+      "PLZ": 17489,
+      "Telefax": "+49 3834 831211",
+      "Telefon": "+49 3834 8312-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.086272",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "Hauptadresse": "Kopernikusstraße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+  "Land": "DE",
+  "Längengrad": "12.091382",
+  "Organisation": "Marinekommando",
+  "OrganisationDisplay": "MarKdo",
+  "OrganisationId": 25262,
+  "OrganisationKurz": "MarKdo",
+  "Ort": "Rostock",
+  "PLZ": 18057,
+  "Ressort": "BMVg",
+  "Telefax": "+49 381 802-3297",
+  "Telefon": "+49 381 802-50",
+  "locations": [
+    {
+      "Breitengrad": "54.086272",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "Hauptadresse": "Kopernikusstraße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine",
+      "Land": "DE",
+      "Längengrad": "12.091382",
+      "Organisation": "Marinekommando",
+      "OrganisationDisplay": "MarKdo",
+      "OrganisationId": 25262,
+      "OrganisationKurz": "MarKdo",
+      "Ort": "Rostock",
+      "PLZ": 18057,
+      "Ressort": "BMVg",
+      "Telefax": "+49 381 802-3297",
+      "Telefon": "+49 381 802-50"
+    }
+  ]
+}

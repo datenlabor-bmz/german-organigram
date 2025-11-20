@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.29492",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@lpv.de",
+  "Hauptadresse": "Promenade 9",
+  "Internetadresse": "https://www.dvl.org/",
+  "Land": "DE",
+  "Längengrad": "10.560875",
+  "Organisation": "Deutscher Verband für Landschaftspflege e. V.",
+  "OrganisationDisplay": "DVL",
+  "OrganisationId": 21084,
+  "OrganisationKurz": "DVL",
+  "Ort": "Ansbach",
+  "PLZ": 91522,
+  "Telefax": "+49 981 1800 99-30",
+  "Telefon": "+49 981 1800 99-0",
+  "locations": [
+    {
+      "Breitengrad": "49.29492",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@lpv.de",
+      "Hauptadresse": "Promenade 9",
+      "Internetadresse": "https://www.dvl.org/",
+      "Land": "DE",
+      "Längengrad": "10.560875",
+      "Organisation": "Deutscher Verband für Landschaftspflege e. V.",
+      "OrganisationDisplay": "DVL",
+      "OrganisationId": 21084,
+      "OrganisationKurz": "DVL",
+      "Ort": "Ansbach",
+      "PLZ": 91522,
+      "Telefax": "+49 981 1800 99-30",
+      "Telefon": "+49 981 1800 99-0"
+    }
+  ]
+}

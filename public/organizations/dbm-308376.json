@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.4893214",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@bergbaumuseum.de",
+  "Hauptadresse": "Am Bergbaumuseum 28",
+  "Internetadresse": "https://www.bergbaumuseum.de",
+  "Land": "DE",
+  "Längengrad": "7.2176572",
+  "Organisation": "Deutsches Bergbau-Museum Bochum Leibniz-Forschungsmuseum für Georessourcen",
+  "OrganisationDisplay": "DBM",
+  "OrganisationId": 308376,
+  "OrganisationKurz": "DBM",
+  "Ort": "Bochum",
+  "PLZ": 44791,
+  "Telefon": "+49 234 5877-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.4893214",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@bergbaumuseum.de",
+      "Hauptadresse": "Am Bergbaumuseum 28",
+      "Internetadresse": "https://www.bergbaumuseum.de",
+      "Land": "DE",
+      "Längengrad": "7.2176572",
+      "Organisation": "Deutsches Bergbau-Museum Bochum Leibniz-Forschungsmuseum für Georessourcen",
+      "OrganisationDisplay": "DBM",
+      "OrganisationId": 308376,
+      "OrganisationKurz": "DBM",
+      "Ort": "Bochum",
+      "PLZ": 44791,
+      "Telefon": "+49 234 5877-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

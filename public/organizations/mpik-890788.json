@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.4168307",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "contact@mpi-muelheim.mpg.de",
+  "Hauptadresse": "Kaiser-Wilhelm-Platz 1",
+  "Internetadresse": "https://www.kofo.mpg.de/",
+  "Land": "DE",
+  "Längengrad": "6.885103",
+  "Organisation": "Max-Planck-Institut für Kohlenforschung",
+  "OrganisationDisplay": "MPIK",
+  "OrganisationId": 890788,
+  "OrganisationKurz": "MPIK",
+  "Ort": "Mülheim an der Ruhr",
+  "PLZ": 45470,
+  "Telefax": "+49 208 306-2980",
+  "Telefon": "+49 208 306-1",
+  "locations": [
+    {
+      "Breitengrad": "51.4168307",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "contact@mpi-muelheim.mpg.de",
+      "Hauptadresse": "Kaiser-Wilhelm-Platz 1",
+      "Internetadresse": "https://www.kofo.mpg.de/",
+      "Land": "DE",
+      "Längengrad": "6.885103",
+      "Organisation": "Max-Planck-Institut für Kohlenforschung",
+      "OrganisationDisplay": "MPIK",
+      "OrganisationId": 890788,
+      "OrganisationKurz": "MPIK",
+      "Ort": "Mülheim an der Ruhr",
+      "PLZ": 45470,
+      "Telefax": "+49 208 306-2980",
+      "Telefon": "+49 208 306-1"
+    }
+  ]
+}

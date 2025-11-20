@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5147443",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@dguv.de",
+  "Hauptadresse": "Glinkastraße 40",
+  "Internetadresse": "https://www.dguv.de",
+  "Land": "DE",
+  "Längengrad": "13.3862948",
+  "Organisation": "Deutsche Gesetzliche Unfallversicherung e. V.",
+  "OrganisationDisplay": "DGUV",
+  "OrganisationId": 20550,
+  "OrganisationKurz": "DGUV",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Telefax": "+49 30 13001-9876",
+  "Telefon": "+49 30 13001-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5147443",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@dguv.de",
+      "Hauptadresse": "Glinkastraße 40",
+      "Internetadresse": "https://www.dguv.de",
+      "Land": "DE",
+      "Längengrad": "13.3862948",
+      "Organisation": "Deutsche Gesetzliche Unfallversicherung e. V.",
+      "OrganisationDisplay": "DGUV",
+      "OrganisationId": 20550,
+      "OrganisationKurz": "DGUV",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Telefax": "+49 30 13001-9876",
+      "Telefon": "+49 30 13001-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.1324899",
+  "Bundesland": "Bayern",
+  "Hauptadresse": "Hansastraße 32",
+  "Internetadresse": "https://www.esk.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "11.5289544",
+  "Organisation": "Fraunhofer-Institut für Eingebettete Systeme und Kommunikationstechnik",
+  "OrganisationDisplay": "ESK",
+  "OrganisationId": 568754,
+  "OrganisationKurz": "ESK",
+  "Ort": "München",
+  "PLZ": 80686,
+  "Telefax": "+49 89 547088-220",
+  "Telefon": "+49 89 547088-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.1324899",
+      "Bundesland": "Bayern",
+      "Hauptadresse": "Hansastraße 32",
+      "Internetadresse": "https://www.esk.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "11.5289544",
+      "Organisation": "Fraunhofer-Institut für Eingebettete Systeme und Kommunikationstechnik",
+      "OrganisationDisplay": "ESK",
+      "OrganisationId": 568754,
+      "OrganisationKurz": "ESK",
+      "Ort": "München",
+      "PLZ": 80686,
+      "Telefax": "+49 89 547088-220",
+      "Telefon": "+49 89 547088-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

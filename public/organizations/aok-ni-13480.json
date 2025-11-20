@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.337172",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "aok.niedersachsen@nds.aok.de",
+  "Hauptadresse": "Hildesheimer Straße 273",
+  "Internetadresse": "https://www.aok.de/pk/niedersachsen/",
+  "Land": "DE",
+  "Längengrad": "9.769589",
+  "Organisation": "Allgemeine Ortskrankenkasse Niedersachsen",
+  "OrganisationDisplay": "AOK NI",
+  "OrganisationId": 13480,
+  "OrganisationKurz": "AOK NI",
+  "Ort": "Hannover",
+  "PLZ": 30519,
+  "Ressort": "BMG",
+  "Telefax": "+49 511 8701-15989",
+  "Telefon": "+49 511 8701-0",
+  "locations": [
+    {
+      "Breitengrad": "52.337172",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "aok.niedersachsen@nds.aok.de",
+      "Hauptadresse": "Hildesheimer Straße 273",
+      "Internetadresse": "https://www.aok.de/pk/niedersachsen/",
+      "Land": "DE",
+      "Längengrad": "9.769589",
+      "Organisation": "Allgemeine Ortskrankenkasse Niedersachsen",
+      "OrganisationDisplay": "AOK NI",
+      "OrganisationId": 13480,
+      "OrganisationKurz": "AOK NI",
+      "Ort": "Hannover",
+      "PLZ": 30519,
+      "Ressort": "BMG",
+      "Telefax": "+49 511 8701-15989",
+      "Telefon": "+49 511 8701-0"
+    }
+  ]
+}

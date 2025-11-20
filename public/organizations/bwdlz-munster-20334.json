@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.985328",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZMunster@bundeswehr.org",
+  "Hauptadresse": "Emminger Weg 59-61",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-munster",
+  "Land": "DE",
+  "Längengrad": "10.070918",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Munster",
+  "OrganisationDisplay": "BwDLZ Munster",
+  "OrganisationId": 20334,
+  "OrganisationKurz": "BwDLZ Munster",
+  "Ort": "Munster",
+  "PLZ": 29633,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5192 12-0",
+  "locations": [
+    {
+      "Breitengrad": "52.985328",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZMunster@bundeswehr.org",
+      "Hauptadresse": "Emminger Weg 59-61",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-munster",
+      "Land": "DE",
+      "Längengrad": "10.070918",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Munster",
+      "OrganisationDisplay": "BwDLZ Munster",
+      "OrganisationId": 20334,
+      "OrganisationKurz": "BwDLZ Munster",
+      "Ort": "Munster",
+      "PLZ": 29633,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5192 12-0"
+    }
+  ]
+}

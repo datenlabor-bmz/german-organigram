@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.969109",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "SportSBwRedaktion@bundeswehr.org",
+  "Hauptadresse": "Dr. - Rau Allee 32",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/sportschule-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "7.993493",
+  "Organisation": "Sportschule der Bundeswehr",
+  "OrganisationDisplay": "SportSBw",
+  "OrganisationId": 26034,
+  "OrganisationKurz": "SportSBw",
+  "Ort": "Warendorf",
+  "PLZ": 48231,
+  "Ressort": "BMVg",
+  "Telefax": "+49 2581 9411 1111",
+  "Telefon": "+49 2581 9411 4301",
+  "locations": [
+    {
+      "Breitengrad": "51.969109",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "SportSBwRedaktion@bundeswehr.org",
+      "Hauptadresse": "Dr. - Rau Allee 32",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/sportschule-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "7.993493",
+      "Organisation": "Sportschule der Bundeswehr",
+      "OrganisationDisplay": "SportSBw",
+      "OrganisationId": 26034,
+      "OrganisationKurz": "SportSBw",
+      "Ort": "Warendorf",
+      "PLZ": 48231,
+      "Ressort": "BMVg",
+      "Telefax": "+49 2581 9411 1111",
+      "Telefon": "+49 2581 9411 4301"
+    }
+  ]
+}

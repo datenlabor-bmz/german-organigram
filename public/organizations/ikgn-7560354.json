@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.243271",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "sekretariat@ikgn.de",
+  "Hauptadresse": "Lindenstraße 31",
+  "Internetadresse": "https://www.ikgn.de/cms/",
+  "Land": "DE",
+  "Längengrad": "10.406373",
+  "Organisation": "Institut für Kultur und Geschichte der Deutschen in Nordosteuropa e. V.",
+  "OrganisationDisplay": "IKGN",
+  "OrganisationId": 7560354,
+  "OrganisationKurz": "IKGN",
+  "Ort": "Lüneburg",
+  "PLZ": 21335,
+  "Telefax": "+49 4131  40059-59",
+  "Telefon": "+49 4131  40059-0",
+  "locations": [
+    {
+      "Breitengrad": "53.243271",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "sekretariat@ikgn.de",
+      "Hauptadresse": "Lindenstraße 31",
+      "Internetadresse": "https://www.ikgn.de/cms/",
+      "Land": "DE",
+      "Längengrad": "10.406373",
+      "Organisation": "Institut für Kultur und Geschichte der Deutschen in Nordosteuropa e. V.",
+      "OrganisationDisplay": "IKGN",
+      "OrganisationId": 7560354,
+      "OrganisationKurz": "IKGN",
+      "Ort": "Lüneburg",
+      "PLZ": 21335,
+      "Telefax": "+49 4131  40059-59",
+      "Telefon": "+49 4131  40059-0"
+    }
+  ]
+}

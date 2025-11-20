@@ -1,0 +1,49 @@
+{
+  "Breitengrad": "48.7940344",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@stiftung-heuss-haus.de",
+  "Hauptadresse": "Breitscheidstraße 48",
+  "Internetadresse": "https://www.theodor-heuss-haus.de/",
+  "Land": "DE",
+  "Längengrad": "9.1676598",
+  "Organisation": "Stiftung Bundespräsident-Theodor-Heuss-Haus",
+  "OrganisationDisplay": "THH",
+  "OrganisationId": 26156,
+  "OrganisationKurz": "THH",
+  "Ort": "Stuttgart",
+  "PLZ": 70176,
+  "Ressort": "BKM",
+  "Telefax": "+49 711 955985-30",
+  "Telefon": "+49 711 955985-0",
+  "locations": [
+    {
+      "Breitengrad": "48.7940344",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@stiftung-heuss-haus.de",
+      "Hauptadresse": "Breitscheidstraße 48",
+      "Internetadresse": "https://www.theodor-heuss-haus.de/",
+      "Land": "DE",
+      "Längengrad": "9.1676598",
+      "Organisation": "Stiftung Bundespräsident-Theodor-Heuss-Haus",
+      "OrganisationDisplay": "THH",
+      "OrganisationId": 26156,
+      "OrganisationKurz": "THH",
+      "Ort": "Stuttgart",
+      "PLZ": 70176,
+      "Ressort": "BKM",
+      "Telefax": "+49 711 955985-30",
+      "Telefon": "+49 711 955985-0"
+    },
+    {
+      "Adresse": "Feuerbacher Weg 46",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.theodor-heuss-haus.de/",
+      "Land": "DE",
+      "Liegenschaft": "Theodor-Heuss-Haus",
+      "LiegenschaftsId": 10731544,
+      "OrganisationId": 26156,
+      "Ort": "Stuttgart",
+      "PLZ": 70192
+    }
+  ]
+}

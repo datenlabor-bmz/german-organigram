@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.558612",
+  "Bundesland": "Berlin",
+  "E-Mail": "Kunstverwaltung@kvdb.bund.de",
+  "Hauptadresse": "DGZ-Ring 12",
+  "Internetadresse": "https://kunstverwaltung.bund.de/Webs/KVDB/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.441111",
+  "Organisation": "Kunstverwaltung des Bundes",
+  "OrganisationDisplay": "KVDB",
+  "OrganisationId": 13802638,
+  "OrganisationKurz": "KVDB",
+  "Ort": "Berlin",
+  "PLZ": 13086,
+  "Ressort": "BKM",
+  "locations": [
+    {
+      "Breitengrad": "52.558612",
+      "Bundesland": "Berlin",
+      "E-Mail": "Kunstverwaltung@kvdb.bund.de",
+      "Hauptadresse": "DGZ-Ring 12",
+      "Internetadresse": "https://kunstverwaltung.bund.de/Webs/KVDB/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.441111",
+      "Organisation": "Kunstverwaltung des Bundes",
+      "OrganisationDisplay": "KVDB",
+      "OrganisationId": 13802638,
+      "OrganisationKurz": "KVDB",
+      "Ort": "Berlin",
+      "PLZ": 13086,
+      "Ressort": "BKM"
+    }
+  ]
+}

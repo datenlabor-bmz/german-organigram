@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.566376",
+  "Bundesland": "Hamburg",
+  "E-Mail": "online-redaktion@bgw-online.de",
+  "Hauptadresse": "Pappelallee 33, 35, 37",
+  "Internetadresse": "https://www.bgw-online.de",
+  "Land": "DE",
+  "Längengrad": "10.05793",
+  "Organisation": "Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege",
+  "OrganisationDisplay": "BGW",
+  "OrganisationId": 14204,
+  "OrganisationKurz": "BGW",
+  "Ort": "Hamburg",
+  "PLZ": 22089,
+  "Ressort": "BMAS",
+  "Telefax": "+49 40 20207-2495",
+  "Telefon": "+49 40 20207-0",
+  "locations": [
+    {
+      "Breitengrad": "53.566376",
+      "Bundesland": "Hamburg",
+      "E-Mail": "online-redaktion@bgw-online.de",
+      "Hauptadresse": "Pappelallee 33, 35, 37",
+      "Internetadresse": "https://www.bgw-online.de",
+      "Land": "DE",
+      "Längengrad": "10.05793",
+      "Organisation": "Berufsgenossenschaft für Gesundheitsdienst und Wohlfahrtspflege",
+      "OrganisationDisplay": "BGW",
+      "OrganisationId": 14204,
+      "OrganisationKurz": "BGW",
+      "Ort": "Hamburg",
+      "PLZ": 22089,
+      "Ressort": "BMAS",
+      "Telefax": "+49 40 20207-2495",
+      "Telefon": "+49 40 20207-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.9396826",
+  "E-Mail": "BWVStNiederlande@bundeswehr.org",
+  "Hauptadresse": "Rimburgerweg 30",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-niederlande",
+  "Land": "Niederlande",
+  "Längengrad": "5.9868315",
+  "Organisation": "Bundeswehrverwaltungsstelle Niederlande",
+  "OrganisationDisplay": "BWVSt Niederlande ",
+  "OrganisationId": 17788,
+  "OrganisationKurz": "BWVSt Niederlande ",
+  "Ort": "PA Brunssum",
+  "PLZ": 6445,
+  "Ressort": "BMVg",
+  "Telefax": "+31 45 5263802",
+  "Telefon": "+31 45 5263691",
+  "locations": [
+    {
+      "Breitengrad": "50.9396826",
+      "E-Mail": "BWVStNiederlande@bundeswehr.org",
+      "Hauptadresse": "Rimburgerweg 30",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-niederlande",
+      "Land": "Niederlande",
+      "Längengrad": "5.9868315",
+      "Organisation": "Bundeswehrverwaltungsstelle Niederlande",
+      "OrganisationDisplay": "BWVSt Niederlande ",
+      "OrganisationId": 17788,
+      "OrganisationKurz": "BWVSt Niederlande ",
+      "Ort": "PA Brunssum",
+      "PLZ": 6445,
+      "Ressort": "BMVg",
+      "Telefax": "+31 45 5263802",
+      "Telefon": "+31 45 5263691"
+    }
+  ]
+}

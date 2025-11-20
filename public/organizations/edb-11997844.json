@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5217255",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@edb-banken.de",
+  "Hauptadresse": "Burgstraße 28",
+  "Internetadresse": "https://www.edb-banken.de",
+  "Land": "DE",
+  "Längengrad": "13.4008252",
+  "Organisation": "Entschädigungseinrichtung deutscher Banken GmbH",
+  "OrganisationDisplay": "EdB",
+  "OrganisationId": 11997844,
+  "OrganisationKurz": "EdB",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Ressort": "BMF",
+  "Telefon": "+49 30 5900 1196-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5217255",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@edb-banken.de",
+      "Hauptadresse": "Burgstraße 28",
+      "Internetadresse": "https://www.edb-banken.de",
+      "Land": "DE",
+      "Längengrad": "13.4008252",
+      "Organisation": "Entschädigungseinrichtung deutscher Banken GmbH",
+      "OrganisationDisplay": "EdB",
+      "OrganisationId": 11997844,
+      "OrganisationKurz": "EdB",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Ressort": "BMF",
+      "Telefon": "+49 30 5900 1196-0"
+    }
+  ]
+}

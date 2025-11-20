@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.5697008",
+  "Bundesland": "Hamburg",
+  "E-Mail": "office@bundeslotsenkammer.de",
+  "Hauptadresse": "Theodorstraße 42-90",
+  "Internetadresse": "https://www.bundeslotsenkammer.de/",
+  "Land": "DE",
+  "Längengrad": "9.8998371",
+  "Organisation": "Bundeslotsenkammer",
+  "OrganisationDisplay": "BLK",
+  "OrganisationId": 20730,
+  "OrganisationKurz": "BLK",
+  "Ort": "Hamburg",
+  "PLZ": 22761,
+  "Ressort": "BMV",
+  "Telefax": "+49 40-60 77 60 399",
+  "Telefon": "+49 40-60 77 60 310",
+  "locations": [
+    {
+      "Breitengrad": "53.5697008",
+      "Bundesland": "Hamburg",
+      "E-Mail": "office@bundeslotsenkammer.de",
+      "Hauptadresse": "Theodorstraße 42-90",
+      "Internetadresse": "https://www.bundeslotsenkammer.de/",
+      "Land": "DE",
+      "Längengrad": "9.8998371",
+      "Organisation": "Bundeslotsenkammer",
+      "OrganisationDisplay": "BLK",
+      "OrganisationId": 20730,
+      "OrganisationKurz": "BLK",
+      "Ort": "Hamburg",
+      "PLZ": 22761,
+      "Ressort": "BMV",
+      "Telefax": "+49 40-60 77 60 399",
+      "Telefon": "+49 40-60 77 60 310"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.716332",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "idos@idos-research.de",
+  "Hauptadresse": "Tulpenfeld 6",
+  "Internetadresse": "https://www.idos-research.de",
+  "Land": "DE",
+  "Längengrad": "7.1227",
+  "Organisation": "Deutsches Institut für Entwicklung und Nachhaltigkeit",
+  "OrganisationDisplay": "IDOS",
+  "OrganisationId": 21732,
+  "OrganisationKurz": "IDOS",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Telefax": "+49 228 94927-130",
+  "Telefon": "+49 228 94927-0",
+  "locations": [
+    {
+      "Breitengrad": "50.716332",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "idos@idos-research.de",
+      "Hauptadresse": "Tulpenfeld 6",
+      "Internetadresse": "https://www.idos-research.de",
+      "Land": "DE",
+      "Längengrad": "7.1227",
+      "Organisation": "Deutsches Institut für Entwicklung und Nachhaltigkeit",
+      "OrganisationDisplay": "IDOS",
+      "OrganisationId": 21732,
+      "OrganisationKurz": "IDOS",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 228 94927-130",
+      "Telefon": "+49 228 94927-0"
+    }
+  ]
+}

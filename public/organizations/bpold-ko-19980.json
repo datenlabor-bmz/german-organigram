@@ -1,0 +1,231 @@
+{
+  "Breitengrad": "50.352091",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "bpold.koblenz@polizei.bund.de",
+  "Hauptadresse": "Südallee 15-19",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Koblenz/koblenz_node.html",
+  "Land": "DE",
+  "Längengrad": "7.59504",
+  "Organisation": "Bundespolizeidirektion Koblenz",
+  "OrganisationDisplay": "BPOLD KO",
+  "OrganisationId": 19980,
+  "OrganisationKurz": "BPOLD KO",
+  "Ort": "Koblenz",
+  "PLZ": 56068,
+  "Ressort": "BMI",
+  "Telefax": "+49 261 399-1199",
+  "Telefon": "+49 261 399-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "Wikidata ID": "Q123488530",
+  "locations": [
+    {
+      "Breitengrad": "50.352091",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "bpold.koblenz@polizei.bund.de",
+      "Hauptadresse": "Südallee 15-19",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Koblenz/koblenz_node.html",
+      "Land": "DE",
+      "Längengrad": "7.59504",
+      "Organisation": "Bundespolizeidirektion Koblenz",
+      "OrganisationDisplay": "BPOLD KO",
+      "OrganisationId": 19980,
+      "OrganisationKurz": "BPOLD KO",
+      "Ort": "Koblenz",
+      "PLZ": 56068,
+      "Ressort": "BMI",
+      "Telefax": "+49 261 399-1199",
+      "Telefon": "+49 261 399-0",
+      "Kategorie": "Bundesmittelbehörde",
+      "Wikidata ID": "Q123488530"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q123488530",
+    "data": {
+      "type": "item",
+      "id": "Q123488530",
+      "labels": {
+        "en": {
+          "language": "en",
+          "value": "Bundespolizeidirektion Koblenz"
+        },
+        "de": {
+          "language": "de",
+          "value": "Bundespolizeidirektion Koblenz"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "Bundespolizeidirektion in Koblenz"
+        }
+      },
+      "claims": {
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "85bc08193d61b6cd7815a28161b98113408f9f9d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 123488645,
+                  "id": "Q123488645"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q123488530$f374d344-4fb3-8fee-36f9-e602ab508514",
+            "rank": "normal"
+          }
+        ],
+        "P968": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P968",
+              "hash": "2e9c7d4a94d70cd7c31bdbc84c65fecfa97c7550",
+              "datavalue": {
+                "value": "mailto:bpold.koblenz@polizei.bund.de",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q123488530$9c347f0e-4edb-8806-583f-95e15aefc0e3",
+            "rank": "normal"
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "460c87cffd06175676852be3f417b5bcdc0bb0dd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 3104,
+                  "id": "Q3104"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q123488530$b06ca60d-4ca4-a573-1e13-8fa23111ba15",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "e1e29e634af21ec62b8aa222421ef16bc2558484",
+              "datavalue": {
+                "value": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Koblenz/koblenz_node.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q123488530$4b73a500-4ac3-7597-41f3-536663baf64c",
+            "rank": "normal"
+          }
+        ],
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q123488530$5dfc1a3e-4ae9-7e4c-ef12-6fa9d9c6d6d5",
+            "rank": "normal"
+          }
+        ],
+        "P154": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P154",
+              "hash": "1a529e9dca49d42d8ece2eadeef07576b62c67b3",
+              "datavalue": {
+                "value": "Bundespolizeidirektion Koblenz (Logo).jpg",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q123488530$0ede4943-43b7-acc6-c1ab-75ae815dea91",
+            "rank": "normal"
+          }
+        ],
+        "P625": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P625",
+              "hash": "b0d4700ab5698222e2a51550ddcf190d36e3d72b",
+              "datavalue": {
+                "value": {
+                  "latitude": 50.3529,
+                  "longitude": 7.59541,
+                  "altitude": null,
+                  "precision": 1e-05,
+                  "globe": "http://www.wikidata.org/entity/Q2"
+                },
+                "type": "globecoordinate"
+              },
+              "datatype": "globe-coordinate"
+            },
+            "type": "statement",
+            "id": "Q123488530$e49a560f-4e0a-fb90-dfa7-297f01367fff",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {}
+    },
+    "referenced_entities": {
+      "Q123488645": {
+        "type": "item",
+        "id": "Q123488645",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Bundespolizeidirektion"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundespolizeidirektion"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "government agency in Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "deutsche Sicherheitsbehörde"
+          }
+        }
+      }
+    }
+  }
+}

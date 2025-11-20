@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.49597",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@bgbau.de",
+  "Hauptadresse": "Bundesallee 210",
+  "Internetadresse": "https://www.bgbau.de",
+  "Land": "DE",
+  "Längengrad": "13.3315286",
+  "Organisation": "Berufsgenossenschaft der Bauwirtschaft",
+  "OrganisationDisplay": "BG BAU",
+  "OrganisationId": 18164,
+  "OrganisationKurz": "BG BAU",
+  "Ort": "Berlin",
+  "PLZ": 10719,
+  "Ressort": "BMAS",
+  "Telefax": "+49 30 85781-500",
+  "Telefon": "+49 30 85781-0",
+  "locations": [
+    {
+      "Breitengrad": "52.49597",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@bgbau.de",
+      "Hauptadresse": "Bundesallee 210",
+      "Internetadresse": "https://www.bgbau.de",
+      "Land": "DE",
+      "Längengrad": "13.3315286",
+      "Organisation": "Berufsgenossenschaft der Bauwirtschaft",
+      "OrganisationDisplay": "BG BAU",
+      "OrganisationId": 18164,
+      "OrganisationKurz": "BG BAU",
+      "Ort": "Berlin",
+      "PLZ": 10719,
+      "Ressort": "BMAS",
+      "Telefax": "+49 30 85781-500",
+      "Telefon": "+49 30 85781-0"
+    }
+  ]
+}

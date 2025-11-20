@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5247106",
+  "Bundesland": "Berlin",
+  "E-Mail": "pflegebevollmaechtigte@bmg.bund.de",
+  "Hauptadresse": "Mauerstraße 29",
+  "Internetadresse": "https://www.pflegebevollmaechtigte.de/",
+  "Land": "DE",
+  "Längengrad": "13.3881479",
+  "Organisation": "Bevollmächtigte der Bundesregierung für Pflege",
+  "OrganisationDisplay": "Pflegebevollmächtigte",
+  "OrganisationId": 12375308,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMG",
+  "Telefax": "+49 30 18441-3422",
+  "Telefon": "+49 30 18441-3420",
+  "locations": [
+    {
+      "Breitengrad": "52.5247106",
+      "Bundesland": "Berlin",
+      "E-Mail": "pflegebevollmaechtigte@bmg.bund.de",
+      "Hauptadresse": "Mauerstraße 29",
+      "Internetadresse": "https://www.pflegebevollmaechtigte.de/",
+      "Land": "DE",
+      "Längengrad": "13.3881479",
+      "Organisation": "Bevollmächtigte der Bundesregierung für Pflege",
+      "OrganisationDisplay": "Pflegebevollmächtigte",
+      "OrganisationId": 12375308,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMG",
+      "Telefax": "+49 30 18441-3422",
+      "Telefon": "+49 30 18441-3420"
+    }
+  ]
+}

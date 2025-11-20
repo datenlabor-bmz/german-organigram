@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.55537",
+  "Bundesland": "BE",
+  "E-Mail": "PressestelleLKdoBE@bundeswehr.org",
+  "Hauptadresse": "Kurt-Schumacher-Damm 41",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-berlin",
+  "Land": "Berlin",
+  "Längengrad": "13.31612",
+  "Organisation": "Landeskommando Berlin",
+  "OrganisationDisplay": "Lkdo-Berlin",
+  "OrganisationId": 23159040,
+  "OrganisationKurz": "Lkdo-Berlin",
+  "Ort": "Berlin",
+  "PLZ": 13405,
+  "Ressort": "BMVg",
+  "Telefon": "+49 30 4981-4132",
+  "locations": [
+    {
+      "Breitengrad": "52.55537",
+      "Bundesland": "BE",
+      "E-Mail": "PressestelleLKdoBE@bundeswehr.org",
+      "Hauptadresse": "Kurt-Schumacher-Damm 41",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-berlin",
+      "Land": "Berlin",
+      "Längengrad": "13.31612",
+      "Organisation": "Landeskommando Berlin",
+      "OrganisationDisplay": "Lkdo-Berlin",
+      "OrganisationId": 23159040,
+      "OrganisationKurz": "Lkdo-Berlin",
+      "Ort": "Berlin",
+      "PLZ": 13405,
+      "Ressort": "BMVg",
+      "Telefon": "+49 30 4981-4132"
+    }
+  ]
+}

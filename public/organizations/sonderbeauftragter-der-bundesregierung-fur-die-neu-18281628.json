@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.530907",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bmz.bund.de",
+  "Hauptadresse": "Stresemannstraße 94",
+  "Internetadresse": "https://www.bmz.de/de/aktuelles/aktuelle-meldungen/ukraine-milbradt-sonderbeauftragter-verwaltungsmodernisierung-112880",
+  "Land": "DE",
+  "Längengrad": "13.3734415",
+  "Organisation": "Sonderbeauftragter der Bundesregierung für die Neustrukturierung der Verwaltung und Dezentralisierung in der Ukraine",
+  "OrganisationDisplay": "SB Ukraine",
+  "OrganisationId": 18281628,
+  "Ort": "Berlin",
+  "PLZ": 10963,
+  "Ressort": "BMZ",
+  "Telefax": "+49 30 18535-2501",
+  "Telefon": "+49 30 18 535-0",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.530907",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bmz.bund.de",
+      "Hauptadresse": "Stresemannstraße 94",
+      "Internetadresse": "https://www.bmz.de/de/aktuelles/aktuelle-meldungen/ukraine-milbradt-sonderbeauftragter-verwaltungsmodernisierung-112880",
+      "Land": "DE",
+      "Längengrad": "13.3734415",
+      "Organisation": "Sonderbeauftragter der Bundesregierung für die Neustrukturierung der Verwaltung und Dezentralisierung in der Ukraine",
+      "OrganisationDisplay": "SB Ukraine",
+      "OrganisationId": 18281628,
+      "Ort": "Berlin",
+      "PLZ": 10963,
+      "Ressort": "BMZ",
+      "Telefax": "+49 30 18535-2501",
+      "Telefon": "+49 30 18 535-0",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

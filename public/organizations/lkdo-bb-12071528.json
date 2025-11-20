@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.404349",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "LKdoBBPoststelle@bundeswehr.org",
+  "Hauptadresse": "Kaiser-Friedrich-Straße 49-61",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-brandenburg",
+  "Land": "DE",
+  "Längengrad": "12.9859022",
+  "Organisation": "Landeskommando Brandenburg",
+  "OrganisationDisplay": "LKdo BB",
+  "OrganisationId": 12071528,
+  "OrganisationKurz": "LKdo BB",
+  "Ort": "Potsdam",
+  "PLZ": 14469,
+  "Ressort": "BMVg",
+  "Telefon": "+49 331 5861 490",
+  "locations": [
+    {
+      "Breitengrad": "52.404349",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "LKdoBBPoststelle@bundeswehr.org",
+      "Hauptadresse": "Kaiser-Friedrich-Straße 49-61",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-brandenburg",
+      "Land": "DE",
+      "Längengrad": "12.9859022",
+      "Organisation": "Landeskommando Brandenburg",
+      "OrganisationDisplay": "LKdo BB",
+      "OrganisationId": 12071528,
+      "OrganisationKurz": "LKdo BB",
+      "Ort": "Potsdam",
+      "PLZ": 14469,
+      "Ressort": "BMVg",
+      "Telefon": "+49 331 5861 490"
+    }
+  ]
+}

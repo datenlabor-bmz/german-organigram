@@ -1,0 +1,820 @@
+{
+  "Breitengrad": "52.519784",
+  "Bundesland": "Berlin",
+  "E-Mail": "ostbeauftragte@bmf.bund.de",
+  "Hauptadresse": "Wilhelmstraße 97",
+  "Internetadresse": "https://www.ostbeauftragte.de/ostb-de ",
+  "Land": "DE",
+  "Längengrad": "13.372034",
+  "Organisation": "Beauftragte der Bundesregierung für Ostdeutschland",
+  "OrganisationDisplay": "Ostbeauftragte",
+  "OrganisationId": 17391108,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMF",
+  "Telefax": "+49 3018 682-32 60",
+  "Telefon": "+49 3018 682-0",
+  "Kategorie": "Beauftragter",
+  "Wikidata ID": "Q813392",
+  "locations": [
+    {
+      "Breitengrad": "52.519784",
+      "Bundesland": "Berlin",
+      "E-Mail": "ostbeauftragte@bmf.bund.de",
+      "Hauptadresse": "Wilhelmstraße 97",
+      "Internetadresse": "https://www.ostbeauftragte.de/ostb-de ",
+      "Land": "DE",
+      "Längengrad": "13.372034",
+      "Organisation": "Beauftragte der Bundesregierung für Ostdeutschland",
+      "OrganisationDisplay": "Ostbeauftragte",
+      "OrganisationId": 17391108,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMF",
+      "Telefax": "+49 3018 682-32 60",
+      "Telefon": "+49 3018 682-0",
+      "Kategorie": "Beauftragter",
+      "Wikidata ID": "Q813392"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q813392",
+    "data": {
+      "type": "item",
+      "id": "Q813392",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Beauftragter der Bundesregierung für Ostdeutschland und gleichwertige Lebensverhältnisse"
+        },
+        "en": {
+          "language": "en",
+          "value": "Federal Government Commissioner for the New Federal States of Germany"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "im Bundeskanzleramt angesiedeltes Amt"
+        }
+      },
+      "claims": {
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "757fdd6d04dbf016b43e483e763a1b01c31841fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005815,
+                  "id": "Q1005815"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813392$95adde70-47a6-5cab-d62d-2049eafa4cf0",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "221a6bb976d8a61e677dd23cc933a879872530a8",
+              "datavalue": {
+                "value": "https://www.beauftragter-neue-laender.de/",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q813392$35547aac-4ab1-7fbb-d6ec-2a361b82e150",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4164871,
+                  "id": "Q4164871"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813392$238D0485-CE87-4C44-B30D-938FEAC8EFEE",
+            "rank": "normal"
+          }
+        ],
+        "P6744": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P6744",
+              "hash": "e31508cb314675761f6b7d331286a1ba33086e37",
+              "datavalue": {
+                "value": "53",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q813392$2715934F-33C1-44DC-B5DE-D1CA83467DEB",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "279d052542e71d53e95c40192adb819e3bb2baed",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 488589,
+                  "id": "Q488589"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "2f145ed199ff93597306e3daf0831fa58b73928b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-12-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "4a51b715ee5241887c08ed8ec7fea0d39e2442fa",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-12-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582",
+              "P580"
+            ],
+            "id": "Q813392$57cd1761-4f3b-5030-9e46-beb9817f8475",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "56b17b5086467d4656816249a887333ebc936858",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 317027,
+                  "id": "Q317027"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "91150b4235d148813292b455c5cd2d281baf4944",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2021-12-08T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q813392$1be4b1fc-461e-f3bc-ea03-8d0c2d76dfa6",
+            "rank": "preferred",
+            "references": [
+              {
+                "hash": "2985e0c994c6af5b168b1ca9bc2564ab19c7eb02",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "853af246097f31eeebb6aed0d2cc8840b9fefae8",
+                      "datavalue": {
+                        "value": "https://www.bundesregierung.de/resource/blob/974430/1990040/df69951d83f08c0b7b04cb40210e1221/2021-12-08-organisationserlass-data.pdf",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "c1c2779fbc5ccd7ac1691b151324b2b4d1004029",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-13T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ],
+                  "P958": [
+                    {
+                      "snaktype": "value",
+                      "property": "P958",
+                      "hash": "b964bdfe1d56ac8234eea04dacb7267aafeff6e1",
+                      "datavalue": {
+                        "value": "X",
+                        "type": "string"
+                      },
+                      "datatype": "string"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813",
+                  "P958"
+                ]
+              }
+            ]
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "fa60fab1e4f59a7b25974e49193eebad4af3f9b3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 502698,
+                  "id": "Q502698"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P582": [
+                {
+                  "snaktype": "value",
+                  "property": "P582",
+                  "hash": "3927608570b8f7f7b44caaf9752f82a9d0502354",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2013-12-17T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P582"
+            ],
+            "id": "Q813392$7ab185c1-484c-eb2d-09a6-7574afbde4e8",
+            "rank": "normal"
+          }
+        ],
+        "P1001": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1001",
+              "hash": "d2a7142f81e7bb98a2ba2275f3d89545283e3b45",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813392$ae059db1-4cdb-d218-21d9-d2529d168297",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "642ce15ee6ece611094f867d97260961e596cc70",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 759499,
+                  "id": "Q759499"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q813392$9e72e69e-46e9-ddec-dceb-980ca06e9bec",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "fd6c9ffe473b8b7f8a19940e5e774fc1367a6fc2",
+              "datavalue": {
+                "value": "/g/1q5z4z_my",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q813392$66DC904E-4ECA-4432-B310-D85C3103A886",
+            "rank": "normal"
+          }
+        ],
+        "P4033": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P4033",
+              "hash": "f38d479af6e81838db1ff20db212348fecb0b2ff",
+              "datavalue": {
+                "value": "Ostbeauftragter@social.bund.de",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "e95c8ede111f800c5e0d76a0d4cbe881f302cc33",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2022-11-23T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ],
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580",
+              "P407"
+            ],
+            "id": "Q813392$a5f2db13-41e5-ad58-b157-f18708578111",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "fc3a36c4a330e554b1004b5adfe7ecd1186d3174",
+              "datavalue": {
+                "value": "16331152-3",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P1810": [
+                {
+                  "snaktype": "value",
+                  "property": "P1810",
+                  "hash": "ec1b234e843b19e823341a8646c5dec868ab6e9b",
+                  "datavalue": {
+                    "value": "Deutschland. Die Beauftragte der Bundesregierung für die Neuen Bundesländer",
+                    "type": "string"
+                  },
+                  "datatype": "string"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P1810"
+            ],
+            "id": "Q813392$49cea74b-41e4-330c-e048-27ae6f51a5e8",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "17dcb7edd2ea6db71e07df96ce436a449c979183",
+                "snaks": {
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "3b6fa5fa00541a262210b0d34a098a28ae917d9c",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-12-06T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P8687": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "16f1211fdae26ba244020a3045e792748a405cad",
+              "datavalue": {
+                "value": {
+                  "amount": "+376",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "f38d479af6e81838db1ff20db212348fecb0b2ff",
+                  "datavalue": {
+                    "value": "Ostbeauftragter@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "9d60d69fc8914e1e052163b51526bd50afbdf62b",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-02-12T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q813392$84A6C293-3DE7-4FEF-A77E-F8F6BDB4B70C",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "c2f46a64e937f0862c79871f971346bcd93ab5f2",
+              "datavalue": {
+                "value": {
+                  "amount": "+381",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "f38d479af6e81838db1ff20db212348fecb0b2ff",
+                  "datavalue": {
+                    "value": "Ostbeauftragter@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "a238e7341c8aa9bed8f85acab644a10b14752adc",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-03-16T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q813392$778148DE-B8F0-4632-A4EC-66C999C0B66C",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P8687",
+              "hash": "7d7e91f49bde8e4e26ef2e7b69410bf27afff16b",
+              "datavalue": {
+                "value": {
+                  "amount": "+387",
+                  "unit": "1"
+                },
+                "type": "quantity"
+              },
+              "datatype": "quantity"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P4033": [
+                {
+                  "snaktype": "value",
+                  "property": "P4033",
+                  "hash": "f38d479af6e81838db1ff20db212348fecb0b2ff",
+                  "datavalue": {
+                    "value": "Ostbeauftragter@social.bund.de",
+                    "type": "string"
+                  },
+                  "datatype": "external-id"
+                }
+              ],
+              "P585": [
+                {
+                  "snaktype": "value",
+                  "property": "P585",
+                  "hash": "607184846106e630f6f06910d2df74dca931b9f0",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2024-04-11T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P4033",
+              "P585"
+            ],
+            "id": "Q813392$2ACE720B-06D3-4ED0-801E-2227455F5C65",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Beauftragter der Bundesregierung für Ostdeutschland",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q502698": {
+        "type": "item",
+        "id": "Q502698",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of the Interior"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium des Innern"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of the Interior of Germany"
+          }
+        }
+      },
+      "Q317027": {
+        "type": "item",
+        "id": "Q317027",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Chancellery of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundeskanzleramt"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "Office of the Federal Chancellor of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Behörde des deutschen Bundeskanzlers"
+          }
+        }
+      },
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      },
+      "Q488589": {
+        "type": "item",
+        "id": "Q488589",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium für Wirtschaft und Energie"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry for Economic Affairs and Climate Action"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry for Economy of Germany"
+          }
+        }
+      }
+    }
+  }
+}

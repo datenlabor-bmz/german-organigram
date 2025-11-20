@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.4423",
+  "E-Mail": "contact@hqmncne.mil.pl",
+  "Hauptadresse": "ul. Lukasinskiego 33",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/multinationales-korps-nordost",
+  "Land": "Polen",
+  "Längengrad": "14.4936",
+  "Organisation": "Multinationales Korps Nordost",
+  "OrganisationDisplay": "MNK NE ",
+  "OrganisationId": 24086,
+  "OrganisationKurz": "MNK NE ",
+  "Ort": "Stettin",
+  "PLZ": 71,
+  "Ressort": "BMVg",
+  "Telefax": "+48 91 4445-909",
+  "Telefon": "+48 91 4445-900",
+  "locations": [
+    {
+      "Breitengrad": "53.4423",
+      "E-Mail": "contact@hqmncne.mil.pl",
+      "Hauptadresse": "ul. Lukasinskiego 33",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/multinationales-korps-nordost",
+      "Land": "Polen",
+      "Längengrad": "14.4936",
+      "Organisation": "Multinationales Korps Nordost",
+      "OrganisationDisplay": "MNK NE ",
+      "OrganisationId": 24086,
+      "OrganisationKurz": "MNK NE ",
+      "Ort": "Stettin",
+      "PLZ": 71,
+      "Ressort": "BMVg",
+      "Telefax": "+48 91 4445-909",
+      "Telefon": "+48 91 4445-900"
+    }
+  ]
+}

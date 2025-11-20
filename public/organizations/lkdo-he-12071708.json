@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.0767035",
+  "Bundesland": "Hessen",
+  "E-Mail": "LKdoHEEingangpost@bundeswehr.org",
+  "Hauptadresse": "Moltkering 9",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-hessen",
+  "Land": "DE",
+  "Längengrad": "8.2594456",
+  "Organisation": "Landeskommando Hessen",
+  "OrganisationDisplay": "LKdo HE",
+  "OrganisationId": 12071708,
+  "OrganisationKurz": "LKdo HE",
+  "Ort": "Wiesbaden",
+  "PLZ": 65189,
+  "Ressort": "BMVg",
+  "Telefax": "+49 611 799 8093",
+  "Telefon": "+49 611 799 0",
+  "locations": [
+    {
+      "Breitengrad": "50.0767035",
+      "Bundesland": "Hessen",
+      "E-Mail": "LKdoHEEingangpost@bundeswehr.org",
+      "Hauptadresse": "Moltkering 9",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-hessen",
+      "Land": "DE",
+      "Längengrad": "8.2594456",
+      "Organisation": "Landeskommando Hessen",
+      "OrganisationDisplay": "LKdo HE",
+      "OrganisationId": 12071708,
+      "OrganisationKurz": "LKdo HE",
+      "Ort": "Wiesbaden",
+      "PLZ": 65189,
+      "Ressort": "BMVg",
+      "Telefax": "+49 611 799 8093",
+      "Telefon": "+49 611 799 0"
+    }
+  ]
+}

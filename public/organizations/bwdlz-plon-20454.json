@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.147422",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "BwDLZPloen@bundeswehr.org",
+  "Hauptadresse": "Stadtheide 10 - 11",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/die-bundeswehr-dienstleistungszentren/bwdlz-ploen",
+  "Land": "DE",
+  "Längengrad": "10.458884",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Plön",
+  "OrganisationDisplay": "BwDLZ Plön",
+  "OrganisationId": 20454,
+  "OrganisationKurz": "BwDLZ Plön",
+  "Ort": "Plön",
+  "PLZ": 24306,
+  "Ressort": "BMVg",
+  "Telefax": "+49 4522 7444-2100",
+  "Telefon": "+49 4522-7444-0",
+  "locations": [
+    {
+      "Breitengrad": "54.147422",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "BwDLZPloen@bundeswehr.org",
+      "Hauptadresse": "Stadtheide 10 - 11",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/die-bundeswehr-dienstleistungszentren/bwdlz-ploen",
+      "Land": "DE",
+      "Längengrad": "10.458884",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Plön",
+      "OrganisationDisplay": "BwDLZ Plön",
+      "OrganisationId": 20454,
+      "OrganisationKurz": "BwDLZ Plön",
+      "Ort": "Plön",
+      "PLZ": 24306,
+      "Ressort": "BMVg",
+      "Telefax": "+49 4522 7444-2100",
+      "Telefon": "+49 4522-7444-0"
+    }
+  ]
+}

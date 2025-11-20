@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.100951",
+  "Bundesland": "Bayern",
+  "E-Mail": "ikgs@ikgs.de",
+  "Hauptadresse": "Halskestraße 15",
+  "Internetadresse": "https://www.ikgs.de",
+  "Land": "DE",
+  "Längengrad": "11.520156",
+  "Organisation": "Institut für deutsche Kultur und Geschichte Südosteuropas e. V.",
+  "OrganisationDisplay": "IKGS",
+  "OrganisationId": 65240,
+  "OrganisationKurz": "IKGS",
+  "Ort": "München",
+  "PLZ": 81379,
+  "Telefax": "+49 89 780609-22",
+  "Telefon": "+49 89 780609-0",
+  "locations": [
+    {
+      "Breitengrad": "48.100951",
+      "Bundesland": "Bayern",
+      "E-Mail": "ikgs@ikgs.de",
+      "Hauptadresse": "Halskestraße 15",
+      "Internetadresse": "https://www.ikgs.de",
+      "Land": "DE",
+      "Längengrad": "11.520156",
+      "Organisation": "Institut für deutsche Kultur und Geschichte Südosteuropas e. V.",
+      "OrganisationDisplay": "IKGS",
+      "OrganisationId": 65240,
+      "OrganisationKurz": "IKGS",
+      "Ort": "München",
+      "PLZ": 81379,
+      "Telefax": "+49 89 780609-22",
+      "Telefon": "+49 89 780609-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.991164",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "BwDLZMuenster@bundeswehr.org",
+  "Hauptadresse": "Josefine-Mauser-Straße 51",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-muenster",
+  "Land": "DE",
+  "Längengrad": "7.648251",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Münster",
+  "OrganisationDisplay": "BwDLZ Münster",
+  "OrganisationId": 20342,
+  "OrganisationKurz": "BwDLZ Münster",
+  "Ort": "Münster",
+  "PLZ": 48157,
+  "Ressort": "BMVg",
+  "Telefon": "+49 251 133398-0",
+  "locations": [
+    {
+      "Breitengrad": "51.991164",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "BwDLZMuenster@bundeswehr.org",
+      "Hauptadresse": "Josefine-Mauser-Straße 51",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-muenster",
+      "Land": "DE",
+      "Längengrad": "7.648251",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Münster",
+      "OrganisationDisplay": "BwDLZ Münster",
+      "OrganisationId": 20342,
+      "OrganisationKurz": "BwDLZ Münster",
+      "Ort": "Münster",
+      "PLZ": 48157,
+      "Ressort": "BMVg",
+      "Telefon": "+49 251 133398-0"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "49.486014",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "trabold@ids-mannheim.de",
+  "Hauptadresse": "R 5 6 - 13",
+  "Internetadresse": "https://www1.ids-mannheim.de/",
+  "Land": "DE",
+  "Längengrad": "8.472802",
+  "Organisation": "Leibniz-Institut für Deutsche Sprache",
+  "OrganisationDisplay": "IDS",
+  "OrganisationId": 22722,
+  "OrganisationKurz": "IDS",
+  "Ort": "Mannheim",
+  "PLZ": 68161,
+  "Telefax": "+49 621 1581-200",
+  "Telefon": "+49 621 1581-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.486014",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "trabold@ids-mannheim.de",
+      "Hauptadresse": "R 5 6 - 13",
+      "Internetadresse": "https://www1.ids-mannheim.de/",
+      "Land": "DE",
+      "Längengrad": "8.472802",
+      "Organisation": "Leibniz-Institut für Deutsche Sprache",
+      "OrganisationDisplay": "IDS",
+      "OrganisationId": 22722,
+      "OrganisationKurz": "IDS",
+      "Ort": "Mannheim",
+      "PLZ": 68161,
+      "Telefax": "+49 621 1581-200",
+      "Telefon": "+49 621 1581-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

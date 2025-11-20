@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.347127",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@leibniz-ifl.de",
+  "Hauptadresse": "Schongauerstraße 9",
+  "Internetadresse": "https://www.leibniz-ifl.de",
+  "Land": "DE",
+  "Längengrad": "12.4719727",
+  "Organisation": "Leibniz-Institut für Länderkunde e. V.",
+  "OrganisationDisplay": "IfL",
+  "OrganisationId": 366592,
+  "OrganisationKurz": "IfL",
+  "Ort": "Leipzig",
+  "PLZ": 4328,
+  "Telefax": "+49 341600 55-198",
+  "Telefon": "+49 341 600 55-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.347127",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@leibniz-ifl.de",
+      "Hauptadresse": "Schongauerstraße 9",
+      "Internetadresse": "https://www.leibniz-ifl.de",
+      "Land": "DE",
+      "Längengrad": "12.4719727",
+      "Organisation": "Leibniz-Institut für Länderkunde e. V.",
+      "OrganisationDisplay": "IfL",
+      "OrganisationId": 366592,
+      "OrganisationKurz": "IfL",
+      "Ort": "Leipzig",
+      "PLZ": 4328,
+      "Telefax": "+49 341600 55-198",
+      "Telefon": "+49 341 600 55-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

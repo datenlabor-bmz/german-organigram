@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.306398",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@zla.de",
+  "Hauptadresse": "Druseltalstraße 51",
+  "Internetadresse": "https://www.zla.de",
+  "Land": "DE",
+  "Längengrad": "9.43831",
+  "Organisation": "Zusatzversorgungswerk für Arbeitnehmer in der Land- und Forstwirtschaft",
+  "OrganisationDisplay": "ZLF VVaG",
+  "OrganisationId": 8745908,
+  "OrganisationKurz": "ZLF VVaG",
+  "Ort": "Kassel",
+  "PLZ": 34131,
+  "Ressort": "BMF",
+  "Telefax": "+49 561 7852179-49",
+  "Telefon": "+49 561 7852179-00",
+  "locations": [
+    {
+      "Breitengrad": "51.306398",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@zla.de",
+      "Hauptadresse": "Druseltalstraße 51",
+      "Internetadresse": "https://www.zla.de",
+      "Land": "DE",
+      "Längengrad": "9.43831",
+      "Organisation": "Zusatzversorgungswerk für Arbeitnehmer in der Land- und Forstwirtschaft",
+      "OrganisationDisplay": "ZLF VVaG",
+      "OrganisationId": 8745908,
+      "OrganisationKurz": "ZLF VVaG",
+      "Ort": "Kassel",
+      "PLZ": 34131,
+      "Ressort": "BMF",
+      "Telefax": "+49 561 7852179-49",
+      "Telefon": "+49 561 7852179-00"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.436371",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "atb@atb-potsdam.de",
+  "Hauptadresse": "Max-Eyth-Allee 100",
+  "Internetadresse": "https://www.atb-potsdam.de/de/",
+  "Land": "DE",
+  "Längengrad": "13.009269",
+  "Organisation": "Leibniz-Institut für Agrartechnik und Bioökonomie e. V.",
+  "OrganisationDisplay": "ATB",
+  "OrganisationId": 24738,
+  "OrganisationKurz": "ATB",
+  "Ort": "Potsdam",
+  "PLZ": 14469,
+  "Telefax": "+49 331 5699-849",
+  "Telefon": "+49 331 5699-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.436371",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "atb@atb-potsdam.de",
+      "Hauptadresse": "Max-Eyth-Allee 100",
+      "Internetadresse": "https://www.atb-potsdam.de/de/",
+      "Land": "DE",
+      "Längengrad": "13.009269",
+      "Organisation": "Leibniz-Institut für Agrartechnik und Bioökonomie e. V.",
+      "OrganisationDisplay": "ATB",
+      "OrganisationId": 24738,
+      "OrganisationKurz": "ATB",
+      "Ort": "Potsdam",
+      "PLZ": 14469,
+      "Telefax": "+49 331 5699-849",
+      "Telefon": "+49 331 5699-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "48.13659",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@stbg.bayern.de",
+  "Hauptadresse": "Praterinsel 2",
+  "Internetadresse": "https://www.stiftung-bayerische-gedenkstaetten.de",
+  "Land": "DE",
+  "Längengrad": "11.59109",
+  "Organisation": "Stiftung Bayerische Gedenkstätten (KZ-Gedenkstätten Dachau und Flossenbürg)",
+  "OrganisationDisplay": "Bayerische GS",
+  "OrganisationId": 8331210,
+  "Ort": "München",
+  "PLZ": 80538,
+  "Telefon": "+49 89 21586-7580",
+  "locations": [
+    {
+      "Breitengrad": "48.13659",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@stbg.bayern.de",
+      "Hauptadresse": "Praterinsel 2",
+      "Internetadresse": "https://www.stiftung-bayerische-gedenkstaetten.de",
+      "Land": "DE",
+      "Längengrad": "11.59109",
+      "Organisation": "Stiftung Bayerische Gedenkstätten (KZ-Gedenkstätten Dachau und Flossenbürg)",
+      "OrganisationDisplay": "Bayerische GS",
+      "OrganisationId": 8331210,
+      "Ort": "München",
+      "PLZ": 80538,
+      "Telefon": "+49 89 21586-7580"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.54732",
+  "E-Mail": "pressinfo@eurocorps.org",
+  "Hauptadresse": "Rue du Corps Européen 4",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/eurocorps",
+  "Land": "Frankreich",
+  "Längengrad": "7.781757",
+  "Organisation": "Eurokorps",
+  "OrganisationDisplay": "Eurokorps",
+  "OrganisationId": 23786,
+  "OrganisationKurz": "Eurokorps",
+  "Ort": "Strasbourg",
+  "PLZ": 67020,
+  "Ressort": "BMVg",
+  "Telefax": "+33 388 432005",
+  "Telefon": "+33 388 432007",
+  "locations": [
+    {
+      "Breitengrad": "48.54732",
+      "E-Mail": "pressinfo@eurocorps.org",
+      "Hauptadresse": "Rue du Corps Européen 4",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/eurocorps",
+      "Land": "Frankreich",
+      "Längengrad": "7.781757",
+      "Organisation": "Eurokorps",
+      "OrganisationDisplay": "Eurokorps",
+      "OrganisationId": 23786,
+      "OrganisationKurz": "Eurokorps",
+      "Ort": "Strasbourg",
+      "PLZ": 67020,
+      "Ressort": "BMVg",
+      "Telefax": "+33 388 432005",
+      "Telefon": "+33 388 432007"
+    }
+  ]
+}

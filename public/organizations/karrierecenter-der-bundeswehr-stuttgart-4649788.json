@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "48.8033345",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "BewerbungenStuttgart@bundeswehr.org",
+  "Hauptadresse": "Heilbronner Straße 188",
+  "Internetadresse": "https://www.bundeswehrkarriere.de/",
+  "Land": "DE",
+  "Längengrad": "9.1848253",
+  "Organisation": "Karrierecenter der Bundeswehr Stuttgart",
+  "OrganisationDisplay": "Karrierecenter Bw Stuttgart",
+  "OrganisationId": 4649788,
+  "Ort": "Stuttgart",
+  "PLZ": 70191,
+  "Ressort": "BMVg",
+  "Telefon": "+49 711 2540-3900",
+  "locations": [
+    {
+      "Breitengrad": "48.8033345",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "BewerbungenStuttgart@bundeswehr.org",
+      "Hauptadresse": "Heilbronner Straße 188",
+      "Internetadresse": "https://www.bundeswehrkarriere.de/",
+      "Land": "DE",
+      "Längengrad": "9.1848253",
+      "Organisation": "Karrierecenter der Bundeswehr Stuttgart",
+      "OrganisationDisplay": "Karrierecenter Bw Stuttgart",
+      "OrganisationId": 4649788,
+      "Ort": "Stuttgart",
+      "PLZ": 70191,
+      "Ressort": "BMVg",
+      "Telefon": "+49 711 2540-3900"
+    }
+  ]
+}

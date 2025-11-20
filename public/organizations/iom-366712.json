@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.3514755",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@iom-leipzig.de",
+  "Hauptadresse": "Permoserstraße 15",
+  "Internetadresse": "https://www.iom-leipzig.de",
+  "Land": "DE",
+  "Längengrad": "12.42923",
+  "Organisation": "Leibniz-Institut für Oberflächenmodifizierung e.V.",
+  "OrganisationDisplay": "IOM",
+  "OrganisationId": 366712,
+  "OrganisationKurz": "IOM",
+  "Ort": "Leipzig",
+  "PLZ": 4318,
+  "Telefax": "+49 341 235-2313",
+  "Telefon": "+49 341 235-2308",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.3514755",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@iom-leipzig.de",
+      "Hauptadresse": "Permoserstraße 15",
+      "Internetadresse": "https://www.iom-leipzig.de",
+      "Land": "DE",
+      "Längengrad": "12.42923",
+      "Organisation": "Leibniz-Institut für Oberflächenmodifizierung e.V.",
+      "OrganisationDisplay": "IOM",
+      "OrganisationId": 366712,
+      "OrganisationKurz": "IOM",
+      "Ort": "Leipzig",
+      "PLZ": 4318,
+      "Telefax": "+49 341 235-2313",
+      "Telefon": "+49 341 235-2308",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

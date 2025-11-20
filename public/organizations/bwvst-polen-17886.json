@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.238196",
+  "E-Mail": "BWVStPolen@bundeswehr.org",
+  "Hauptadresse": "Baltic Barracks ul. Lukasinskiego 33",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-polen",
+  "Land": "Polen",
+  "Längengrad": "20.937424",
+  "Organisation": "Bundeswehrverwaltungsstelle Polen",
+  "OrganisationDisplay": "BWVSt Polen",
+  "OrganisationId": 17886,
+  "OrganisationKurz": "BWVSt Polen",
+  "Ort": "Szczecin",
+  "PLZ": 71,
+  "Ressort": "BMVg",
+  "Telefax": "+48 91 811 6745",
+  "Telefon": "+48 91 811 6740",
+  "locations": [
+    {
+      "Breitengrad": "52.238196",
+      "E-Mail": "BWVStPolen@bundeswehr.org",
+      "Hauptadresse": "Baltic Barracks ul. Lukasinskiego 33",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-polen",
+      "Land": "Polen",
+      "Längengrad": "20.937424",
+      "Organisation": "Bundeswehrverwaltungsstelle Polen",
+      "OrganisationDisplay": "BWVSt Polen",
+      "OrganisationId": 17886,
+      "OrganisationKurz": "BWVSt Polen",
+      "Ort": "Szczecin",
+      "PLZ": 71,
+      "Ressort": "BMVg",
+      "Telefax": "+48 91 811 6745",
+      "Telefon": "+48 91 811 6740"
+    }
+  ]
+}

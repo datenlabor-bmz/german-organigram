@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.4281677",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@ims.fraunhofer.de",
+  "Hauptadresse": "Finkenstraße 61",
+  "Internetadresse": "https://www.ims.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "6.7977444",
+  "Organisation": "Fraunhofer-Institut für Mikroelektronische Schaltungen und Systeme",
+  "OrganisationDisplay": "IMS",
+  "OrganisationId": 517614,
+  "OrganisationKurz": "IMS",
+  "Ort": "Duisburg",
+  "PLZ": 47057,
+  "Telefax": "+49 203 3783-266",
+  "Telefon": "+49 203 3783-130, -227",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.4281677",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@ims.fraunhofer.de",
+      "Hauptadresse": "Finkenstraße 61",
+      "Internetadresse": "https://www.ims.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "6.7977444",
+      "Organisation": "Fraunhofer-Institut für Mikroelektronische Schaltungen und Systeme",
+      "OrganisationDisplay": "IMS",
+      "OrganisationId": 517614,
+      "OrganisationKurz": "IMS",
+      "Ort": "Duisburg",
+      "PLZ": 47057,
+      "Telefax": "+49 203 3783-266",
+      "Telefon": "+49 203 3783-130, -227",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

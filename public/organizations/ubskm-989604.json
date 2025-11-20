@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5132973",
+  "Bundesland": "Berlin",
+  "E-Mail": "kontakt@ubskm.bund.de",
+  "Hauptadresse": "Glinkastraße 24",
+  "Internetadresse": "https://beauftragte-missbrauch.de/",
+  "Land": "DE",
+  "Längengrad": "13.3873913",
+  "Organisation": "Unabhängige Beauftragte gegen sexuellen Missbrauch von Kindern und Jugendlichen",
+  "OrganisationDisplay": "UBSKM",
+  "OrganisationId": 989604,
+  "OrganisationKurz": "UBSKM",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMBFSFJ",
+  "Telefon": "+49 30 18 555 - 1550",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5132973",
+      "Bundesland": "Berlin",
+      "E-Mail": "kontakt@ubskm.bund.de",
+      "Hauptadresse": "Glinkastraße 24",
+      "Internetadresse": "https://beauftragte-missbrauch.de/",
+      "Land": "DE",
+      "Längengrad": "13.3873913",
+      "Organisation": "Unabhängige Beauftragte gegen sexuellen Missbrauch von Kindern und Jugendlichen",
+      "OrganisationDisplay": "UBSKM",
+      "OrganisationId": 989604,
+      "OrganisationKurz": "UBSKM",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMBFSFJ",
+      "Telefon": "+49 30 18 555 - 1550",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

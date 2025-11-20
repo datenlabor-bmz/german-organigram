@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.94456",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@bioeg.de",
+  "Hauptadresse": "Maarweg 149-161",
+  "Internetadresse": "https://www.bioeg.de",
+  "Land": "DE",
+  "Längengrad": "6.8977",
+  "Organisation": "Bundesinstitut für Öffentliche Gesundheit",
+  "OrganisationDisplay": "BIOEG",
+  "OrganisationId": 17914,
+  "OrganisationKurz": "BIOEG",
+  "Ort": "Köln",
+  "PLZ": 50825,
+  "Ressort": "BMG",
+  "Telefax": "+49 221 8992-300",
+  "Telefon": "+49 221 8992-0",
+  "locations": [
+    {
+      "Breitengrad": "50.94456",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@bioeg.de",
+      "Hauptadresse": "Maarweg 149-161",
+      "Internetadresse": "https://www.bioeg.de",
+      "Land": "DE",
+      "Längengrad": "6.8977",
+      "Organisation": "Bundesinstitut für Öffentliche Gesundheit",
+      "OrganisationDisplay": "BIOEG",
+      "OrganisationId": 17914,
+      "OrganisationKurz": "BIOEG",
+      "Ort": "Köln",
+      "PLZ": 50825,
+      "Ressort": "BMG",
+      "Telefax": "+49 221 8992-300",
+      "Telefon": "+49 221 8992-0"
+    }
+  ]
+}

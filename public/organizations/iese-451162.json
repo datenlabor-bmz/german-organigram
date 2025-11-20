@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.4303393",
+  "Bundesland": "Saarland",
+  "Hauptadresse": "Fraunhofer Platz 1",
+  "Internetadresse": "https://www.iese.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.7511399",
+  "Organisation": "Fraunhofer-Institut für Experimentelles Software Engineering",
+  "OrganisationDisplay": "IESE",
+  "OrganisationId": 451162,
+  "OrganisationKurz": "IESE",
+  "Ort": "Kaiserslautern",
+  "PLZ": 67663,
+  "Telefax": "+49 631 68 00-10 99",
+  "Telefon": "+49 631 68 00-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.4303393",
+      "Bundesland": "Saarland",
+      "Hauptadresse": "Fraunhofer Platz 1",
+      "Internetadresse": "https://www.iese.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.7511399",
+      "Organisation": "Fraunhofer-Institut für Experimentelles Software Engineering",
+      "OrganisationDisplay": "IESE",
+      "OrganisationId": 451162,
+      "OrganisationKurz": "IESE",
+      "Ort": "Kaiserslautern",
+      "PLZ": 67663,
+      "Telefax": "+49 631 68 00-10 99",
+      "Telefon": "+49 631 68 00-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

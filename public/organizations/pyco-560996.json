@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.40601",
+  "Bundesland": "Brandenburg",
+  "Hauptadresse": "Kantstraße 55",
+  "Internetadresse": "https://www.pyco.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "13.2924282",
+  "Organisation": "Fraunhofer-Institut für Polymermaterialien und Composite",
+  "OrganisationDisplay": "PYCO",
+  "OrganisationId": 560996,
+  "OrganisationKurz": "PYCO",
+  "Ort": "Teltow",
+  "PLZ": 14513,
+  "Telefax": "+49 3328 330-282",
+  "Telefon": "+49 3328 330-280",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.40601",
+      "Bundesland": "Brandenburg",
+      "Hauptadresse": "Kantstraße 55",
+      "Internetadresse": "https://www.pyco.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "13.2924282",
+      "Organisation": "Fraunhofer-Institut für Polymermaterialien und Composite",
+      "OrganisationDisplay": "PYCO",
+      "OrganisationId": 560996,
+      "OrganisationKurz": "PYCO",
+      "Ort": "Teltow",
+      "PLZ": 14513,
+      "Telefax": "+49 3328 330-282",
+      "Telefon": "+49 3328 330-280",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

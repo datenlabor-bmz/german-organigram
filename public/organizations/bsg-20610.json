@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.315157",
+  "Bundesland": "Hessen",
+  "E-Mail": "pressestelle@bsg.bund.de",
+  "Hauptadresse": "Graf-Bernadotte-Platz 5",
+  "Internetadresse": "https://www.bsg.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "9.450274",
+  "Organisation": "Bundessozialgericht",
+  "OrganisationDisplay": "BSG",
+  "OrganisationId": 20610,
+  "OrganisationKurz": "BSG",
+  "Ort": "Kassel",
+  "PLZ": 34119,
+  "Ressort": "BMAS",
+  "Telefax": "+49 561 3107-474",
+  "Telefon": "+49 561 3107-460",
+  "locations": [
+    {
+      "Breitengrad": "51.315157",
+      "Bundesland": "Hessen",
+      "E-Mail": "pressestelle@bsg.bund.de",
+      "Hauptadresse": "Graf-Bernadotte-Platz 5",
+      "Internetadresse": "https://www.bsg.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "9.450274",
+      "Organisation": "Bundessozialgericht",
+      "OrganisationDisplay": "BSG",
+      "OrganisationId": 20610,
+      "OrganisationKurz": "BSG",
+      "Ort": "Kassel",
+      "PLZ": 34119,
+      "Ressort": "BMAS",
+      "Telefax": "+49 561 3107-474",
+      "Telefon": "+49 561 3107-460"
+    }
+  ]
+}

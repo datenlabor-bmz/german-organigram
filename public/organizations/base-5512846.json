@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.515659",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@base.bund.de",
+  "Hauptadresse": "Wegelystraße 8",
+  "Internetadresse": "https://www.base.bund.de",
+  "Land": "DE",
+  "Längengrad": "13.334256",
+  "Organisation": "Bundesamt für die Sicherheit der nuklearen Entsorgung",
+  "OrganisationDisplay": "BASE",
+  "OrganisationId": 5512846,
+  "OrganisationKurz": "BASE",
+  "Ort": "Berlin",
+  "PLZ": 10623,
+  "Ressort": "BMUKN",
+  "Telefon": "+49 30 18 43210",
+  "locations": [
+    {
+      "Breitengrad": "52.515659",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@base.bund.de",
+      "Hauptadresse": "Wegelystraße 8",
+      "Internetadresse": "https://www.base.bund.de",
+      "Land": "DE",
+      "Längengrad": "13.334256",
+      "Organisation": "Bundesamt für die Sicherheit der nuklearen Entsorgung",
+      "OrganisationDisplay": "BASE",
+      "OrganisationId": 5512846,
+      "OrganisationKurz": "BASE",
+      "Ort": "Berlin",
+      "PLZ": 10623,
+      "Ressort": "BMUKN",
+      "Telefon": "+49 30 18 43210"
+    }
+  ]
+}

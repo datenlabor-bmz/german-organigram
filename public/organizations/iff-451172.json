@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "52.1403896",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "ideen@iff.fraunhofer.de",
+  "Hauptadresse": "Sandtorstraße 22",
+  "Internetadresse": "https://www.iff.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "11.6525005",
+  "Organisation": "Fraunhofer-Institut für Fabrikbetrieb und -automatisierung",
+  "OrganisationDisplay": "IFF",
+  "OrganisationId": 451172,
+  "OrganisationKurz": "IFF",
+  "Ort": "Magdeburg",
+  "PLZ": 39106,
+  "Telefax": "+49 391 4090-596",
+  "Telefon": "+49 391 4090-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.1403896",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "ideen@iff.fraunhofer.de",
+      "Hauptadresse": "Sandtorstraße 22",
+      "Internetadresse": "https://www.iff.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "11.6525005",
+      "Organisation": "Fraunhofer-Institut für Fabrikbetrieb und -automatisierung",
+      "OrganisationDisplay": "IFF",
+      "OrganisationId": 451172,
+      "OrganisationKurz": "IFF",
+      "Ort": "Magdeburg",
+      "PLZ": 39106,
+      "Telefax": "+49 391 4090-596",
+      "Telefon": "+49 391 4090-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Joseph-von-Fraunhofer-Straße 1",
+      "Bundesland": "Sachsen-Anhalt",
+      "Internetadresse": "https://www.iff.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Standort-Virtual-Development-and-Training-Centre-VDTC",
+      "LiegenschaftsId": 451170,
+      "OrganisationId": 451172,
+      "Ort": "Magdeburg",
+      "PLZ": 39106
+    }
+  ]
+}

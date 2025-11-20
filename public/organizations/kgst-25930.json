@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.897731",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kgst@kgst.de",
+  "Hauptadresse": "Gereonstraße 18 - 32",
+  "Internetadresse": "https://www.kgst.de",
+  "Land": "DE",
+  "Längengrad": "6.977454",
+  "Organisation": "Kommunale Gemeinschaftsstelle für Verwaltungsmanagement",
+  "OrganisationDisplay": "KGSt",
+  "OrganisationId": 25930,
+  "OrganisationKurz": "KGSt",
+  "Ort": "Köln",
+  "PLZ": 50670,
+  "Telefax": "+49 221 37689-59",
+  "Telefon": "+49 221 37689-0",
+  "locations": [
+    {
+      "Breitengrad": "50.897731",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kgst@kgst.de",
+      "Hauptadresse": "Gereonstraße 18 - 32",
+      "Internetadresse": "https://www.kgst.de",
+      "Land": "DE",
+      "Längengrad": "6.977454",
+      "Organisation": "Kommunale Gemeinschaftsstelle für Verwaltungsmanagement",
+      "OrganisationDisplay": "KGSt",
+      "OrganisationId": 25930,
+      "OrganisationKurz": "KGSt",
+      "Ort": "Köln",
+      "PLZ": 50670,
+      "Telefax": "+49 221 37689-59",
+      "Telefon": "+49 221 37689-0"
+    }
+  ]
+}

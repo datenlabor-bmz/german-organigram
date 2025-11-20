@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "Poststelle@badv.bund.de",
+  "Hauptadresse": "DGZ-Ring 12",
+  "Internetadresse": "https://www.bmi.bund.de",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Beauftragte der Bundesregierung für die Behandlung von Zahlungen an die Konversionskasse",
+  "OrganisationDisplay": "B Konversionskasse",
+  "OrganisationId": 12452066,
+  "Ort": "Berlin",
+  "PLZ": 13086,
+  "Ressort": "BMI",
+  "Telefon": "+49 30 7030-0",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "Poststelle@badv.bund.de",
+      "Hauptadresse": "DGZ-Ring 12",
+      "Internetadresse": "https://www.bmi.bund.de",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Beauftragte der Bundesregierung für die Behandlung von Zahlungen an die Konversionskasse",
+      "OrganisationDisplay": "B Konversionskasse",
+      "OrganisationId": 12452066,
+      "Ort": "Berlin",
+      "PLZ": 13086,
+      "Ressort": "BMI",
+      "Telefon": "+49 30 7030-0",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.5073494",
+  "Bundesland": "Berlin",
+  "E-Mail": "direktor@izw-berlin.de",
+  "Hauptadresse": "Alfred-Koawalke-Straße 17",
+  "Internetadresse": "https://www.izw-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.5216594",
+  "Organisation": "Leibniz-Institut für Zoo- und Wildtierforschung",
+  "OrganisationDisplay": "IZW",
+  "OrganisationId": 401052,
+  "OrganisationKurz": "IZW",
+  "Ort": "Berlin",
+  "PLZ": 10315,
+  "Telefax": "+49 30 5126 104",
+  "Telefon": "+49 30 5168-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.5073494",
+      "Bundesland": "Berlin",
+      "E-Mail": "direktor@izw-berlin.de",
+      "Hauptadresse": "Alfred-Koawalke-Straße 17",
+      "Internetadresse": "https://www.izw-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.5216594",
+      "Organisation": "Leibniz-Institut für Zoo- und Wildtierforschung",
+      "OrganisationDisplay": "IZW",
+      "OrganisationId": 401052,
+      "OrganisationKurz": "IZW",
+      "Ort": "Berlin",
+      "PLZ": 10315,
+      "Telefax": "+49 30 5126 104",
+      "Telefon": "+49 30 5168-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

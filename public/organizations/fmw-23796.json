@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.65772",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "WNA-Datteln@wsv.bund.de",
+  "Hauptadresse": "Speeckstraße 1",
+  "Internetadresse": "https://www.wna-datteln.wsv.de/Webs/WNA/WNA-Datteln/DE/FMW/FMW_node.html",
+  "Land": "DE",
+  "Längengrad": "7.351072",
+  "Organisation": "Fachstelle Maschinenwesen West (beim WNA Datteln)",
+  "OrganisationDisplay": "FMW",
+  "OrganisationId": 23796,
+  "OrganisationKurz": "FMW",
+  "Ort": "Datteln",
+  "PLZ": 45711,
+  "Ressort": "BMV",
+  "Telefon": "+49 2363 104-0",
+  "locations": [
+    {
+      "Breitengrad": "51.65772",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "WNA-Datteln@wsv.bund.de",
+      "Hauptadresse": "Speeckstraße 1",
+      "Internetadresse": "https://www.wna-datteln.wsv.de/Webs/WNA/WNA-Datteln/DE/FMW/FMW_node.html",
+      "Land": "DE",
+      "Längengrad": "7.351072",
+      "Organisation": "Fachstelle Maschinenwesen West (beim WNA Datteln)",
+      "OrganisationDisplay": "FMW",
+      "OrganisationId": 23796,
+      "OrganisationKurz": "FMW",
+      "Ort": "Datteln",
+      "PLZ": 45711,
+      "Ressort": "BMV",
+      "Telefon": "+49 2363 104-0"
+    }
+  ]
+}

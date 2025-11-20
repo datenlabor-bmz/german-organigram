@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.2738",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@bundesstiftung-friedensforschung.de",
+  "Hauptadresse": "Am Ledenhof 3 - 5",
+  "Internetadresse": "https://bundesstiftung-friedensforschung.de/",
+  "Land": "DE",
+  "Längengrad": "8.0521",
+  "Organisation": "Deutsche Stiftung Friedensforschung",
+  "OrganisationDisplay": "DSF",
+  "OrganisationId": 607360,
+  "OrganisationKurz": "DSF",
+  "Ort": "Osnabrück",
+  "PLZ": 49074,
+  "Telefon": "+49 541 60035-42",
+  "locations": [
+    {
+      "Breitengrad": "52.2738",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@bundesstiftung-friedensforschung.de",
+      "Hauptadresse": "Am Ledenhof 3 - 5",
+      "Internetadresse": "https://bundesstiftung-friedensforschung.de/",
+      "Land": "DE",
+      "Längengrad": "8.0521",
+      "Organisation": "Deutsche Stiftung Friedensforschung",
+      "OrganisationDisplay": "DSF",
+      "OrganisationId": 607360,
+      "OrganisationKurz": "DSF",
+      "Ort": "Osnabrück",
+      "PLZ": 49074,
+      "Telefon": "+49 541 60035-42"
+    }
+  ]
+}

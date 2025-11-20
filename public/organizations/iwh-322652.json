@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.4809236",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "presse@iwh-halle.de",
+  "Hauptadresse": "Kleine Märkerstraße 8",
+  "Internetadresse": "https://www.iwh-halle.de",
+  "Land": "DE",
+  "Längengrad": "11.9717905",
+  "Organisation": "Leibniz-Institut für Wirtschaftsforschung Halle",
+  "OrganisationDisplay": "IWH",
+  "OrganisationId": 322652,
+  "OrganisationKurz": "IWH",
+  "Ort": "Halle (Saale)",
+  "PLZ": 6108,
+  "Telefax": "+49 345 7753-820",
+  "Telefon": "+49 345 7753-60",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.4809236",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "presse@iwh-halle.de",
+      "Hauptadresse": "Kleine Märkerstraße 8",
+      "Internetadresse": "https://www.iwh-halle.de",
+      "Land": "DE",
+      "Längengrad": "11.9717905",
+      "Organisation": "Leibniz-Institut für Wirtschaftsforschung Halle",
+      "OrganisationDisplay": "IWH",
+      "OrganisationId": 322652,
+      "OrganisationKurz": "IWH",
+      "Ort": "Halle (Saale)",
+      "PLZ": 6108,
+      "Telefax": "+49 345 7753-820",
+      "Telefon": "+49 345 7753-60",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.412237",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "friedrich@ebert-gedenkstaette.de",
+  "Hauptadresse": "Untere Straße 27",
+  "Internetadresse": "https://ebert-gedenkstaette.de/",
+  "Land": "DE",
+  "Längengrad": "8.70824",
+  "Organisation": "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte",
+  "OrganisationDisplay": "StRFEG",
+  "OrganisationId": 26306,
+  "OrganisationKurz": "StRFEG",
+  "Ort": "Heidelberg",
+  "PLZ": 69117,
+  "Ressort": "BKM",
+  "Telefax": "+49 6221 9107-10",
+  "Telefon": "+49 6221 9107-0",
+  "locations": [
+    {
+      "Breitengrad": "49.412237",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "friedrich@ebert-gedenkstaette.de",
+      "Hauptadresse": "Untere Straße 27",
+      "Internetadresse": "https://ebert-gedenkstaette.de/",
+      "Land": "DE",
+      "Längengrad": "8.70824",
+      "Organisation": "Stiftung Reichspräsident-Friedrich-Ebert-Gedenkstätte",
+      "OrganisationDisplay": "StRFEG",
+      "OrganisationId": 26306,
+      "OrganisationKurz": "StRFEG",
+      "Ort": "Heidelberg",
+      "PLZ": 69117,
+      "Ressort": "BKM",
+      "Telefax": "+49 6221 9107-10",
+      "Telefon": "+49 6221 9107-0"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.0145225",
+  "Bundesland": "Baden-Württemberg",
+  "Hauptadresse": "Fraunhofer Straße 1",
+  "Internetadresse": "https://www.IOSB.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "8.4269786",
+  "Organisation": "Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung",
+  "OrganisationDisplay": "IOSB",
+  "OrganisationId": 514586,
+  "OrganisationKurz": "IOSB",
+  "Ort": "Karlsruhe",
+  "PLZ": 76131,
+  "Telefax": "+49 721 6091-413",
+  "Telefon": "+49 721 6091-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "49.0145225",
+      "Bundesland": "Baden-Württemberg",
+      "Hauptadresse": "Fraunhofer Straße 1",
+      "Internetadresse": "https://www.IOSB.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "8.4269786",
+      "Organisation": "Fraunhofer-Institut für Optronik, Systemtechnik und Bildauswertung",
+      "OrganisationDisplay": "IOSB",
+      "OrganisationId": 514586,
+      "OrganisationKurz": "IOSB",
+      "Ort": "Karlsruhe",
+      "PLZ": 76131,
+      "Telefax": "+49 721 6091-413",
+      "Telefon": "+49 721 6091-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

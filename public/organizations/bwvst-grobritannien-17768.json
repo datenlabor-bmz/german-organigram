@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.605518,",
+  "E-Mail": "BWVStGB@bundeswehr.org",
+  "Hauptadresse": "Salamander Quay, Bankside ",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-grossbritannrad",
+  "Land": "Großbritannien",
+  "Längengrad": "-0.490958",
+  "Organisation": "Bundeswehrverwaltungsstelle Großbritannien",
+  "OrganisationDisplay": "BWVSt Großbritannien ",
+  "OrganisationId": 17768,
+  "OrganisationKurz": "BWVSt Großbritannien ",
+  "Ort": "Harefield/Middlesex",
+  "PLZ": 96,
+  "Ressort": "BMVg",
+  "Telefax": "+44 1895 826389",
+  "Telefon": "+44 1895 826380",
+  "locations": [
+    {
+      "Breitengrad": "51.605518,",
+      "E-Mail": "BWVStGB@bundeswehr.org",
+      "Hauptadresse": "Salamander Quay, Bankside ",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehrverwaltungsstellen-im-ausland/bwvst-grossbritannrad",
+      "Land": "Großbritannien",
+      "Längengrad": "-0.490958",
+      "Organisation": "Bundeswehrverwaltungsstelle Großbritannien",
+      "OrganisationDisplay": "BWVSt Großbritannien ",
+      "OrganisationId": 17768,
+      "OrganisationKurz": "BWVSt Großbritannien ",
+      "Ort": "Harefield/Middlesex",
+      "PLZ": 96,
+      "Ressort": "BMVg",
+      "Telefax": "+44 1895 826389",
+      "Telefon": "+44 1895 826380"
+    }
+  ]
+}

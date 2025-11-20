@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.515229",
+  "Bundesland": "Berlin",
+  "E-Mail": "STS-Morgan@diplo.de",
+  "Hauptadresse": "Werderscher Markt 1",
+  "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/leitung/-/2514202",
+  "Land": "DE",
+  "Längengrad": "13.398061",
+  "Organisation": "Sonderbeauftragte der Bundesregierung für internationale Klimapolitik",
+  "OrganisationDisplay": "SB Klimapolitik",
+  "OrganisationId": 6156114,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "AA",
+  "Telefax": "+49 30 18 17 - 51270",
+  "Telefon": "+49 30 18 17 - 1270",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.515229",
+      "Bundesland": "Berlin",
+      "E-Mail": "STS-Morgan@diplo.de",
+      "Hauptadresse": "Werderscher Markt 1",
+      "Internetadresse": "https://www.auswaertiges-amt.de/de/aamt/leitung/-/2514202",
+      "Land": "DE",
+      "Längengrad": "13.398061",
+      "Organisation": "Sonderbeauftragte der Bundesregierung für internationale Klimapolitik",
+      "OrganisationDisplay": "SB Klimapolitik",
+      "OrganisationId": 6156114,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "AA",
+      "Telefax": "+49 30 18 17 - 51270",
+      "Telefon": "+49 30 18 17 - 1270",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.3766999",
+  "Bundesland": "Bayern",
+  "E-Mail": "VNAusbZBw@Bundeswehr.org",
+  "Hauptadresse": "Rommelstraße 31",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/vereinte-nationen-ausbildungszentrum-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "9.8447332",
+  "Organisation": "Vereinte Nationen Ausbildungszentrum Bundeswehr",
+  "OrganisationDisplay": "VNAusbZBw",
+  "OrganisationId": 8739946,
+  "OrganisationKurz": "VNAusbZBw",
+  "Ort": "Hammelburg",
+  "PLZ": 97762,
+  "Ressort": "BMVg",
+  "Telefon": "+49 973278-5005",
+  "locations": [
+    {
+      "Breitengrad": "50.3766999",
+      "Bundesland": "Bayern",
+      "E-Mail": "VNAusbZBw@Bundeswehr.org",
+      "Hauptadresse": "Rommelstraße 31",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/vereinte-nationen-ausbildungszentrum-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "9.8447332",
+      "Organisation": "Vereinte Nationen Ausbildungszentrum Bundeswehr",
+      "OrganisationDisplay": "VNAusbZBw",
+      "OrganisationId": 8739946,
+      "OrganisationKurz": "VNAusbZBw",
+      "Ort": "Hammelburg",
+      "PLZ": 97762,
+      "Ressort": "BMVg",
+      "Telefon": "+49 973278-5005"
+    }
+  ]
+}

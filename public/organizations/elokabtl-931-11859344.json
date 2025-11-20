@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.2067254",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "EloKaBtl931S1@bundeswehr.org",
+  "Hauptadresse": "Heinrich-Hertz-Straße 6",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum",
+  "Land": "DE",
+  "Längengrad": "6.8258301",
+  "Organisation": "Bataillon Elektronische Kampfführung 931",
+  "OrganisationDisplay": "EloKaBtl 931",
+  "OrganisationId": 11859344,
+  "OrganisationKurz": "EloKaBtl 931",
+  "Ort": "Daun",
+  "PLZ": 54550,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6592 17-1000",
+  "locations": [
+    {
+      "Breitengrad": "50.2067254",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "EloKaBtl931S1@bundeswehr.org",
+      "Hauptadresse": "Heinrich-Hertz-Straße 6",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum",
+      "Land": "DE",
+      "Längengrad": "6.8258301",
+      "Organisation": "Bataillon Elektronische Kampfführung 931",
+      "OrganisationDisplay": "EloKaBtl 931",
+      "OrganisationId": 11859344,
+      "OrganisationKurz": "EloKaBtl 931",
+      "Ort": "Daun",
+      "PLZ": 54550,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6592 17-1000"
+    }
+  ]
+}

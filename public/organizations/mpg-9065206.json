@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.141661",
+  "Bundesland": "Bayern",
+  "E-Mail": "presse@gv.mpg.de",
+  "Hauptadresse": "Hofgartenstraße 8",
+  "Internetadresse": "https://www.mpg.de",
+  "Land": "DE",
+  "Längengrad": "11.581255",
+  "Organisation": "Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V.",
+  "OrganisationDisplay": "MPG",
+  "OrganisationId": 9065206,
+  "OrganisationKurz": "MPG",
+  "Ort": "München",
+  "PLZ": 80539,
+  "Telefax": "+49 89 2108-1111",
+  "Telefon": "+49 89 2108-0",
+  "locations": [
+    {
+      "Breitengrad": "48.141661",
+      "Bundesland": "Bayern",
+      "E-Mail": "presse@gv.mpg.de",
+      "Hauptadresse": "Hofgartenstraße 8",
+      "Internetadresse": "https://www.mpg.de",
+      "Land": "DE",
+      "Längengrad": "11.581255",
+      "Organisation": "Max-Planck-Gesellschaft zur Förderung der Wissenschaften e. V.",
+      "OrganisationDisplay": "MPG",
+      "OrganisationId": 9065206,
+      "OrganisationKurz": "MPG",
+      "Ort": "München",
+      "PLZ": 80539,
+      "Telefax": "+49 89 2108-1111",
+      "Telefon": "+49 89 2108-0"
+    }
+  ]
+}

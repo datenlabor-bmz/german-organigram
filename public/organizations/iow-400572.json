@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.1800876",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "postmaster@io-warnemuende.de",
+  "Hauptadresse": "Seestraße 15",
+  "Internetadresse": "https://www.io-warnemuende.de/de_index.html",
+  "Land": "DE",
+  "Längengrad": "12.081045",
+  "Organisation": "Leibniz-Institut für Ostseeforschung Warnemünde",
+  "OrganisationDisplay": "IOW",
+  "OrganisationId": 400572,
+  "OrganisationKurz": "IOW",
+  "Ort": "Rostock",
+  "PLZ": 18119,
+  "Telefax": "+49 381 5197-440",
+  "Telefon": "+49 381 5197-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "54.1800876",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "postmaster@io-warnemuende.de",
+      "Hauptadresse": "Seestraße 15",
+      "Internetadresse": "https://www.io-warnemuende.de/de_index.html",
+      "Land": "DE",
+      "Längengrad": "12.081045",
+      "Organisation": "Leibniz-Institut für Ostseeforschung Warnemünde",
+      "OrganisationDisplay": "IOW",
+      "OrganisationId": 400572,
+      "OrganisationKurz": "IOW",
+      "Ort": "Rostock",
+      "PLZ": 18119,
+      "Telefax": "+49 381 5197-440",
+      "Telefon": "+49 381 5197-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Breitengrad": "52.5082125",
+  "Bundesland": "Berlin",
+  "E-Mail": "zentrale-berlin@kas.de",
+  "Hauptadresse": "Klingelhöferstraße 23",
+  "Internetadresse": "https://www.kas.de",
+  "Land": "DE",
+  "Längengrad": "13.3521085",
+  "Organisation": "Konrad-Adenauer-Stiftung e. V.",
+  "OrganisationDisplay": "KAS",
+  "OrganisationId": 25952,
+  "OrganisationKurz": "KAS",
+  "Ort": "Berlin",
+  "PLZ": 10785,
+  "Telefon": "+49 30 26996-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5082125",
+      "Bundesland": "Berlin",
+      "E-Mail": "zentrale-berlin@kas.de",
+      "Hauptadresse": "Klingelhöferstraße 23",
+      "Internetadresse": "https://www.kas.de",
+      "Land": "DE",
+      "Längengrad": "13.3521085",
+      "Organisation": "Konrad-Adenauer-Stiftung e. V.",
+      "OrganisationDisplay": "KAS",
+      "OrganisationId": 25952,
+      "OrganisationKurz": "KAS",
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Telefon": "+49 30 26996-0"
+    },
+    {
+      "Adresse": "Rathausallee 12",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "zentrale@kas.de",
+      "Internetadresse": "https://www.kas.de",
+      "Land": "DE",
+      "Liegenschaft": "Dienstort Sankt Augustin",
+      "LiegenschaftsId": 25948,
+      "OrganisationId": 25952,
+      "Ort": "Sankt Augustin",
+      "PLZ": 53757,
+      "Telefax": "+49 2241 246-2591",
+      "Telefon": "+49 2241 246-0"
+    }
+  ]
+}

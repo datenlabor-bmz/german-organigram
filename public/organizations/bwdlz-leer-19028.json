@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "53.225412",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "BwDLZLeer@bundeswehr.org",
+  "Hauptadresse": "Osseweg 31",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-leer",
+  "Land": "DE",
+  "Längengrad": "7.473427",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Leer",
+  "OrganisationDisplay": "BwDLZ Leer",
+  "OrganisationId": 19028,
+  "OrganisationKurz": "BwDLZ Leer",
+  "Ort": "Leer",
+  "PLZ": 26789,
+  "Ressort": "BMVg",
+  "Telefon": "+49 491 9195-0",
+  "locations": [
+    {
+      "Breitengrad": "53.225412",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "BwDLZLeer@bundeswehr.org",
+      "Hauptadresse": "Osseweg 31",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-leer",
+      "Land": "DE",
+      "Längengrad": "7.473427",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Leer",
+      "OrganisationDisplay": "BwDLZ Leer",
+      "OrganisationId": 19028,
+      "OrganisationKurz": "BwDLZ Leer",
+      "Ort": "Leer",
+      "PLZ": 26789,
+      "Ressort": "BMVg",
+      "Telefon": "+49 491 9195-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.31459",
+  "Bundesland": "Bayern",
+  "E-Mail": "ZUStelleBwTAufklGeZi@bundeswehr.org",
+  "Hauptadresse": "Kulmbacher Straße 58-60",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/zu-stelle-bw-taufkl",
+  "Land": "DE",
+  "Längengrad": "11.885483",
+  "Organisation": "Zentrale Untersuchungsstelle der Bundeswehr für Technische Aufklärung",
+  "OrganisationDisplay": "ZU-StelleBwTAufkl",
+  "OrganisationId": 11921990,
+  "OrganisationKurz": "ZU-StelleBwTAufkl",
+  "Ort": "Hof",
+  "PLZ": 95030,
+  "Ressort": "BMVg",
+  "Telefon": "+49 9281 8404-1403",
+  "locations": [
+    {
+      "Breitengrad": "50.31459",
+      "Bundesland": "Bayern",
+      "E-Mail": "ZUStelleBwTAufklGeZi@bundeswehr.org",
+      "Hauptadresse": "Kulmbacher Straße 58-60",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/zu-stelle-bw-taufkl",
+      "Land": "DE",
+      "Längengrad": "11.885483",
+      "Organisation": "Zentrale Untersuchungsstelle der Bundeswehr für Technische Aufklärung",
+      "OrganisationDisplay": "ZU-StelleBwTAufkl",
+      "OrganisationId": 11921990,
+      "OrganisationKurz": "ZU-StelleBwTAufkl",
+      "Ort": "Hof",
+      "PLZ": 95030,
+      "Ressort": "BMVg",
+      "Telefon": "+49 9281 8404-1403"
+    }
+  ]
+}

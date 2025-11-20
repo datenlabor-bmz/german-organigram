@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.507199",
+  "Bundesland": "Berlin",
+  "Hauptadresse": "Jebensstraße 3",
+  "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge",
+  "Land": "DE",
+  "Längengrad": "13.331573",
+  "Organisation": "Evangelisches Kirchenamt für die Bundeswehr",
+  "OrganisationDisplay": "EKA",
+  "OrganisationId": 25006,
+  "OrganisationKurz": "EKA",
+  "Ort": "Berlin",
+  "PLZ": 10623,
+  "Ressort": "BMVg",
+  "Telefax": "+49 30 310181-105",
+  "Telefon": "+49 30 310181-0",
+  "locations": [
+    {
+      "Breitengrad": "52.507199",
+      "Bundesland": "Berlin",
+      "Hauptadresse": "Jebensstraße 3",
+      "Internetadresse": "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge",
+      "Land": "DE",
+      "Längengrad": "13.331573",
+      "Organisation": "Evangelisches Kirchenamt für die Bundeswehr",
+      "OrganisationDisplay": "EKA",
+      "OrganisationId": 25006,
+      "OrganisationKurz": "EKA",
+      "Ort": "Berlin",
+      "PLZ": 10623,
+      "Ressort": "BMVg",
+      "Telefax": "+49 30 310181-105",
+      "Telefon": "+49 30 310181-0"
+    }
+  ]
+}

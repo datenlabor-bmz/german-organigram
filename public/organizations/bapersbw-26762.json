@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.9995102",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "PIZPersonalBuergerdialog@Bundeswehr.org",
+  "Hauptadresse": "Militärringstr. 1000",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal",
+  "Land": "DE",
+  "Längengrad": "6.9207644",
+  "Organisation": "Bundesamt für das Personalmanagement der Bundeswehr",
+  "OrganisationDisplay": "BAPersBw",
+  "OrganisationId": 26762,
+  "OrganisationKurz": "BAPersBw",
+  "Ort": "Köln",
+  "PLZ": 50737,
+  "Ressort": "BMVg",
+  "Telefon": "+49 221 9571-4001",
+  "locations": [
+    {
+      "Breitengrad": "50.9995102",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "PIZPersonalBuergerdialog@Bundeswehr.org",
+      "Hauptadresse": "Militärringstr. 1000",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal",
+      "Land": "DE",
+      "Längengrad": "6.9207644",
+      "Organisation": "Bundesamt für das Personalmanagement der Bundeswehr",
+      "OrganisationDisplay": "BAPersBw",
+      "OrganisationId": 26762,
+      "OrganisationKurz": "BAPersBw",
+      "Ort": "Köln",
+      "PLZ": 50737,
+      "Ressort": "BMVg",
+      "Telefon": "+49 221 9571-4001"
+    }
+  ]
+}

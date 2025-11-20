@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.247354",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "Nordrhein-Westfalen@arbeitsagentur.de",
+  "Hauptadresse": "Josef-Gockeln-Straße 7",
+  "Internetadresse": "https://www.arbeitsagentur.de/vor-ort/rd-nrw/startseite",
+  "Land": "DE",
+  "Längengrad": "6.768836",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Nordrhein-Westfalen",
+  "OrganisationDisplay": "BA-RD-NRW",
+  "OrganisationId": 16242,
+  "OrganisationKurz": "BA-RD-NRW",
+  "Ort": "Düsseldorf",
+  "PLZ": 40474,
+  "Ressort": "BMAS",
+  "Telefax": "+49 211 4306-377",
+  "Telefon": "+49 211 4306-0",
+  "locations": [
+    {
+      "Breitengrad": "51.247354",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "Nordrhein-Westfalen@arbeitsagentur.de",
+      "Hauptadresse": "Josef-Gockeln-Straße 7",
+      "Internetadresse": "https://www.arbeitsagentur.de/vor-ort/rd-nrw/startseite",
+      "Land": "DE",
+      "Längengrad": "6.768836",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Nordrhein-Westfalen",
+      "OrganisationDisplay": "BA-RD-NRW",
+      "OrganisationId": 16242,
+      "OrganisationKurz": "BA-RD-NRW",
+      "Ort": "Düsseldorf",
+      "PLZ": 40474,
+      "Ressort": "BMAS",
+      "Telefax": "+49 211 4306-377",
+      "Telefon": "+49 211 4306-0"
+    }
+  ]
+}

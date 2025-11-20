@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "38.943783",
+  "E-Mail": "DtVStRue@bundeswehr.org",
+  "Hauptadresse": "11150 Sunrise Valley Drive ",
+  "Internetadresse": "https://www.bundeswehr.de/dtvstrue",
+  "Land": "USA",
+  "Längengrad": "-77.330611",
+  "Organisation": "Deutsche Verbindungsstelle des Rüstungsbereichs USA/Kanada - German Liaison Office for Defense Materiel U.S.A./Canada",
+  "OrganisationDisplay": "DtVStRü USA/CAN",
+  "OrganisationId": 23574,
+  "OrganisationKurz": "DtVStRü USA/CAN",
+  "Ort": "Reston",
+  "PLZ": 20191,
+  "Ressort": "BMVg",
+  "Telefax": "+1 703 390-3360",
+  "Telefon": "+1 703 390-3301",
+  "locations": [
+    {
+      "Breitengrad": "38.943783",
+      "E-Mail": "DtVStRue@bundeswehr.org",
+      "Hauptadresse": "11150 Sunrise Valley Drive ",
+      "Internetadresse": "https://www.bundeswehr.de/dtvstrue",
+      "Land": "USA",
+      "Längengrad": "-77.330611",
+      "Organisation": "Deutsche Verbindungsstelle des Rüstungsbereichs USA/Kanada - German Liaison Office for Defense Materiel U.S.A./Canada",
+      "OrganisationDisplay": "DtVStRü USA/CAN",
+      "OrganisationId": 23574,
+      "OrganisationKurz": "DtVStRü USA/CAN",
+      "Ort": "Reston",
+      "PLZ": 20191,
+      "Ressort": "BMVg",
+      "Telefax": "+1 703 390-3360",
+      "Telefon": "+1 703 390-3301"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.59232",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "PIZHeer@Bundeswehr.org",
+  "Hauptadresse": "Prötzeler Chaussee 25 25",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/kommando-heer",
+  "Land": "DE",
+  "Längengrad": "13.91856",
+  "Organisation": "Division Schnelle Kräfte",
+  "OrganisationDisplay": "DSK",
+  "OrganisationId": 12193350,
+  "OrganisationKurz": "DSK",
+  "Ort": "Strausberg",
+  "PLZ": 15344,
+  "Ressort": "BMVg",
+  "Telefax": "+49 3341-58-1519",
+  "Telefon": "+49 3341-58-1511",
+  "locations": [
+    {
+      "Breitengrad": "52.59232",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "PIZHeer@Bundeswehr.org",
+      "Hauptadresse": "Prötzeler Chaussee 25 25",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/kommando-heer",
+      "Land": "DE",
+      "Längengrad": "13.91856",
+      "Organisation": "Division Schnelle Kräfte",
+      "OrganisationDisplay": "DSK",
+      "OrganisationId": 12193350,
+      "OrganisationKurz": "DSK",
+      "Ort": "Strausberg",
+      "PLZ": 15344,
+      "Ressort": "BMVg",
+      "Telefax": "+49 3341-58-1519",
+      "Telefon": "+49 3341-58-1511"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.926513",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "bpold.badbramstedt@polizei.bund.de",
+  "Hauptadresse": "Raaberg 6",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/BadBramstedt/BundespolizeidirektionBadBramstedt.html",
+  "Land": "DE",
+  "Längengrad": "9.890795",
+  "Organisation": "Bundespolizeidirektion Bad Bramstedt",
+  "OrganisationDisplay": "BPOLD BBS",
+  "OrganisationId": 19814,
+  "OrganisationKurz": "BPOLD BBS",
+  "Ort": "Bad Bramstedt",
+  "PLZ": 24576,
+  "Ressort": "BMI",
+  "Telefax": "+49 4192 502-4444",
+  "Telefon": "+49 4192 502-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "53.926513",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "bpold.badbramstedt@polizei.bund.de",
+      "Hauptadresse": "Raaberg 6",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/BadBramstedt/BundespolizeidirektionBadBramstedt.html",
+      "Land": "DE",
+      "Längengrad": "9.890795",
+      "Organisation": "Bundespolizeidirektion Bad Bramstedt",
+      "OrganisationDisplay": "BPOLD BBS",
+      "OrganisationId": 19814,
+      "OrganisationKurz": "BPOLD BBS",
+      "Ort": "Bad Bramstedt",
+      "PLZ": 24576,
+      "Ressort": "BMI",
+      "Telefax": "+49 4192 502-4444",
+      "Telefon": "+49 4192 502-0",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

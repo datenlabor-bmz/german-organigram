@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.462197",
+  "Bundesland": "Berlin",
+  "E-Mail": "bpold.berlin@polizei.bund.de",
+  "Hauptadresse": "Schnellerstraße 139a-140",
+  "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Berlin/berlin_node.html",
+  "Land": "DE",
+  "Längengrad": "13.501618",
+  "Organisation": "Bundespolizeidirektion Berlin",
+  "OrganisationDisplay": "BPOLD B",
+  "OrganisationId": 19820,
+  "OrganisationKurz": "BPOLD B",
+  "Ort": "Berlin",
+  "PLZ": 12439,
+  "Ressort": "BMI",
+  "Telefax": "+49 30 204561-3900",
+  "Telefon": "+49 30 91144-0",
+  "Kategorie": "Bundesmittelbehörde",
+  "locations": [
+    {
+      "Breitengrad": "52.462197",
+      "Bundesland": "Berlin",
+      "E-Mail": "bpold.berlin@polizei.bund.de",
+      "Hauptadresse": "Schnellerstraße 139a-140",
+      "Internetadresse": "https://www.bundespolizei.de/Web/DE/05Die-Bundespolizei/03Organisation/02Direktionen/Berlin/berlin_node.html",
+      "Land": "DE",
+      "Längengrad": "13.501618",
+      "Organisation": "Bundespolizeidirektion Berlin",
+      "OrganisationDisplay": "BPOLD B",
+      "OrganisationId": 19820,
+      "OrganisationKurz": "BPOLD B",
+      "Ort": "Berlin",
+      "PLZ": 12439,
+      "Ressort": "BMI",
+      "Telefax": "+49 30 204561-3900",
+      "Telefon": "+49 30 91144-0",
+      "Kategorie": "Bundesmittelbehörde"
+    }
+  ]
+}

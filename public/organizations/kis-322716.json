@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "47.9989512",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "secr@leibniz-kis.de",
+  "Hauptadresse": "Georges-Köhler-Allee 401 A",
+  "Internetadresse": "https://www.leibniz-kis.de/de/home/",
+  "Land": "DE",
+  "Längengrad": "7.8619672",
+  "Organisation": "Institut für Sonnenphysik",
+  "OrganisationDisplay": "KIS",
+  "OrganisationId": 322716,
+  "OrganisationKurz": "KIS",
+  "Ort": "Freiburg",
+  "PLZ": 79110,
+  "Telefax": "+49 761 3198-111",
+  "Telefon": "+49 761 3198-0",
+  "locations": [
+    {
+      "Breitengrad": "47.9989512",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "secr@leibniz-kis.de",
+      "Hauptadresse": "Georges-Köhler-Allee 401 A",
+      "Internetadresse": "https://www.leibniz-kis.de/de/home/",
+      "Land": "DE",
+      "Längengrad": "7.8619672",
+      "Organisation": "Institut für Sonnenphysik",
+      "OrganisationDisplay": "KIS",
+      "OrganisationId": 322716,
+      "OrganisationKurz": "KIS",
+      "Ort": "Freiburg",
+      "PLZ": 79110,
+      "Telefax": "+49 761 3198-111",
+      "Telefon": "+49 761 3198-0"
+    }
+  ]
+}

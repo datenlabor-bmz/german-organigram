@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.21112",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Philipp-Reis-Straße 2",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl281/!ut/p/z1/hU67DoIwFP0WB9beKyigWxeNRpSEGKGLqVALplBSKvj5YpxMNJ7tPHOAQQqs4X0lua10w9XIM-af_cVss3YTjMJwNUW6p_HqcAxdjFw4_Quw0cYfoAhJISAbN4LfGwEkwIDdeM8fpNXGKmEJz18PISt5UygR65y-hS0wqfTlfZ02Fy-UwIy4CiMMuZtRLq1tu6WDDg7DQKTWUgmS69rBb5VSdxbSzyS0dTqgN1f9jk6epWxEYQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820M7",
+  "Land": "DE",
+  "Längengrad": "6.6281565",
+  "Organisation": "Informationstechnikbataillon 281",
+  "OrganisationDisplay": "ITBtl 281",
+  "OrganisationId": 11937248,
+  "OrganisationKurz": "ITBtl 281",
+  "Ort": "Gerolstein",
+  "PLZ": 54568,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6591 10-1",
+  "locations": [
+    {
+      "Breitengrad": "50.21112",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Philipp-Reis-Straße 2",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl281/!ut/p/z1/hU67DoIwFP0WB9beKyigWxeNRpSEGKGLqVALplBSKvj5YpxMNJ7tPHOAQQqs4X0lua10w9XIM-af_cVss3YTjMJwNUW6p_HqcAxdjFw4_Quw0cYfoAhJISAbN4LfGwEkwIDdeM8fpNXGKmEJz18PISt5UygR65y-hS0wqfTlfZ02Fy-UwIy4CiMMuZtRLq1tu6WDDg7DQKTWUgmS69rBb5VSdxbSzyS0dTqgN1f9jk6epWxEYQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820M7",
+      "Land": "DE",
+      "Längengrad": "6.6281565",
+      "Organisation": "Informationstechnikbataillon 281",
+      "OrganisationDisplay": "ITBtl 281",
+      "OrganisationId": 11937248,
+      "OrganisationKurz": "ITBtl 281",
+      "Ort": "Gerolstein",
+      "PLZ": 54568,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6591 10-1"
+    }
+  ]
+}

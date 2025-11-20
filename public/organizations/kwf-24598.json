@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.864142",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@kwf-online.de",
+  "Hauptadresse": "Spremberger Straße 1",
+  "Internetadresse": "https://www.kwf-online.de",
+  "Land": "DE",
+  "Längengrad": " 8.919397",
+  "Organisation": "Kuratorium für Waldarbeit und Forsttechnik e. V.",
+  "OrganisationDisplay": "KWF",
+  "OrganisationId": 24598,
+  "OrganisationKurz": "KWF",
+  "Ort": "Goß-Umstadt",
+  "PLZ": 64823,
+  "Telefax": "+49 6078 758-39",
+  "Telefon": "+49 6078 785-0",
+  "locations": [
+    {
+      "Breitengrad": "49.864142",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@kwf-online.de",
+      "Hauptadresse": "Spremberger Straße 1",
+      "Internetadresse": "https://www.kwf-online.de",
+      "Land": "DE",
+      "Längengrad": " 8.919397",
+      "Organisation": "Kuratorium für Waldarbeit und Forsttechnik e. V.",
+      "OrganisationDisplay": "KWF",
+      "OrganisationId": 24598,
+      "OrganisationKurz": "KWF",
+      "Ort": "Goß-Umstadt",
+      "PLZ": 64823,
+      "Telefax": "+49 6078 758-39",
+      "Telefon": "+49 6078 785-0"
+    }
+  ]
+}

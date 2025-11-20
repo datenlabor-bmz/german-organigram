@@ -1,0 +1,41 @@
+{
+  "Bundesland": "Berlin",
+  "Hauptadresse": " ",
+  "Internetadresse": "https://www.rentenservice.de",
+  "Land": "DE",
+  "Organisation": "Deutsche Post AG Niederlassung Renten Service",
+  "OrganisationDisplay": "Rentenservice Post",
+  "OrganisationId": 15556932,
+  "Ort": "Berlin",
+  "PLZ": 13497,
+  "Telefax": "+49 221 5692-776",
+  "Telefon": "+49 221 5692-444",
+  "locations": [
+    {
+      "Bundesland": "Berlin",
+      "Hauptadresse": " ",
+      "Internetadresse": "https://www.rentenservice.de",
+      "Land": "DE",
+      "Organisation": "Deutsche Post AG Niederlassung Renten Service",
+      "OrganisationDisplay": "Rentenservice Post",
+      "OrganisationId": 15556932,
+      "Ort": "Berlin",
+      "PLZ": 13497,
+      "Telefax": "+49 221 5692-776",
+      "Telefon": "+49 221 5692-444"
+    },
+    {
+      "Adresse": "Welfenstr. 17",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.rentenservice.de",
+      "Land": "DE",
+      "Liegenschaft": "Renten Service AUSLAND für österreichische Pensionszahlungen",
+      "LiegenschaftsId": 16395670,
+      "OrganisationDisplay": "Rentenservice der Deutschen Post",
+      "OrganisationId": 15556932,
+      "Ort": "Fellbach",
+      "PLZ": 70736,
+      "Telefon": "+49 711 36533-560"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.3169454",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "foev@foev-speyer.de",
+  "Hauptadresse": "Freiherr-vom-Stein-Straße 2",
+  "Internetadresse": "https://www.foev-speyer.de/",
+  "Land": "DE",
+  "Längengrad": "8.4169985",
+  "Organisation": "Deutsches Forschungsinstitut für öffentliche Verwaltung",
+  "OrganisationDisplay": "FÖV",
+  "OrganisationId": 319018,
+  "OrganisationKurz": "FÖV",
+  "Ort": "Speyer",
+  "PLZ": 67346,
+  "Telefax": "+49 6232 654-290",
+  "Telefon": "+49 6232 654-381",
+  "locations": [
+    {
+      "Breitengrad": "49.3169454",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "foev@foev-speyer.de",
+      "Hauptadresse": "Freiherr-vom-Stein-Straße 2",
+      "Internetadresse": "https://www.foev-speyer.de/",
+      "Land": "DE",
+      "Längengrad": "8.4169985",
+      "Organisation": "Deutsches Forschungsinstitut für öffentliche Verwaltung",
+      "OrganisationDisplay": "FÖV",
+      "OrganisationId": 319018,
+      "OrganisationKurz": "FÖV",
+      "Ort": "Speyer",
+      "PLZ": 67346,
+      "Telefax": "+49 6232 654-290",
+      "Telefon": "+49 6232 654-381"
+    }
+  ]
+}

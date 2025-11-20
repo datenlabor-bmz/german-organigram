@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.3185847",
+  "Bundesland": "Sachsen",
+  "E-Mail": "info@izi.fraunhofer.de",
+  "Hauptadresse": "Perlickstraße 1",
+  "Internetadresse": "https://www.izi.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "12.3954275",
+  "Organisation": "Fraunhofer-Institut für Zelltherapie und Immunologie",
+  "OrganisationDisplay": "IZI",
+  "OrganisationId": 603830,
+  "OrganisationKurz": "IZI",
+  "Ort": "Leipzig",
+  "PLZ": 4103,
+  "Telefax": "+49 341 35536-8-1000",
+  "Telefon": "+49 341 35536-1000",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.3185847",
+      "Bundesland": "Sachsen",
+      "E-Mail": "info@izi.fraunhofer.de",
+      "Hauptadresse": "Perlickstraße 1",
+      "Internetadresse": "https://www.izi.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "12.3954275",
+      "Organisation": "Fraunhofer-Institut für Zelltherapie und Immunologie",
+      "OrganisationDisplay": "IZI",
+      "OrganisationId": 603830,
+      "OrganisationKurz": "IZI",
+      "Ort": "Leipzig",
+      "PLZ": 4103,
+      "Telefax": "+49 341 35536-8-1000",
+      "Telefon": "+49 341 35536-1000",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

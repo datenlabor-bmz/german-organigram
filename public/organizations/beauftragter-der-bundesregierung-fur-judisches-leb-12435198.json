@@ -1,0 +1,291 @@
+{
+  "Breitengrad": "52.5221419",
+  "Bundesland": "Berlin",
+  "E-Mail": "BAKlein@bmi.bund.de",
+  "Hauptadresse": "Alt-Moabit 140",
+  "Internetadresse": "https://www.bmi.bund.de/DE/ministerium/beauftragte/beauftragter-antisemitismus/beauftragter-antisemitismus-artikel.html",
+  "Land": "DE",
+  "Längengrad": "13.3634943",
+  "Organisation": "Beauftragter der Bundesregierung für jüdisches Leben in Deutschland und den Kampf gegen Antisemitismus",
+  "OrganisationDisplay": "B Antisemitism.",
+  "OrganisationId": 12435198,
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BMI",
+  "Telefon": "+49 30 18 681-11047",
+  "Kategorie": "Beauftragter",
+  "Wikidata ID": "Q55975514",
+  "locations": [
+    {
+      "Breitengrad": "52.5221419",
+      "Bundesland": "Berlin",
+      "E-Mail": "BAKlein@bmi.bund.de",
+      "Hauptadresse": "Alt-Moabit 140",
+      "Internetadresse": "https://www.bmi.bund.de/DE/ministerium/beauftragte/beauftragter-antisemitismus/beauftragter-antisemitismus-artikel.html",
+      "Land": "DE",
+      "Längengrad": "13.3634943",
+      "Organisation": "Beauftragter der Bundesregierung für jüdisches Leben in Deutschland und den Kampf gegen Antisemitismus",
+      "OrganisationDisplay": "B Antisemitism.",
+      "OrganisationId": 12435198,
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BMI",
+      "Telefon": "+49 30 18 681-11047",
+      "Kategorie": "Beauftragter",
+      "Wikidata ID": "Q55975514"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q55975514",
+    "data": {
+      "type": "item",
+      "id": "Q55975514",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Beauftragter der Bundesregierung für jüdisches Leben in Deutschland und den Kampf gegen Antisemitismus"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "im Bundesinnenministerium angesiedeltes Amt"
+        }
+      },
+      "claims": {
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q55975514$7EAD2A8D-A56A-41EC-8953-59305D664F01",
+            "rank": "normal"
+          }
+        ],
+        "P279": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "757fdd6d04dbf016b43e483e763a1b01c31841fd",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 1005815,
+                  "id": "Q1005815"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q55975514$13AFE6BB-BA61-4916-BBE1-3A49D6236D6B",
+            "rank": "normal"
+          },
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P279",
+              "hash": "4e3e498bd53b3a4c3cdbd840dc1d03e7242efcb4",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 58642830,
+                  "id": "Q58642830"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q55975514$89a9583e-4d50-07f4-87be-d705b2336012",
+            "rank": "normal"
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "c95c3eaa49b42effecd1e097615bb6501b3bc245",
+              "datavalue": {
+                "value": "https://www.bmi.bund.de/DE/ministerium/beauftragte/beauftragter-antisemitismus/beauftragter-antisemitismus-artikel.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "id": "Q55975514$b0f84975-4858-8bd1-5346-3b09354029f8",
+            "rank": "normal"
+          }
+        ],
+        "P749": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P749",
+              "hash": "fa60fab1e4f59a7b25974e49193eebad4af3f9b3",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 502698,
+                  "id": "Q502698"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q55975514$db4179f7-44b7-ae48-b07e-4cf32654c043",
+            "rank": "normal"
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "22921a3d81e97a69bc1b06726862944caa1a093d",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 4164871,
+                  "id": "Q4164871"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q55975514$fa459f6e-41e8-89c3-1b8b-42ba233f6d33",
+            "rank": "normal"
+          }
+        ],
+        "P101": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P101",
+              "hash": "6345770e12b7ed273bd69fc4188d3cc7df390c32",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 22649,
+                  "id": "Q22649"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q55975514$d145ad7e-4bcb-bf70-a245-5f9b3ab4b1d3",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "0e5c946c7ea8c9b35e6e3c823f646587657d10e1",
+              "datavalue": {
+                "value": "/g/11gk8wsgf_",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q55975514$AD0E027C-25E3-4CFC-A672-C0EB7FCE9D14",
+            "rank": "normal"
+          }
+        ],
+        "P227": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P227",
+              "hash": "0447204886eb795a4a986c0f5c86cd04fe4c8807",
+              "datavalue": {
+                "value": "1165682575",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q55975514$58c2ba6c-4a48-839a-9950-818bebb14ac7",
+            "rank": "normal"
+          }
+        ]
+      },
+      "sitelinks": {
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Beauftragter der Bundesregierung für jüdisches Leben in Deutschland und den Kampf gegen Antisemitismus",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q502698": {
+        "type": "item",
+        "id": "Q502698",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of the Interior"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium des Innern"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of the Interior of Germany"
+          }
+        }
+      },
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      }
+    }
+  }
+}

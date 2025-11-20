@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.0553812",
+  "Bundesland": "Hessen",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Marburger Straße 75",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/bataillon-elektronische-kampffuehrung-932",
+  "Land": "DE",
+  "Längengrad": "8.7911066",
+  "Organisation": "Bataillon Elektronische Kampfführung 932",
+  "OrganisationDisplay": "EloKaBtl932",
+  "OrganisationId": 11859364,
+  "OrganisationKurz": "EloKaBtl932",
+  "Ort": "Frankenberg",
+  "PLZ": 35066,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6451 740-2002",
+  "locations": [
+    {
+      "Breitengrad": "51.0553812",
+      "Bundesland": "Hessen",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Marburger Straße 75",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-aufklaerung-wirkung/bataillon-elektronische-kampffuehrung-932",
+      "Land": "DE",
+      "Längengrad": "8.7911066",
+      "Organisation": "Bataillon Elektronische Kampfführung 932",
+      "OrganisationDisplay": "EloKaBtl932",
+      "OrganisationId": 11859364,
+      "OrganisationKurz": "EloKaBtl932",
+      "Ort": "Frankenberg",
+      "PLZ": 35066,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6451 740-2002"
+    }
+  ]
+}

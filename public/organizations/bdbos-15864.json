@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.490202",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bdbos.bund.de",
+  "Hauptadresse": "Fehrbelliner Platz 3",
+  "Internetadresse": "https://www.bdbos.bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "13.314417",
+  "Organisation": "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
+  "OrganisationDisplay": "BDBOS",
+  "OrganisationId": 15864,
+  "OrganisationKurz": "BDBOS",
+  "Ort": "Berlin",
+  "PLZ": 10707,
+  "Ressort": "BMI",
+  "Telefax": "+49 3018 681-45880",
+  "Telefon": "+49 3018 681-45771",
+  "locations": [
+    {
+      "Breitengrad": "52.490202",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bdbos.bund.de",
+      "Hauptadresse": "Fehrbelliner Platz 3",
+      "Internetadresse": "https://www.bdbos.bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "13.314417",
+      "Organisation": "Bundesanstalt für den Digitalfunk der Behörden und Organisationen mit Sicherheitsaufgaben",
+      "OrganisationDisplay": "BDBOS",
+      "OrganisationId": 15864,
+      "OrganisationKurz": "BDBOS",
+      "Ort": "Berlin",
+      "PLZ": 10707,
+      "Ressort": "BMI",
+      "Telefax": "+49 3018 681-45880",
+      "Telefon": "+49 3018 681-45771"
+    }
+  ]
+}

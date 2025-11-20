@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.365782",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "abvt@wsv.bund.de",
+  "Hauptadresse": "Schartwiesenweg 4",
+  "Internetadresse": "https://www.abvt.wsv.de/Webs/WSA/ABVT/DE/Startseite/startseite_node.html",
+  "Land": "DE",
+  "Längengrad": "7.602821",
+  "Organisation": "Amt für Binnen-Verkehrstechnik",
+  "OrganisationDisplay": "ABVT",
+  "OrganisationId": 31544,
+  "OrganisationKurz": "ABVT",
+  "Ort": "Koblenz",
+  "PLZ": 56070,
+  "Ressort": "BMV",
+  "Telefax": "+49 261 9819-2155",
+  "Telefon": "+49 261 9819-0",
+  "locations": [
+    {
+      "Breitengrad": "50.365782",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "abvt@wsv.bund.de",
+      "Hauptadresse": "Schartwiesenweg 4",
+      "Internetadresse": "https://www.abvt.wsv.de/Webs/WSA/ABVT/DE/Startseite/startseite_node.html",
+      "Land": "DE",
+      "Längengrad": "7.602821",
+      "Organisation": "Amt für Binnen-Verkehrstechnik",
+      "OrganisationDisplay": "ABVT",
+      "OrganisationId": 31544,
+      "OrganisationKurz": "ABVT",
+      "Ort": "Koblenz",
+      "PLZ": 56070,
+      "Ressort": "BMV",
+      "Telefax": "+49 261 9819-2155",
+      "Telefon": "+49 261 9819-0"
+    }
+  ]
+}

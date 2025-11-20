@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.31449",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "institut@stiftung-genshagen.de",
+  "Hauptadresse": "Am Schloss 1",
+  "Internetadresse": "https://www.stiftung-genshagen.de/",
+  "Land": "DE",
+  "Längengrad": "13.3182",
+  "Organisation": "Berlin-Brandenburgisches Institut für deutsch-französische Zusammenarbeit - Stiftung Genshagen",
+  "OrganisationDisplay": "BBI",
+  "OrganisationId": 7560644,
+  "OrganisationKurz": "BBI",
+  "Ort": "Genshagen",
+  "PLZ": 14974,
+  "Ressort": "AA",
+  "Telefax": "+49 3378 870013",
+  "Telefon": "+49 3378 805931",
+  "Kategorie": "Unklar",
+  "locations": [
+    {
+      "Breitengrad": "52.31449",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "institut@stiftung-genshagen.de",
+      "Hauptadresse": "Am Schloss 1",
+      "Internetadresse": "https://www.stiftung-genshagen.de/",
+      "Land": "DE",
+      "Längengrad": "13.3182",
+      "Organisation": "Berlin-Brandenburgisches Institut für deutsch-französische Zusammenarbeit - Stiftung Genshagen",
+      "OrganisationDisplay": "BBI",
+      "OrganisationId": 7560644,
+      "OrganisationKurz": "BBI",
+      "Ort": "Genshagen",
+      "PLZ": 14974,
+      "Ressort": "AA",
+      "Telefax": "+49 3378 870013",
+      "Telefon": "+49 3378 805931",
+      "Kategorie": "Unklar"
+    }
+  ]
+}

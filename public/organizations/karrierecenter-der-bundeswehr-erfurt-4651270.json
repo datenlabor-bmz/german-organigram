@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "50.9562129",
+  "Bundesland": "Thüringen",
+  "E-Mail": "karrcbwerfurteingang@bundeswehr.org",
+  "Hauptadresse": "Zeppelinstraße 18",
+  "Internetadresse": "https://www.bundeswehr.de/",
+  "Land": "DE",
+  "Längengrad": "11.047460",
+  "Organisation": "Karrierecenter der Bundeswehr Erfurt",
+  "OrganisationDisplay": "Karrierecenter Bw Erfurt",
+  "OrganisationId": 4651270,
+  "Ort": "Erfurt",
+  "PLZ": 99096,
+  "Ressort": "BMVg",
+  "locations": [
+    {
+      "Breitengrad": "50.9562129",
+      "Bundesland": "Thüringen",
+      "E-Mail": "karrcbwerfurteingang@bundeswehr.org",
+      "Hauptadresse": "Zeppelinstraße 18",
+      "Internetadresse": "https://www.bundeswehr.de/",
+      "Land": "DE",
+      "Längengrad": "11.047460",
+      "Organisation": "Karrierecenter der Bundeswehr Erfurt",
+      "OrganisationDisplay": "Karrierecenter Bw Erfurt",
+      "OrganisationId": 4651270,
+      "Ort": "Erfurt",
+      "PLZ": 99096,
+      "Ressort": "BMVg"
+    }
+  ]
+}

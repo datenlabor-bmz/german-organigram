@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5186283",
+  "Bundesland": "Berlin",
+  "E-Mail": "wehrbeauftragte@bundestag.de",
+  "Hauptadresse": "Platz der Republik 1",
+  "Internetadresse": "https://www.bundestag.de/wehrbeauftragte",
+  "Land": "DE",
+  "Längengrad": "13.3761181",
+  "Organisation": "Wehrbeauftragte des Deutschen Bundestages",
+  "OrganisationDisplay": "WB",
+  "OrganisationId": 23534,
+  "OrganisationKurz": "WB",
+  "Ort": "Berlin",
+  "PLZ": 11011,
+  "Telefax": "+49 30 227-38283",
+  "Telefon": "+49 30 227-38100",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5186283",
+      "Bundesland": "Berlin",
+      "E-Mail": "wehrbeauftragte@bundestag.de",
+      "Hauptadresse": "Platz der Republik 1",
+      "Internetadresse": "https://www.bundestag.de/wehrbeauftragte",
+      "Land": "DE",
+      "Längengrad": "13.3761181",
+      "Organisation": "Wehrbeauftragte des Deutschen Bundestages",
+      "OrganisationDisplay": "WB",
+      "OrganisationId": 23534,
+      "OrganisationKurz": "WB",
+      "Ort": "Berlin",
+      "PLZ": 11011,
+      "Telefax": "+49 30 227-38283",
+      "Telefon": "+49 30 227-38100",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "Breitengrad": "48.00418",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "info@caritas.de",
+  "Hauptadresse": "Karlstraße 40",
+  "Internetadresse": "https://www.caritas.de/",
+  "Land": "DE",
+  "Längengrad": "7.85667",
+  "Organisation": "Deutscher Caritasverband e. V.",
+  "OrganisationDisplay": "DCV",
+  "OrganisationId": 7542466,
+  "Ort": "Freiburg",
+  "PLZ": 79104,
+  "Telefon": "+49 761 200-0",
+  "locations": [
+    {
+      "Breitengrad": "48.00418",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "info@caritas.de",
+      "Hauptadresse": "Karlstraße 40",
+      "Internetadresse": "https://www.caritas.de/",
+      "Land": "DE",
+      "Längengrad": "7.85667",
+      "Organisation": "Deutscher Caritasverband e. V.",
+      "OrganisationDisplay": "DCV",
+      "OrganisationId": 7542466,
+      "Ort": "Freiburg",
+      "PLZ": 79104,
+      "Telefon": "+49 761 200-0"
+    }
+  ]
+}

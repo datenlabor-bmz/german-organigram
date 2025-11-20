@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.976922",
+  "Bundesland": "Thüringen",
+  "E-Mail": "bag@bundesarbeitsgericht.de",
+  "Hauptadresse": "Hugo-Preuß-Platz 1",
+  "Internetadresse": "https://www.bundesarbeitsgericht.de/",
+  "Land": "DE",
+  "Längengrad": "11.012776",
+  "Organisation": "Bundesarbeitsgericht",
+  "OrganisationDisplay": "BAG",
+  "OrganisationId": 17278,
+  "OrganisationKurz": "BAG",
+  "Ort": "Erfurt",
+  "PLZ": 99084,
+  "Ressort": "BMAS",
+  "Telefax": "+49 361 2636-2000",
+  "Telefon": "+49 361 2636-0",
+  "locations": [
+    {
+      "Breitengrad": "50.976922",
+      "Bundesland": "Thüringen",
+      "E-Mail": "bag@bundesarbeitsgericht.de",
+      "Hauptadresse": "Hugo-Preuß-Platz 1",
+      "Internetadresse": "https://www.bundesarbeitsgericht.de/",
+      "Land": "DE",
+      "Längengrad": "11.012776",
+      "Organisation": "Bundesarbeitsgericht",
+      "OrganisationDisplay": "BAG",
+      "OrganisationId": 17278,
+      "OrganisationKurz": "BAG",
+      "Ort": "Erfurt",
+      "PLZ": 99084,
+      "Ressort": "BMAS",
+      "Telefax": "+49 361 2636-2000",
+      "Telefon": "+49 361 2636-0"
+    }
+  ]
+}

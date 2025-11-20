@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.0785378",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@unibw.de",
+  "Hauptadresse": "Werner-Heisenberg-Weg 39",
+  "Internetadresse": "https://www.unibw.de/home",
+  "Land": "DE",
+  "Längengrad": "11.6502019",
+  "Organisation": "Universität der Bundeswehr München",
+  "OrganisationDisplay": "UniBwM",
+  "OrganisationId": 27606,
+  "OrganisationKurz": "UniBwM",
+  "Ort": "Neubiberg",
+  "PLZ": 85577,
+  "Ressort": "BMVg",
+  "Telefon": "+49 89 6004-0",
+  "locations": [
+    {
+      "Breitengrad": "48.0785378",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@unibw.de",
+      "Hauptadresse": "Werner-Heisenberg-Weg 39",
+      "Internetadresse": "https://www.unibw.de/home",
+      "Land": "DE",
+      "Längengrad": "11.6502019",
+      "Organisation": "Universität der Bundeswehr München",
+      "OrganisationDisplay": "UniBwM",
+      "OrganisationId": 27606,
+      "OrganisationKurz": "UniBwM",
+      "Ort": "Neubiberg",
+      "PLZ": 85577,
+      "Ressort": "BMVg",
+      "Telefon": "+49 89 6004-0"
+    }
+  ]
+}

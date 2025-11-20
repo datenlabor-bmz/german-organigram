@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.713424",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "beate.grossmann@bvpraevention.de",
+  "Hauptadresse": "Heilsbachstraße 30",
+  "Internetadresse": "https://bvpraevention.de/cms/index.asp?newbv",
+  "Land": "DE",
+  "Längengrad": "7.038718",
+  "Organisation": "Bundesvereinigung Prävention und Gesundheitsförderung e. V.",
+  "OrganisationDisplay": "BVPG",
+  "OrganisationId": 18214,
+  "OrganisationKurz": "BVPG",
+  "Ort": "Bonn",
+  "PLZ": 53123,
+  "Telefax": "+49 228 642 0024",
+  "Telefon": "+49 228 98 727-0",
+  "locations": [
+    {
+      "Breitengrad": "50.713424",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "beate.grossmann@bvpraevention.de",
+      "Hauptadresse": "Heilsbachstraße 30",
+      "Internetadresse": "https://bvpraevention.de/cms/index.asp?newbv",
+      "Land": "DE",
+      "Längengrad": "7.038718",
+      "Organisation": "Bundesvereinigung Prävention und Gesundheitsförderung e. V.",
+      "OrganisationDisplay": "BVPG",
+      "OrganisationId": 18214,
+      "OrganisationKurz": "BVPG",
+      "Ort": "Bonn",
+      "PLZ": 53123,
+      "Telefax": "+49 228 642 0024",
+      "Telefon": "+49 228 98 727-0"
+    }
+  ]
+}

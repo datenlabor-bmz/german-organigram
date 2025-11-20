@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.19444",
+  "Bundesland": "Bayern",
+  "E-Mail": "bwfachsmuenchen@bundeswehr.org",
+  "Hauptadresse": "Neuherbergstraße 11",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-muenchen-87012",
+  "Land": "DE",
+  "Längengrad": "11.611095",
+  "Organisation": "Bundeswehrfachschule München",
+  "OrganisationDisplay": "BwFachS München",
+  "OrganisationId": 17662,
+  "OrganisationKurz": "BwFachS München",
+  "Ort": "München",
+  "PLZ": 80937,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 992692-3484",
+  "Telefon": "+49 89 992692-3480",
+  "locations": [
+    {
+      "Breitengrad": "48.19444",
+      "Bundesland": "Bayern",
+      "E-Mail": "bwfachsmuenchen@bundeswehr.org",
+      "Hauptadresse": "Neuherbergstraße 11",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/personal/bildungszentrum-der-bundeswehr-/bundeswehrfachschule/bundeswehrfachschule-muenchen-87012",
+      "Land": "DE",
+      "Längengrad": "11.611095",
+      "Organisation": "Bundeswehrfachschule München",
+      "OrganisationDisplay": "BwFachS München",
+      "OrganisationId": 17662,
+      "OrganisationKurz": "BwFachS München",
+      "Ort": "München",
+      "PLZ": 80937,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 992692-3484",
+      "Telefon": "+49 89 992692-3480"
+    }
+  ]
+}

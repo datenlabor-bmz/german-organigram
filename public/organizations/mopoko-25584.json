@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.721885",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@monopolkommission.bund.de",
+  "Hauptadresse": "Kurt-Schumacher-Straße 8",
+  "Internetadresse": "https://www.monopolkommission.de",
+  "Land": "DE",
+  "Längengrad": "7.114516",
+  "Organisation": "Monopolkommission",
+  "OrganisationDisplay": "MoPoKo",
+  "OrganisationId": 25584,
+  "OrganisationKurz": "MoPoKo",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Telefax": "+49 228 338882- 33",
+  "Telefon": "+49 228 338882-30",
+  "locations": [
+    {
+      "Breitengrad": "50.721885",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@monopolkommission.bund.de",
+      "Hauptadresse": "Kurt-Schumacher-Straße 8",
+      "Internetadresse": "https://www.monopolkommission.de",
+      "Land": "DE",
+      "Längengrad": "7.114516",
+      "Organisation": "Monopolkommission",
+      "OrganisationDisplay": "MoPoKo",
+      "OrganisationId": 25584,
+      "OrganisationKurz": "MoPoKo",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Telefax": "+49 228 338882- 33",
+      "Telefon": "+49 228 338882-30"
+    }
+  ]
+}

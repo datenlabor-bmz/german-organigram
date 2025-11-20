@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.6956918",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Bocholter Straße 6",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-it-services-bw/1st-nato-signal-battalion",
+  "Land": "DE",
+  "Längengrad": "6.602915",
+  "Organisation": "Dienstältester Deutscher Offizier/Deutscher Anteil 1st NATO Signal Bataillon",
+  "OrganisationDisplay": "DDO/DtA 1st NSB",
+  "OrganisationId": 11945382,
+  "OrganisationKurz": "DDO/DtA 1st NSB",
+  "Ort": "Wesel",
+  "PLZ": 46487,
+  "Ressort": "BMVg",
+  "Telefon": "+49 281 9661 106-0",
+  "locations": [
+    {
+      "Breitengrad": "51.6956918",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Bocholter Straße 6",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-cyber-und-informationsraum/kommando-it-services-bw/1st-nato-signal-battalion",
+      "Land": "DE",
+      "Längengrad": "6.602915",
+      "Organisation": "Dienstältester Deutscher Offizier/Deutscher Anteil 1st NATO Signal Bataillon",
+      "OrganisationDisplay": "DDO/DtA 1st NSB",
+      "OrganisationId": 11945382,
+      "OrganisationKurz": "DDO/DtA 1st NSB",
+      "Ort": "Wesel",
+      "PLZ": 46487,
+      "Ressort": "BMVg",
+      "Telefon": "+49 281 9661 106-0"
+    }
+  ]
+}

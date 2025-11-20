@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.361763",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "baainbwposteingang@bundeswehr.org",
+  "Hauptadresse": "Ferdinand-Sauerbruch-Straße 1",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/ausruestung-baainbw",
+  "Land": "DE",
+  "Längengrad": "7.571541",
+  "Organisation": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+  "OrganisationDisplay": "BAAINBw",
+  "OrganisationId": 3242738,
+  "OrganisationKurz": "BAAINBw",
+  "Ort": "Koblenz",
+  "PLZ": 56073,
+  "Ressort": "BMVg",
+  "Telefax": "+49 261 400-12660",
+  "Telefon": "+49 261 400-0",
+  "locations": [
+    {
+      "Breitengrad": "50.361763",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "baainbwposteingang@bundeswehr.org",
+      "Hauptadresse": "Ferdinand-Sauerbruch-Straße 1",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/ausruestung-baainbw",
+      "Land": "DE",
+      "Längengrad": "7.571541",
+      "Organisation": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+      "OrganisationDisplay": "BAAINBw",
+      "OrganisationId": 3242738,
+      "OrganisationKurz": "BAAINBw",
+      "Ort": "Koblenz",
+      "PLZ": 56073,
+      "Ressort": "BMVg",
+      "Telefax": "+49 261 400-12660",
+      "Telefon": "+49 261 400-0"
+    }
+  ]
+}

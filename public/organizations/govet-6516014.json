@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.707979",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "govet@bibb.de",
+  "Hauptadresse": "Friedrich-Ebert-Allee 114-116",
+  "Internetadresse": "https://www.govet.international",
+  "Land": "DE",
+  "Längengrad": "7.136511",
+  "Organisation": "Zentralstelle der Bundesregierung für internationale Berufsbildungskooperation im Bundesinstitut für Berufsbildung",
+  "OrganisationDisplay": "GOVET",
+  "OrganisationId": 6516014,
+  "OrganisationKurz": "GOVET",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Ressort": "BMFTR",
+  "Telefon": "+49 228 107-1818",
+  "locations": [
+    {
+      "Breitengrad": "50.707979",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "govet@bibb.de",
+      "Hauptadresse": "Friedrich-Ebert-Allee 114-116",
+      "Internetadresse": "https://www.govet.international",
+      "Land": "DE",
+      "Längengrad": "7.136511",
+      "Organisation": "Zentralstelle der Bundesregierung für internationale Berufsbildungskooperation im Bundesinstitut für Berufsbildung",
+      "OrganisationDisplay": "GOVET",
+      "OrganisationId": 6516014,
+      "OrganisationKurz": "GOVET",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Ressort": "BMFTR",
+      "Telefon": "+49 228 107-1818"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "53.547075",
+  "Bundesland": "Hamburg",
+  "E-Mail": "posteingang@bsu-bund.de",
+  "Hauptadresse": "Bernhard-Nocht-Straße 78",
+  "Internetadresse": "https://www.bsu-bund.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "9.967658",
+  "Organisation": "Bundesstelle für Seeunfalluntersuchung",
+  "OrganisationDisplay": "BSU",
+  "OrganisationId": 18140,
+  "OrganisationKurz": "BSU",
+  "Ort": "Hamburg",
+  "PLZ": 20359,
+  "Ressort": "BMV",
+  "Telefax": "+49 40 3190-8340",
+  "Telefon": "+49 40 3190-8311",
+  "locations": [
+    {
+      "Breitengrad": "53.547075",
+      "Bundesland": "Hamburg",
+      "E-Mail": "posteingang@bsu-bund.de",
+      "Hauptadresse": "Bernhard-Nocht-Straße 78",
+      "Internetadresse": "https://www.bsu-bund.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "9.967658",
+      "Organisation": "Bundesstelle für Seeunfalluntersuchung",
+      "OrganisationDisplay": "BSU",
+      "OrganisationId": 18140,
+      "OrganisationKurz": "BSU",
+      "Ort": "Hamburg",
+      "PLZ": 20359,
+      "Ressort": "BMV",
+      "Telefax": "+49 40 3190-8340",
+      "Telefon": "+49 40 3190-8311"
+    }
+  ]
+}

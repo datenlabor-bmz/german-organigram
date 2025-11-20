@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.950897",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "post@bast.de",
+  "Hauptadresse": "Brüderstraße 53",
+  "Internetadresse": "https://www.bast.de/DE/Home/home_node.html",
+  "Land": "DE",
+  "Längengrad": "7.145805",
+  "Organisation": "Bundesanstalt für Straßen- und Verkehrswesen (BASt)",
+  "OrganisationDisplay": "BASt",
+  "OrganisationId": 17164,
+  "OrganisationKurz": "BASt",
+  "Ort": "Bergisch Gladbach",
+  "PLZ": 51427,
+  "Ressort": "BMV",
+  "Telefax": "+49 2204 43-1150",
+  "Telefon": "+49 2204 43-0",
+  "locations": [
+    {
+      "Breitengrad": "50.950897",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "post@bast.de",
+      "Hauptadresse": "Brüderstraße 53",
+      "Internetadresse": "https://www.bast.de/DE/Home/home_node.html",
+      "Land": "DE",
+      "Längengrad": "7.145805",
+      "Organisation": "Bundesanstalt für Straßen- und Verkehrswesen (BASt)",
+      "OrganisationDisplay": "BASt",
+      "OrganisationId": 17164,
+      "OrganisationKurz": "BASt",
+      "Ort": "Bergisch Gladbach",
+      "PLZ": 51427,
+      "Ressort": "BMV",
+      "Telefax": "+49 2204 43-1150",
+      "Telefon": "+49 2204 43-0"
+    }
+  ]
+}

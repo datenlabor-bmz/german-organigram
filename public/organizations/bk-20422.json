@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.519784",
+  "Bundesland": "Berlin",
+  "E-Mail": "internetpost@bundeskanzler.de",
+  "Hauptadresse": "Willy-Brandt Straße 1",
+  "Internetadresse": "https://www.bundeskanzler.de/bk-de/",
+  "Land": "DE",
+  "Längengrad": "13.372034",
+  "Organisation": "Bundeskanzler",
+  "OrganisationDisplay": "BK",
+  "OrganisationId": 20422,
+  "OrganisationKurz": "BK",
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BKAmt",
+  "Telefax": "+49 3018 400-2357",
+  "Telefon": "+49 3018 400-0",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.519784",
+      "Bundesland": "Berlin",
+      "E-Mail": "internetpost@bundeskanzler.de",
+      "Hauptadresse": "Willy-Brandt Straße 1",
+      "Internetadresse": "https://www.bundeskanzler.de/bk-de/",
+      "Land": "DE",
+      "Längengrad": "13.372034",
+      "Organisation": "Bundeskanzler",
+      "OrganisationDisplay": "BK",
+      "OrganisationId": 20422,
+      "OrganisationKurz": "BK",
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BKAmt",
+      "Telefax": "+49 3018 400-2357",
+      "Telefon": "+49 3018 400-0",
+      "Versteckt": true
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.416928",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "mnjhqpao@bundeswehr.org",
+  "Hauptadresse": "Stuttgarterstraße 199",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/multinationales-kommando-operative-fuehrung",
+  "Land": "DE",
+  "Längengrad": "9.983413",
+  "Organisation": "Multinationales Kommando Operative Führung / Multinational Joint Headquarters Ulm",
+  "OrganisationDisplay": "KdoOpFü / MN JHQ",
+  "OrganisationId": 27716,
+  "OrganisationKurz": "KdoOpFü / MN JHQ",
+  "Ort": "Ulm",
+  "PLZ": 89081,
+  "Ressort": "BMVg",
+  "Telefax": "+49 731 1690-3065",
+  "Telefon": "+49 731 1690-3060",
+  "locations": [
+    {
+      "Breitengrad": "48.416928",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "mnjhqpao@bundeswehr.org",
+      "Hauptadresse": "Stuttgarterstraße 199",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/multinationales-kommando-operative-fuehrung",
+      "Land": "DE",
+      "Längengrad": "9.983413",
+      "Organisation": "Multinationales Kommando Operative Führung / Multinational Joint Headquarters Ulm",
+      "OrganisationDisplay": "KdoOpFü / MN JHQ",
+      "OrganisationId": 27716,
+      "OrganisationKurz": "KdoOpFü / MN JHQ",
+      "Ort": "Ulm",
+      "PLZ": 89081,
+      "Ressort": "BMVg",
+      "Telefax": "+49 731 1690-3065",
+      "Telefon": "+49 731 1690-3060"
+    }
+  ]
+}

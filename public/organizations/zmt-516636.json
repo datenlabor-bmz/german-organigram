@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "53.1081374",
+  "Bundesland": "Bremen",
+  "E-Mail": "contact@leibniz-zmt.de",
+  "Hauptadresse": "Fahrenheitstraße 6",
+  "Internetadresse": "https://www.leibniz-zmt.de",
+  "Land": "DE",
+  "Längengrad": "8.8463651",
+  "Organisation": "Leibniz-Zentrum für Marine Tropenökologie",
+  "OrganisationDisplay": "ZMT",
+  "OrganisationId": 516636,
+  "OrganisationKurz": "ZMT",
+  "Ort": "Bremen",
+  "PLZ": 28359,
+  "Telefax": "+49 421 23800-30",
+  "Telefon": "+49 421 23800-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.1081374",
+      "Bundesland": "Bremen",
+      "E-Mail": "contact@leibniz-zmt.de",
+      "Hauptadresse": "Fahrenheitstraße 6",
+      "Internetadresse": "https://www.leibniz-zmt.de",
+      "Land": "DE",
+      "Längengrad": "8.8463651",
+      "Organisation": "Leibniz-Zentrum für Marine Tropenökologie",
+      "OrganisationDisplay": "ZMT",
+      "OrganisationId": 516636,
+      "OrganisationKurz": "ZMT",
+      "Ort": "Bremen",
+      "PLZ": 28359,
+      "Telefax": "+49 421 23800-30",
+      "Telefon": "+49 421 23800-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

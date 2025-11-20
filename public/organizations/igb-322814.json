@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.449646",
+  "Bundesland": "Berlin",
+  "E-Mail": "pr@igb-berlin.de",
+  "Hauptadresse": "Müggelseedamm 310",
+  "Internetadresse": "https://www.igb-berlin.de",
+  "Land": "DE",
+  "Längengrad": "13.6503791",
+  "Organisation": "Leibniz-Institut für Gewässerökologie und Binnenfischerei im Forschungsverbund Berlin",
+  "OrganisationDisplay": "IGB",
+  "OrganisationId": 322814,
+  "OrganisationKurz": "IGB",
+  "Ort": "Berlin",
+  "PLZ": 12587,
+  "Telefax": "+49 30 64181-600",
+  "Telefon": "+49 30 64181-5",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.449646",
+      "Bundesland": "Berlin",
+      "E-Mail": "pr@igb-berlin.de",
+      "Hauptadresse": "Müggelseedamm 310",
+      "Internetadresse": "https://www.igb-berlin.de",
+      "Land": "DE",
+      "Längengrad": "13.6503791",
+      "Organisation": "Leibniz-Institut für Gewässerökologie und Binnenfischerei im Forschungsverbund Berlin",
+      "OrganisationDisplay": "IGB",
+      "OrganisationId": 322814,
+      "OrganisationKurz": "IGB",
+      "Ort": "Berlin",
+      "PLZ": 12587,
+      "Telefax": "+49 30 64181-600",
+      "Telefon": "+49 30 64181-5",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

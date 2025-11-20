@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "53.820273",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "info@fnr.de",
+  "Hauptadresse": "Hofplatz 1",
+  "Internetadresse": "https://www.fnr.de/",
+  "Land": "DE",
+  "Längengrad": "12.067038",
+  "Organisation": "Fachagentur Nachwachsende Rohstoffe e. V.",
+  "OrganisationDisplay": "FNR",
+  "OrganisationId": 25062,
+  "OrganisationKurz": "FNR",
+  "Ort": "Gülzow-Prüzen",
+  "PLZ": 18276,
+  "Telefon": "+49 3843 6930-0",
+  "locations": [
+    {
+      "Breitengrad": "53.820273",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "info@fnr.de",
+      "Hauptadresse": "Hofplatz 1",
+      "Internetadresse": "https://www.fnr.de/",
+      "Land": "DE",
+      "Längengrad": "12.067038",
+      "Organisation": "Fachagentur Nachwachsende Rohstoffe e. V.",
+      "OrganisationDisplay": "FNR",
+      "OrganisationId": 25062,
+      "OrganisationKurz": "FNR",
+      "Ort": "Gülzow-Prüzen",
+      "PLZ": 18276,
+      "Telefon": "+49 3843 6930-0"
+    }
+  ]
+}

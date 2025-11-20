@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.761429",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "wtd41@bundeswehr.org",
+  "Hauptadresse": "Kolonnenweg ",
+  "Internetadresse": "https://www.baainbw.de/wtd41",
+  "Land": "DE",
+  "Längengrad": "6.676541",
+  "Organisation": "Wehrtechnische Dienststelle für landgebundene Fahrzeugsysteme, Pionier- und Truppentechnik",
+  "OrganisationDisplay": "WTD 41",
+  "OrganisationId": 23734,
+  "OrganisationKurz": "WTD 41",
+  "Ort": "Trier",
+  "PLZ": 54296,
+  "Ressort": "BMVg",
+  "Telefax": "+49 651 9129-2600",
+  "Telefon": "+49 651 9129-0",
+  "locations": [
+    {
+      "Breitengrad": "49.761429",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "wtd41@bundeswehr.org",
+      "Hauptadresse": "Kolonnenweg ",
+      "Internetadresse": "https://www.baainbw.de/wtd41",
+      "Land": "DE",
+      "Längengrad": "6.676541",
+      "Organisation": "Wehrtechnische Dienststelle für landgebundene Fahrzeugsysteme, Pionier- und Truppentechnik",
+      "OrganisationDisplay": "WTD 41",
+      "OrganisationId": 23734,
+      "OrganisationKurz": "WTD 41",
+      "Ort": "Trier",
+      "PLZ": 54296,
+      "Ressort": "BMVg",
+      "Telefax": "+49 651 9129-2600",
+      "Telefon": "+49 651 9129-0"
+    }
+  ]
+}

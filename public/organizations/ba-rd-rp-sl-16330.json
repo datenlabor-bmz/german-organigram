@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.230598",
+  "Bundesland": "Saarland",
+  "E-Mail": "Rheinland-Pfalz-Saarland@arbeitsagentur.de",
+  "Hauptadresse": "Eschberger Weg 68",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/RheinlandPfalzSaarland/index.htm",
+  "Land": "DE",
+  "Längengrad": "7.032335",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Rheinland-Pfalz Saarland",
+  "OrganisationDisplay": "BA-RD-RP-SL",
+  "OrganisationId": 16330,
+  "OrganisationKurz": "BA-RD-RP-SL",
+  "Ort": "Saarbrücken",
+  "PLZ": 66121,
+  "Ressort": "BMAS",
+  "Telefax": "+49 681 849-180",
+  "Telefon": "+49 681 849-0",
+  "locations": [
+    {
+      "Breitengrad": "49.230598",
+      "Bundesland": "Saarland",
+      "E-Mail": "Rheinland-Pfalz-Saarland@arbeitsagentur.de",
+      "Hauptadresse": "Eschberger Weg 68",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/RheinlandPfalzSaarland/index.htm",
+      "Land": "DE",
+      "Längengrad": "7.032335",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Rheinland-Pfalz Saarland",
+      "OrganisationDisplay": "BA-RD-RP-SL",
+      "OrganisationId": 16330,
+      "OrganisationKurz": "BA-RD-RP-SL",
+      "Ort": "Saarbrücken",
+      "PLZ": 66121,
+      "Ressort": "BMAS",
+      "Telefax": "+49 681 849-180",
+      "Telefon": "+49 681 849-0"
+    }
+  ]
+}

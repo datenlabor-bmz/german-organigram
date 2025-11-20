@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.235411",
+  "Bundesland": "Saarland",
+  "E-Mail": "info@juris.de",
+  "Hauptadresse": "Am Römerkastell 11",
+  "Internetadresse": "https://www.juris.de",
+  "Land": "DE",
+  "Längengrad": "6.98736",
+  "Organisation": "juris GmbH - Das juristische Informationssystem Deutschland",
+  "OrganisationDisplay": "juris GmbH",
+  "OrganisationId": 26486,
+  "OrganisationKurz": "juris GmbH",
+  "Ort": "Saarbrücken",
+  "PLZ": 66121,
+  "Telefax": "+49 681 5866-239",
+  "Telefon": "+49 681 5866-0",
+  "locations": [
+    {
+      "Breitengrad": "49.235411",
+      "Bundesland": "Saarland",
+      "E-Mail": "info@juris.de",
+      "Hauptadresse": "Am Römerkastell 11",
+      "Internetadresse": "https://www.juris.de",
+      "Land": "DE",
+      "Längengrad": "6.98736",
+      "Organisation": "juris GmbH - Das juristische Informationssystem Deutschland",
+      "OrganisationDisplay": "juris GmbH",
+      "OrganisationId": 26486,
+      "OrganisationKurz": "juris GmbH",
+      "Ort": "Saarbrücken",
+      "PLZ": 66121,
+      "Telefax": "+49 681 5866-239",
+      "Telefon": "+49 681 5866-0"
+    }
+  ]
+}

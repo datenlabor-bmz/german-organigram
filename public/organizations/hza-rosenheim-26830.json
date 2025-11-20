@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "47.85221",
+  "Bundesland": "Bayern",
+  "E-Mail": "poststelle.hza-rosenheim@zoll.bund.de",
+  "Hauptadresse": "Münchener Straße 51",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "12.117583",
+  "Organisation": "Hauptzollamt Rosenheim",
+  "OrganisationDisplay": "HZA Rosenheim",
+  "OrganisationId": 26830,
+  "OrganisationKurz": "HZA Rosenheim",
+  "Ort": "Rosenheim",
+  "PLZ": 83022,
+  "Ressort": "BMF",
+  "Telefax": "+49 8031 3006-9911",
+  "Telefon": "+49 8031 3006-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "47.85221",
+      "Bundesland": "Bayern",
+      "E-Mail": "poststelle.hza-rosenheim@zoll.bund.de",
+      "Hauptadresse": "Münchener Straße 51",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "12.117583",
+      "Organisation": "Hauptzollamt Rosenheim",
+      "OrganisationDisplay": "HZA Rosenheim",
+      "OrganisationId": 26830,
+      "OrganisationKurz": "HZA Rosenheim",
+      "Ort": "Rosenheim",
+      "PLZ": 83022,
+      "Ressort": "BMF",
+      "Telefax": "+49 8031 3006-9911",
+      "Telefon": "+49 8031 3006-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "zbg@uni-hohenheim.de",
+  "Hauptadresse": "Ottilie-Zeller-Weg 6",
+  "Internetadresse": "https://zbg.uni-hohenheim.de/",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Zentrum für Betriebswirtschaft im Gartenbau e. V.",
+  "OrganisationDisplay": "ZBG",
+  "OrganisationId": 26282,
+  "OrganisationKurz": "ZBG",
+  "Ort": "Stuttgart",
+  "PLZ": 70599,
+  "Telefon": "+49 711 995 966-10",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "zbg@uni-hohenheim.de",
+      "Hauptadresse": "Ottilie-Zeller-Weg 6",
+      "Internetadresse": "https://zbg.uni-hohenheim.de/",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Zentrum für Betriebswirtschaft im Gartenbau e. V.",
+      "OrganisationDisplay": "ZBG",
+      "OrganisationId": 26282,
+      "OrganisationKurz": "ZBG",
+      "Ort": "Stuttgart",
+      "PLZ": 70599,
+      "Telefon": "+49 711 995 966-10"
+    }
+  ]
+}

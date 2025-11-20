@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.1310162",
+  "Bundesland": "Bayern",
+  "E-Mail": "besucherservice@deutsches-museum.de",
+  "Hauptadresse": "Museumsinsel 1",
+  "Internetadresse": "https://www.deutsches-museum.de/",
+  "Land": "DE",
+  "Längengrad": "11.5843533",
+  "Organisation": "Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik",
+  "OrganisationDisplay": "DM",
+  "OrganisationId": 319066,
+  "OrganisationKurz": "DM",
+  "Ort": "München",
+  "PLZ": 80538,
+  "Telefax": "+49 89 2179-324",
+  "Telefon": "+49 89 2179-1",
+  "locations": [
+    {
+      "Breitengrad": "48.1310162",
+      "Bundesland": "Bayern",
+      "E-Mail": "besucherservice@deutsches-museum.de",
+      "Hauptadresse": "Museumsinsel 1",
+      "Internetadresse": "https://www.deutsches-museum.de/",
+      "Land": "DE",
+      "Längengrad": "11.5843533",
+      "Organisation": "Deutsches Museum von Meisterwerken der Naturwissenschaft und Technik",
+      "OrganisationDisplay": "DM",
+      "OrganisationId": 319066,
+      "OrganisationKurz": "DM",
+      "Ort": "München",
+      "PLZ": 80538,
+      "Telefax": "+49 89 2179-324",
+      "Telefon": "+49 89 2179-1"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Breitengrad": "52.538875",
+  "Bundesland": "Berlin",
+  "E-Mail": "webmaster@rki.de",
+  "Hauptadresse": "Nordufer 20",
+  "Internetadresse": "https://www.rki.de",
+  "Land": "DE",
+  "Längengrad": "13.346993",
+  "Organisation": "Robert Koch-Institut",
+  "OrganisationDisplay": "RKI",
+  "OrganisationId": 26996,
+  "OrganisationKurz": "RKI",
+  "Ort": "Berlin",
+  "PLZ": 13353,
+  "Ressort": "BMG",
+  "Telefax": "+49 3018 754-2328",
+  "Telefon": "+49 3018 754-0",
+  "locations": [
+    {
+      "Breitengrad": "52.538875",
+      "Bundesland": "Berlin",
+      "E-Mail": "webmaster@rki.de",
+      "Hauptadresse": "Nordufer 20",
+      "Internetadresse": "https://www.rki.de",
+      "Land": "DE",
+      "Längengrad": "13.346993",
+      "Organisation": "Robert Koch-Institut",
+      "OrganisationDisplay": "RKI",
+      "OrganisationId": 26996,
+      "OrganisationKurz": "RKI",
+      "Ort": "Berlin",
+      "PLZ": 13353,
+      "Ressort": "BMG",
+      "Telefax": "+49 3018 754-2328",
+      "Telefon": "+49 3018 754-0"
+    },
+    {
+      "Adresse": "Burgstraße 37",
+      "Bundesland": "Sachsen-Anhalt",
+      "Internetadresse": "https://www.rki.de",
+      "Land": "DE",
+      "Liegenschaft": "Außenstelle Wernigerode",
+      "LiegenschaftsId": 26994,
+      "OrganisationId": 26996,
+      "Ort": "Wernigerode",
+      "PLZ": 38855
+    },
+    {
+      "Adresse": "Seestraße 10",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.rki.de",
+      "Land": "DE",
+      "Liegenschaft": "Bereich Seestraße",
+      "LiegenschaftsId": 26992,
+      "OrganisationId": 26996,
+      "Ort": "Berlin",
+      "PLZ": 13353
+    }
+  ]
+}

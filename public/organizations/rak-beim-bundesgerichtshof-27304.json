@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "49.006585",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "kontakt@rak-bgh.de",
+  "Hauptadresse": "Herrenstraße 45 a",
+  "Land": "DE",
+  "Längengrad": "8.395587",
+  "Organisation": "Rechtsanwaltskammer beim Bundesgerichtshof",
+  "OrganisationDisplay": "RAK beim BGH",
+  "OrganisationId": 27304,
+  "OrganisationKurz": "RAK beim Bundesgerichtshof",
+  "Ort": "Karlsruhe",
+  "PLZ": 76133,
+  "Telefax": "+49 721 2031403",
+  "Telefon": "+49 721 22656",
+  "locations": [
+    {
+      "Breitengrad": "49.006585",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "kontakt@rak-bgh.de",
+      "Hauptadresse": "Herrenstraße 45 a",
+      "Land": "DE",
+      "Längengrad": "8.395587",
+      "Organisation": "Rechtsanwaltskammer beim Bundesgerichtshof",
+      "OrganisationDisplay": "RAK beim BGH",
+      "OrganisationId": 27304,
+      "OrganisationKurz": "RAK beim Bundesgerichtshof",
+      "Ort": "Karlsruhe",
+      "PLZ": 76133,
+      "Telefax": "+49 721 2031403",
+      "Telefon": "+49 721 22656"
+    }
+  ]
+}

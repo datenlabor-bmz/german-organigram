@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "54.3257188",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "info@geomar.de",
+  "Hauptadresse": "Wischhofstraße 1-3",
+  "Internetadresse": "https://www.geomar.de",
+  "Land": "DE",
+  "Längengrad": "10.1802237",
+  "Organisation": "Helmholtz-Zentrum für Ozeanforschung Kiel",
+  "OrganisationDisplay": "GEOMAR",
+  "OrganisationId": 366540,
+  "OrganisationKurz": "GEOMAR",
+  "Ort": "Kiel",
+  "PLZ": 24148,
+  "Telefax": "+49 431 600-2805",
+  "Telefon": "+49 431 600-0",
+  "Kategorie": "Helmholtz",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "54.3257188",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "info@geomar.de",
+      "Hauptadresse": "Wischhofstraße 1-3",
+      "Internetadresse": "https://www.geomar.de",
+      "Land": "DE",
+      "Längengrad": "10.1802237",
+      "Organisation": "Helmholtz-Zentrum für Ozeanforschung Kiel",
+      "OrganisationDisplay": "GEOMAR",
+      "OrganisationId": 366540,
+      "OrganisationKurz": "GEOMAR",
+      "Ort": "Kiel",
+      "PLZ": 24148,
+      "Telefax": "+49 431 600-2805",
+      "Telefon": "+49 431 600-0",
+      "Kategorie": "Helmholtz",
+      "Versteckt": true
+    }
+  ]
+}

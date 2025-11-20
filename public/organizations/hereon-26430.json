@@ -1,0 +1,53 @@
+{
+  "Breitengrad": "53.40779",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "contact@hereon.de",
+  "Hauptadresse": "Max-Planck-Straße 1",
+  "Internetadresse": "https://www.hzg.de",
+  "Land": "DE",
+  "Längengrad": "10.42228",
+  "Organisation": "Helmholtz-Zentrum Hereon GmbH",
+  "OrganisationDisplay": "Hereon",
+  "OrganisationId": 26430,
+  "OrganisationKurz": "Hereon",
+  "Ort": "Geesthacht",
+  "PLZ": 21502,
+  "Telefax": "+49 4152 87-1403",
+  "Telefon": "+49 4152 87-0",
+  "Kategorie": "Helmholtz",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "53.40779",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "contact@hereon.de",
+      "Hauptadresse": "Max-Planck-Straße 1",
+      "Internetadresse": "https://www.hzg.de",
+      "Land": "DE",
+      "Längengrad": "10.42228",
+      "Organisation": "Helmholtz-Zentrum Hereon GmbH",
+      "OrganisationDisplay": "Hereon",
+      "OrganisationId": 26430,
+      "OrganisationKurz": "Hereon",
+      "Ort": "Geesthacht",
+      "PLZ": 21502,
+      "Telefax": "+49 4152 87-1403",
+      "Telefon": "+49 4152 87-0",
+      "Kategorie": "Helmholtz",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Kantstraße 55",
+      "Bundesland": "Brandenburg",
+      "Internetadresse": "https://www.hzg.de",
+      "Land": "DE",
+      "Liegenschaft": "Standort Teltow",
+      "LiegenschaftsId": 6870360,
+      "OrganisationId": 26430,
+      "Ort": "Teltow",
+      "PLZ": 14513,
+      "Telefax": "+49 3328 352-452",
+      "Telefon": "+49 3328 352-0"
+    }
+  ]
+}

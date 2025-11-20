@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.1229701",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@kvb.bund.de",
+  "Hauptadresse": "Salvador-Allende-Str. 7",
+  "Internetadresse": "https://www.kvb.bund.de",
+  "Land": "DE",
+  "Längengrad": "8.6346264",
+  "Organisation": "Krankenversorgung der Bundesbahnbeamten",
+  "OrganisationDisplay": "KVB",
+  "OrganisationId": 26240,
+  "OrganisationKurz": "KVB",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60487,
+  "Ressort": "BMV",
+  "Telefon": "+49 69 24703-0",
+  "locations": [
+    {
+      "Breitengrad": "50.1229701",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@kvb.bund.de",
+      "Hauptadresse": "Salvador-Allende-Str. 7",
+      "Internetadresse": "https://www.kvb.bund.de",
+      "Land": "DE",
+      "Längengrad": "8.6346264",
+      "Organisation": "Krankenversorgung der Bundesbahnbeamten",
+      "OrganisationDisplay": "KVB",
+      "OrganisationId": 26240,
+      "OrganisationKurz": "KVB",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60487,
+      "Ressort": "BMV",
+      "Telefon": "+49 69 24703-0"
+    }
+  ]
+}

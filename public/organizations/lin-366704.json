@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.1016288",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "wo@lin-magdeburg.de",
+  "Hauptadresse": "Brenneckestraße 6",
+  "Internetadresse": "https://www.lin-magdeburg.de",
+  "Land": "DE",
+  "Längengrad": "11.6106713",
+  "Organisation": "Leibniz-Institut für Neurobiologie Magdeburg",
+  "OrganisationDisplay": "LIN",
+  "OrganisationId": 366704,
+  "OrganisationKurz": "LIN",
+  "Ort": "Magdeburg",
+  "PLZ": 39118,
+  "Telefax": "+49 391 6263-92419",
+  "Telefon": "+49 391 6263--92411",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.1016288",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "wo@lin-magdeburg.de",
+      "Hauptadresse": "Brenneckestraße 6",
+      "Internetadresse": "https://www.lin-magdeburg.de",
+      "Land": "DE",
+      "Längengrad": "11.6106713",
+      "Organisation": "Leibniz-Institut für Neurobiologie Magdeburg",
+      "OrganisationDisplay": "LIN",
+      "OrganisationId": 366704,
+      "OrganisationKurz": "LIN",
+      "Ort": "Magdeburg",
+      "PLZ": 39118,
+      "Telefax": "+49 391 6263-92419",
+      "Telefon": "+49 391 6263--92411",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

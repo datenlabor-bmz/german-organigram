@@ -1,0 +1,52 @@
+{
+  "Breitengrad": "48.339196",
+  "Bundesland": "Bayern",
+  "E-Mail": "wiweb@bundeswehr.org",
+  "Hauptadresse": "Institutsweg 1",
+  "Internetadresse": "https://www.baainbw.de/wiweb",
+  "Land": "DE",
+  "Längengrad": "11.9295145",
+  "Organisation": "Wehrwissenschaftliches Institut für Werk- und Betriebsstoffe",
+  "OrganisationDisplay": "WIWeB",
+  "OrganisationId": 23924,
+  "OrganisationKurz": "WIWeB",
+  "Ort": "Erding",
+  "PLZ": 85435,
+  "Ressort": "BMVg",
+  "Telefax": "+49 8122 9590-3902",
+  "Telefon": "+49 8122 9590-0",
+  "locations": [
+    {
+      "Breitengrad": "48.339196",
+      "Bundesland": "Bayern",
+      "E-Mail": "wiweb@bundeswehr.org",
+      "Hauptadresse": "Institutsweg 1",
+      "Internetadresse": "https://www.baainbw.de/wiweb",
+      "Land": "DE",
+      "Längengrad": "11.9295145",
+      "Organisation": "Wehrwissenschaftliches Institut für Werk- und Betriebsstoffe",
+      "OrganisationDisplay": "WIWeB",
+      "OrganisationId": 23924,
+      "OrganisationKurz": "WIWeB",
+      "Ort": "Erding",
+      "PLZ": 85435,
+      "Ressort": "BMVg",
+      "Telefax": "+49 8122 9590-3902",
+      "Telefon": "+49 8122 9590-0"
+    },
+    {
+      "Adresse": "Kasinostraße Tor 7 ",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "wiweb@bundeswehr.org",
+      "Internetadresse": "https://www.baainbw.de/wiweb",
+      "Land": "DE",
+      "Liegenschaft": "Standort Wilhelmshaven",
+      "LiegenschaftsId": 23928,
+      "OrganisationId": 23924,
+      "Ort": "Wilhelmshaven",
+      "PLZ": 26382,
+      "Telefax": "+49 4421 49-3456",
+      "Telefon": "+49 4421 49-1"
+    }
+  ]
+}

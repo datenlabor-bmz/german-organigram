@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "53.348655",
+  "Bundesland": "Mecklenburg-Vorpommern",
+  "E-Mail": "hallo@d-s-e-e.de",
+  "Hauptadresse": "Woldegker Chaussee 35",
+  "Internetadresse": "https://www.deutsche-stiftung-engagement-und-ehrenamt.de/",
+  "Land": "Deutschland",
+  "Längengrad": "13.106806",
+  "Organisation": "Deutsche Stiftung für Engagement und Ehrenamt",
+  "OrganisationDisplay": "DSEE",
+  "OrganisationId": 23620006,
+  "OrganisationKurz": "DSEE",
+  "Ort": "Neustrelitz",
+  "PLZ": 17235,
+  "Telefon": "03981 4569-600",
+  "locations": [
+    {
+      "Breitengrad": "53.348655",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "hallo@d-s-e-e.de",
+      "Hauptadresse": "Woldegker Chaussee 35",
+      "Internetadresse": "https://www.deutsche-stiftung-engagement-und-ehrenamt.de/",
+      "Land": "Deutschland",
+      "Längengrad": "13.106806",
+      "Organisation": "Deutsche Stiftung für Engagement und Ehrenamt",
+      "OrganisationDisplay": "DSEE",
+      "OrganisationId": 23620006,
+      "OrganisationKurz": "DSEE",
+      "Ort": "Neustrelitz",
+      "PLZ": 17235,
+      "Telefon": "03981 4569-600"
+    }
+  ]
+}

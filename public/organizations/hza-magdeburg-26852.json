@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.195188",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "poststelle.hza-magdeburg@zoll.bund.de",
+  "Hauptadresse": "Ihleburger Straße 4",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "11.669907",
+  "Organisation": "Hauptzollamt Magdeburg",
+  "OrganisationDisplay": "HZA Magdeburg",
+  "OrganisationId": 26852,
+  "OrganisationKurz": "HZA Magdeburg",
+  "Ort": "Magdeburg",
+  "PLZ": 39126,
+  "Ressort": "BMF",
+  "Telefax": "+49 391 5074-334",
+  "Telefon": "+49 391 5074-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "52.195188",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "poststelle.hza-magdeburg@zoll.bund.de",
+      "Hauptadresse": "Ihleburger Straße 4",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "11.669907",
+      "Organisation": "Hauptzollamt Magdeburg",
+      "OrganisationDisplay": "HZA Magdeburg",
+      "OrganisationId": 26852,
+      "OrganisationKurz": "HZA Magdeburg",
+      "Ort": "Magdeburg",
+      "PLZ": 39126,
+      "Ressort": "BMF",
+      "Telefax": "+49 391 5074-334",
+      "Telefon": "+49 391 5074-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

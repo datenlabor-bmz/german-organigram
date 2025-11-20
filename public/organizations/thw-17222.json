@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.711284",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "poststelle@thw.de",
+  "Hauptadresse": "Provinzialstraße 93",
+  "Internetadresse": "https://www.thw.de/DE/Startseite/startseite_node.html",
+  "Land": "DE",
+  "Längengrad": "7.066835",
+  "Organisation": "Bundesanstalt Technisches Hilfswerk",
+  "OrganisationDisplay": "THW",
+  "OrganisationId": 17222,
+  "OrganisationKurz": "THW",
+  "Ort": "Bonn",
+  "PLZ": 53127,
+  "Ressort": "BMI",
+  "Telefax": "+49 228 940-1520",
+  "Telefon": "+49 228 940-0",
+  "locations": [
+    {
+      "Breitengrad": "50.711284",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "poststelle@thw.de",
+      "Hauptadresse": "Provinzialstraße 93",
+      "Internetadresse": "https://www.thw.de/DE/Startseite/startseite_node.html",
+      "Land": "DE",
+      "Längengrad": "7.066835",
+      "Organisation": "Bundesanstalt Technisches Hilfswerk",
+      "OrganisationDisplay": "THW",
+      "OrganisationId": 17222,
+      "OrganisationKurz": "THW",
+      "Ort": "Bonn",
+      "PLZ": 53127,
+      "Ressort": "BMI",
+      "Telefax": "+49 228 940-1520",
+      "Telefon": "+49 228 940-0"
+    }
+  ]
+}

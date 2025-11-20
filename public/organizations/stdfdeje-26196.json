@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.504836",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@stiftung-denkmal.de",
+  "Hauptadresse": "Georgenstraße 23",
+  "Internetadresse": "https://www.stiftung-denkmal.de/",
+  "Land": "DE",
+  "Längengrad": "13.38205",
+  "Organisation": "Stiftung Denkmal für die ermordeten Juden Europas",
+  "OrganisationDisplay": "StDfdeJE",
+  "OrganisationId": 26196,
+  "OrganisationKurz": "StDfdeJE",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BKM",
+  "Telefax": "+49 30 263943-20",
+  "Telefon": "+49 30 263943-0",
+  "locations": [
+    {
+      "Breitengrad": "52.504836",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@stiftung-denkmal.de",
+      "Hauptadresse": "Georgenstraße 23",
+      "Internetadresse": "https://www.stiftung-denkmal.de/",
+      "Land": "DE",
+      "Längengrad": "13.38205",
+      "Organisation": "Stiftung Denkmal für die ermordeten Juden Europas",
+      "OrganisationDisplay": "StDfdeJE",
+      "OrganisationId": 26196,
+      "OrganisationKurz": "StDfdeJE",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BKM",
+      "Telefax": "+49 30 263943-20",
+      "Telefon": "+49 30 263943-0"
+    }
+  ]
+}

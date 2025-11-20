@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.395684",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "service@freiheit.org",
+  "Hauptadresse": "Karl-Marx-Straße 2",
+  "Internetadresse": "https://www.freiheit.org",
+  "Land": "DE",
+  "Längengrad": "13.122614",
+  "Organisation": "Friedrich-Naumann-Stiftung für die Freiheit",
+  "OrganisationDisplay": "FNF",
+  "OrganisationId": 25720,
+  "Ort": "Potsdam",
+  "PLZ": 14482,
+  "Telefax": "+49 331 7019-188",
+  "Telefon": "+49 331 7019-0",
+  "locations": [
+    {
+      "Breitengrad": "52.395684",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "service@freiheit.org",
+      "Hauptadresse": "Karl-Marx-Straße 2",
+      "Internetadresse": "https://www.freiheit.org",
+      "Land": "DE",
+      "Längengrad": "13.122614",
+      "Organisation": "Friedrich-Naumann-Stiftung für die Freiheit",
+      "OrganisationDisplay": "FNF",
+      "OrganisationId": 25720,
+      "Ort": "Potsdam",
+      "PLZ": 14482,
+      "Telefax": "+49 331 7019-188",
+      "Telefon": "+49 331 7019-0"
+    }
+  ]
+}

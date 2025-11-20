@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.252797",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "PressestelleLandeskomandoNW@bundeswehr.org",
+  "Hauptadresse": "Wilhelm-Raabe-Straße 46",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-nordrhein-westfalen",
+  "Land": "DE",
+  "Längengrad": "6.815224",
+  "Organisation": "Landeskommando Nordrhein-Westfalen",
+  "OrganisationDisplay": "LKdo NW",
+  "OrganisationId": 12071936,
+  "OrganisationKurz": "LKdo NW",
+  "Ort": "Düsseldorf",
+  "PLZ": 40470,
+  "Ressort": "BMVg",
+  "Telefax": "+49 211 959 103521",
+  "Telefon": "+49 211 959 3521",
+  "locations": [
+    {
+      "Breitengrad": "51.252797",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "PressestelleLandeskomandoNW@bundeswehr.org",
+      "Hauptadresse": "Wilhelm-Raabe-Straße 46",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-nordrhein-westfalen",
+      "Land": "DE",
+      "Längengrad": "6.815224",
+      "Organisation": "Landeskommando Nordrhein-Westfalen",
+      "OrganisationDisplay": "LKdo NW",
+      "OrganisationId": 12071936,
+      "OrganisationKurz": "LKdo NW",
+      "Ort": "Düsseldorf",
+      "PLZ": 40470,
+      "Ressort": "BMVg",
+      "Telefax": "+49 211 959 103521",
+      "Telefon": "+49 211 959 3521"
+    }
+  ]
+}

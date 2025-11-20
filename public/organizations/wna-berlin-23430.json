@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.485905",
+  "Bundesland": "Berlin",
+  "E-Mail": "wna-berlin@wsv.bund.de",
+  "Hauptadresse": "Mehringdamm 129",
+  "Internetadresse": "https://www.wna-berlin.wsv.de/Webs/WNA/WNA-Berlin/DE/WNA-Berlin/WNA-Berlin_text.html",
+  "Land": "DE",
+  "Längengrad": "13.386272",
+  "Organisation": "Wasserstraßen-Neubauamt Berlin",
+  "OrganisationDisplay": "WNA Berlin",
+  "OrganisationId": 23430,
+  "OrganisationKurz": "WNA Berlin",
+  "Ort": "Berlin",
+  "PLZ": 10965,
+  "Ressort": "BMV",
+  "Telefon": "+49 30 695 80-0",
+  "locations": [
+    {
+      "Breitengrad": "52.485905",
+      "Bundesland": "Berlin",
+      "E-Mail": "wna-berlin@wsv.bund.de",
+      "Hauptadresse": "Mehringdamm 129",
+      "Internetadresse": "https://www.wna-berlin.wsv.de/Webs/WNA/WNA-Berlin/DE/WNA-Berlin/WNA-Berlin_text.html",
+      "Land": "DE",
+      "Längengrad": "13.386272",
+      "Organisation": "Wasserstraßen-Neubauamt Berlin",
+      "OrganisationDisplay": "WNA Berlin",
+      "OrganisationId": 23430,
+      "OrganisationKurz": "WNA Berlin",
+      "Ort": "Berlin",
+      "PLZ": 10965,
+      "Ressort": "BMV",
+      "Telefon": "+49 30 695 80-0"
+    }
+  ]
+}

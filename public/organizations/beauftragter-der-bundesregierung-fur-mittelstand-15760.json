@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5338154",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bmwe.bund.de",
+  "Hauptadresse": "Scharnhorststraße 34-37",
+  "Internetadresse": "https://www.bmwk.de/Navigation/DE/Ministerium/Koordinatoren-und-Beauftragte/koordinatoren-und-beauftragte.html",
+  "Land": "DE",
+  "Längengrad": "13.3709387",
+  "Organisation": "Beauftragter der Bundesregierung für Mittelstand",
+  "OrganisationDisplay": "B Mittelstand",
+  "OrganisationId": 15760,
+  "Ort": "Berlin",
+  "PLZ": 10115,
+  "Ressort": "BMWE",
+  "Telefax": "+49 30 18 615-5242",
+  "Telefon": "+49 3018 615-0",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5338154",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bmwe.bund.de",
+      "Hauptadresse": "Scharnhorststraße 34-37",
+      "Internetadresse": "https://www.bmwk.de/Navigation/DE/Ministerium/Koordinatoren-und-Beauftragte/koordinatoren-und-beauftragte.html",
+      "Land": "DE",
+      "Längengrad": "13.3709387",
+      "Organisation": "Beauftragter der Bundesregierung für Mittelstand",
+      "OrganisationDisplay": "B Mittelstand",
+      "OrganisationId": 15760,
+      "Ort": "Berlin",
+      "PLZ": 10115,
+      "Ressort": "BMWE",
+      "Telefax": "+49 30 18 615-5242",
+      "Telefon": "+49 3018 615-0",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

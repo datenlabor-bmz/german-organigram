@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.3689853",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "wsa-nord-ostsee-kanal@wsv.bund.de",
+  "Hauptadresse": "Schleuseninsel 2",
+  "Internetadresse": "https://www.wsa-nord-ostsee-kanal.wsv.de/Webs/WSA/WSA-Nord-Ostsee-Kanal/DE/4_Das_WSA_NOK/2_Geschaeftsbereich/010_FMN/FMN_node.html",
+  "Land": "DE",
+  "Längengrad": "10.1417155",
+  "Organisation": "Fachstelle Maschinenwesen Nord (beim WSA Nord-Ostsee-Kanal)",
+  "OrganisationDisplay": "FMN",
+  "OrganisationId": 23310,
+  "OrganisationKurz": "FMN",
+  "Ort": "Kiel",
+  "PLZ": 24159,
+  "Ressort": "BMV",
+  "Telefax": "+49 4331 594-448",
+  "Telefon": "+49 4331 594-0",
+  "locations": [
+    {
+      "Breitengrad": "54.3689853",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "wsa-nord-ostsee-kanal@wsv.bund.de",
+      "Hauptadresse": "Schleuseninsel 2",
+      "Internetadresse": "https://www.wsa-nord-ostsee-kanal.wsv.de/Webs/WSA/WSA-Nord-Ostsee-Kanal/DE/4_Das_WSA_NOK/2_Geschaeftsbereich/010_FMN/FMN_node.html",
+      "Land": "DE",
+      "Längengrad": "10.1417155",
+      "Organisation": "Fachstelle Maschinenwesen Nord (beim WSA Nord-Ostsee-Kanal)",
+      "OrganisationDisplay": "FMN",
+      "OrganisationId": 23310,
+      "OrganisationKurz": "FMN",
+      "Ort": "Kiel",
+      "PLZ": 24159,
+      "Ressort": "BMV",
+      "Telefax": "+49 4331 594-448",
+      "Telefon": "+49 4331 594-0"
+    }
+  ]
+}

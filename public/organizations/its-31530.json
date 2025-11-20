@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.378471",
+  "Bundesland": "Hessen",
+  "E-Mail": "email@its-arolsen.org",
+  "Hauptadresse": "Große Allee 5 - 9",
+  "Internetadresse": "https://www.arolsen-archives.org",
+  "Land": "DE",
+  "Längengrad": "9.019979",
+  "Organisation": "International Tracing Service",
+  "OrganisationDisplay": "ITS",
+  "OrganisationId": 31530,
+  "OrganisationKurz": "ITS",
+  "Ort": "Bad Arolsen",
+  "PLZ": 34454,
+  "Telefax": "+49 5691 629-501",
+  "Telefon": "+49 5691 629-0",
+  "locations": [
+    {
+      "Breitengrad": "51.378471",
+      "Bundesland": "Hessen",
+      "E-Mail": "email@its-arolsen.org",
+      "Hauptadresse": "Große Allee 5 - 9",
+      "Internetadresse": "https://www.arolsen-archives.org",
+      "Land": "DE",
+      "Längengrad": "9.019979",
+      "Organisation": "International Tracing Service",
+      "OrganisationDisplay": "ITS",
+      "OrganisationId": 31530,
+      "OrganisationKurz": "ITS",
+      "Ort": "Bad Arolsen",
+      "PLZ": 34454,
+      "Telefax": "+49 5691 629-501",
+      "Telefon": "+49 5691 629-0"
+    }
+  ]
+}

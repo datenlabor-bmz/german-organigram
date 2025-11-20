@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.1230154",
+  "Bundesland": "Hessen",
+  "E-Mail": "info@uv-bund-bahn.de",
+  "Hauptadresse": "Salvador-Allende-Straße 9",
+  "Internetadresse": "https://www.uv-bund-bahn.de/",
+  "Land": "DE",
+  "Längengrad": "8.6346825",
+  "Organisation": "Unfallversicherung Bund und Bahn",
+  "OrganisationDisplay": "UVB",
+  "OrganisationId": 6716640,
+  "OrganisationKurz": "UVB",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60487,
+  "Ressort": "BMAS",
+  "Telefon": "+49 69 47863-0",
+  "locations": [
+    {
+      "Breitengrad": "50.1230154",
+      "Bundesland": "Hessen",
+      "E-Mail": "info@uv-bund-bahn.de",
+      "Hauptadresse": "Salvador-Allende-Straße 9",
+      "Internetadresse": "https://www.uv-bund-bahn.de/",
+      "Land": "DE",
+      "Längengrad": "8.6346825",
+      "Organisation": "Unfallversicherung Bund und Bahn",
+      "OrganisationDisplay": "UVB",
+      "OrganisationId": 6716640,
+      "OrganisationKurz": "UVB",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60487,
+      "Ressort": "BMAS",
+      "Telefon": "+49 69 47863-0"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "Breitengrad": "52.408064",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "info@iap.fraunhofer.de",
+  "Hauptadresse": "Geiselbergstraße 69",
+  "Internetadresse": "https://www.iap.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "12.963749",
+  "Organisation": "Fraunhofer-Institut für Angewandte Polymerforschung",
+  "OrganisationDisplay": "IAP",
+  "OrganisationId": 444820,
+  "OrganisationKurz": "IAP",
+  "Ort": "Potsdam",
+  "PLZ": 14406,
+  "Telefax": "+49 331 568-3000",
+  "Telefon": "+49 331 568-10",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.408064",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "info@iap.fraunhofer.de",
+      "Hauptadresse": "Geiselbergstraße 69",
+      "Internetadresse": "https://www.iap.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "12.963749",
+      "Organisation": "Fraunhofer-Institut für Angewandte Polymerforschung",
+      "OrganisationDisplay": "IAP",
+      "OrganisationId": 444820,
+      "OrganisationKurz": "IAP",
+      "Ort": "Potsdam",
+      "PLZ": 14406,
+      "Telefax": "+49 331 568-3000",
+      "Telefon": "+49 331 568-10",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Volmerstraße 7 b",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.iap.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Aussenstelle Berlin-Adlersdorf",
+      "LiegenschaftsId": 444816,
+      "OrganisationId": 444820,
+      "Ort": "Berlin-Adlersdorf",
+      "PLZ": 12489
+    }
+  ]
+}

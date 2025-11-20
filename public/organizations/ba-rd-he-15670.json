@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.08159",
+  "Bundesland": "Hessen ",
+  "E-Mail": "hessen@arbeitsagentur.de",
+  "Hauptadresse": "Saonestraße 2 - 4",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/Hessen/index.htm",
+  "Land": "DE",
+  "Längengrad": "8.632848",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Hessen",
+  "OrganisationDisplay": "BA-RD-HE",
+  "OrganisationId": 15670,
+  "OrganisationKurz": "BA-RD-HE",
+  "Ort": "Frankfurt am Main",
+  "PLZ": 60528,
+  "Ressort": "BMAS",
+  "Telefax": "+49 69 6670-459",
+  "Telefon": "+49 69 6670-0",
+  "locations": [
+    {
+      "Breitengrad": "50.08159",
+      "Bundesland": "Hessen ",
+      "E-Mail": "hessen@arbeitsagentur.de",
+      "Hauptadresse": "Saonestraße 2 - 4",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/Hessen/index.htm",
+      "Land": "DE",
+      "Längengrad": "8.632848",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Hessen",
+      "OrganisationDisplay": "BA-RD-HE",
+      "OrganisationId": 15670,
+      "OrganisationKurz": "BA-RD-HE",
+      "Ort": "Frankfurt am Main",
+      "PLZ": 60528,
+      "Ressort": "BMAS",
+      "Telefax": "+49 69 6670-459",
+      "Telefon": "+49 69 6670-0"
+    }
+  ]
+}

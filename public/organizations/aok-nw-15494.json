@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "51.5027525",
+  "Bundesland": "Nordrhein-Westfalen",
+  "Hauptadresse": "Kopenhagener Straße 1",
+  "Internetadresse": "https://www.aok.de/pk/nordwest/",
+  "Land": "DE",
+  "Längengrad": "7.5246951",
+  "Organisation": "Allgemeine Ortskrankenkasse Nordwest",
+  "OrganisationDisplay": "AOK NW",
+  "OrganisationId": 15494,
+  "OrganisationKurz": "AOK NW",
+  "Ort": "Dortmund",
+  "PLZ": 44269,
+  "Ressort": "BMG",
+  "Telefax": "+49 800 265 2265",
+  "Telefon": "+49 800 265 5000",
+  "locations": [
+    {
+      "Breitengrad": "51.5027525",
+      "Bundesland": "Nordrhein-Westfalen",
+      "Hauptadresse": "Kopenhagener Straße 1",
+      "Internetadresse": "https://www.aok.de/pk/nordwest/",
+      "Land": "DE",
+      "Längengrad": "7.5246951",
+      "Organisation": "Allgemeine Ortskrankenkasse Nordwest",
+      "OrganisationDisplay": "AOK NW",
+      "OrganisationId": 15494,
+      "OrganisationKurz": "AOK NW",
+      "Ort": "Dortmund",
+      "PLZ": 44269,
+      "Ressort": "BMG",
+      "Telefax": "+49 800 265 2265",
+      "Telefon": "+49 800 265 5000"
+    }
+  ]
+}

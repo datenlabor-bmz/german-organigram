@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.0773617",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "pressestellelkdost@bundeswehr.org",
+  "Hauptadresse": "Am Buckauer Tor 2",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-sachsen-anhalt",
+  "Land": "DE",
+  "Längengrad": "11.6479797",
+  "Organisation": "Landeskommando Sachsen-Anhalt",
+  "OrganisationDisplay": "LKdo ST",
+  "OrganisationId": 12072034,
+  "OrganisationKurz": "LKdo ST",
+  "Ort": "Magdeburg",
+  "PLZ": 39104,
+  "Ressort": "BMVg",
+  "Telefax": "+49 391 662462 389",
+  "Telefon": "+49 391 662462 380",
+  "locations": [
+    {
+      "Breitengrad": "52.0773617",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "pressestellelkdost@bundeswehr.org",
+      "Hauptadresse": "Am Buckauer Tor 2",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/territoriales-fuehrungskommando-der-bundeswehr/organisation/landeskommando-sachsen-anhalt",
+      "Land": "DE",
+      "Längengrad": "11.6479797",
+      "Organisation": "Landeskommando Sachsen-Anhalt",
+      "OrganisationDisplay": "LKdo ST",
+      "OrganisationId": 12072034,
+      "OrganisationKurz": "LKdo ST",
+      "Ort": "Magdeburg",
+      "PLZ": 39104,
+      "Ressort": "BMVg",
+      "Telefax": "+49 391 662462 389",
+      "Telefon": "+49 391 662462 380"
+    }
+  ]
+}

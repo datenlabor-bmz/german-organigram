@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "51.45799",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "Sachsen-Anhalt-Thueringen@arbeitsagentur.de",
+  "Hauptadresse": "Frau-von-Selmnitz-Straße 6",
+  "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/SachsenAnhaltThueringen/index.htm",
+  "Land": "DE",
+  "Längengrad": "11.979646",
+  "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Sachsen-Anhalt Thüringen",
+  "OrganisationDisplay": "BA-RD-ST-TH",
+  "OrganisationId": 17060,
+  "OrganisationKurz": "BA-RD-ST-TH",
+  "Ort": "Halle",
+  "PLZ": 6110,
+  "Ressort": "BMAS",
+  "Telefax": "+49 345 1332-555",
+  "Telefon": "+49 345 1332-0",
+  "locations": [
+    {
+      "Breitengrad": "51.45799",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "Sachsen-Anhalt-Thueringen@arbeitsagentur.de",
+      "Hauptadresse": "Frau-von-Selmnitz-Straße 6",
+      "Internetadresse": "https://www3.arbeitsagentur.de/web/content/DE/service/Ueberuns/Regionaldirektionen/SachsenAnhaltThueringen/index.htm",
+      "Land": "DE",
+      "Längengrad": "11.979646",
+      "Organisation": "Bundesagentur für Arbeit - Regionaldirektion Sachsen-Anhalt Thüringen",
+      "OrganisationDisplay": "BA-RD-ST-TH",
+      "OrganisationId": 17060,
+      "OrganisationKurz": "BA-RD-ST-TH",
+      "Ort": "Halle",
+      "PLZ": 6110,
+      "Ressort": "BMAS",
+      "Telefax": "+49 345 1332-555",
+      "Telefon": "+49 345 1332-0"
+    }
+  ]
+}

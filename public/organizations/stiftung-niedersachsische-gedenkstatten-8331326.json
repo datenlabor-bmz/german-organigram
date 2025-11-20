@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.6252945",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@stiftung-ng.de",
+  "Hauptadresse": "Im Güldenen Winkel 8",
+  "Internetadresse": "https://www.stiftung-ng.de/",
+  "Land": "DE",
+  "Längengrad": "10.0993572",
+  "Organisation": "Stiftung niedersächsische Gedenkstätten",
+  "OrganisationDisplay": "Niedersächsische GS",
+  "OrganisationId": 8331326,
+  "Ort": "Celle",
+  "PLZ": 29223,
+  "Telefax": "+49 5141 93355-33",
+  "Telefon": "+49 5141 933550",
+  "locations": [
+    {
+      "Breitengrad": "52.6252945",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@stiftung-ng.de",
+      "Hauptadresse": "Im Güldenen Winkel 8",
+      "Internetadresse": "https://www.stiftung-ng.de/",
+      "Land": "DE",
+      "Längengrad": "10.0993572",
+      "Organisation": "Stiftung niedersächsische Gedenkstätten",
+      "OrganisationDisplay": "Niedersächsische GS",
+      "OrganisationId": 8331326,
+      "Ort": "Celle",
+      "PLZ": 29223,
+      "Telefax": "+49 5141 93355-33",
+      "Telefon": "+49 5141 933550"
+    }
+  ]
+}

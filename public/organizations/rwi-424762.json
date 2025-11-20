@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.4436644",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "rwi@rwi-essen.de",
+  "Hauptadresse": "Hohenzollernstraße 1-3",
+  "Internetadresse": "https://www.rwi-essen.de/",
+  "Land": "DE",
+  "Längengrad": "7.0080483",
+  "Organisation": "RWI - Leibniz-Institut für Wirtschaftsforschung",
+  "OrganisationDisplay": "RWI",
+  "OrganisationId": 424762,
+  "OrganisationKurz": "RWI",
+  "Ort": "Essen",
+  "PLZ": 45128,
+  "Telefax": "+49 201 8149-200",
+  "Telefon": "+49 201 8149-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.4436644",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "rwi@rwi-essen.de",
+      "Hauptadresse": "Hohenzollernstraße 1-3",
+      "Internetadresse": "https://www.rwi-essen.de/",
+      "Land": "DE",
+      "Längengrad": "7.0080483",
+      "Organisation": "RWI - Leibniz-Institut für Wirtschaftsforschung",
+      "OrganisationDisplay": "RWI",
+      "OrganisationId": 424762,
+      "OrganisationKurz": "RWI",
+      "Ort": "Essen",
+      "PLZ": 45128,
+      "Telefax": "+49 201 8149-200",
+      "Telefon": "+49 201 8149-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

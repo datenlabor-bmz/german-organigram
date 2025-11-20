@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "54.3413116",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "marine@bundeswehr.org",
+  "Hauptadresse": "Kopperpahler Allee 120",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine/organisation/schifffahrtmedizinisches-institut",
+  "Land": "DE",
+  "Längengrad": "10.0920392",
+  "Organisation": "Schifffahrtsmedizinisches Institut der Marine",
+  "OrganisationDisplay": "SchiffMedInstM",
+  "OrganisationId": 649510,
+  "OrganisationKurz": "SchiffMedInstM",
+  "Ort": "Kronshagen",
+  "PLZ": 24119,
+  "Ressort": "BMVg",
+  "Telefax": "+49 431 5409-1778",
+  "Telefon": "+49 431 5409-0",
+  "locations": [
+    {
+      "Breitengrad": "54.3413116",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "marine@bundeswehr.org",
+      "Hauptadresse": "Kopperpahler Allee 120",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/marine/organisation/schifffahrtmedizinisches-institut",
+      "Land": "DE",
+      "Längengrad": "10.0920392",
+      "Organisation": "Schifffahrtsmedizinisches Institut der Marine",
+      "OrganisationDisplay": "SchiffMedInstM",
+      "OrganisationId": 649510,
+      "OrganisationKurz": "SchiffMedInstM",
+      "Ort": "Kronshagen",
+      "PLZ": 24119,
+      "Ressort": "BMVg",
+      "Telefax": "+49 431 5409-1778",
+      "Telefon": "+49 431 5409-0"
+    }
+  ]
+}

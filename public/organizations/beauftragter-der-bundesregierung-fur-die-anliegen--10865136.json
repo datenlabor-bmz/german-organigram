@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5123639",
+  "Bundesland": "Berlin",
+  "E-Mail": "poststelle@bmjv.bund.de",
+  "Hauptadresse": "Anton-Wilhelm-Arno-Straße 37",
+  "Internetadresse": "https://www.bmj.de/DE/Themen/OpferschutzUndGewaltpraevention/Opferbeauftragter/Opferbeauftragter_node.html",
+  "Land": "DE",
+  "Längengrad": "13.3953014",
+  "Organisation": "Beauftragter der Bundesregierung für die Anliegen von Betroffenen von terroristischen und extremistischen Anschlägen im Inland",
+  "OrganisationDisplay": "Opferbeauftragter",
+  "OrganisationId": 10865136,
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMJV",
+  "Telefax": "+49 30 18 580-9525",
+  "Telefon": "+49 30 18 580-8050",
+  "Kategorie": "Beauftragter",
+  "locations": [
+    {
+      "Breitengrad": "52.5123639",
+      "Bundesland": "Berlin",
+      "E-Mail": "poststelle@bmjv.bund.de",
+      "Hauptadresse": "Anton-Wilhelm-Arno-Straße 37",
+      "Internetadresse": "https://www.bmj.de/DE/Themen/OpferschutzUndGewaltpraevention/Opferbeauftragter/Opferbeauftragter_node.html",
+      "Land": "DE",
+      "Längengrad": "13.3953014",
+      "Organisation": "Beauftragter der Bundesregierung für die Anliegen von Betroffenen von terroristischen und extremistischen Anschlägen im Inland",
+      "OrganisationDisplay": "Opferbeauftragter",
+      "OrganisationId": 10865136,
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMJV",
+      "Telefax": "+49 30 18 580-9525",
+      "Telefon": "+49 30 18 580-8050",
+      "Kategorie": "Beauftragter"
+    }
+  ]
+}

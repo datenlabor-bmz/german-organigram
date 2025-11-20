@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "48.0267399",
+  "Bundesland": "Baden-Württemberg",
+  "Hauptadresse": "Tullastraße 72",
+  "Internetadresse": "https://www.iaf.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.8466975",
+  "Organisation": "Fraunhofer-Institut für Angewandte Festkörperphysik",
+  "OrganisationDisplay": "IAF",
+  "OrganisationId": 444808,
+  "OrganisationKurz": "IAF",
+  "Ort": "Freiburg",
+  "PLZ": 79108,
+  "Telefax": "+49 761 5159-400",
+  "Telefon": "+49 761 5159-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.0267399",
+      "Bundesland": "Baden-Württemberg",
+      "Hauptadresse": "Tullastraße 72",
+      "Internetadresse": "https://www.iaf.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.8466975",
+      "Organisation": "Fraunhofer-Institut für Angewandte Festkörperphysik",
+      "OrganisationDisplay": "IAF",
+      "OrganisationId": 444808,
+      "OrganisationKurz": "IAF",
+      "Ort": "Freiburg",
+      "PLZ": 79108,
+      "Telefax": "+49 761 5159-400",
+      "Telefon": "+49 761 5159-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    }
+  ]
+}

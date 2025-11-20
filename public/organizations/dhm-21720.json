@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.517654",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@dhm.de",
+  "Hauptadresse": "Unter den Linden 2",
+  "Internetadresse": "https://www.dhm.de/",
+  "Land": "DE",
+  "Längengrad": "13.396876",
+  "Organisation": "Stiftung Deutsches Historisches Museum",
+  "OrganisationDisplay": "DHM",
+  "OrganisationId": 21720,
+  "OrganisationKurz": "DHM",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BKM",
+  "Telefax": "+49 30 20304-543",
+  "Telefon": "+49 30 20304-0",
+  "locations": [
+    {
+      "Breitengrad": "52.517654",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@dhm.de",
+      "Hauptadresse": "Unter den Linden 2",
+      "Internetadresse": "https://www.dhm.de/",
+      "Land": "DE",
+      "Längengrad": "13.396876",
+      "Organisation": "Stiftung Deutsches Historisches Museum",
+      "OrganisationDisplay": "DHM",
+      "OrganisationId": 21720,
+      "OrganisationKurz": "DHM",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BKM",
+      "Telefax": "+49 30 20304-543",
+      "Telefon": "+49 30 20304-0"
+    }
+  ]
+}

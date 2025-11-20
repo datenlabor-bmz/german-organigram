@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.2429606",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "kdocirpizcir@bundeswehr.org",
+  "Hauptadresse": "Beeskower Chaussee 15a",
+  "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl381/!ut/p/z1/hU67DoIwFP0WB9beKyiiWxd8xFdCjNDFFKgFUyipFfx8MU4mEs92njnAIAZW87aU3Ja65qrnCfMv_nyyXroR7oIgHCPd02N4OAUujj04_wuw3sYBUIQoF5D0G7PBjZUPETBgN97yJ2m0sUpYwrP3Q0gKXudKHHVGP8IGmFQ6_VyndeoFEpgRV2GEIQ_Ty4W1zX3hoINd1xGptVSCZLpy8Fel0HcL8XcSmiru0JuqdktHL8sgRs4!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820H6",
+  "Land": "DE",
+  "Längengrad": "13.9400019",
+  "Organisation": "Informationstechnikbataillon 381",
+  "OrganisationDisplay": "ITBtl 381",
+  "OrganisationId": 11937370,
+  "OrganisationKurz": "ITBtl 381",
+  "Ort": "Storkow (Mark)",
+  "PLZ": 15859,
+  "Ressort": "BMVg",
+  "Telefon": "+49 33678 66-0",
+  "locations": [
+    {
+      "Breitengrad": "52.2429606",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "kdocirpizcir@bundeswehr.org",
+      "Hauptadresse": "Beeskower Chaussee 15a",
+      "Internetadresse": "https://cir.bundeswehr.de/portal/a/cir/start/dienststellen/kdoitbw/itbtl381/!ut/p/z1/hU67DoIwFP0WB9beKyiiWxd8xFdCjNDFFKgFUyipFfx8MU4mEs92njnAIAZW87aU3Ja65qrnCfMv_nyyXroR7oIgHCPd02N4OAUujj04_wuw3sYBUIQoF5D0G7PBjZUPETBgN97yJ2m0sUpYwrP3Q0gKXudKHHVGP8IGmFQ6_VyndeoFEpgRV2GEIQ_Ty4W1zX3hoINd1xGptVSCZLpy8Fel0HcL8XcSmiru0JuqdktHL8sgRs4!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#Z7_694IG2S0M88F10ANAPFOU820H6",
+      "Land": "DE",
+      "Längengrad": "13.9400019",
+      "Organisation": "Informationstechnikbataillon 381",
+      "OrganisationDisplay": "ITBtl 381",
+      "OrganisationId": 11937370,
+      "OrganisationKurz": "ITBtl 381",
+      "Ort": "Storkow (Mark)",
+      "PLZ": 15859,
+      "Ressort": "BMVg",
+      "Telefon": "+49 33678 66-0"
+    }
+  ]
+}

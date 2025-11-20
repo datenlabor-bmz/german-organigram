@@ -1,0 +1,829 @@
+{
+  "Breitengrad": "51.975006",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "bwz.qzd@bwz.bund.de",
+  "Hauptadresse": "Gescherweg 100",
+  "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+  "Land": "DE",
+  "Längengrad": "7.574504",
+  "Organisation": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+  "OrganisationDisplay": "BWZ",
+  "OrganisationId": 27684,
+  "OrganisationKurz": "BWZ",
+  "Ort": "Münster",
+  "PLZ": 48161,
+  "Ressort": "BMF",
+  "Telefax": "+49 228 303-98383",
+  "Telefon": "+49 228 303-95400",
+  "Kategorie": "Bundesmittelbehörde",
+  "Wikidata ID": "Q861333",
+  "locations": [
+    {
+      "Breitengrad": "51.975006",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "bwz.qzd@bwz.bund.de",
+      "Hauptadresse": "Gescherweg 100",
+      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+      "Land": "DE",
+      "Längengrad": "7.574504",
+      "Organisation": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+      "OrganisationDisplay": "BWZ",
+      "OrganisationId": 27684,
+      "OrganisationKurz": "BWZ",
+      "Ort": "Münster",
+      "PLZ": 48161,
+      "Ressort": "BMF",
+      "Telefax": "+49 228 303-98383",
+      "Telefon": "+49 228 303-95400",
+      "Kategorie": "Bundesmittelbehörde",
+      "Wikidata ID": "Q861333"
+    },
+    {
+      "Adresse": "Bahnhofstraße 86",
+      "Bundesland": "Sachsen",
+      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+      "Land": "DE",
+      "Liegenschaft": "Dienstort Leipzig",
+      "LiegenschaftsId": 23904192,
+      "OrganisationId": 27684,
+      "Ort": "Leipzig",
+      "PLZ": 4158
+    },
+    {
+      "Adresse": "Plessower Hauptstraße 17",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "poststelle@bwz-pm.bund.de",
+      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+      "Land": "DE",
+      "Liegenschaft": "Dienstort Plessow",
+      "LiegenschaftsId": 27688,
+      "OrganisationId": 27684,
+      "Ort": "Plessow",
+      "PLZ": 14542,
+      "Telefax": "+49 3327 467-288, -299",
+      "Telefon": "+49 3327 467-0"
+    },
+    {
+      "Adresse": "Schmeier Straße 15",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle@bwz-sig.bund.de",
+      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+      "Land": "DE",
+      "Liegenschaft": "Dienstort Sigmaringen",
+      "LiegenschaftsId": 27686,
+      "OrganisationId": 27684,
+      "Ort": "Sigmaringen",
+      "PLZ": 72488,
+      "Telefax": "+49 7571 736-200",
+      "Telefon": "+49 7571 736-0"
+    },
+    {
+      "Adresse": "Werner-Seelenbinder-Straße 14",
+      "Bundesland": "Thüringen",
+      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+      "Land": "DE",
+      "Liegenschaft": "Dienstort Erfurt",
+      "LiegenschaftsId": 23904190,
+      "OrganisationId": 27684,
+      "Ort": "Erfurt",
+      "PLZ": 99096
+    },
+    {
+      "Adresse": "Pressentinstraße 83",
+      "Bundesland": "Mecklenburg-Vorpommern",
+      "E-Mail": "poststelle@bwz-hro.bund.de",
+      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
+      "Land": "DE",
+      "Liegenschaft": "Dienstort Rostock",
+      "LiegenschaftsId": 407420,
+      "OrganisationId": 27684,
+      "Ort": "Rostock",
+      "PLZ": 18147,
+      "Telefax": "+49 381 6596-379",
+      "Telefon": "+49 381 6596-459"
+    }
+  ],
+  "wikidata": {
+    "qid": "Q861333",
+    "data": {
+      "type": "item",
+      "id": "Q861333",
+      "labels": {
+        "de": {
+          "language": "de",
+          "value": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung"
+        },
+        "en": {
+          "language": "en",
+          "value": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung"
+        }
+      },
+      "descriptions": {
+        "de": {
+          "language": "de",
+          "value": "zentrale Aus- und Fortbildungsstätte der Bundesfinanzverwaltung"
+        },
+        "en": {
+          "language": "en",
+          "value": "central training and further education centre of the German Federal Finance Administration"
+        }
+      },
+      "claims": {
+        "P17": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P17",
+              "hash": "ef7247b704f4ec0a7df39e83306bb388fea17d5f",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 183,
+                  "id": "Q183"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q861333$055540E7-6234-402D-A86B-75D11FF67F5F",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0763feb4b0251e33411e13f72e0ffd7f6070baf2",
+                "snaks": {
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "7fc8f7a4fc336350629329d08e726b950d7d4707",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 22137024,
+                          "id": "Q22137024"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7d65022bdfdf7a8e0b67197baa9f33bc83e8641a",
+                      "datavalue": {
+                        "value": "http://www.zoll.de/DE/Der-Zoll/Beruf-und-Karriere/Ausbildung/Zollausbildung/Gehobener-Dienst/Ausbildungsstaetten/ausbildungsstaetten.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cd0b9354b45b24a535399e045a8393dfb7a6a15",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3865",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P856": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P856",
+              "hash": "f0a767cb9c2c36cb6da64ff1e642357d7a99d5ef",
+              "datavalue": {
+                "value": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz.html",
+                "type": "string"
+              },
+              "datatype": "url"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P407": [
+                {
+                  "snaktype": "value",
+                  "property": "P407",
+                  "hash": "46bfd327b830f66f7061ea92d1be430c135fa91f",
+                  "datavalue": {
+                    "value": {
+                      "entity-type": "item",
+                      "numeric-id": 188,
+                      "id": "Q188"
+                    },
+                    "type": "wikibase-entityid"
+                  },
+                  "datatype": "wikibase-item"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P407"
+            ],
+            "id": "Q861333$0A12FE7E-17EC-4BB5-B810-A29830C34E35",
+            "rank": "normal"
+          }
+        ],
+        "P18": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P18",
+              "hash": "1f03e2f7f0e9a5f9229303d8ccfe743ef30f5dd1",
+              "datavalue": {
+                "value": "Bwz münster wohnbereich.JPG",
+                "type": "string"
+              },
+              "datatype": "commonsMedia"
+            },
+            "type": "statement",
+            "id": "Q861333$b07fbbf1-4449-10a9-e8ec-c98c1a703251",
+            "rank": "normal"
+          }
+        ],
+        "P2671": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P2671",
+              "hash": "4593f94492598f4c5292c162653358d02e7abd8d",
+              "datavalue": {
+                "value": "/g/121bj_bp",
+                "type": "string"
+              },
+              "datatype": "external-id"
+            },
+            "type": "statement",
+            "id": "Q861333$C7667CE0-429E-4ABA-A8B1-BDA4E6F26F64",
+            "rank": "normal"
+          }
+        ],
+        "P373": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P373",
+              "hash": "d3238d615803023e29481a9483a626da82f43a31",
+              "datavalue": {
+                "value": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+                "type": "string"
+              },
+              "datatype": "string"
+            },
+            "type": "statement",
+            "id": "Q861333$114B8F18-3A34-48B1-8C38-9387CBFDD824",
+            "rank": "normal"
+          }
+        ],
+        "P1813": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1813",
+              "hash": "9ec318453104663027944f8fdea8e84d9adff1cd",
+              "datavalue": {
+                "value": {
+                  "text": "BWZ",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q861333$7FF93F08-0EF2-410B-8659-D9F04F43A3D2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "3915d4d4e31f083ac56f0617798ddb1da70f855e",
+                "snaks": {
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "f76d0c4139db5a9f43407c0c0eec9e0eb7993b36",
+                      "datavalue": {
+                        "value": "https://www.service.bund.de/Content/DE/DELeistungen/A/Abkuerzungsverzeichnis-des-Bundes-BMI-BVA.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "15a5da9acd7ebb61c61ded95cfba7255e42e573a",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2021-12-11T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P854",
+                  "P813"
+                ]
+              },
+              {
+                "hash": "0763feb4b0251e33411e13f72e0ffd7f6070baf2",
+                "snaks": {
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "7fc8f7a4fc336350629329d08e726b950d7d4707",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 22137024,
+                          "id": "Q22137024"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7d65022bdfdf7a8e0b67197baa9f33bc83e8641a",
+                      "datavalue": {
+                        "value": "http://www.zoll.de/DE/Der-Zoll/Beruf-und-Karriere/Ausbildung/Zollausbildung/Gehobener-Dienst/Ausbildungsstaetten/ausbildungsstaetten.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cd0b9354b45b24a535399e045a8393dfb7a6a15",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3865",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P31": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P31",
+              "hash": "0344abdcdc8ee17ad668cc1b7f883083cadd117a",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2385804,
+                  "id": "Q2385804"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q861333$87460c93-48b5-e2ec-5335-3be556733317",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0763feb4b0251e33411e13f72e0ffd7f6070baf2",
+                "snaks": {
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "7fc8f7a4fc336350629329d08e726b950d7d4707",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 22137024,
+                          "id": "Q22137024"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7d65022bdfdf7a8e0b67197baa9f33bc83e8641a",
+                      "datavalue": {
+                        "value": "http://www.zoll.de/DE/Der-Zoll/Beruf-und-Karriere/Ausbildung/Zollausbildung/Gehobener-Dienst/Ausbildungsstaetten/ausbildungsstaetten.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cd0b9354b45b24a535399e045a8393dfb7a6a15",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3865",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P131": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P131",
+              "hash": "ad21e7025de2c9ca8d36d6bf1065081369bcdf63",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 2742,
+                  "id": "Q2742"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "id": "Q861333$57df94fe-4afa-19b1-317e-cccda690a53b",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0763feb4b0251e33411e13f72e0ffd7f6070baf2",
+                "snaks": {
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "7fc8f7a4fc336350629329d08e726b950d7d4707",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 22137024,
+                          "id": "Q22137024"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7d65022bdfdf7a8e0b67197baa9f33bc83e8641a",
+                      "datavalue": {
+                        "value": "http://www.zoll.de/DE/Der-Zoll/Beruf-und-Karriere/Ausbildung/Zollausbildung/Gehobener-Dienst/Ausbildungsstaetten/ausbildungsstaetten.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cd0b9354b45b24a535399e045a8393dfb7a6a15",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3865",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P1448": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P1448",
+              "hash": "c587a18f457f8b80fa0c7f48208bc92e4e39dc94",
+              "datavalue": {
+                "value": {
+                  "text": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+                  "language": "de"
+                },
+                "type": "monolingualtext"
+              },
+              "datatype": "monolingualtext"
+            },
+            "type": "statement",
+            "id": "Q861333$2e333a33-4f1e-eb3a-e27f-1192c671bce2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0763feb4b0251e33411e13f72e0ffd7f6070baf2",
+                "snaks": {
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "7fc8f7a4fc336350629329d08e726b950d7d4707",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 22137024,
+                          "id": "Q22137024"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7d65022bdfdf7a8e0b67197baa9f33bc83e8641a",
+                      "datavalue": {
+                        "value": "http://www.zoll.de/DE/Der-Zoll/Beruf-und-Karriere/Ausbildung/Zollausbildung/Gehobener-Dienst/Ausbildungsstaetten/ausbildungsstaetten.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cd0b9354b45b24a535399e045a8393dfb7a6a15",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3865",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ],
+        "P361": [
+          {
+            "mainsnak": {
+              "snaktype": "value",
+              "property": "P361",
+              "hash": "7c6071b0aa9d187fc5de335ad87198ea38903130",
+              "datavalue": {
+                "value": {
+                  "entity-type": "item",
+                  "numeric-id": 18287062,
+                  "id": "Q18287062"
+                },
+                "type": "wikibase-entityid"
+              },
+              "datatype": "wikibase-item"
+            },
+            "type": "statement",
+            "qualifiers": {
+              "P580": [
+                {
+                  "snaktype": "value",
+                  "property": "P580",
+                  "hash": "479dea0ac22f3d69f900dc0bfeb501c69b27e8fa",
+                  "datavalue": {
+                    "value": {
+                      "time": "+2016-01-01T00:00:00Z",
+                      "timezone": 0,
+                      "before": 0,
+                      "after": 0,
+                      "precision": 11,
+                      "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                    },
+                    "type": "time"
+                  },
+                  "datatype": "time"
+                }
+              ]
+            },
+            "qualifiers-order": [
+              "P580"
+            ],
+            "id": "Q861333$317369f4-401f-6cbb-b064-078bc0ce96f2",
+            "rank": "normal",
+            "references": [
+              {
+                "hash": "0763feb4b0251e33411e13f72e0ffd7f6070baf2",
+                "snaks": {
+                  "P3865": [
+                    {
+                      "snaktype": "value",
+                      "property": "P3865",
+                      "hash": "7fc8f7a4fc336350629329d08e726b950d7d4707",
+                      "datavalue": {
+                        "value": {
+                          "entity-type": "item",
+                          "numeric-id": 22137024,
+                          "id": "Q22137024"
+                        },
+                        "type": "wikibase-entityid"
+                      },
+                      "datatype": "wikibase-item"
+                    }
+                  ],
+                  "P854": [
+                    {
+                      "snaktype": "value",
+                      "property": "P854",
+                      "hash": "7d65022bdfdf7a8e0b67197baa9f33bc83e8641a",
+                      "datavalue": {
+                        "value": "http://www.zoll.de/DE/Der-Zoll/Beruf-und-Karriere/Ausbildung/Zollausbildung/Gehobener-Dienst/Ausbildungsstaetten/ausbildungsstaetten.html",
+                        "type": "string"
+                      },
+                      "datatype": "url"
+                    }
+                  ],
+                  "P813": [
+                    {
+                      "snaktype": "value",
+                      "property": "P813",
+                      "hash": "6cd0b9354b45b24a535399e045a8393dfb7a6a15",
+                      "datavalue": {
+                        "value": {
+                          "time": "+2022-11-12T00:00:00Z",
+                          "timezone": 0,
+                          "before": 0,
+                          "after": 0,
+                          "precision": 11,
+                          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                        },
+                        "type": "time"
+                      },
+                      "datatype": "time"
+                    }
+                  ]
+                },
+                "snaks-order": [
+                  "P3865",
+                  "P854",
+                  "P813"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "sitelinks": {
+        "commonswiki": {
+          "site": "commonswiki",
+          "title": "Category:Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+          "badges": []
+        },
+        "cswiki": {
+          "site": "cswiki",
+          "title": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+          "badges": []
+        },
+        "dewiki": {
+          "site": "dewiki",
+          "title": "Bildungs- und Wissenschaftszentrum der Bundesfinanzverwaltung",
+          "badges": []
+        }
+      }
+    },
+    "referenced_entities": {
+      "Q18287062": {
+        "type": "item",
+        "id": "Q18287062",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Generalzolldirektion"
+          },
+          "en": {
+            "language": "en",
+            "value": "Generalzolldirektion"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums der Finanzen"
+          }
+        }
+      },
+      "Q2385804": {
+        "type": "item",
+        "id": "Q2385804",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "educational institution"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bildungseinrichtung"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "institution that provides education"
+          },
+          "de": {
+            "language": "de",
+            "value": "Einrichtung mit Bildungsauftrag"
+          }
+        }
+      }
+    }
+  }
+}

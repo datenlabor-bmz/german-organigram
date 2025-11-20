@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.1566209",
+  "Bundesland": "Bayern",
+  "E-Mail": "ifz@ifz-muenchen.de",
+  "Hauptadresse": "Leonrodstraße 46 b",
+  "Internetadresse": "https://www.ifz-muenchen.de",
+  "Land": "DE",
+  "Längengrad": "11.5423704",
+  "Organisation": "Institut für Zeitgeschichte München - Berlin",
+  "OrganisationDisplay": "IfZ",
+  "OrganisationId": 322676,
+  "OrganisationKurz": "IfZ",
+  "Ort": "München",
+  "PLZ": 80636,
+  "Telefax": "+49 89 12688-191",
+  "Telefon": "+49 89 12688-0",
+  "locations": [
+    {
+      "Breitengrad": "48.1566209",
+      "Bundesland": "Bayern",
+      "E-Mail": "ifz@ifz-muenchen.de",
+      "Hauptadresse": "Leonrodstraße 46 b",
+      "Internetadresse": "https://www.ifz-muenchen.de",
+      "Land": "DE",
+      "Längengrad": "11.5423704",
+      "Organisation": "Institut für Zeitgeschichte München - Berlin",
+      "OrganisationDisplay": "IfZ",
+      "OrganisationId": 322676,
+      "OrganisationKurz": "IfZ",
+      "Ort": "München",
+      "PLZ": 80636,
+      "Telefax": "+49 89 12688-191",
+      "Telefon": "+49 89 12688-0"
+    }
+  ]
+}

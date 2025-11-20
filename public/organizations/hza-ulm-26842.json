@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "48.3938149",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "poststelle.hza-ulm@zoll.bund.de",
+  "Hauptadresse": "Magirusstraße 39 / 2",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "48.3938149",
+  "Organisation": "Hauptzollamt Ulm",
+  "OrganisationDisplay": "HZA Ulm",
+  "OrganisationId": 26842,
+  "OrganisationKurz": "HZA Ulm",
+  "Ort": "Ulm",
+  "PLZ": 89077,
+  "Ressort": "BMF",
+  "Telefax": "+49 731 9648-299",
+  "Telefon": "+49 731 9648-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "48.3938149",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "poststelle.hza-ulm@zoll.bund.de",
+      "Hauptadresse": "Magirusstraße 39 / 2",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "48.3938149",
+      "Organisation": "Hauptzollamt Ulm",
+      "OrganisationDisplay": "HZA Ulm",
+      "OrganisationId": 26842,
+      "OrganisationKurz": "HZA Ulm",
+      "Ort": "Ulm",
+      "PLZ": 89077,
+      "Ressort": "BMF",
+      "Telefax": "+49 731 9648-299",
+      "Telefon": "+49 731 9648-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "Breitengrad": "52.3795872",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "arl@arl-net.de",
+  "Hauptadresse": "Vahrenwalder Straße 247",
+  "Internetadresse": "https://www.arl-net.de",
+  "Land": "DE",
+  "Längengrad": "9.7543516",
+  "Organisation": "Akademie für Raumentwicklung in der Leibniz-Gemeinschaft",
+  "OrganisationDisplay": "ARL",
+  "OrganisationId": 299488,
+  "OrganisationKurz": "ARL",
+  "Ort": "Hannover",
+  "PLZ": 30179,
+  "Ressort": "BMUKN",
+  "Telefax": "+49 511 34842-41",
+  "Telefon": "+49 511 34842-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.3795872",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "arl@arl-net.de",
+      "Hauptadresse": "Vahrenwalder Straße 247",
+      "Internetadresse": "https://www.arl-net.de",
+      "Land": "DE",
+      "Längengrad": "9.7543516",
+      "Organisation": "Akademie für Raumentwicklung in der Leibniz-Gemeinschaft",
+      "OrganisationDisplay": "ARL",
+      "OrganisationId": 299488,
+      "OrganisationKurz": "ARL",
+      "Ort": "Hannover",
+      "PLZ": 30179,
+      "Ressort": "BMUKN",
+      "Telefax": "+49 511 34842-41",
+      "Telefon": "+49 511 34842-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

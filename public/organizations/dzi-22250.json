@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.46502",
+  "Bundesland": "Berlin",
+  "E-Mail": "sozialinfo@dzi.de",
+  "Hauptadresse": "Bernadottestraße 94",
+  "Internetadresse": "https://www.dzi.de/",
+  "Land": "DE",
+  "Längengrad": "13.292996",
+  "Organisation": "Deutsches Zentralinstitut für soziale Fragen",
+  "OrganisationDisplay": "DZI",
+  "OrganisationId": 22250,
+  "OrganisationKurz": "DZI",
+  "Ort": "Berlin",
+  "PLZ": 14195,
+  "Telefax": "+49 30 839001-85",
+  "Telefon": "+49 30 839001-0",
+  "locations": [
+    {
+      "Breitengrad": "52.46502",
+      "Bundesland": "Berlin",
+      "E-Mail": "sozialinfo@dzi.de",
+      "Hauptadresse": "Bernadottestraße 94",
+      "Internetadresse": "https://www.dzi.de/",
+      "Land": "DE",
+      "Längengrad": "13.292996",
+      "Organisation": "Deutsches Zentralinstitut für soziale Fragen",
+      "OrganisationDisplay": "DZI",
+      "OrganisationId": 22250,
+      "OrganisationKurz": "DZI",
+      "Ort": "Berlin",
+      "PLZ": 14195,
+      "Telefax": "+49 30 839001-85",
+      "Telefon": "+49 30 839001-0"
+    }
+  ]
+}

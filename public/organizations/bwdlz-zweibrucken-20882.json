@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.2414533",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "BwDLZZweibruecken@bundeswehr.org",
+  "Hauptadresse": "22-er-Straße 25",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-zweibruecken",
+  "Land": "DE",
+  "Längengrad": "7.3705126",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Zweibrücken",
+  "OrganisationDisplay": "BwDLZ Zweibrücken",
+  "OrganisationId": 20882,
+  "OrganisationKurz": "BwDLZ Zweibrücken",
+  "Ort": "Zweibrücken",
+  "PLZ": 66482,
+  "Ressort": "BMVg",
+  "Telefon": "+49 6332 5665-3",
+  "locations": [
+    {
+      "Breitengrad": "49.2414533",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "BwDLZZweibruecken@bundeswehr.org",
+      "Hauptadresse": "22-er-Straße 25",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-zweibruecken",
+      "Land": "DE",
+      "Längengrad": "7.3705126",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Zweibrücken",
+      "OrganisationDisplay": "BwDLZ Zweibrücken",
+      "OrganisationId": 20882,
+      "OrganisationKurz": "BwDLZ Zweibrücken",
+      "Ort": "Zweibrücken",
+      "PLZ": 66482,
+      "Ressort": "BMVg",
+      "Telefon": "+49 6332 5665-3"
+    }
+  ]
+}

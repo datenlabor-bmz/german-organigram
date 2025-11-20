@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.515574",
+  "Bundesland": "Berlin",
+  "E-Mail": "agj@agj.de",
+  "Hauptadresse": "Mühlendamm 3",
+  "Internetadresse": "https://www.agj.de",
+  "Land": "DE",
+  "Längengrad": "13.408105",
+  "Organisation": "Arbeitsgemeinschaft für Kinder- und Jugendhilfe e. V.",
+  "OrganisationDisplay": "AGJ",
+  "OrganisationId": 7543586,
+  "OrganisationKurz": "AGJ",
+  "Ort": "Berlin",
+  "PLZ": 10178,
+  "Telefax": "+49 30 400 40-232",
+  "Telefon": "+49 30 400 40-200",
+  "locations": [
+    {
+      "Breitengrad": "52.515574",
+      "Bundesland": "Berlin",
+      "E-Mail": "agj@agj.de",
+      "Hauptadresse": "Mühlendamm 3",
+      "Internetadresse": "https://www.agj.de",
+      "Land": "DE",
+      "Längengrad": "13.408105",
+      "Organisation": "Arbeitsgemeinschaft für Kinder- und Jugendhilfe e. V.",
+      "OrganisationDisplay": "AGJ",
+      "OrganisationId": 7543586,
+      "OrganisationKurz": "AGJ",
+      "Ort": "Berlin",
+      "PLZ": 10178,
+      "Telefax": "+49 30 400 40-232",
+      "Telefon": "+49 30 400 40-200"
+    }
+  ]
+}

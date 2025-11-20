@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "51.4902201",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@ifado.de",
+  "Hauptadresse": "Ardeystraße 67",
+  "Internetadresse": "https://www.ifado.de",
+  "Land": "DE",
+  "Längengrad": "7.4582948",
+  "Organisation": "Leibniz-Institut für Arbeitsforschung an der TU Dortmund",
+  "OrganisationDisplay": "IfaDo",
+  "OrganisationId": 7811958,
+  "OrganisationKurz": "IfaDo",
+  "Ort": "Dortmund",
+  "PLZ": 44139,
+  "Telefax": "+49 231 1084-308",
+  "Telefon": "+49 231 1084-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "51.4902201",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@ifado.de",
+      "Hauptadresse": "Ardeystraße 67",
+      "Internetadresse": "https://www.ifado.de",
+      "Land": "DE",
+      "Längengrad": "7.4582948",
+      "Organisation": "Leibniz-Institut für Arbeitsforschung an der TU Dortmund",
+      "OrganisationDisplay": "IfaDo",
+      "OrganisationId": 7811958,
+      "OrganisationKurz": "IfaDo",
+      "Ort": "Dortmund",
+      "PLZ": 44139,
+      "Telefax": "+49 231 1084-308",
+      "Telefon": "+49 231 1084-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

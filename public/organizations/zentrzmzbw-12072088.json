@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.6099723",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "ZentrZMZBwAbtFueDezPers@bundeswehr.org",
+  "Hauptadresse": "Am Rehhagen 10",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-territoriale-aufgaben-der-bundeswehr/multinational-cimic-command-nienburg",
+  "Land": "DE",
+  "Längengrad": "9.2557679",
+  "Organisation": "Zentrum Militärische Zusammenarbeit der Bundeswehr",
+  "OrganisationDisplay": "ZentrZMZBw",
+  "OrganisationId": 12072088,
+  "OrganisationKurz": "ZentrZMZBw",
+  "Ort": "Nienburg/Weser",
+  "PLZ": 31582,
+  "Ressort": "BMVg",
+  "Telefax": "+49 5021 800 3017",
+  "Telefon": "+49 5021 800 3010",
+  "locations": [
+    {
+      "Breitengrad": "52.6099723",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "ZentrZMZBwAbtFueDezPers@bundeswehr.org",
+      "Hauptadresse": "Am Rehhagen 10",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-territoriale-aufgaben-der-bundeswehr/multinational-cimic-command-nienburg",
+      "Land": "DE",
+      "Längengrad": "9.2557679",
+      "Organisation": "Zentrum Militärische Zusammenarbeit der Bundeswehr",
+      "OrganisationDisplay": "ZentrZMZBw",
+      "OrganisationId": 12072088,
+      "OrganisationKurz": "ZentrZMZBw",
+      "Ort": "Nienburg/Weser",
+      "PLZ": 31582,
+      "Ressort": "BMVg",
+      "Telefax": "+49 5021 800 3017",
+      "Telefon": "+49 5021 800 3010"
+    }
+  ]
+}

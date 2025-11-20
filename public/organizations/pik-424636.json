@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.380344",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "impressum@pik-potsdam.de",
+  "Hauptadresse": "Telegrafenberg A 31",
+  "Internetadresse": "https://www.pik-potsdam.de/de",
+  "Land": "DE",
+  "Längengrad": "13.063786",
+  "Organisation": "Potsdam-Institut für Klimafolgenforschung e. V.",
+  "OrganisationDisplay": "PIK",
+  "OrganisationId": 424636,
+  "OrganisationKurz": "PIK",
+  "Ort": "Potsdam",
+  "PLZ": 14473,
+  "Telefax": "+49 331 288-2600",
+  "Telefon": "+49 331 288-2500",
+  "locations": [
+    {
+      "Breitengrad": "52.380344",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "impressum@pik-potsdam.de",
+      "Hauptadresse": "Telegrafenberg A 31",
+      "Internetadresse": "https://www.pik-potsdam.de/de",
+      "Land": "DE",
+      "Längengrad": "13.063786",
+      "Organisation": "Potsdam-Institut für Klimafolgenforschung e. V.",
+      "OrganisationDisplay": "PIK",
+      "OrganisationId": 424636,
+      "OrganisationKurz": "PIK",
+      "Ort": "Potsdam",
+      "PLZ": 14473,
+      "Telefax": "+49 331 288-2600",
+      "Telefon": "+49 331 288-2500"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.286061",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "info@thuenen.de",
+  "Hauptadresse": "Bundesallee 50",
+  "Internetadresse": "https://www.thuenen.de",
+  "Land": "DE",
+  "Längengrad": "10.450363",
+  "Organisation": "Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei",
+  "OrganisationDisplay": "Thünen-Institut",
+  "OrganisationId": 25492,
+  "OrganisationKurz": "Thünen-Institut",
+  "Ort": "Braunschweig",
+  "PLZ": 38116,
+  "Ressort": "BMLEH",
+  "Telefax": "+49 531 596-1099",
+  "Telefon": "+49 531 596-0",
+  "locations": [
+    {
+      "Breitengrad": "52.286061",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "info@thuenen.de",
+      "Hauptadresse": "Bundesallee 50",
+      "Internetadresse": "https://www.thuenen.de",
+      "Land": "DE",
+      "Längengrad": "10.450363",
+      "Organisation": "Johann Heinrich von Thünen-Institut, Bundesforschungsinstitut für Ländliche Räume, Wald und Fischerei",
+      "OrganisationDisplay": "Thünen-Institut",
+      "OrganisationId": 25492,
+      "OrganisationKurz": "Thünen-Institut",
+      "Ort": "Braunschweig",
+      "PLZ": 38116,
+      "Ressort": "BMLEH",
+      "Telefax": "+49 531 596-1099",
+      "Telefon": "+49 531 596-0"
+    }
+  ]
+}

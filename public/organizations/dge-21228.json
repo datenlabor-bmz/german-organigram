@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.692626",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "webmaster@dge.de",
+  "Hauptadresse": "Godesberger Allee 136",
+  "Internetadresse": "https://www.dge.de",
+  "Land": "DE",
+  "Längengrad": "7.146732",
+  "Organisation": "Deutsche Gesellschaft für Ernährung e. V.",
+  "OrganisationDisplay": "DGE",
+  "OrganisationId": 21228,
+  "OrganisationKurz": "DGE",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 3776-800",
+  "Telefon": "+49 228 3776-600",
+  "locations": [
+    {
+      "Breitengrad": "50.692626",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "webmaster@dge.de",
+      "Hauptadresse": "Godesberger Allee 136",
+      "Internetadresse": "https://www.dge.de",
+      "Land": "DE",
+      "Längengrad": "7.146732",
+      "Organisation": "Deutsche Gesellschaft für Ernährung e. V.",
+      "OrganisationDisplay": "DGE",
+      "OrganisationId": 21228,
+      "OrganisationKurz": "DGE",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 3776-800",
+      "Telefon": "+49 228 3776-600"
+    }
+  ]
+}

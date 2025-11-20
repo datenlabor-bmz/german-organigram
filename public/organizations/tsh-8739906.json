@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.75852",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "tsh@Bundeswehr.org",
+  "Hauptadresse": "Trierer Straße 445",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/technische-schule-des-heeres",
+  "Land": "DE",
+  "Längengrad": "6.15179",
+  "Organisation": "Technische Schule des Heeres",
+  "OrganisationDisplay": "TSH",
+  "OrganisationId": 8739906,
+  "OrganisationKurz": "TSH",
+  "Ort": "Aachen",
+  "PLZ": 52060,
+  "Ressort": "BMVg",
+  "Telefax": "+49 241-561-52109",
+  "Telefon": "+49 241-561-52003",
+  "locations": [
+    {
+      "Breitengrad": "50.75852",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "tsh@Bundeswehr.org",
+      "Hauptadresse": "Trierer Straße 445",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/technische-schule-des-heeres",
+      "Land": "DE",
+      "Längengrad": "6.15179",
+      "Organisation": "Technische Schule des Heeres",
+      "OrganisationDisplay": "TSH",
+      "OrganisationId": 8739906,
+      "OrganisationKurz": "TSH",
+      "Ort": "Aachen",
+      "PLZ": 52060,
+      "Ressort": "BMVg",
+      "Telefax": "+49 241-561-52109",
+      "Telefon": "+49 241-561-52003"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.3766999",
+  "Bundesland": "Bayern",
+  "E-Mail": "gefsimzhs1@bundeswehr.org",
+  "Hauptadresse": "Rhön-Kaserne ",
+  "Internetadresse": "https://www.deutschesheer.de/portal/poc/heer?uri=ci%3Abw.heer.dienstst.ausbkdo.ausbeinrichtungen.gefechtsimz",
+  "Land": "DE",
+  "Längengrad": "9.8447332",
+  "Organisation": "Gefechtssimulationszentrum Heer",
+  "OrganisationDisplay": "GefSimZH",
+  "OrganisationId": 610412,
+  "OrganisationKurz": "GefSimZH",
+  "Ort": "Wildflecken",
+  "PLZ": 97772,
+  "Ressort": "BMVg",
+  "Telefax": "+49 9745 34-5019",
+  "Telefon": "+49 9745 34-5010",
+  "locations": [
+    {
+      "Breitengrad": "50.3766999",
+      "Bundesland": "Bayern",
+      "E-Mail": "gefsimzhs1@bundeswehr.org",
+      "Hauptadresse": "Rhön-Kaserne ",
+      "Internetadresse": "https://www.deutschesheer.de/portal/poc/heer?uri=ci%3Abw.heer.dienstst.ausbkdo.ausbeinrichtungen.gefechtsimz",
+      "Land": "DE",
+      "Längengrad": "9.8447332",
+      "Organisation": "Gefechtssimulationszentrum Heer",
+      "OrganisationDisplay": "GefSimZH",
+      "OrganisationId": 610412,
+      "OrganisationKurz": "GefSimZH",
+      "Ort": "Wildflecken",
+      "PLZ": 97772,
+      "Ressort": "BMVg",
+      "Telefax": "+49 9745 34-5019",
+      "Telefon": "+49 9745 34-5010"
+    }
+  ]
+}

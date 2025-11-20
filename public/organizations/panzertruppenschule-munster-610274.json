@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "52.9850649",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "pztrs@bundeswehr.org",
+  "Hauptadresse": "Am Park 331",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/panzertruppenschule",
+  "Land": "DE",
+  "Längengrad": "10.1166185",
+  "Organisation": "Panzertruppenschule Munster",
+  "OrganisationDisplay": "PzTrpSch",
+  "OrganisationId": 610274,
+  "Ort": "Munster",
+  "PLZ": 29633,
+  "Ressort": "BMVg",
+  "Telefon": "+49 5192 9826-4005",
+  "locations": [
+    {
+      "Breitengrad": "52.9850649",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "pztrs@bundeswehr.org",
+      "Hauptadresse": "Am Park 331",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/panzertruppenschule",
+      "Land": "DE",
+      "Längengrad": "10.1166185",
+      "Organisation": "Panzertruppenschule Munster",
+      "OrganisationDisplay": "PzTrpSch",
+      "OrganisationId": 610274,
+      "Ort": "Munster",
+      "PLZ": 29633,
+      "Ressort": "BMVg",
+      "Telefon": "+49 5192 9826-4005"
+    }
+  ]
+}

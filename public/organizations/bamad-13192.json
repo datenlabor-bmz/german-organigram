@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.897242",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "mad@bundeswehr.org",
+  "Hauptadresse": "Brühler Straße 300",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/mad-bundesamt-fuer-den-militaerischen-abschirmdienst",
+  "Land": "DE",
+  "Längengrad": "6.950999",
+  "Organisation": "Bundesamt für den Militärischen Abschirmdienst",
+  "OrganisationDisplay": "BAMAD",
+  "OrganisationId": 13192,
+  "OrganisationKurz": "BAMAD",
+  "Ort": "Köln",
+  "PLZ": 50968,
+  "Ressort": "BMVg",
+  "Telefax": "+49 221 9371-2407",
+  "Telefon": "+49 221 9371-2500",
+  "locations": [
+    {
+      "Breitengrad": "50.897242",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "mad@bundeswehr.org",
+      "Hauptadresse": "Brühler Straße 300",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/mad-bundesamt-fuer-den-militaerischen-abschirmdienst",
+      "Land": "DE",
+      "Längengrad": "6.950999",
+      "Organisation": "Bundesamt für den Militärischen Abschirmdienst",
+      "OrganisationDisplay": "BAMAD",
+      "OrganisationId": 13192,
+      "OrganisationKurz": "BAMAD",
+      "Ort": "Köln",
+      "PLZ": 50968,
+      "Ressort": "BMVg",
+      "Telefax": "+49 221 9371-2407",
+      "Telefon": "+49 221 9371-2500"
+    }
+  ]
+}

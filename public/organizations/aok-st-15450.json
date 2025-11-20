@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.143364",
+  "Bundesland": "Sachsen-Anhalt",
+  "E-Mail": "service@san.aok.de",
+  "Hauptadresse": "Lüneburger Straße 4",
+  "Internetadresse": "https://www.deine-gesundheitswelt.de/",
+  "Land": "DE",
+  "Längengrad": "11.640105",
+  "Organisation": "Allgemeine Ortskrankenkasse Sachsen-Anhalt",
+  "OrganisationDisplay": "AOK ST",
+  "OrganisationId": 15450,
+  "OrganisationKurz": "AOK ST",
+  "Ort": "Magdeburg",
+  "PLZ": 39106,
+  "Ressort": "BMG",
+  "Telefax": "+49 391 2878-47878",
+  "Telefon": "+49 800 2265726",
+  "locations": [
+    {
+      "Breitengrad": "52.143364",
+      "Bundesland": "Sachsen-Anhalt",
+      "E-Mail": "service@san.aok.de",
+      "Hauptadresse": "Lüneburger Straße 4",
+      "Internetadresse": "https://www.deine-gesundheitswelt.de/",
+      "Land": "DE",
+      "Längengrad": "11.640105",
+      "Organisation": "Allgemeine Ortskrankenkasse Sachsen-Anhalt",
+      "OrganisationDisplay": "AOK ST",
+      "OrganisationId": 15450,
+      "OrganisationKurz": "AOK ST",
+      "Ort": "Magdeburg",
+      "PLZ": 39106,
+      "Ressort": "BMG",
+      "Telefax": "+49 391 2878-47878",
+      "Telefon": "+49 800 2265726"
+    }
+  ]
+}

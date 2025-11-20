@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.72177",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@BzKJ.bund.de",
+  "Hauptadresse": "Rochusstraße 8 - 10",
+  "Internetadresse": "https://www.bzkj.de",
+  "Land": "DE",
+  "Längengrad": "7.05959",
+  "Organisation": "Bundeszentrale für Kinder- und Jugendmedienschutz",
+  "OrganisationDisplay": "BzKJ",
+  "OrganisationId": 20194,
+  "OrganisationKurz": "BzKJ",
+  "Ort": "Bonn",
+  "PLZ": 53123,
+  "Ressort": "BMBFSFJ",
+  "Telefax": "+49 228 379014",
+  "Telefon": "+49 228 99 962103-10",
+  "locations": [
+    {
+      "Breitengrad": "50.72177",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@BzKJ.bund.de",
+      "Hauptadresse": "Rochusstraße 8 - 10",
+      "Internetadresse": "https://www.bzkj.de",
+      "Land": "DE",
+      "Längengrad": "7.05959",
+      "Organisation": "Bundeszentrale für Kinder- und Jugendmedienschutz",
+      "OrganisationDisplay": "BzKJ",
+      "OrganisationId": 20194,
+      "OrganisationKurz": "BzKJ",
+      "Ort": "Bonn",
+      "PLZ": 53123,
+      "Ressort": "BMBFSFJ",
+      "Telefax": "+49 228 379014",
+      "Telefon": "+49 228 99 962103-10"
+    }
+  ]
+}

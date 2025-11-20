@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "52.5190522",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@pd-g.de",
+  "Hauptadresse": "Friedrichstr. 149",
+  "Internetadresse": "https://www.pd-g.de/home/",
+  "Land": "DE",
+  "Längengrad": "13.3880027",
+  "Organisation": "PD - Berater der öffentlichen Hand GmbH",
+  "OrganisationDisplay": "PD-GmbH",
+  "OrganisationId": 9119428,
+  "OrganisationKurz": "PD-GmbH",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMF",
+  "Telefax": "+49 30 25 76 79-199",
+  "Telefon": "+49 30 25 76 79-0",
+  "locations": [
+    {
+      "Breitengrad": "52.5190522",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@pd-g.de",
+      "Hauptadresse": "Friedrichstr. 149",
+      "Internetadresse": "https://www.pd-g.de/home/",
+      "Land": "DE",
+      "Längengrad": "13.3880027",
+      "Organisation": "PD - Berater der öffentlichen Hand GmbH",
+      "OrganisationDisplay": "PD-GmbH",
+      "OrganisationId": 9119428,
+      "OrganisationKurz": "PD-GmbH",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMF",
+      "Telefax": "+49 30 25 76 79-199",
+      "Telefon": "+49 30 25 76 79-0"
+    }
+  ]
+}

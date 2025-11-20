@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.211017",
+  "Bundesland": "Bayern",
+  "E-Mail": "Institutfuerradiobiologie@bundeswehr.org",
+  "Hauptadresse": "Neuherbergstraße 11",
+  "Land": "DE",
+  "Längengrad": "11.579992",
+  "Organisation": "Institut für Radiobiologie der Bundeswehr",
+  "OrganisationDisplay": "InstRadBio",
+  "OrganisationId": 23032,
+  "OrganisationKurz": "InstRadBio",
+  "Ort": "München",
+  "PLZ": 80937,
+  "Ressort": "BMVg",
+  "Telefax": "+49 89 99 26 92 2255",
+  "Telefon": "+49 89 99 26 92 2251 oder 2253",
+  "locations": [
+    {
+      "Breitengrad": "48.211017",
+      "Bundesland": "Bayern",
+      "E-Mail": "Institutfuerradiobiologie@bundeswehr.org",
+      "Hauptadresse": "Neuherbergstraße 11",
+      "Land": "DE",
+      "Längengrad": "11.579992",
+      "Organisation": "Institut für Radiobiologie der Bundeswehr",
+      "OrganisationDisplay": "InstRadBio",
+      "OrganisationId": 23032,
+      "OrganisationKurz": "InstRadBio",
+      "Ort": "München",
+      "PLZ": 80937,
+      "Ressort": "BMVg",
+      "Telefax": "+49 89 99 26 92 2255",
+      "Telefon": "+49 89 99 26 92 2251 oder 2253"
+    }
+  ]
+}

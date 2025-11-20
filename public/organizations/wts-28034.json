@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.36902",
+  "Bundesland": "Rheinland-Pfalz",
+  "E-Mail": "wts@bundeswehr.org",
+  "Hauptadresse": "Mayener Straße 85-87",
+  "Internetadresse": "https://www.baainbw.de/wts",
+  "Land": "DE",
+  "Längengrad": "7.58534",
+  "Organisation": "Wehrtechnische Studiensammlung",
+  "OrganisationDisplay": "WTS",
+  "OrganisationId": 28034,
+  "OrganisationKurz": "WTS",
+  "Ort": "Koblenz",
+  "PLZ": 56070,
+  "Ressort": "BMVg",
+  "Telefax": "+49 261 983692-1424",
+  "Telefon": "+49 261 983692-1422/1423",
+  "locations": [
+    {
+      "Breitengrad": "50.36902",
+      "Bundesland": "Rheinland-Pfalz",
+      "E-Mail": "wts@bundeswehr.org",
+      "Hauptadresse": "Mayener Straße 85-87",
+      "Internetadresse": "https://www.baainbw.de/wts",
+      "Land": "DE",
+      "Längengrad": "7.58534",
+      "Organisation": "Wehrtechnische Studiensammlung",
+      "OrganisationDisplay": "WTS",
+      "OrganisationId": 28034,
+      "OrganisationKurz": "WTS",
+      "Ort": "Koblenz",
+      "PLZ": 56070,
+      "Ressort": "BMVg",
+      "Telefax": "+49 261 983692-1424",
+      "Telefon": "+49 261 983692-1422/1423"
+    }
+  ]
+}

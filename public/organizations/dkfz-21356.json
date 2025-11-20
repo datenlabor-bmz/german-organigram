@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "49.414961",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "kontakt@dkfz.de",
+  "Hauptadresse": "Im Neuenheimer Feld 280",
+  "Internetadresse": "https://www.dkfz.de/de/index.html",
+  "Land": "DE",
+  "Längengrad": "8.672381",
+  "Organisation": "Deutsches Krebsforschungszentrum",
+  "OrganisationDisplay": "DKFZ",
+  "OrganisationId": 21356,
+  "OrganisationKurz": "DKFZ",
+  "Ort": "Heidelberg",
+  "PLZ": 69120,
+  "Telefax": "+49 6221 42-2995",
+  "Telefon": "+49 6221 42-0",
+  "locations": [
+    {
+      "Breitengrad": "49.414961",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "kontakt@dkfz.de",
+      "Hauptadresse": "Im Neuenheimer Feld 280",
+      "Internetadresse": "https://www.dkfz.de/de/index.html",
+      "Land": "DE",
+      "Längengrad": "8.672381",
+      "Organisation": "Deutsches Krebsforschungszentrum",
+      "OrganisationDisplay": "DKFZ",
+      "OrganisationId": 21356,
+      "OrganisationKurz": "DKFZ",
+      "Ort": "Heidelberg",
+      "PLZ": 69120,
+      "Telefax": "+49 6221 42-2995",
+      "Telefon": "+49 6221 42-0"
+    }
+  ]
+}

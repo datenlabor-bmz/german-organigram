@@ -1,0 +1,34 @@
+{
+  "Breitengrad": "50.91435",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "geschaeftsstelle@contergan.bund.de",
+  "Hauptadresse": "Erna-Scheffler-Straße 3",
+  "Internetadresse": "https://www.contergan-infoportal.de/",
+  "Land": "DE",
+  "Längengrad": "6.94376",
+  "Organisation": "Conterganstiftung",
+  "OrganisationDisplay": "Contergan-Stiftung",
+  "OrganisationId": 18108,
+  "Ort": "Köln",
+  "PLZ": 51103,
+  "Telefax": "+49 221 3673-3636",
+  "Telefon": "+49 221 3673-3673",
+  "locations": [
+    {
+      "Breitengrad": "50.91435",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "geschaeftsstelle@contergan.bund.de",
+      "Hauptadresse": "Erna-Scheffler-Straße 3",
+      "Internetadresse": "https://www.contergan-infoportal.de/",
+      "Land": "DE",
+      "Längengrad": "6.94376",
+      "Organisation": "Conterganstiftung",
+      "OrganisationDisplay": "Contergan-Stiftung",
+      "OrganisationId": 18108,
+      "Ort": "Köln",
+      "PLZ": 51103,
+      "Telefax": "+49 221 3673-3636",
+      "Telefon": "+49 221 3673-3673"
+    }
+  ]
+}

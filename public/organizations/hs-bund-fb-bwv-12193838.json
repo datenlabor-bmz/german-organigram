@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "49.4739858",
+  "Bundesland": "Baden-Württemberg",
+  "E-Mail": "HSBund-FBBWV@bundeswehr.org",
+  "Hauptadresse": "Seckenheimer Landstraße 10",
+  "Internetadresse": "https://www.hsbund.de/DE/01_Hochschule/25_Fachbereiche/04_Bundeswehrverwaltung/bundeswehrverwaltung-node.html",
+  "Land": "DE",
+  "Längengrad": "8.5448003",
+  "Organisation": "Hochschule des Bundes für öffentliche Verwaltung - Fachbereich Bundeswehrverwaltung",
+  "OrganisationDisplay": "HS Bund - FB BWV ",
+  "OrganisationId": 12193838,
+  "OrganisationKurz": "HS Bund - FB BWV ",
+  "Ort": "Mannheim",
+  "PLZ": 68163,
+  "Ressort": "BMVg",
+  "Telefax": "+49 621 4295 4222",
+  "Telefon": "+49 621 4295 4212",
+  "locations": [
+    {
+      "Breitengrad": "49.4739858",
+      "Bundesland": "Baden-Württemberg",
+      "E-Mail": "HSBund-FBBWV@bundeswehr.org",
+      "Hauptadresse": "Seckenheimer Landstraße 10",
+      "Internetadresse": "https://www.hsbund.de/DE/01_Hochschule/25_Fachbereiche/04_Bundeswehrverwaltung/bundeswehrverwaltung-node.html",
+      "Land": "DE",
+      "Längengrad": "8.5448003",
+      "Organisation": "Hochschule des Bundes für öffentliche Verwaltung - Fachbereich Bundeswehrverwaltung",
+      "OrganisationDisplay": "HS Bund - FB BWV ",
+      "OrganisationId": 12193838,
+      "OrganisationKurz": "HS Bund - FB BWV ",
+      "Ort": "Mannheim",
+      "PLZ": 68163,
+      "Ressort": "BMVg",
+      "Telefax": "+49 621 4295 4222",
+      "Telefon": "+49 621 4295 4212"
+    }
+  ]
+}

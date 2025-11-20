@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.657348",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "ZCSBwPressearbeit@bundeswehr.org",
+  "Hauptadresse": "Kommerner Straße 188",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/zentrum-fuer-cyber-sicherheit-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "6.7720033",
+  "Organisation": "Zentrum für Cyber-Sicherheit der Bundeswehr",
+  "OrganisationDisplay": "ZCSBw",
+  "OrganisationId": 23306,
+  "OrganisationKurz": "ZCSBw",
+  "Ort": "Euskirchen",
+  "PLZ": 53879,
+  "Ressort": "BMVg",
+  "Telefon": "+49 2251 50667-3002",
+  "locations": [
+    {
+      "Breitengrad": "50.657348",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "ZCSBwPressearbeit@bundeswehr.org",
+      "Hauptadresse": "Kommerner Straße 188",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/zentrum-fuer-cyber-sicherheit-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "6.7720033",
+      "Organisation": "Zentrum für Cyber-Sicherheit der Bundeswehr",
+      "OrganisationDisplay": "ZCSBw",
+      "OrganisationId": 23306,
+      "OrganisationKurz": "ZCSBw",
+      "Ort": "Euskirchen",
+      "PLZ": 53879,
+      "Ressort": "BMVg",
+      "Telefon": "+49 2251 50667-3002"
+    }
+  ]
+}

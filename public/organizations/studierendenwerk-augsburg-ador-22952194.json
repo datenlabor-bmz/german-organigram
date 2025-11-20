@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.326908",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@stw-a.de",
+  "Hauptadresse": "Bürgermeister-Ulrich-Straße 152",
+  "Internetadresse": "https://studierendenwerk-augsburg.de/kontakt/",
+  "Land": "DE",
+  "Längengrad": "10.89871",
+  "Organisation": "StudierendenWerk Augsburg A.d.ö.R.",
+  "OrganisationDisplay": "Studierendenwerk Augsburg",
+  "OrganisationId": 22952194,
+  "Ort": "Augsburg",
+  "PLZ": 86179,
+  "Ressort": "BMFTR",
+  "Telefax": "+49 821 99965 901",
+  "Telefon": "+49 821 99965 200",
+  "locations": [
+    {
+      "Breitengrad": "48.326908",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@stw-a.de",
+      "Hauptadresse": "Bürgermeister-Ulrich-Straße 152",
+      "Internetadresse": "https://studierendenwerk-augsburg.de/kontakt/",
+      "Land": "DE",
+      "Längengrad": "10.89871",
+      "Organisation": "StudierendenWerk Augsburg A.d.ö.R.",
+      "OrganisationDisplay": "Studierendenwerk Augsburg",
+      "OrganisationId": 22952194,
+      "Ort": "Augsburg",
+      "PLZ": 86179,
+      "Ressort": "BMFTR",
+      "Telefax": "+49 821 99965 901",
+      "Telefon": "+49 821 99965 200"
+    }
+  ]
+}

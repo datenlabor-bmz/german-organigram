@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5084511",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@zukunftsforum-familie.de",
+  "Hauptadresse": "Michaelkirchstraße 17/18",
+  "Internetadresse": "https://www.zukunftsforum-familie.de",
+  "Land": "DE",
+  "Längengrad": "13.4192103",
+  "Organisation": "Zukunftsforum Familie e. V.",
+  "OrganisationDisplay": "ZFF",
+  "OrganisationId": 14070,
+  "OrganisationKurz": "ZFF",
+  "Ort": "Berlin",
+  "PLZ": 10179,
+  "Telefax": "+49 30 259272-860",
+  "Telefon": "+49 30 259272-820",
+  "locations": [
+    {
+      "Breitengrad": "52.5084511",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@zukunftsforum-familie.de",
+      "Hauptadresse": "Michaelkirchstraße 17/18",
+      "Internetadresse": "https://www.zukunftsforum-familie.de",
+      "Land": "DE",
+      "Längengrad": "13.4192103",
+      "Organisation": "Zukunftsforum Familie e. V.",
+      "OrganisationDisplay": "ZFF",
+      "OrganisationId": 14070,
+      "OrganisationKurz": "ZFF",
+      "Ort": "Berlin",
+      "PLZ": 10179,
+      "Telefax": "+49 30 259272-860",
+      "Telefon": "+49 30 259272-820"
+    }
+  ]
+}

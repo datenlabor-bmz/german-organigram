@@ -1,0 +1,40 @@
+{
+  "Breitengrad": "52.403583",
+  "Bundesland": "Brandenburg",
+  "E-Mail": "info@aip.de",
+  "Hauptadresse": "An der Sternwarte 16",
+  "Internetadresse": "https://www.aip.de",
+  "Land": "DE",
+  "Längengrad": "13.1032205",
+  "Organisation": "Leibniz-Institut für Astrophysik Potsdam",
+  "OrganisationDisplay": "AIP",
+  "OrganisationId": 307810,
+  "OrganisationKurz": "AIP",
+  "Ort": "Potsdam",
+  "PLZ": 14482,
+  "Telefax": "+49 331 7499-200",
+  "Telefon": "+49 331 7499-0",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "52.403583",
+      "Bundesland": "Brandenburg",
+      "E-Mail": "info@aip.de",
+      "Hauptadresse": "An der Sternwarte 16",
+      "Internetadresse": "https://www.aip.de",
+      "Land": "DE",
+      "Längengrad": "13.1032205",
+      "Organisation": "Leibniz-Institut für Astrophysik Potsdam",
+      "OrganisationDisplay": "AIP",
+      "OrganisationId": 307810,
+      "OrganisationKurz": "AIP",
+      "Ort": "Potsdam",
+      "PLZ": 14482,
+      "Telefax": "+49 331 7499-200",
+      "Telefon": "+49 331 7499-0",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

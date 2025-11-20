@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.585352",
+  "Bundesland": "Hessen",
+  "E-Mail": "poststelle.hza-giessen@zoll.bund.de",
+  "Hauptadresse": "Grünberger Straße 100",
+  "Internetadresse": "https://www.zoll.de",
+  "Land": "DE",
+  "Längengrad": "8.693294",
+  "Organisation": "Hauptzollamt Gießen",
+  "OrganisationDisplay": "HZA Giessen",
+  "OrganisationId": 26270,
+  "OrganisationKurz": "HZA Giessen",
+  "Ort": "Gießen",
+  "PLZ": 35394,
+  "Ressort": "BMF",
+  "Telefon": "+49 641 4959-0",
+  "Kategorie": "Bundesunterbehörde",
+  "locations": [
+    {
+      "Breitengrad": "50.585352",
+      "Bundesland": "Hessen",
+      "E-Mail": "poststelle.hza-giessen@zoll.bund.de",
+      "Hauptadresse": "Grünberger Straße 100",
+      "Internetadresse": "https://www.zoll.de",
+      "Land": "DE",
+      "Längengrad": "8.693294",
+      "Organisation": "Hauptzollamt Gießen",
+      "OrganisationDisplay": "HZA Giessen",
+      "OrganisationId": 26270,
+      "OrganisationKurz": "HZA Giessen",
+      "Ort": "Gießen",
+      "PLZ": 35394,
+      "Ressort": "BMF",
+      "Telefon": "+49 641 4959-0",
+      "Kategorie": "Bundesunterbehörde"
+    }
+  ]
+}

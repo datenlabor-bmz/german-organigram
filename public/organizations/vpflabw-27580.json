@@ -1,0 +1,60 @@
+{
+  "Breitengrad": "53.12963",
+  "Bundesland": "Niedersachsen",
+  "E-Mail": "VpflABw@Bundeswehr.org",
+  "Hauptadresse": "Bremer Straße 71",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/verpflegungsamt-der-bundeswehr",
+  "Land": "DE",
+  "Längengrad": "8.22864",
+  "Organisation": "Verpflegungsamt der Bundeswehr",
+  "OrganisationDisplay": "VpflABw ",
+  "OrganisationId": 27580,
+  "OrganisationKurz": "VpflABw ",
+  "Ort": "Oldenburg",
+  "PLZ": 26135,
+  "Ressort": "BMVg",
+  "Telefax": "+49 441 929-3101",
+  "Telefon": "+49 441 929-3333",
+  "locations": [
+    {
+      "Breitengrad": "53.12963",
+      "Bundesland": "Niedersachsen",
+      "E-Mail": "VpflABw@Bundeswehr.org",
+      "Hauptadresse": "Bremer Straße 71",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/verpflegungsamt-der-bundeswehr",
+      "Land": "DE",
+      "Längengrad": "8.22864",
+      "Organisation": "Verpflegungsamt der Bundeswehr",
+      "OrganisationDisplay": "VpflABw ",
+      "OrganisationId": 27580,
+      "OrganisationKurz": "VpflABw ",
+      "Ort": "Oldenburg",
+      "PLZ": 26135,
+      "Ressort": "BMVg",
+      "Telefax": "+49 441 929-3101",
+      "Telefon": "+49 441 929-3333"
+    },
+    {
+      "Adresse": "Feldstr. 234",
+      "Bundesland": "Schleswig-Holstein",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/verpflegungsamt-der-bundeswehr",
+      "Land": "DE",
+      "Liegenschaft": "Außenstelle Kiel",
+      "LiegenschaftsId": 27578,
+      "OrganisationId": 27580,
+      "Ort": "Kiel",
+      "PLZ": 24106
+    },
+    {
+      "Adresse": "Kurt-Schumacher-Damm 41",
+      "Bundesland": "Berlin",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/verpflegungsamt-der-bundeswehr",
+      "Land": "DE",
+      "Liegenschaft": "Außenlager Berlin",
+      "LiegenschaftsId": 27586,
+      "OrganisationId": 27580,
+      "Ort": "Berlin",
+      "PLZ": 13405
+    }
+  ]
+}

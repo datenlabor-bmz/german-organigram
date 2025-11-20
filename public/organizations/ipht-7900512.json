@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.9089944",
+  "Bundesland": "Thüringen",
+  "E-Mail": "info@leibniz-ipht.de",
+  "Hauptadresse": "Albert-Einstein-Straße 9",
+  "Internetadresse": "https://www.ipht-jena.de",
+  "Land": "DE",
+  "Längengrad": "11.5665567",
+  "Organisation": "Leibniz-Institut für Photonische Technologien e. V.",
+  "OrganisationDisplay": "IPHT",
+  "OrganisationId": 7900512,
+  "OrganisationKurz": "IPHT",
+  "Ort": "Jena",
+  "PLZ": 7745,
+  "Telefon": "+49 3641 206 00",
+  "Kategorie": "Leibniz-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "50.9089944",
+      "Bundesland": "Thüringen",
+      "E-Mail": "info@leibniz-ipht.de",
+      "Hauptadresse": "Albert-Einstein-Straße 9",
+      "Internetadresse": "https://www.ipht-jena.de",
+      "Land": "DE",
+      "Längengrad": "11.5665567",
+      "Organisation": "Leibniz-Institut für Photonische Technologien e. V.",
+      "OrganisationDisplay": "IPHT",
+      "OrganisationId": 7900512,
+      "OrganisationKurz": "IPHT",
+      "Ort": "Jena",
+      "PLZ": 7745,
+      "Telefon": "+49 3641 206 00",
+      "Kategorie": "Leibniz-Institut",
+      "Versteckt": true
+    }
+  ]
+}

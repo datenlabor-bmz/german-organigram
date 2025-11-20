@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "50.707979",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "zentrale@bibb.de",
+  "Hauptadresse": "Friedrich-Ebert-Allee 114-116",
+  "Internetadresse": "https://www.bibb.de/",
+  "Land": "DE",
+  "Längengrad": "7.136511",
+  "Organisation": "Bundesinstitut für Berufsbildung",
+  "OrganisationDisplay": "BIBB",
+  "OrganisationId": 20170,
+  "OrganisationKurz": "BIBB",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Ressort": "BMFTR",
+  "Telefon": "+49 228 107-0",
+  "locations": [
+    {
+      "Breitengrad": "50.707979",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "zentrale@bibb.de",
+      "Hauptadresse": "Friedrich-Ebert-Allee 114-116",
+      "Internetadresse": "https://www.bibb.de/",
+      "Land": "DE",
+      "Längengrad": "7.136511",
+      "Organisation": "Bundesinstitut für Berufsbildung",
+      "OrganisationDisplay": "BIBB",
+      "OrganisationId": 20170,
+      "OrganisationKurz": "BIBB",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Ressort": "BMFTR",
+      "Telefon": "+49 228 107-0"
+    }
+  ]
+}

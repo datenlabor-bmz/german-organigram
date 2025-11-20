@@ -1,0 +1,48 @@
+{
+  "Breitengrad": "52.52313",
+  "Bundesland": "Berlin",
+  "E-Mail": "zentrale@bstbk.de",
+  "Hauptadresse": "Behrenstraße 42",
+  "Internetadresse": "https://www.bstbk.de",
+  "Land": "DE",
+  "Längengrad": "13.402183",
+  "Organisation": "Bundessteuerberaterkammer",
+  "OrganisationDisplay": "BStBK",
+  "OrganisationId": 18148,
+  "OrganisationKurz": "BStBK",
+  "Ort": "Berlin",
+  "PLZ": 10117,
+  "Ressort": "BMF",
+  "Telefax": "+49 30 240087-99",
+  "Telefon": "+49 30 240087-0",
+  "locations": [
+    {
+      "Breitengrad": "52.52313",
+      "Bundesland": "Berlin",
+      "E-Mail": "zentrale@bstbk.de",
+      "Hauptadresse": "Behrenstraße 42",
+      "Internetadresse": "https://www.bstbk.de",
+      "Land": "DE",
+      "Längengrad": "13.402183",
+      "Organisation": "Bundessteuerberaterkammer",
+      "OrganisationDisplay": "BStBK",
+      "OrganisationId": 18148,
+      "OrganisationKurz": "BStBK",
+      "Ort": "Berlin",
+      "PLZ": 10117,
+      "Ressort": "BMF",
+      "Telefax": "+49 30 240087-99",
+      "Telefon": "+49 30 240087-0"
+    },
+    {
+      "Adresse": "Rue des Deux Eglises 35",
+      "Internetadresse": "https://www.bstbk.de",
+      "Land": "BE",
+      "Liegenschaft": "EU - Verbindungsbüro",
+      "LiegenschaftsId": 801086,
+      "OrganisationId": 18148,
+      "Ort": "Brüssel",
+      "PLZ": -1000
+    }
+  ]
+}

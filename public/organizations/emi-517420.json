@@ -1,0 +1,63 @@
+{
+  "Breitengrad": "48.0009775",
+  "Bundesland": "Baden-Württemberg",
+  "Hauptadresse": "Eckerstraße 4",
+  "Internetadresse": "https://www.emi.fraunhofer.de",
+  "Land": "DE",
+  "Längengrad": "7.846247",
+  "Organisation": "Fraunhofer-Institut für Kurzzeitdynamik, Ernst-Mach-Institut",
+  "OrganisationDisplay": "EMI",
+  "OrganisationId": 517420,
+  "OrganisationKurz": "EMI",
+  "Ort": "Freiburg",
+  "PLZ": 79104,
+  "Telefax": "+49 761 2714-316",
+  "Telefon": "+49 761 2714-0",
+  "Kategorie": "Fraunhofer-Institut",
+  "Versteckt": true,
+  "locations": [
+    {
+      "Breitengrad": "48.0009775",
+      "Bundesland": "Baden-Württemberg",
+      "Hauptadresse": "Eckerstraße 4",
+      "Internetadresse": "https://www.emi.fraunhofer.de",
+      "Land": "DE",
+      "Längengrad": "7.846247",
+      "Organisation": "Fraunhofer-Institut für Kurzzeitdynamik, Ernst-Mach-Institut",
+      "OrganisationDisplay": "EMI",
+      "OrganisationId": 517420,
+      "OrganisationKurz": "EMI",
+      "Ort": "Freiburg",
+      "PLZ": 79104,
+      "Telefax": "+49 761 2714-316",
+      "Telefon": "+49 761 2714-0",
+      "Kategorie": "Fraunhofer-Institut",
+      "Versteckt": true
+    },
+    {
+      "Adresse": "Am Christianswuhr 2",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.emi.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Institutsteil Kandern",
+      "LiegenschaftsId": 8369446,
+      "OrganisationId": 517420,
+      "Ort": "Kandern",
+      "PLZ": 79400,
+      "Telefon": "+49 7626 9157-0"
+    },
+    {
+      "Adresse": "Am Klingelberg 1",
+      "Bundesland": "Baden-Württemberg",
+      "Internetadresse": "https://www.emi.fraunhofer.de",
+      "Land": "DE",
+      "Liegenschaft": "Institutsteil-Efringen-Kirchen",
+      "LiegenschaftsId": 517422,
+      "OrganisationId": 517420,
+      "Ort": "Efringen-Kirchen",
+      "PLZ": 79588,
+      "Telefax": "+49 7628 9050-77",
+      "Telefon": "+49 7628 9050-0"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "48.152753",
+  "Bundesland": "Bayern",
+  "E-Mail": "info@hss.de",
+  "Hauptadresse": "Lazarettstraße 33",
+  "Internetadresse": "https://www.hss.de/",
+  "Land": "DE",
+  "Längengrad": "11.547933",
+  "Organisation": "Hanns-Seidel-Stiftung e. V.",
+  "OrganisationDisplay": "HSS",
+  "OrganisationId": 20512,
+  "OrganisationKurz": "HSS",
+  "Ort": "München",
+  "PLZ": 80636,
+  "Telefax": "+49 89 1258-356",
+  "Telefon": "+49 89 1258-0",
+  "locations": [
+    {
+      "Breitengrad": "48.152753",
+      "Bundesland": "Bayern",
+      "E-Mail": "info@hss.de",
+      "Hauptadresse": "Lazarettstraße 33",
+      "Internetadresse": "https://www.hss.de/",
+      "Land": "DE",
+      "Längengrad": "11.547933",
+      "Organisation": "Hanns-Seidel-Stiftung e. V.",
+      "OrganisationDisplay": "HSS",
+      "OrganisationId": 20512,
+      "OrganisationKurz": "HSS",
+      "Ort": "München",
+      "PLZ": 80636,
+      "Telefax": "+49 89 1258-356",
+      "Telefon": "+49 89 1258-0"
+    }
+  ]
+}

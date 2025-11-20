@@ -1,0 +1,49 @@
+{
+  "Breitengrad": "50.703036",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "info@fes.de",
+  "Hauptadresse": "Godesberger Allee 149",
+  "Internetadresse": "https://www.fes.de/",
+  "Land": "DE",
+  "Längengrad": "7.135113",
+  "Organisation": "Friedrich-Ebert-Stiftung",
+  "OrganisationDisplay": "FES",
+  "OrganisationId": 25016,
+  "OrganisationKurz": "FES",
+  "Ort": "Bonn",
+  "PLZ": 53175,
+  "Telefax": "+49 228 883-432",
+  "Telefon": "+49 228 883-0",
+  "locations": [
+    {
+      "Breitengrad": "50.703036",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "info@fes.de",
+      "Hauptadresse": "Godesberger Allee 149",
+      "Internetadresse": "https://www.fes.de/",
+      "Land": "DE",
+      "Längengrad": "7.135113",
+      "Organisation": "Friedrich-Ebert-Stiftung",
+      "OrganisationDisplay": "FES",
+      "OrganisationId": 25016,
+      "OrganisationKurz": "FES",
+      "Ort": "Bonn",
+      "PLZ": 53175,
+      "Telefax": "+49 228 883-432",
+      "Telefon": "+49 228 883-0"
+    },
+    {
+      "Adresse": "Hiroshimastraße 17",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@fes.de",
+      "Internetadresse": "https://www.fes.de/",
+      "Land": "DE",
+      "Liegenschaft": "Berliner Haus",
+      "LiegenschaftsId": 25020,
+      "OrganisationId": 25016,
+      "Ort": "Berlin",
+      "PLZ": 10785,
+      "Telefon": "+49 30 26935- 6"
+    }
+  ]
+}

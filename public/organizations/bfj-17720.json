@@ -1,0 +1,38 @@
+{
+  "Breitengrad": "50.725205",
+  "Bundesland": "Nordrhein-Westfalen",
+  "E-Mail": "verwaltung@bfj.bund.de",
+  "Hauptadresse": "Adenauerallee 99 - 103",
+  "Internetadresse": "https://www.bundesjustizamt.de/",
+  "Land": "DE",
+  "Längengrad": "7.111979",
+  "Organisation": "Bundesamt für Justiz",
+  "OrganisationDisplay": "BfJ",
+  "OrganisationId": 17720,
+  "OrganisationKurz": "BfJ",
+  "Ort": "Bonn",
+  "PLZ": 53113,
+  "Ressort": "BMJV",
+  "Telefax": "+49 22899 410-5050",
+  "Telefon": "+49 22899 410-40",
+  "locations": [
+    {
+      "Breitengrad": "50.725205",
+      "Bundesland": "Nordrhein-Westfalen",
+      "E-Mail": "verwaltung@bfj.bund.de",
+      "Hauptadresse": "Adenauerallee 99 - 103",
+      "Internetadresse": "https://www.bundesjustizamt.de/",
+      "Land": "DE",
+      "Längengrad": "7.111979",
+      "Organisation": "Bundesamt für Justiz",
+      "OrganisationDisplay": "BfJ",
+      "OrganisationId": 17720,
+      "OrganisationKurz": "BfJ",
+      "Ort": "Bonn",
+      "PLZ": 53113,
+      "Ressort": "BMJV",
+      "Telefax": "+49 22899 410-5050",
+      "Telefon": "+49 22899 410-40"
+    }
+  ]
+}

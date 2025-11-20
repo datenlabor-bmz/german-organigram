@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "54.358016",
+  "Bundesland": "Schleswig-Holstein",
+  "E-Mail": "BwDLZKiel@bundeswehr.org",
+  "Hauptadresse": "Warnemünder Straße 22",
+  "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-kiel",
+  "Land": "DE",
+  "Längengrad": "10.1395",
+  "Organisation": "Bundeswehr-Dienstleistungszentrum Kiel",
+  "OrganisationDisplay": "BwDLZ Kiel",
+  "OrganisationId": 18874,
+  "OrganisationKurz": "BwDLZ Kiel",
+  "Ort": "Kiel",
+  "PLZ": 24106,
+  "Ressort": "BMVg",
+  "Telefon": "+49 431 384-0",
+  "locations": [
+    {
+      "Breitengrad": "54.358016",
+      "Bundesland": "Schleswig-Holstein",
+      "E-Mail": "BwDLZKiel@bundeswehr.org",
+      "Hauptadresse": "Warnemünder Straße 22",
+      "Internetadresse": "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/organisation-iud/bundeswehr-dienstleistungszentren/bwdlz-kiel",
+      "Land": "DE",
+      "Längengrad": "10.1395",
+      "Organisation": "Bundeswehr-Dienstleistungszentrum Kiel",
+      "OrganisationDisplay": "BwDLZ Kiel",
+      "OrganisationId": 18874,
+      "OrganisationKurz": "BwDLZ Kiel",
+      "Ort": "Kiel",
+      "PLZ": 24106,
+      "Ressort": "BMVg",
+      "Telefon": "+49 431 384-0"
+    }
+  ]
+}

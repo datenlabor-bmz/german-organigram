@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.516181",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@autobahn.de",
+  "Hauptadresse": "Heidestraße 15",
+  "Internetadresse": "https://www.autobahn.de/die-autobahn",
+  "Land": "DE",
+  "Längengrad": "13.376935",
+  "Organisation": "Die Autobahn GmbH des Bundes",
+  "OrganisationDisplay": "Autobahn GmbH",
+  "OrganisationId": 12421684,
+  "Ort": "Berlin",
+  "PLZ": 10557,
+  "Ressort": "BMV",
+  "Telefax": "+49 30 4036 80-810",
+  "Telefon": "+49 30 4036 80-800",
+  "locations": [
+    {
+      "Breitengrad": "52.516181",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@autobahn.de",
+      "Hauptadresse": "Heidestraße 15",
+      "Internetadresse": "https://www.autobahn.de/die-autobahn",
+      "Land": "DE",
+      "Längengrad": "13.376935",
+      "Organisation": "Die Autobahn GmbH des Bundes",
+      "OrganisationDisplay": "Autobahn GmbH",
+      "OrganisationId": 12421684,
+      "Ort": "Berlin",
+      "PLZ": 10557,
+      "Ressort": "BMV",
+      "Telefax": "+49 30 4036 80-810",
+      "Telefon": "+49 30 4036 80-800"
+    }
+  ]
+}
