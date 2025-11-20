@@ -4,10 +4,13 @@
 import os
 import json
 import re
+import asyncio
 from pathlib import Path
 from collections import defaultdict
 from pyairtable import Api
 from dotenv import load_dotenv
+import httpx
+from tqdm.asyncio import tqdm_asyncio
 
 load_dotenv()
 
@@ -113,4 +116,181 @@ print(f"✓ Fetched {len(data)} records from Airtable")
 print(f"✓ Aggregated {sum(1 for entries in dienstort_by_base.values() if len(entries) > 1)} organizations with multiple Dienstorte")
 print(f"✓ Total organizations: {len(regular_entries) + len(dienstort_by_base)}")
 print(f"✓ Saved to {output_path}")
+
+# Fetch Wikidata information
+async def fetch_wikidata_entity(qid: str) -> dict:
+    """Fetch full Wikidata entity information."""
+    headers = {
+        "User-Agent": "GermanOrganigramBot/1.0 (https://github.com/yourrepo; contact@example.com)"
+    }
+    async with httpx.AsyncClient(timeout=30.0, headers=headers) as client:
+        try:
+            response = await client.get(
+                "https://www.wikidata.org/w/api.php",
+                params={
+                    "action": "wbgetentities",
+                    "format": "json",
+                    "ids": qid,
+                    "languages": "de|en",
+                    "props": "labels|descriptions|claims|sitelinks",
+                }
+            )
+            data = response.json()
+            return data.get("entities", {}).get(qid, {})
+        except Exception as e:
+            print(f"Error fetching {qid}: {e}")
+            return {}
+
+async def resolve_entity_references(entity_data: dict) -> dict:
+    """Resolve entity references in claims to get their labels."""
+    claims = entity_data.get('claims', {})
+    referenced_entities = {}
+    
+    # Properties that reference other entities
+    entity_props = {
+        'P488': 'chairperson',  # current minister/director - needs full data
+        'P1308': 'officeholder',
+        'P749': 'parent_organization',
+        'P355': 'subsidiary',
+        'P361': 'part_of',
+        'P527': 'has_part',
+        'P31': 'instance_of',
+        'P1365': 'replaces',  # organizational history
+        'P1366': 'replaced_by',
+    }
+    
+    # Collect entity IDs - separate ministers (need full data) from others (just labels)
+    minister_ids = set()
+    org_entity_ids = set()
+    
+    for prop_id in entity_props.keys():
+        if prop_id in claims:
+            for statement in claims[prop_id]:
+                if statement.get('mainsnak', {}).get('datavalue', {}).get('type') == 'wikibase-entityid':
+                    entity_id = statement['mainsnak']['datavalue']['value']['id']
+                    if prop_id == 'P488':  # Minister/chairperson - get full data
+                        minister_ids.add(entity_id)
+                    else:  # Organizations - just labels
+                        org_entity_ids.add(entity_id)
+    
+    headers = {
+        "User-Agent": "GermanOrganigramBot/1.0 (https://github.com/yourrepo; contact@example.com)"
+    }
+    
+    # Fetch ministers with full claims (party, gender, birth date, etc.)
+    person_related_ids = set()
+    if minister_ids:
+        async with httpx.AsyncClient(timeout=30.0, headers=headers) as client:
+            try:
+                response = await client.get(
+                    "https://www.wikidata.org/w/api.php",
+                    params={
+                        "action": "wbgetentities",
+                        "format": "json",
+                        "ids": "|".join(minister_ids),
+                        "languages": "de|en",
+                        "props": "labels|descriptions|claims",
+                    }
+                )
+                data = response.json()
+                minister_entities = data.get("entities", {})
+                referenced_entities.update(minister_entities)
+                
+                # Collect person-related entity references (party, gender)
+                for minister_entity in minister_entities.values():
+                    minister_claims = minister_entity.get('claims', {})
+                    # P102: political party, P21: gender
+                    for prop_id in ['P102', 'P21']:
+                        if prop_id in minister_claims:
+                            for statement in minister_claims[prop_id]:
+                                if statement.get('mainsnak', {}).get('datavalue', {}).get('type') == 'wikibase-entityid':
+                                    entity_id = statement['mainsnak']['datavalue']['value']['id']
+                                    person_related_ids.add(entity_id)
+            except Exception as e:
+                print(f"Error fetching minister entities: {e}")
+    
+    # Fetch person-related entities (parties, gender values)
+    if person_related_ids:
+        async with httpx.AsyncClient(timeout=30.0, headers=headers) as client:
+            try:
+                response = await client.get(
+                    "https://www.wikidata.org/w/api.php",
+                    params={
+                        "action": "wbgetentities",
+                        "format": "json",
+                        "ids": "|".join(person_related_ids),
+                        "languages": "de|en",
+                        "props": "labels|descriptions",
+                    }
+                )
+                data = response.json()
+                referenced_entities.update(data.get("entities", {}))
+            except Exception as e:
+                print(f"Error fetching person-related entities: {e}")
+    
+    # Fetch organizations with just labels/descriptions
+    if org_entity_ids:
+        async with httpx.AsyncClient(timeout=30.0, headers=headers) as client:
+            try:
+                response = await client.get(
+                    "https://www.wikidata.org/w/api.php",
+                    params={
+                        "action": "wbgetentities",
+                        "format": "json",
+                        "ids": "|".join(org_entity_ids),
+                        "languages": "de|en",
+                        "props": "labels|descriptions",
+                    }
+                )
+                data = response.json()
+                referenced_entities.update(data.get("entities", {}))
+            except Exception as e:
+                print(f"Error fetching org entities: {e}")
+    
+    return referenced_entities
+
+async def fetch_all_wikidata():
+    """Fetch Wikidata information for organizations that have Wikidata IDs in Airtable."""
+    wikidata_map = {}
+    
+    # Collect organizations with Wikidata IDs from Airtable
+    print("\n📥 Fetching Wikidata entity data...")
+    qid_map = {}
+    for entry in output_data:
+        wikidata_id = entry.get("Wikidata ID")
+        org_id = entry.get("OrganisationId")
+        if wikidata_id and org_id:
+            qid_map[org_id] = wikidata_id
+    
+    print(f"✓ Found {len(qid_map)} organizations with Wikidata IDs")
+    
+    # Fetch full entity data
+    if qid_map:
+        entity_tasks = [fetch_wikidata_entity(qid) for qid in qid_map.values()]
+        entities = await tqdm_asyncio.gather(*entity_tasks)
+        
+        # Resolve entity references for all entities
+        print("🔗 Resolving entity references (ministers, org structure)...")
+        reference_tasks = [resolve_entity_references(entity) for entity in entities if entity]
+        referenced_entities_list = await tqdm_asyncio.gather(*reference_tasks)
+        
+        for (org_id, qid), entity, referenced_entities in zip(qid_map.items(), entities, referenced_entities_list):
+            if entity:
+                wikidata_map[str(org_id)] = {
+                    "qid": qid,
+                    "data": entity,
+                    "referenced_entities": referenced_entities
+                }
+    
+    return wikidata_map
+
+# Run async Wikidata fetching
+wikidata_data = asyncio.run(fetch_all_wikidata())
+
+# Write Wikidata data to separate file
+wikidata_path = Path(__file__).parent.parent / "public" / "wikidata.json"
+with open(wikidata_path, "w", encoding="utf-8") as f:
+    json.dump(wikidata_data, f, ensure_ascii=False, indent=2)
+
+print(f"✓ Saved Wikidata information for {len(wikidata_data)} organizations to {wikidata_path}")
 

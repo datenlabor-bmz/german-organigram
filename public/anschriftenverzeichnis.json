@@ -38,7 +38,8 @@
     "PLZ": 53113,
     "Ressort": "BMZ",
     "Telefon": "+49 228 336 907-0",
-    "Kategorie": "Unternehmen"
+    "Kategorie": "Unternehmen",
+    "Wikidata ID": "Q41791404"
   },
   {
     "Breitengrad": "51.238344",
@@ -484,7 +485,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 7621 170-1090",
     "Telefon": "+49 7621 170-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q97013699"
   },
   {
     "Breitengrad": "51.969109",
@@ -594,7 +596,8 @@
     "PLZ": 10117,
     "Ressort": "BMJV",
     "Telefon": "+49 800 35 50 700",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q190459"
   },
   {
     "Adresse": "Albert-Einstein-Allee 11",
@@ -1025,7 +1028,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 721 159-2512",
     "Telefon": "+49 721 159-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q687323"
   },
   {
     "Adresse": "Rothenburger Straße 29",
@@ -1825,7 +1829,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 228 303-98383",
     "Telefon": "+49 228 303-95400",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q861333"
   },
   {
     "Breitengrad": "50.70276",
@@ -2283,6 +2288,7 @@
     "PLZ": 10557,
     "Telefon": "+49 30 2000-0",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q470470",
     "Ressort": "BPrA"
   },
   {
@@ -2316,7 +2322,8 @@
     "Ressort": "BMWE",
     "Telefax": "+49 531 592-9292",
     "Telefon": "+49 531 592-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q470438"
   },
   {
     "Adresse": "Ländenstr. 18",
@@ -2840,7 +2847,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 30 18 681-11138",
     "Telefon": "+49 30 18 681-11120",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q813384"
   },
   {
     "Breitengrad": "52.381984",
@@ -3307,7 +3315,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 871 806-1065",
     "Telefon": "+49 871 806-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q134887595"
   },
   {
     "Breitengrad": "54.09492",
@@ -3461,7 +3470,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 228 99370-177",
     "Telefon": "+49 228 99370-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q110143708"
   },
   {
     "Breitengrad": "51.0308398",
@@ -3642,7 +3652,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 261 399-1199",
     "Telefon": "+49 261 399-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q123488530"
   },
   {
     "Adresse": "Lampoldshausen ",
@@ -3751,6 +3762,7 @@
     "Telefax": "+49 30 227-36878, +49 30 227-36979",
     "Telefon": "+49 30 227-0",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q131195546",
     "Ressort": "ORG_18000636"
   },
   {
@@ -3786,7 +3798,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 3018 682-32 60",
     "Telefon": "+49 3018 682-0",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q813392"
   },
   {
     "Adresse": "Fraunhofer Straße 5",
@@ -4323,7 +4336,7 @@
     "Telefon": "+49 3018 681-0",
     "IstRessort": true,
     "Kategorie": "Oberste Bundesbehörde",
-    "Wikidata ID": "Q358589"
+    "Wikidata ID": "Q502698"
   },
   {
     "Adresse": "Schleusenstraße 9",
@@ -4656,7 +4669,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 228 303-99788",
     "Telefon": "+49 441 8009-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123608555"
   },
   {
     "Adresse": "Feldstr. 234",
@@ -5102,7 +5116,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 7131 8970-199",
     "Telefon": "+49 7131 8970-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q67446611"
   },
   {
     "Adresse": "Heinrich-Steinmann-Straße ",
@@ -5349,7 +5364,8 @@
     "Ressort": "AA",
     "Telefax": "+49 3018 17-52451",
     "Telefon": "+49 3018 17-2451",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q29897929"
   },
   {
     "Breitengrad": "49.4739858",
@@ -5385,6 +5401,7 @@
     "PLZ": 53117,
     "Telefon": "+49 228 99 77 99-0",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q1005821",
     "Ressort": "BfDI"
   },
   {
@@ -5433,7 +5450,8 @@
     "Telefax": "+49 89 15921-450",
     "Telefon": "+49 89 15921-0",
     "Kategorie": "Unklar",
-    "Notiz": "Zusammenarbeit, Bund ist größter Geldgeber"
+    "Notiz": "Zusammenarbeit, Bund ist größter Geldgeber",
+    "Wikidata ID": "Q60168804"
   },
   {
     "Adresse": "Overhammshof 29",
@@ -6356,7 +6374,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 511 67675-1110",
     "Telefon": "+49 511 67675-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q123610829"
   },
   {
     "Breitengrad": "52.485905",
@@ -7694,7 +7713,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 211 2101-222",
     "Telefon": "+49 211 2101-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123639219"
   },
   {
     "Breitengrad": "52.4318989",
@@ -8054,7 +8074,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 941 2086-1399",
     "Telefon": "+49 941 2086-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q113273873"
   },
   {
     "Adresse": "Dachauer Straße 128",
@@ -8746,7 +8767,8 @@
     "Ressort": "BMZ",
     "Telefax": "+49 228 20717-150",
     "Telefon": "+49 228 20717-0",
-    "Kategorie": "Unternehmen"
+    "Kategorie": "Unternehmen",
+    "Wikidata ID": "Q43302028"
   },
   {
     "Breitengrad": "49.0283743",
@@ -9083,6 +9105,7 @@
     "Telefax": "+49 69 9566-3077",
     "Telefon": "+49 69 9566-0",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q162222",
     "Ressort": "BBk"
   },
   {
@@ -9115,7 +9138,8 @@
     "PLZ": 80636,
     "Telefax": "+49 89 1205-7531",
     "Telefon": "+49 89 1205-0",
-    "Kategorie": "Fraunhofer-Institut"
+    "Kategorie": "Fraunhofer-Institut",
+    "Wikidata ID": "Q161057"
   },
   {
     "Adresse": "Belower Damm 1",
@@ -11024,7 +11048,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 30 2598-2205",
     "Telefon": "+49 30 2598-0",
-    "Kategorie": "Unternehmen"
+    "Kategorie": "Unternehmen",
+    "Wikidata ID": "Q317215"
   },
   {
     "Breitengrad": "48.7401498",
@@ -12230,7 +12255,8 @@
     "PLZ": 10115,
     "Ressort": "BKAmt",
     "Telefon": "+49 30 4146457",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q272969"
   },
   {
     "Breitengrad": "49.4515385",
@@ -12266,7 +12292,8 @@
     "Ressort": "BMAS",
     "Telefax": "+49 911 179-2123",
     "Telefon": "+49 911 179-0",
-    "Kategorie": "Bundesagentur"
+    "Kategorie": "Bundesagentur",
+    "Wikidata ID": "Q1478016"
   },
   {
     "Breitengrad": "48.38544",
@@ -12714,7 +12741,8 @@
     "Ressort": "BMWE",
     "Telefax": "+49 228 9499-400",
     "Telefon": "+49 228 9499-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q450394"
   },
   {
     "Breitengrad": "50.9348279",
@@ -13185,7 +13213,8 @@
     "Ressort": "BMWE",
     "Telefax": "+49 511 643-2304",
     "Telefon": "+49 511 643-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q1005526"
   },
   {
     "Breitengrad": "53.55667114",
@@ -13219,7 +13248,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 251 4814-1000",
     "Telefon": "+49 251 4814-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123632532"
   },
   {
     "Adresse": " ",
@@ -13460,7 +13490,8 @@
     "Ressort": "BMZ",
     "Telefax": "+49 228 4460-1766",
     "Telefon": "+49 228 4460-0",
-    "Kategorie": "Unternehmen"
+    "Kategorie": "Unternehmen",
+    "Wikidata ID": "Q462763"
   },
   {
     "Adresse": "Otto-Schmerbach-Straße 20",
@@ -13745,6 +13776,7 @@
     "PLZ": 10559,
     "Telefon": "+49 30 18 4711-1001",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q106676433",
     "Ressort": "UKRat"
   },
   {
@@ -13802,7 +13834,8 @@
     "Ressort": "BMG",
     "Telefax": "+49 30 18441-4499",
     "Telefon": "+49 30 18441 - 3424",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q813391"
   },
   {
     "Breitengrad": "52.460918",
@@ -13947,7 +13980,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 241 9091-1500",
     "Telefon": "+49 241 9091-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123639091"
   },
   {
     "Breitengrad": "52.985328",
@@ -14206,7 +14240,8 @@
     "Ressort": "BMWE",
     "Telefax": "+49 6196 908-1800",
     "Telefon": "+49 6196 908-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q1005513"
   },
   {
     "Adresse": "Am Hafen 16",
@@ -14299,7 +14334,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 30 417074-1190",
     "Telefon": "+49 30 417074-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q94578227"
   },
   {
     "Breitengrad": "50.3766999",
@@ -14484,7 +14520,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 30-38 38 66 77",
     "Telefon": "+49 800-35 50 500",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q190466"
   },
   {
     "Breitengrad": "52.408064",
@@ -14570,7 +14607,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 531 1291-9102",
     "Telefon": "+49 531 1291-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123610404"
   },
   {
     "Adresse": "Otto-von-Guericke-Straße 4",
@@ -14960,7 +14998,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 69 25616-1476",
     "Telefon": "+49 69 25616-0",
-    "Kategorie": "Unternehmen"
+    "Kategorie": "Unternehmen",
+    "Wikidata ID": "Q1202537"
   },
   {
     "Adresse": "Werkstattstraße 102",
@@ -15109,7 +15148,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 721 8191-8590",
     "Telefon": "+49 721 8191-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q449319"
   },
   {
     "Adresse": "Brückenstraße 1",
@@ -15202,7 +15242,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 421 5154-1001",
     "Telefon": "+49 421-5154-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123604600"
   },
   {
     "Adresse": "89, Av. de Cortenbergh ",
@@ -15284,7 +15325,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 2151 850-18881",
     "Telefon": "+49 2151 850-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123639448"
   },
   {
     "Adresse": "Wallstraße 2",
@@ -15774,7 +15816,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 30 208 987 65-2",
     "Telefon": "+49 30 208 987 65-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q1006748"
   },
   {
     "Adresse": "Oderstraße 75",
@@ -16156,7 +16199,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 451 49055-5121",
     "Telefon": "+49 451 49055-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q1006464"
   },
   {
     "Breitengrad": "52.514988",
@@ -16853,7 +16897,8 @@
     "Ressort": "BMG",
     "Telefax": "+49 30 20640-4960",
     "Telefon": "+49 3018 441-1452",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q1259952"
   },
   {
     "Adresse": "Helmholtzplatz 2",
@@ -17891,7 +17936,8 @@
     "PLZ": 50825,
     "Ressort": "BMF",
     "Telefon": "+49 221 9413-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123634465"
   },
   {
     "Breitengrad": "52.449646",
@@ -17990,7 +18036,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 89 9231-201",
     "Telefon": "+49 89 9231-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q702415"
   },
   {
     "Adresse": "Industriestraße 20",
@@ -18554,7 +18601,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 331 97997-1010",
     "Telefon": "+49 331 97997-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q89193668"
   },
   {
     "Breitengrad": "48.211017",
@@ -18846,7 +18894,8 @@
     "Ressort": "BMWE",
     "Telefax": "+49 228 14-8872",
     "Telefon": "+49 228 14-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q269138"
   },
   {
     "Adresse": "Beim Salztor 10",
@@ -20285,7 +20334,8 @@
     "PLZ": 10557,
     "Ressort": "BMI",
     "Telefon": "+49 30 18 681-11047",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q55975514"
   },
   {
     "Breitengrad": "50.7362",
@@ -20303,7 +20353,8 @@
     "PLZ": 53121,
     "Ressort": "BMF",
     "Telefon": "+49 228 303-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q18287062"
   },
   {
     "Breitengrad": "48.092631",
@@ -20322,7 +20373,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 89 69937-5100",
     "Telefon": "+49 89 69937-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q314237"
   },
   {
     "Adresse": "Memmelsdorfer Straße 211 a",
@@ -20429,7 +20481,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 203 7134-111",
     "Telefon": "+49 203 7134-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123636400"
   },
   {
     "Adresse": "Königsbrücker Landstraße 159",
@@ -20530,7 +20583,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 561 9367-1163",
     "Telefon": "+49 561 9367-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q94648394"
   },
   {
     "Breitengrad": "49.3182585",
@@ -21696,7 +21750,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 341 2007-1000",
     "Telefon": "+49 341 2007-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q702424"
   },
   {
     "Breitengrad": "50.830715",
@@ -21772,7 +21827,8 @@
     "Ressort": "BMJV",
     "Telefax": "+49 221 97668-278",
     "Telefon": "+49 221 97668-0",
-    "Kategorie": "Unklar"
+    "Kategorie": "Unklar",
+    "Wikidata ID": "Q22691499"
   },
   {
     "Breitengrad": "50.690589",
@@ -22378,7 +22434,8 @@
     "Ressort": "BMWE",
     "Telefax": "+49 30 8112029",
     "Telefon": "+49 30 8104-0",
-    "Kategorie": "Bundesoberbehörde"
+    "Kategorie": "Bundesoberbehörde",
+    "Wikidata ID": "Q1005540"
   },
   {
     "Adresse": "Seestraße 10",
@@ -23039,6 +23096,7 @@
     "Telefax": "+49 30 1 82 72-25 55",
     "Telefon": "+49 30 1 82 72-0",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q869805",
     "Ressort": "BPA"
   },
   {
@@ -23097,7 +23155,8 @@
     "PLZ": 10117,
     "Ressort": "BMBFSFJ",
     "Telefon": "+49 30 18 555-1180",
-    "Kategorie": "Beauftragter"
+    "Kategorie": "Beauftragter",
+    "Wikidata ID": "Q124708848"
   },
   {
     "Breitengrad": "50.00656",
@@ -23241,7 +23300,8 @@
     "PLZ": 30179,
     "Ressort": "BMF",
     "Telefon": "+49 511 5469-9100",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123612267"
   },
   {
     "Adresse": "August-Baudert-Platz  4",
@@ -23549,7 +23609,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 231 9571-1999",
     "Telefon": "+49 231 9571-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123641145"
   },
   {
     "Adresse": "An der Maxhütte 1",
@@ -23631,6 +23692,7 @@
     "PLZ": 53113,
     "Telefon": "+49 228 99 721-0",
     "Kategorie": "Oberste Bundesbehörde",
+    "Wikidata ID": "Q56033",
     "Ressort": "BRH"
   },
   {
@@ -23819,7 +23881,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 89 5995-2488",
     "Telefon": "+49 89 5995-00",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q1589828"
   },
   {
     "Adresse": "DGZ-Ring 12",
@@ -23850,7 +23913,8 @@
     "PLZ": 53175,
     "Telefax": "+49 228 30818-30",
     "Telefon": "+49 228 30818-0",
-    "Kategorie": "Helmholtz"
+    "Kategorie": "Helmholtz",
+    "Wikidata ID": "Q679913"
   },
   {
     "Adresse": "Av. de. Cortenbergh 172",
@@ -25006,7 +25070,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 521 3047-9010",
     "Telefon": "+49 521 3047-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123636773"
   },
   {
     "Breitengrad": "53.1001433",
@@ -25303,7 +25368,8 @@
     "Organisation": "Wismut GmbH",
     "Ressort": "BMWE",
     "Kategorie": "Unternehmen",
-    "Quelle": "WD-3-3000-118/24"
+    "Quelle": "WD-3-3000-118/24",
+    "Wikidata ID": "Q314111"
   },
   {
     "Adresse": "Am Eiderdeich 20",
@@ -25985,7 +26051,8 @@
     "Ressort": "BMF",
     "Telefax": "+49 30 69009-6209",
     "Telefon": "+49 30 69009-0",
-    "Kategorie": "Bundesunterbehörde"
+    "Kategorie": "Bundesunterbehörde",
+    "Wikidata ID": "Q123900755"
   },
   {
     "Breitengrad": "48.1453993",
@@ -26022,7 +26089,8 @@
     "Ressort": "BMI",
     "Telefax": "+49 2241 238-1199",
     "Telefon": "+49 2241 238-0",
-    "Kategorie": "Bundesmittelbehörde"
+    "Kategorie": "Bundesmittelbehörde",
+    "Wikidata ID": "Q123633772"
   },
   {
     "Adresse": "Wilhelm-Raabe-Straße 46",
