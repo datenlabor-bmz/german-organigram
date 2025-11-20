@@ -12,6 +12,7 @@
   "OrganisationKurz": "DBU",
   "Ort": "Osnabrück",
   "PLZ": 49090,
+  "Ressort": "BMUKN",
   "Telefax": "+49 541 9633-190",
   "Telefon": "+49 541 9633-0",
   "locations": [
@@ -29,6 +30,7 @@
       "OrganisationKurz": "DBU",
       "Ort": "Osnabrück",
       "PLZ": 49090,
+      "Ressort": "BMUKN",
       "Telefax": "+49 541 9633-190",
       "Telefon": "+49 541 9633-0"
     }

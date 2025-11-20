@@ -14,6 +14,7 @@
   "PLZ": 24105,
   "Telefax": "+49 431 8814-500",
   "Telefon": "+49 431 8814-1",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "54.3391185",
@@ -30,7 +31,8 @@
       "Ort": "Kiel",
       "PLZ": 24105,
       "Telefax": "+49 431 8814-500",
-      "Telefon": "+49 431 8814-1"
+      "Telefon": "+49 431 8814-1",
+      "Kategorie": "Unklar"
     }
   ]
 }

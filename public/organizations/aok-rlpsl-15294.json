@@ -14,6 +14,7 @@
   "Ressort": "BMG",
   "Telefax": "+49 6351 403-701",
   "Telefon": "+49 800 4772000",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "49.559185",
@@ -30,7 +31,8 @@
       "PLZ": 67304,
       "Ressort": "BMG",
       "Telefax": "+49 6351 403-701",
-      "Telefon": "+49 800 4772000"
+      "Telefon": "+49 800 4772000",
+      "Versteckt": true
     }
   ]
 }

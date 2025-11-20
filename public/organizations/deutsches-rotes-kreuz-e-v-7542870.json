@@ -13,6 +13,7 @@
   "PLZ": 12205,
   "Telefax": "+49 30 85404-450",
   "Telefon": "+49 30 85404-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.42999",
@@ -28,7 +29,8 @@
       "Ort": "Berlin",
       "PLZ": 12205,
       "Telefax": "+49 30 85404-450",
-      "Telefon": "+49 30 85404-0"
+      "Telefon": "+49 30 85404-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

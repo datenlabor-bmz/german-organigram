@@ -33,34 +33,6 @@
       "Ressort": "BMAS",
       "Telefax": "+49 231 9071-2454",
       "Telefon": "+49 231 9071-0"
-    },
-    {
-      "Adresse": "Fabricestraße 8",
-      "Bundesland": "Sachsen",
-      "E-Mail": "poststelle@baua.bund.de",
-      "Internetadresse": "https://www.baua.de/DE/Home/Home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Dresden",
-      "LiegenschaftsId": 15852,
-      "OrganisationId": 15778,
-      "Ort": "Dresden",
-      "PLZ": 1099,
-      "Telefax": "+49 351 5639-5210",
-      "Telefon": "+49 351 5639-50"
-    },
-    {
-      "Adresse": "Nöldnerstraße 40 - 42",
-      "Bundesland": "Berlin",
-      "E-Mail": "poststelle@baua.bund.de",
-      "Internetadresse": "https://www.baua.de/DE/Home/Home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Berlin",
-      "LiegenschaftsId": 15846,
-      "OrganisationId": 15778,
-      "Ort": "Berlin",
-      "PLZ": 10317,
-      "Telefax": "+49 30 51548-4170",
-      "Telefon": "+49 30 51548-0"
     }
   ]
 }

@@ -13,6 +13,7 @@
   "PLZ": 49074,
   "Telefax": "+49 541 201971 - 9810",
   "Telefon": "+49 541 201971 -10",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.2634331",
@@ -28,7 +29,8 @@
       "Ort": "Osnabrück",
       "PLZ": 49074,
       "Telefax": "+49 541 201971 - 9810",
-      "Telefon": "+49 541 201971 -10"
+      "Telefon": "+49 541 201971 -10",
+      "Kategorie": "Unklar"
     }
   ]
 }

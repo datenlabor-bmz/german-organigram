@@ -13,7 +13,7 @@
   "PLZ": 38124,
   "Telefax": "+49 531 6181-2655",
   "Telefon": "+49 531 6181-0",
-  "Kategorie": "Helmholtz",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -31,20 +31,8 @@
       "PLZ": 38124,
       "Telefax": "+49 531 6181-2655",
       "Telefon": "+49 531 6181-0",
-      "Kategorie": "Helmholtz",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Universität des Saarlandes ",
-      "Bundesland": "Saarland",
-      "Internetadresse": "https://www.helmholtz-hzi.de",
-      "Land": "DE",
-      "Liegenschaft": "Helmholtz-Institut für Pharmazeutische Forschung Saarland (HIPS)",
-      "LiegenschaftsId": 6869798,
-      "OrganisationId": 22502,
-      "Ort": "Saarbrücken",
-      "PLZ": 66123,
-      "Telefon": "+49 681 302-70200"
     }
   ]
 }

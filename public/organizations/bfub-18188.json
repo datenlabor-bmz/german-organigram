@@ -13,6 +13,7 @@
   "Ort": "Würzburg",
   "PLZ": 97082,
   "Telefon": "+49 931 4973 9165",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.516181",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "bfub",
       "Ort": "Würzburg",
       "PLZ": 97082,
-      "Telefon": "+49 931 4973 9165"
+      "Telefon": "+49 931 4973 9165",
+      "Kategorie": "Unklar"
     }
   ]
 }

@@ -10,7 +10,7 @@ import { getWikidataInception, getWikidataWikipediaLink, getWikidataSocialMedia,
 interface EntityModalProps {
     entity: Entity | null;
     onClose: () => void;
-    onEntitySelect: (entityId: string) => void;
+    onEntitySelect: (orgName: string) => void;
     loading: boolean;
 }
 
@@ -241,7 +241,7 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                                             e.OrganisationKurz === entity.Ressort && e.IstRessort
                                         );
                                         if (ressortEntity) {
-                                            onEntitySelect(String(ressortEntity.OrganisationId));
+                                            onEntitySelect(ressortEntity.Organisation);
                                         }
                                     }}
                                     className="inline-block px-3 py-1.5 bg-blue-100 text-blue-900 rounded-full text-sm font-medium hover:bg-blue-200 transition-colors cursor-pointer"

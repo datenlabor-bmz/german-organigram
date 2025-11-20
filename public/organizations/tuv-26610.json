@@ -13,6 +13,7 @@
   "Ort": "Köln",
   "PLZ": 51105,
   "Telefon": "+49 221 806-9000",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.925385",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "TÜV",
       "Ort": "Köln",
       "PLZ": 51105,
-      "Telefon": "+49 221 806-9000"
+      "Telefon": "+49 221 806-9000",
+      "Kategorie": "Unklar"
     }
   ]
 }

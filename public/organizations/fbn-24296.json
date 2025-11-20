@@ -14,6 +14,7 @@
   "PLZ": 18196,
   "Telefax": "+49 38208 68-602",
   "Telefon": "+49 38208 68-5",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "54.01243",
@@ -30,7 +31,8 @@
       "Ort": "Dummerstorf",
       "PLZ": 18196,
       "Telefax": "+49 38208 68-602",
-      "Telefon": "+49 38208 68-5"
+      "Telefon": "+49 38208 68-5",
+      "Kategorie": "Unklar"
     }
   ]
 }

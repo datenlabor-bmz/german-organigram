@@ -14,6 +14,8 @@
   "PLZ": 53175,
   "Telefax": "+49 228 9656-111",
   "Telefon": "+49 228 9656-0",
+  "Kategorie": "Max-Planck-Institut",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "50.7041019",
@@ -30,7 +32,9 @@
       "Ort": "Bonn",
       "PLZ": 53175,
       "Telefax": "+49 228 9656-111",
-      "Telefon": "+49 228 9656-0"
+      "Telefon": "+49 228 9656-0",
+      "Kategorie": "Max-Planck-Institut",
+      "Versteckt": true
     }
   ]
 }

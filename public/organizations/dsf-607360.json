@@ -12,6 +12,7 @@
   "OrganisationKurz": "DSF",
   "Ort": "Osnabrück",
   "PLZ": 49074,
+  "Ressort": "BMFTR",
   "Telefon": "+49 541 60035-42",
   "locations": [
     {
@@ -28,6 +29,7 @@
       "OrganisationKurz": "DSF",
       "Ort": "Osnabrück",
       "PLZ": 49074,
+      "Ressort": "BMFTR",
       "Telefon": "+49 541 60035-42"
     }
   ]

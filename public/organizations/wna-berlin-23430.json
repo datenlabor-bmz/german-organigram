@@ -14,6 +14,7 @@
   "PLZ": 10965,
   "Ressort": "BMV",
   "Telefon": "+49 30 695 80-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "52.485905",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10965,
       "Ressort": "BMV",
-      "Telefon": "+49 30 695 80-0"
+      "Telefon": "+49 30 695 80-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

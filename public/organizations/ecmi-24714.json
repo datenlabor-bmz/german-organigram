@@ -14,6 +14,7 @@
   "PLZ": 24939,
   "Telefax": "+49 461 14149-19",
   "Telefon": "+49 461 14149-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "54.793695",
@@ -30,7 +31,8 @@
       "Ort": "Flensburg",
       "PLZ": 24939,
       "Telefax": "+49 461 14149-19",
-      "Telefon": "+49 461 14149-0"
+      "Telefon": "+49 461 14149-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

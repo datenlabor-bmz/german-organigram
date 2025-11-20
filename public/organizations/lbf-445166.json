@@ -35,20 +35,6 @@
       "Telefon": "+49 6151 705-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Schlossgartenstraße 6",
-      "Bundesland": "Hessen",
-      "E-Mail": "info@lbf.fraunhofer.de",
-      "Internetadresse": "https://www.lbf.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Bereich Kunststoffe",
-      "LiegenschaftsId": 8304532,
-      "OrganisationId": 445166,
-      "Ort": "Darmstadt",
-      "PLZ": 64289,
-      "Telefax": "+49 6151 705-8601",
-      "Telefon": "+49 6151 705-0"
     }
   ]
 }

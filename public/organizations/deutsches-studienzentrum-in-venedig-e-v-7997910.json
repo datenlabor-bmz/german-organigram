@@ -12,6 +12,7 @@
   "PLZ": -30125,
   "Telefax": "+39 041 5206780",
   "Telefon": "+39 041 5206355",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "45.4402476",
@@ -26,7 +27,8 @@
       "Ort": "Venezia",
       "PLZ": -30125,
       "Telefax": "+39 041 5206780",
-      "Telefon": "+39 041 5206355"
+      "Telefon": "+39 041 5206355",
+      "Kategorie": "Unklar"
     }
   ]
 }

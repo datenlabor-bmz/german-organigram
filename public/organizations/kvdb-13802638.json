@@ -13,6 +13,7 @@
   "Ort": "Berlin",
   "PLZ": 13086,
   "Ressort": "BKM",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.558612",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "KVDB",
       "Ort": "Berlin",
       "PLZ": 13086,
-      "Ressort": "BKM"
+      "Ressort": "BKM",
+      "Kategorie": "Unklar"
     }
   ]
 }

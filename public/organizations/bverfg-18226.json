@@ -14,6 +14,8 @@
   "PLZ": 76131,
   "Telefax": "+49 721 9101-382",
   "Telefon": "+49 721 9101-0",
+  "Kategorie": "Unklar",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "49.012463",
@@ -30,7 +32,9 @@
       "Ort": "Karlsruhe",
       "PLZ": 76131,
       "Telefax": "+49 721 9101-382",
-      "Telefon": "+49 721 9101-0"
+      "Telefon": "+49 721 9101-0",
+      "Kategorie": "Unklar",
+      "Versteckt": true
     }
   ]
 }

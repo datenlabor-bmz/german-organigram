@@ -35,19 +35,6 @@
       "Telefon": "+49 531 2155-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Heisterbergallee 12",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wki.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Anwendungszentrum für Holzfaserforschung - Standort Hannover",
-      "LiegenschaftsId": 8359594,
-      "OrganisationId": 514566,
-      "Ort": "Hannover",
-      "PLZ": 30453,
-      "Telefax": "+49 511 9296-992212",
-      "Telefon": "+49 511 9296-2212"
     }
   ]
 }

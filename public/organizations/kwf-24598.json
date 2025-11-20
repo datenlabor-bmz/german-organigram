@@ -14,6 +14,7 @@
   "PLZ": 64823,
   "Telefax": "+49 6078 758-39",
   "Telefon": "+49 6078 785-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.864142",
@@ -30,7 +31,8 @@
       "Ort": "Goß-Umstadt",
       "PLZ": 64823,
       "Telefax": "+49 6078 758-39",
-      "Telefon": "+49 6078 785-0"
+      "Telefon": "+49 6078 785-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

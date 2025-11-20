@@ -12,6 +12,7 @@
   "Ort": "Ostritz",
   "PLZ": 2899,
   "Telefon": "+49 35823 856300",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.0190192",
@@ -26,7 +27,8 @@
       "OrganisationId": 608060,
       "Ort": "Ostritz",
       "PLZ": 2899,
-      "Telefon": "+49 35823 856300"
+      "Telefon": "+49 35823 856300",
+      "Kategorie": "Unklar"
     }
   ]
 }

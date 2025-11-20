@@ -33,18 +33,6 @@
       "Telefon": "+49 30 9406-0",
       "Kategorie": "Helmholtz",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Hannoversche Straße 28",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.mdc-berlin.de",
-      "Land": "DE",
-      "Liegenschaft": "Zweigstelle Berlin-Mitte",
-      "LiegenschaftsId": 18422948,
-      "OrganisationId": 317826,
-      "Ort": "Berlin",
-      "PLZ": 10115,
-      "Telefon": "+49 30 9406-1300"
     }
   ]
 }

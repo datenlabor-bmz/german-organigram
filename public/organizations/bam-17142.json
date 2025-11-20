@@ -37,56 +37,6 @@
       "Telefon": "+49 30 8104-0",
       "Kategorie": "Bundesoberbehörde",
       "Wikidata ID": "Q1005540"
-    },
-    {
-      "Adresse": "Unter den Eichen 44 - 46",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bam.de/Navigation/DE/Home/home.html",
-      "Land": "DE",
-      "Liegenschaft": "Zweiggelände Fabeckstrasse",
-      "LiegenschaftsId": 17136,
-      "OrganisationId": 17142,
-      "Ort": "Berlin",
-      "PLZ": 12203,
-      "Telefon": "+49 30 8104-0"
-    },
-    {
-      "Adresse": "Scharnhorststraße 34 - 37",
-      "Bundesland": "Berlin",
-      "E-Mail": "info@bam.de",
-      "Internetadresse": "https://www.bam.de/Navigation/DE/Home/home.html",
-      "Land": "DE",
-      "Liegenschaft": "Nebensitz Berlin",
-      "LiegenschaftsId": 17134,
-      "OrganisationId": 17142,
-      "Ort": "Berlin",
-      "PLZ": 10115,
-      "Telefax": "+49 30 2014-1070",
-      "Telefon": "+49 30 20149"
-    },
-    {
-      "Adresse": "Richard-Willstätter-Straße 11",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bam.de/Navigation/DE/Home/home.html",
-      "Land": "DE",
-      "Liegenschaft": "Zweiggelände Adlershof",
-      "LiegenschaftsId": 17138,
-      "OrganisationId": 17142,
-      "Ort": "Berlin",
-      "PLZ": 12489,
-      "Telefon": "+49 30 8104-0"
-    },
-    {
-      "Adresse": "An der Düne ",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.bam.de/Navigation/DE/Home/home.html",
-      "Land": "DE",
-      "Liegenschaft": "Freiversuchsgelände Horstwalde",
-      "LiegenschaftsId": 17140,
-      "OrganisationId": 17142,
-      "Ort": "Baruth/Mark",
-      "PLZ": 15837,
-      "Telefon": "+49 30 8104-0"
     }
   ],
   "wikidata": {
@@ -4899,30 +4849,6 @@
           }
         }
       },
-      "Q130368438": {
-        "type": "item",
-        "id": "Q130368438",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesforschungsanstalt"
-          },
-          "en": {
-            "language": "en",
-            "value": "federal public research facility in Germany"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "type of research facility in Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bundesanstalt für Forschung in Deutschland"
-          }
-        }
-      },
       "Q28739182": {
         "type": "item",
         "id": "Q28739182",
@@ -4964,6 +4890,30 @@
           "de": {
             "language": "de",
             "value": "Art von Bundesbehörde in Deutschland"
+          }
+        }
+      },
+      "Q130368438": {
+        "type": "item",
+        "id": "Q130368438",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesforschungsanstalt"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal public research facility in Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "type of research facility in Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesanstalt für Forschung in Deutschland"
           }
         }
       },

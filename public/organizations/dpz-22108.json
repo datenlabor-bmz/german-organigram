@@ -14,7 +14,7 @@
   "PLZ": 37077,
   "Telefax": "+49 551 3851-228",
   "Telefon": "+49 551 3851-0",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,7 +33,7 @@
       "PLZ": 37077,
       "Telefax": "+49 551 3851-228",
       "Telefon": "+49 551 3851-0",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
     }
   ]

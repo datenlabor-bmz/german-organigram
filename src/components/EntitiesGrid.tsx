@@ -15,8 +15,10 @@ const KATEGORIE_ORDER: string[] = [
     'Bundesunterbehörde',
     'Bundesagentur',
     'Beauftragter',
+    'Beratungsgremium',
     'Unternehmen',
     'Stiftung des Privatrechts',
+    'Stiftung öffentlichen Rechts',
     'Sonstige',
     'Unklar',
 ];
@@ -28,15 +30,17 @@ const kategorieColorsFull: Record<string, string> = {
     'Bundesunterbehörde': 'bg-slate-200 text-black',
     'Bundesagentur': 'bg-sky-200 text-black',
     'Beauftragter': 'bg-violet-200 text-black',
+    'Beratungsgremium': 'bg-indigo-200 text-black',
     'Unternehmen': 'bg-emerald-200 text-black',
     'Stiftung des Privatrechts': 'bg-cyan-200 text-black',
+    'Stiftung öffentlichen Rechts': 'bg-teal-200 text-black',
     'Sonstige': 'bg-stone-200 text-black',
     'Unklar': 'bg-gray-200 text-black',
 };
 
-const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: (entityId: string) => void }) => {
+const EntityCard = ({ entity, onEntityClick }: { entity: Entity; onEntityClick: (orgName: string) => void }) => {
     const handleClick = () => {
-        onEntityClick(String(entity.OrganisationId));
+        onEntityClick(entity.Organisation);
     };
 
     const kategorie = entity.Kategorie || '';
@@ -86,8 +90,10 @@ const kategorieColors: Record<string, string> = {
     'Bundesunterbehörde': 'bg-slate-200',
     'Bundesagentur': 'bg-sky-200',
     'Beauftragter': 'bg-violet-200',
+    'Beratungsgremium': 'bg-indigo-200',
     'Unternehmen': 'bg-emerald-200',
     'Stiftung des Privatrechts': 'bg-cyan-200',
+    'Stiftung öffentlichen Rechts': 'bg-teal-200',
     'Sonstige': 'bg-stone-200',
     'Unklar': 'bg-gray-200',
 };
@@ -113,8 +119,8 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
     const router = useRouter();
     const searchParams = useSearchParams();
 
-    const handleEntityClick = (entityId: string) => {
-        router.replace(`/?entity=${entityId}`, { scroll: false });
+    const handleEntityClick = (orgName: string) => {
+        router.replace(`/?entity=${encodeURIComponent(orgName)}`, { scroll: false });
     };
 
     const handleReset = () => {
@@ -168,13 +174,16 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
     // Sort groups based on view mode
     const sortedGroups = Object.keys(groupedEntities).sort((a, b) => {
         if (viewMode === 'ressorts') {
-            // Hardcoded section order for Ressort view
+            // Official protocol order for Ressort view
             const sectionOrder = [
-                // Ministries
-                'BKAmt', 'BMF', 'BMI', 'AA', 'BMVg', 'BMWE', 'BMFTR', 'BMJV', 
-                'BMBFSFJ', 'BMAS', 'BMDS', 'BMV', 'BMUKN', 'BMG', 'BMZ', 'BMWSB', 'BMLEH',
-                // Special constitutional/administrative bodies
-                'BPrA', 'ORG_18000636', 'ORG_18000594', 'BPA', 'BKM', 'BRH', 'BfDI', 'UKRat', 'BBk',
+                // Bundeskanzleramt
+                'BKAmt',
+                // Ministries (official protocol order)
+                'BMF', 'BMI', 'AA', 'BMVg', 'BMWE', 'BMFTR', 'BMJV', 
+                'BMBFSFJ', 'BMAS', 'BMDS', 'BMV', 'BMUKN', 'BMG', 'BMLEH', 'BMZ', 'BMWSB',
+                // Constitutional/administrative bodies (post-ministries, protocol order)
+                'BPrA', 'Verwaltung des Deutschen Bundestages', 'Sekretariat des Bundesrates',
+                'BPA', 'BKM', 'BRH', 'BfDI', 'UKRat', 'BBk',
                 // Miscellaneous
                 'Sonstige'
             ];
@@ -275,7 +284,7 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                                 
                                 <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 lg:grid-cols-8 xl:grid-cols-10 gap-2 sm:gap-3 w-full">
                                     {groupEntities.map((entity: Entity) => (
-                                        <EntityCard key={entity.OrganisationId} entity={entity} onEntityClick={handleEntityClick} />
+                                        <EntityCard key={entity.Organisation} entity={entity} onEntityClick={handleEntityClick} />
                                     ))}
                                 </div>
                             </div>

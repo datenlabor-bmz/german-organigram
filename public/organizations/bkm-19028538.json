@@ -1546,30 +1546,6 @@
       }
     },
     "referenced_entities": {
-      "Q15793044": {
-        "type": "item",
-        "id": "Q15793044",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesamt für äußere Restitutionen"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Office for External Restitutions (Bundesamt für äußere Restitutionen)"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Deutsche Bundesbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "German federal authority"
-          }
-        }
-      },
       "Q4164871": {
         "type": "item",
         "id": "Q4164871",
@@ -1591,45 +1567,6 @@
           "de": {
             "language": "de",
             "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
-          }
-        }
-      },
-      "Q99935030": {
-        "type": "item",
-        "id": "Q99935030",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Oberste Bundesbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "Oberste Bundesbehörde"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q1006216": {
-        "type": "item",
-        "id": "Q1006216",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesinstitut für Kultur und Geschichte der Deutschen im östlichen Europa"
-          },
-          "en": {
-            "language": "en",
-            "value": "Bundesinstitut für Kultur und Geschichte der Deutschen im östlichen Europa (Germany)"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutsche Bundesbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "German federal agency"
           }
         }
       },
@@ -1657,6 +1594,30 @@
           }
         }
       },
+      "Q1006216": {
+        "type": "item",
+        "id": "Q1006216",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesinstitut für Kultur und Geschichte der Deutschen im östlichen Europa"
+          },
+          "en": {
+            "language": "en",
+            "value": "Bundesinstitut für Kultur und Geschichte der Deutschen im östlichen Europa (Germany)"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Bundesbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal agency"
+          }
+        }
+      },
       "Q685753": {
         "type": "item",
         "id": "Q685753",
@@ -1678,6 +1639,45 @@
           "de": {
             "language": "de",
             "value": "Archiv der Bundesbehörden Deutschlands"
+          }
+        }
+      },
+      "Q99935030": {
+        "type": "item",
+        "id": "Q99935030",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Oberste Bundesbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Oberste Bundesbehörde"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q15793044": {
+        "type": "item",
+        "id": "Q15793044",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesamt für äußere Restitutionen"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Office for External Restitutions (Bundesamt für äußere Restitutionen)"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Deutsche Bundesbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal authority"
           }
         }
       }

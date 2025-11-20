@@ -35,48 +35,6 @@
       "Telefax": "+49 711 52041-1060",
       "Telefon": "+49 711 52041-0",
       "Kategorie": "Bundesunterbehörde"
-    },
-    {
-      "Adresse": "Moltkestraße 70",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "poststelle@zfas.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Karlsruhe",
-      "LiegenschaftsId": 13998,
-      "OrganisationId": 14000,
-      "Ort": "Karlsruhe",
-      "PLZ": 76133,
-      "Telefax": "+49 721 9729-101",
-      "Telefon": "+49 721 9729-0"
-    },
-    {
-      "Adresse": "Kapuzinerweg 3",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "poststelle@zfas.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Radolfzell",
-      "LiegenschaftsId": 13996,
-      "OrganisationId": 14000,
-      "Ort": "Radolfzell am Bodensee",
-      "PLZ": 78315,
-      "Telefax": "+49 7732 9948-111",
-      "Telefon": "+49 7732 9948-0"
-    },
-    {
-      "Adresse": "Riegeler Straße 2",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "Freiburg.poststelle@zfas.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Freiburg im Breisgau",
-      "LiegenschaftsId": 13994,
-      "OrganisationId": 14000,
-      "Ort": "Freiburg im Breisgau",
-      "PLZ": 79111,
-      "Telefax": "+49 761 28298-500",
-      "Telefon": "+49 761 28298-0"
     }
   ]
 }

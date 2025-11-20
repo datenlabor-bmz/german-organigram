@@ -14,6 +14,7 @@
   "PLZ": 10117,
   "Telefax": "+49 30 89789-200",
   "Telefon": "+49 30 89789-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.512017",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10117,
       "Telefax": "+49 30 89789-200",
-      "Telefon": "+49 30 89789-0"
+      "Telefon": "+49 30 89789-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

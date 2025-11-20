@@ -13,6 +13,7 @@
   "Ort": "Gülzow-Prüzen",
   "PLZ": 18276,
   "Telefon": "+49 3843 6930-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "53.820273",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "FNR",
       "Ort": "Gülzow-Prüzen",
       "PLZ": 18276,
-      "Telefon": "+49 3843 6930-0"
+      "Telefon": "+49 3843 6930-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

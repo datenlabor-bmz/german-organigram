@@ -35,18 +35,6 @@
       "Telefon": "+49 351 260-0",
       "Kategorie": "Helmholtz",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Halsbrücker Straße 34",
-      "Bundesland": "Sachsen",
-      "Internetadresse": "https://www.hzdr.de",
-      "Land": "DE",
-      "Liegenschaft": "Helmholtz-Institut Freiberg für Ressourchentechnologie",
-      "LiegenschaftsId": 6875974,
-      "OrganisationId": 6875924,
-      "Ort": "Freiberg",
-      "PLZ": 9599,
-      "Telefon": "+49 351 260-4427"
     }
   ]
 }

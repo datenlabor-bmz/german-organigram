@@ -14,6 +14,7 @@
   "PLZ": 34454,
   "Telefax": "+49 5691 629-501",
   "Telefon": "+49 5691 629-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.378471",
@@ -30,7 +31,8 @@
       "Ort": "Bad Arolsen",
       "PLZ": 34454,
       "Telefax": "+49 5691 629-501",
-      "Telefon": "+49 5691 629-0"
+      "Telefon": "+49 5691 629-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

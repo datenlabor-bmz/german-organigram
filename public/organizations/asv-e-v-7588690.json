@@ -14,6 +14,7 @@
   "PLZ": 81669,
   "Ressort": "BKM",
   "Telefon": "+49 89 622716-30",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.1306115",
@@ -30,7 +31,8 @@
       "Ort": "München",
       "PLZ": 81669,
       "Ressort": "BKM",
-      "Telefon": "+49 89 622716-30"
+      "Telefon": "+49 89 622716-30",
+      "Kategorie": "Unklar"
     }
   ]
 }

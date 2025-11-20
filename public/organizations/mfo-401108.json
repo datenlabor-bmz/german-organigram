@@ -14,6 +14,7 @@
   "PLZ": 77709,
   "Telefax": "+49 7834 979-38",
   "Telefon": "+49 7834 979-0",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "48.3453197",
@@ -30,7 +31,8 @@
       "Ort": "Oberwolfach-Walke",
       "PLZ": 77709,
       "Telefax": "+49 7834 979-38",
-      "Telefon": "+49 7834 979-0"
+      "Telefon": "+49 7834 979-0",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

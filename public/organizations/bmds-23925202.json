@@ -3776,54 +3776,6 @@
       }
     },
     "referenced_entities": {
-      "Q257906": {
-        "type": "item",
-        "id": "Q257906",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesamt für Sicherheit in der Informationstechnik"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Office for Information Security"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "zentrale deutsche Bundesoberbehörde für IT-Sicherheit"
-          },
-          "en": {
-            "language": "en",
-            "value": "German central federal authority for IT security"
-          }
-        }
-      },
-      "Q269138": {
-        "type": "item",
-        "id": "Q269138",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesnetzagentur"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Network Agency"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "German regulatory agency supervising telecommunication, postal, energy, and railway sector"
-          },
-          "de": {
-            "language": "de",
-            "value": "oberste deutsche Regulierungsbehörde für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
-          }
-        }
-      },
       "Q23786362": {
         "type": "item",
         "id": "Q23786362",
@@ -3845,30 +3797,6 @@
           "en": {
             "language": "en",
             "value": "German central IT service provider for the federal government"
-          }
-        }
-      },
-      "Q133849523": {
-        "type": "item",
-        "id": "Q133849523",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Kabinett Merz"
-          },
-          "en": {
-            "language": "en",
-            "value": "Merz cabinet"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bundesregierung der Bundesrepublik Deutschland (seit 2025)"
-          },
-          "en": {
-            "language": "en",
-            "value": "25th Federal Government of Germany since 6 May 2025"
           }
         }
       },
@@ -3896,6 +3824,30 @@
           }
         }
       },
+      "Q269138": {
+        "type": "item",
+        "id": "Q269138",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesnetzagentur"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Network Agency"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "German regulatory agency supervising telecommunication, postal, energy, and railway sector"
+          },
+          "de": {
+            "language": "de",
+            "value": "oberste deutsche Regulierungsbehörde für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"
+          }
+        }
+      },
       "Q896375": {
         "type": "item",
         "id": "Q896375",
@@ -3920,6 +3872,30 @@
           }
         }
       },
+      "Q133849523": {
+        "type": "item",
+        "id": "Q133849523",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Kabinett Merz"
+          },
+          "en": {
+            "language": "en",
+            "value": "Merz cabinet"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundesregierung der Bundesrepublik Deutschland (seit 2025)"
+          },
+          "en": {
+            "language": "en",
+            "value": "25th Federal Government of Germany since 6 May 2025"
+          }
+        }
+      },
       "Q313827": {
         "type": "item",
         "id": "Q313827",
@@ -3941,6 +3917,30 @@
           "de": {
             "language": "de",
             "value": "Regierung der Bundesrepublik Deutschland"
+          }
+        }
+      },
+      "Q257906": {
+        "type": "item",
+        "id": "Q257906",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesamt für Sicherheit in der Informationstechnik"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Office for Information Security"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "zentrale deutsche Bundesoberbehörde für IT-Sicherheit"
+          },
+          "en": {
+            "language": "en",
+            "value": "German central federal authority for IT security"
           }
         }
       }

@@ -33,48 +33,6 @@
       "Ressort": "BMLEH",
       "Telefax": "+49 22899 6845-4518",
       "Telefon": "+49 22899 6845-0"
-    },
-    {
-      "Adresse": "August-Baudert-Platz  4",
-      "Bundesland": "Thüringen",
-      "E-Mail": "ast-weimar@ble.de",
-      "Internetadresse": "https://www.ble.de/DE/Startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Weimar",
-      "LiegenschaftsId": 17090,
-      "OrganisationId": 17096,
-      "Ort": "Weimar",
-      "PLZ": 99423,
-      "Telefax": "+49 3643 8468-89",
-      "Telefon": "+49 3643 8468-6"
-    },
-    {
-      "Adresse": "Haubachstraße 86",
-      "Bundesland": "Hamburg",
-      "E-Mail": "ast-hamburg@ble.de",
-      "Internetadresse": "https://www.ble.de/DE/Startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Hamburg",
-      "LiegenschaftsId": 17092,
-      "OrganisationId": 17096,
-      "Ort": "Hamburg",
-      "PLZ": 22765,
-      "Telefax": "+49 40 30 6860-60",
-      "Telefon": "+49 40 30 6860-0"
-    },
-    {
-      "Adresse": "Spixstraße 59",
-      "Bundesland": "Bayern",
-      "E-Mail": "ast-muenchen@ble.de",
-      "Internetadresse": "https://www.ble.de/DE/Startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle München",
-      "LiegenschaftsId": 17094,
-      "OrganisationId": 17096,
-      "Ort": "München",
-      "PLZ": 81539,
-      "Telefax": "+49 89 746347-15",
-      "Telefon": "+49 89 746347-0"
     }
   ]
 }

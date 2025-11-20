@@ -12,10 +12,11 @@
   "OrganisationKurz": "BRH",
   "Ort": "Bonn",
   "PLZ": 53113,
+  "Ressort": "BRH",
   "Telefon": "+49 228 99 721-0",
+  "IstRessort": true,
   "Kategorie": "Oberste Bundesbehörde",
   "Wikidata ID": "Q56033",
-  "Ressort": "BRH",
   "locations": [
     {
       "Breitengrad": "50.726975",
@@ -31,35 +32,11 @@
       "OrganisationKurz": "BRH",
       "Ort": "Bonn",
       "PLZ": 53113,
+      "Ressort": "BRH",
       "Telefon": "+49 228 99 721-0",
+      "IstRessort": true,
       "Kategorie": "Oberste Bundesbehörde",
-      "Wikidata ID": "Q56033",
-      "Ressort": "BRH"
-    },
-    {
-      "Adresse": "Friedrichstraße 130 B",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bundesrechnungshof.de/DE/0_home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Berlin",
-      "LiegenschaftsId": 24238580,
-      "OrganisationId": 20248,
-      "Ort": "Berlin",
-      "PLZ": 10117
-    },
-    {
-      "Adresse": "Dortusstraße 30 - 34",
-      "Bundesland": "Brandenburg",
-      "E-Mail": "poststelle@brh.bund.de",
-      "Internetadresse": "https://www.bundesrechnungshof.de/DE/0_home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Potsdam",
-      "LiegenschaftsId": 20238,
-      "OrganisationId": 20248,
-      "Ort": "Potsdam",
-      "PLZ": 14467,
-      "Telefax": "+49 3018 721-2991",
-      "Telefon": "+49 3018 721-0"
+      "Wikidata ID": "Q56033"
     }
   ],
   "wikidata": {
@@ -2964,30 +2941,6 @@
           ]
         }
       },
-      "Q49762": {
-        "type": "item",
-        "id": "Q49762",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Christlich Demokratische Union"
-          },
-          "en": {
-            "language": "en",
-            "value": "Christian Democratic Union"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "politische Partei in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "centre-right political party in Germany"
-          }
-        }
-      },
       "Q6581097": {
         "type": "item",
         "id": "Q6581097",
@@ -3012,6 +2965,45 @@
           }
         }
       },
+      "Q49762": {
+        "type": "item",
+        "id": "Q49762",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Christlich Demokratische Union"
+          },
+          "en": {
+            "language": "en",
+            "value": "Christian Democratic Union"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "politische Partei in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "centre-right political party in Germany"
+          }
+        }
+      },
+      "Q99935030": {
+        "type": "item",
+        "id": "Q99935030",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Oberste Bundesbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Oberste Bundesbehörde"
+          }
+        },
+        "descriptions": {}
+      },
       "Q10983451": {
         "type": "item",
         "id": "Q10983451",
@@ -3035,21 +3027,6 @@
             "value": "government institution performing financial and/or legal audit"
           }
         }
-      },
-      "Q99935030": {
-        "type": "item",
-        "id": "Q99935030",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Oberste Bundesbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "Oberste Bundesbehörde"
-          }
-        },
-        "descriptions": {}
       }
     }
   }

@@ -33,32 +33,6 @@
       "Ressort": "BMLEH",
       "Telefax": "+49 30 18412-4741",
       "Telefon": "+49 30 18412-0"
-    },
-    {
-      "Adresse": "Alt-Marienfelde 17 - 21",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bfr.bund.de/de/start.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Alt-Marienfelde",
-      "LiegenschaftsId": 3756864,
-      "OrganisationId": 20230,
-      "Ort": "Berlin",
-      "PLZ": 12277,
-      "Telefax": "+49 30 18412-4741",
-      "Telefon": "+49 30 18412-0"
-    },
-    {
-      "Adresse": "Diedersdorfer Weg 1",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bfr.bund.de/de/start.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Marienfelde",
-      "LiegenschaftsId": 20394,
-      "OrganisationId": 20230,
-      "Ort": "Berlin",
-      "PLZ": 12277,
-      "Telefax": "+49 30 18412-4741",
-      "Telefon": "+49 30 18412-0"
     }
   ]
 }

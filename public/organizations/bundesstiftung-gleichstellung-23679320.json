@@ -13,6 +13,7 @@
   "PLZ": 10178,
   "Ressort": "BMBFSFJ",
   "Telefon": "+49 30 9940 570-00",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "52.5258896",
@@ -28,7 +29,8 @@
       "Ort": "Berlin",
       "PLZ": 10178,
       "Ressort": "BMBFSFJ",
-      "Telefon": "+49 30 9940 570-00"
+      "Telefon": "+49 30 9940 570-00",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

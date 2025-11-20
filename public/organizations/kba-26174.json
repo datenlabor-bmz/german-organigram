@@ -33,20 +33,6 @@
       "Ressort": "BMV",
       "Telefax": "+49 461 316-1650",
       "Telefon": "+49 461 316-0"
-    },
-    {
-      "Adresse": "Bernhardstraße 62",
-      "Bundesland": "Sachsen",
-      "E-Mail": "asd@kba.de",
-      "Internetadresse": "https://www.kba.de",
-      "Land": "DE",
-      "Liegenschaft": "Nebenstelle Dresden",
-      "LiegenschaftsId": 26194,
-      "OrganisationId": 26174,
-      "Ort": "Dresden",
-      "PLZ": 1187,
-      "Telefax": "+49 351 47385-36",
-      "Telefon": "+49 351 47385-0"
     }
   ]
 }

@@ -13,6 +13,7 @@
   "PLZ": 10117,
   "Ressort": "BMVg",
   "Telefon": "+49 30 585 9554 230",
+  "Kategorie": "Bundesoberbehörde",
   "locations": [
     {
       "Breitengrad": "52.5242836",
@@ -28,7 +29,8 @@
       "Ort": "Berlin",
       "PLZ": 10117,
       "Ressort": "BMVg",
-      "Telefon": "+49 30 585 9554 230"
+      "Telefon": "+49 30 585 9554 230",
+      "Kategorie": "Bundesoberbehörde"
     }
   ]
 }

@@ -33,16 +33,6 @@
       "Ressort": "BMF",
       "Telefax": "+49 30 240087-99",
       "Telefon": "+49 30 240087-0"
-    },
-    {
-      "Adresse": "Rue des Deux Eglises 35",
-      "Internetadresse": "https://www.bstbk.de",
-      "Land": "BE",
-      "Liegenschaft": "EU - Verbindungsbüro",
-      "LiegenschaftsId": 801086,
-      "OrganisationId": 18148,
-      "Ort": "Brüssel",
-      "PLZ": -1000
     }
   ]
 }

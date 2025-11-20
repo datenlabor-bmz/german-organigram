@@ -13,6 +13,7 @@
   "PLZ": 67434,
   "Ressort": "BKM",
   "Telefon": "+49 6321 92629-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.32497",
@@ -28,7 +29,8 @@
       "Ort": "Neustadt an der Weinstraße",
       "PLZ": 67434,
       "Ressort": "BKM",
-      "Telefon": "+49 6321 92629-0"
+      "Telefon": "+49 6321 92629-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

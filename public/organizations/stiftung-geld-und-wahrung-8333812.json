@@ -13,6 +13,7 @@
   "PLZ": 45239,
   "Telefax": "+49 201 8401-255",
   "Telefon": "+49 201 8401-151",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.37486",
@@ -28,7 +29,8 @@
       "Ort": "Essen",
       "PLZ": 45239,
       "Telefax": "+49 201 8401-255",
-      "Telefon": "+49 201 8401-151"
+      "Telefon": "+49 201 8401-151",
+      "Kategorie": "Unklar"
     }
   ]
 }

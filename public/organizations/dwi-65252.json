@@ -12,8 +12,10 @@
   "OrganisationKurz": "DWI",
   "Ort": "Bodenheim",
   "PLZ": 55294,
+  "Ressort": "BMLEH",
   "Telefax": "+49 6135 9323-110",
   "Telefon": "+49 6135 9323-0",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "49.998826",
@@ -29,8 +31,10 @@
       "OrganisationKurz": "DWI",
       "Ort": "Bodenheim",
       "PLZ": 55294,
+      "Ressort": "BMLEH",
       "Telefax": "+49 6135 9323-110",
-      "Telefon": "+49 6135 9323-0"
+      "Telefon": "+49 6135 9323-0",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

@@ -13,6 +13,7 @@
   "Ort": "Hannover",
   "PLZ": 30167,
   "Telefon": "+49 511 762-2268",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.3821384",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "TIB",
       "Ort": "Hannover",
       "PLZ": 30167,
-      "Telefon": "+49 511 762-2268"
+      "Telefon": "+49 511 762-2268",
+      "Kategorie": "Unklar"
     }
   ]
 }

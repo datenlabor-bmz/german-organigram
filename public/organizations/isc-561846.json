@@ -35,48 +35,6 @@
       "Telefon": "+49 931 4100-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Gottlieb-Keim-Straße 60",
-      "Bundesland": "Bayern",
-      "E-Mail": "info@isc.fraunhofer.de",
-      "Internetadresse": "https://www.isc.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Projektgruppe Keramische Verbundstrukturen",
-      "LiegenschaftsId": 561844,
-      "OrganisationId": 561846,
-      "Ort": "Bayreuth",
-      "PLZ": 95448,
-      "Telefax": "+49 921 786931-22",
-      "Telefon": "+49 921 786931-20"
-    },
-    {
-      "Adresse": "Bronnbach 28",
-      "Bundesland": "Bayern",
-      "E-Mail": "info@isc.fraunhofer.de",
-      "Internetadresse": "https://www.isc.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Bronnbach",
-      "LiegenschaftsId": 561816,
-      "OrganisationId": 561846,
-      "Ort": "Wertheim",
-      "PLZ": 97877,
-      "Telefax": "+49 9342 9221-799",
-      "Telefon": "+49 9342 9221-701"
-    },
-    {
-      "Adresse": "Friedrichstraße 10 A",
-      "Bundesland": "Bayern",
-      "E-Mail": "info@isc.fraunhofer.de",
-      "Internetadresse": "https://www.isc.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Zweigstelle",
-      "LiegenschaftsId": 561808,
-      "OrganisationId": 561846,
-      "Ort": "Würzburg",
-      "PLZ": 97082,
-      "Telefax": "+49 931 4100-199",
-      "Telefon": "+49 931 4100-0"
     }
   ]
 }

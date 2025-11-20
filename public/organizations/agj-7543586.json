@@ -14,6 +14,7 @@
   "PLZ": 10178,
   "Telefax": "+49 30 400 40-232",
   "Telefon": "+49 30 400 40-200",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.515574",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10178,
       "Telefax": "+49 30 400 40-232",
-      "Telefon": "+49 30 400 40-200"
+      "Telefon": "+49 30 400 40-200",
+      "Kategorie": "Unklar"
     }
   ]
 }

@@ -33,58 +33,6 @@
       "Ressort": "BMLEH",
       "Telefax": "+49 38351 7-1151",
       "Telefon": "+49 38351 7-0"
-    },
-    {
-      "Adresse": "Höltystrasse 10",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.fli.de/de/startseite/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Mariensee",
-      "LiegenschaftsId": 25704,
-      "OrganisationId": 25098,
-      "Ort": "Neustadt",
-      "PLZ": 31535,
-      "Telefax": "+49 5034 871-143",
-      "Telefon": "+49 5034 871-0"
-    },
-    {
-      "Adresse": "Naumburger Straße 96 a",
-      "Bundesland": "Thüringen",
-      "Internetadresse": "https://www.fli.de/de/startseite/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Jena",
-      "LiegenschaftsId": 25682,
-      "OrganisationId": 25098,
-      "Ort": "Jena",
-      "PLZ": 7743,
-      "Telefax": "+49 3641 804-228",
-      "Telefon": "+49 3641 804-0"
-    },
-    {
-      "Adresse": "Bundesallee 37",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.fli.de/de/startseite/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Braunschweig",
-      "LiegenschaftsId": 25692,
-      "OrganisationId": 25098,
-      "Ort": "Braunschweig",
-      "PLZ": 38116,
-      "Telefax": "+49 531 596-3199, -3299",
-      "Telefon": "+49 531 596-3102"
-    },
-    {
-      "Adresse": "Dörnbergstraße  25 u. 27",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.fli.de/de/startseite/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Celle",
-      "LiegenschaftsId": 25706,
-      "OrganisationId": 25098,
-      "Ort": "Celle",
-      "PLZ": 29223,
-      "Telefax": "+49 5141 3846-117",
-      "Telefon": "+49 5141 3846-0"
     }
   ]
 }

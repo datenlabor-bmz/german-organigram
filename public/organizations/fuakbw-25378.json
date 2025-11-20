@@ -31,19 +31,6 @@
       "PLZ": 22587,
       "Ressort": "BMVg",
       "Telefon": "+49 40 8667-4700"
-    },
-    {
-      "Adresse": "Blomkamp 61",
-      "Bundesland": "Hamburg",
-      "E-Mail": "fueakbwinfoa@bundeswehr.org",
-      "Internetadresse": "https://www.fueakbw.de",
-      "Land": "DE",
-      "Liegenschaft": "Generalleutnant-Graf-von-Baudissin-Kaserne",
-      "LiegenschaftsId": 25414,
-      "OrganisationId": 25378,
-      "Ort": "Hamburg",
-      "PLZ": 22549,
-      "Telefon": "+49 40 8667-4700"
     }
   ]
 }

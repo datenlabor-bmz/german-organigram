@@ -13,6 +13,7 @@
   "PLZ": 39112,
   "Telefax": "+49 391 727763-6",
   "Telefon": "+49 391 727763-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.1149993",
@@ -28,7 +29,8 @@
       "Ort": "Magdeburg",
       "PLZ": 39112,
       "Telefax": "+49 391 727763-6",
-      "Telefon": "+49 391 727763-0"
+      "Telefon": "+49 391 727763-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

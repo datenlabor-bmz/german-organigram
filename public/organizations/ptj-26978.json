@@ -14,6 +14,7 @@
   "PLZ": 52428,
   "Telefax": "+49 2461 61-5837",
   "Telefon": "+49 2461 61-2626",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.9017564",
@@ -30,45 +31,8 @@
       "Ort": "Jülich",
       "PLZ": 52428,
       "Telefax": "+49 2461 61-5837",
-      "Telefon": "+49 2461 61-2626"
-    },
-    {
-      "Adresse": "Godesberger Allee 105-107",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.ptj.de/",
-      "Land": "DE",
-      "Liegenschaft": "Geschäftsstelle Bonn",
-      "LiegenschaftsId": 5545938,
-      "OrganisationId": 26978,
-      "Ort": "Bonn",
-      "PLZ": 53175,
-      "Telefax": "+49 228 60884-299",
-      "Telefon": "+49 228 60884-201"
-    },
-    {
-      "Adresse": "Schweriner Straße 44",
-      "Bundesland": "Mecklenburg-Vorpommern",
-      "Internetadresse": "https://www.ptj.de/",
-      "Land": "DE",
-      "Liegenschaft": "Geschäftsstelle Rostock",
-      "LiegenschaftsId": 26960,
-      "OrganisationId": 26978,
-      "Ort": "Rostock",
-      "PLZ": 18069,
-      "Telefon": "+49 381 20356-281"
-    },
-    {
-      "Adresse": "Zimmerstraße 26 - 27",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.ptj.de/",
-      "Land": "DE",
-      "Liegenschaft": "Geschäftsstelle Berlin",
-      "LiegenschaftsId": 26968,
-      "OrganisationId": 26978,
-      "Ort": "Berlin",
-      "PLZ": 10969,
-      "Telefax": "+49 30 20199470",
-      "Telefon": "+49 30 20199431"
+      "Telefon": "+49 2461 61-2626",
+      "Kategorie": "Unklar"
     }
   ]
 }

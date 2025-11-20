@@ -12,6 +12,7 @@
   "OrganisationKurz": "BWV",
   "Ort": "Bonn",
   "PLZ": 53113,
+  "Ressort": "BRH",
   "Telefax": "+49 22899 721-1107",
   "Telefon": "+49 1606966016",
   "Kategorie": "Beauftragter",
@@ -30,6 +31,7 @@
       "OrganisationKurz": "BWV",
       "Ort": "Bonn",
       "PLZ": 53113,
+      "Ressort": "BRH",
       "Telefax": "+49 22899 721-1107",
       "Telefon": "+49 1606966016",
       "Kategorie": "Beauftragter"

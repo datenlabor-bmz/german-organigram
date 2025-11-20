@@ -13,6 +13,7 @@
   "PLZ": 53113,
   "Telefax": "+49 228 234154",
   "Telefon": "+49 228 9171-0",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "50.713691",
@@ -28,7 +29,8 @@
       "Ort": "Bonn",
       "PLZ": 53113,
       "Telefax": "+49 228 234154",
-      "Telefon": "+49 228 9171-0"
+      "Telefon": "+49 228 9171-0",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

@@ -13,6 +13,7 @@
   "PLZ": 42103,
   "Telefax": "+49 202 6958-1109",
   "Telefon": "+49 202 6958-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.243494",
@@ -28,7 +29,8 @@
       "Ort": "Wuppertal",
       "PLZ": 42103,
       "Telefax": "+49 202 6958-1109",
-      "Telefon": "+49 202 6958-0"
+      "Telefon": "+49 202 6958-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

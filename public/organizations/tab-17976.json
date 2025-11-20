@@ -13,6 +13,7 @@
   "Ort": "Berlin",
   "PLZ": 10178,
   "Telefon": "+49 30 28491-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.524721",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "TAB",
       "Ort": "Berlin",
       "PLZ": 10178,
-      "Telefon": "+49 30 28491-0"
+      "Telefon": "+49 30 28491-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

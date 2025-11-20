@@ -13,6 +13,7 @@
   "Ort": "Berlin",
   "PLZ": 10785,
   "Telefon": "+49 30 26996-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.5082125",
@@ -28,21 +29,8 @@
       "OrganisationKurz": "KAS",
       "Ort": "Berlin",
       "PLZ": 10785,
-      "Telefon": "+49 30 26996-0"
-    },
-    {
-      "Adresse": "Rathausallee 12",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "zentrale@kas.de",
-      "Internetadresse": "https://www.kas.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort Sankt Augustin",
-      "LiegenschaftsId": 25948,
-      "OrganisationId": 25952,
-      "Ort": "Sankt Augustin",
-      "PLZ": 53757,
-      "Telefax": "+49 2241 246-2591",
-      "Telefon": "+49 2241 246-0"
+      "Telefon": "+49 30 26996-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

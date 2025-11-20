@@ -35,58 +35,6 @@
       "Telefax": "+49 30 69583-569",
       "Telefon": "+49 30 69583-0",
       "Kategorie": "Bundesunterbehörde"
-    },
-    {
-      "Adresse": " ",
-      "Bundesland": "Mecklenburg-Vorpommern",
-      "Internetadresse": "https://www.zoll.de/SharedDocs/Dienststellen/DE/1_DSSD_Importer/Zollfahndung/ZFA_Berlin_Brandenburg/ZFA_Berlin_Brandenburg_1502/ZFA_Berlin_Brandenburg_1502.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Pomellen",
-      "LiegenschaftsId": 13900,
-      "OrganisationId": 13914,
-      "Ort": "Nadrensee",
-      "PLZ": 17329,
-      "Telefax": "+49 39746 50-306",
-      "Telefon": "+49 39746 50-290"
-    },
-    {
-      "Adresse": "Oderstraße 75",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.zoll.de/SharedDocs/Dienststellen/DE/1_DSSD_Importer/Zollfahndung/ZFA_Berlin_Brandenburg/ZFA_Berlin_Brandenburg_1502/ZFA_Berlin_Brandenburg_1502.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Teltow",
-      "LiegenschaftsId": 13910,
-      "OrganisationId": 13914,
-      "Ort": "Teltow",
-      "PLZ": 14513,
-      "Telefax": "+49 30 69583-201",
-      "Telefon": "+49 30 69583-0"
-    },
-    {
-      "Adresse": "Klein Bademeuseler Straße ",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.zoll.de/SharedDocs/Dienststellen/DE/1_DSSD_Importer/Zollfahndung/ZFA_Berlin_Brandenburg/ZFA_Berlin_Brandenburg_1502/ZFA_Berlin_Brandenburg_1502.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Forst",
-      "LiegenschaftsId": 13890,
-      "OrganisationId": 13914,
-      "Ort": "Forst (Lausitz)",
-      "PLZ": 3149,
-      "Telefax": "+49 3562 952-102",
-      "Telefon": "+49 3562 952-0"
-    },
-    {
-      "Adresse": "Kopernikusstraße  27",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.zoll.de/SharedDocs/Dienststellen/DE/1_DSSD_Importer/Zollfahndung/ZFA_Berlin_Brandenburg/ZFA_Berlin_Brandenburg_1502/ZFA_Berlin_Brandenburg_1502.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Frankfurt (Oder)",
-      "LiegenschaftsId": 13886,
-      "OrganisationId": 13914,
-      "Ort": "Frankfurt (Oder)",
-      "PLZ": 15236,
-      "Telefax": "+49 335 563-2021",
-      "Telefon": "+49 335 563-2046"
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 79110,
   "Telefax": "+49 761 3198-111",
   "Telefon": "+49 761 3198-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "47.9989512",
@@ -30,7 +31,8 @@
       "Ort": "Freiburg",
       "PLZ": 79110,
       "Telefax": "+49 761 3198-111",
-      "Telefon": "+49 761 3198-0"
+      "Telefon": "+49 761 3198-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

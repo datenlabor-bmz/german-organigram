@@ -13,6 +13,8 @@
   "Ort": "Garching",
   "PLZ": 85748,
   "Telefon": "+49 89 3299-01",
+  "Kategorie": "Max-Planck-Institut",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "48.2629559",
@@ -28,20 +30,9 @@
       "OrganisationKurz": "MPIPP",
       "Ort": "Garching",
       "PLZ": 85748,
-      "Telefon": "+49 89 3299-01"
-    },
-    {
-      "Adresse": "Wendelsteinstraße 1",
-      "Bundesland": "Mecklenburg-Vorpommern",
-      "E-Mail": "info@ipp.mpg.de",
-      "Internetadresse": "https://www.ipp.mpg.de/",
-      "Land": "DE",
-      "Liegenschaft": "Teilinstitut Greifswald",
-      "LiegenschaftsId": 317990,
-      "OrganisationId": 317992,
-      "Ort": "Greifswald",
-      "PLZ": 17491,
-      "Telefon": "+49 3834 88-1000"
+      "Telefon": "+49 89 3299-01",
+      "Kategorie": "Max-Planck-Institut",
+      "Versteckt": true
     }
   ]
 }

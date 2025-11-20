@@ -33,33 +33,6 @@
       "Ressort": "BMJV",
       "Telefax": "+49 30 38386666",
       "Telefon": "+49 30 3838660"
-    },
-    {
-      "Adresse": "Gerberstraße  19",
-      "Bundesland": "Bayern",
-      "E-Mail": "dnoti@dnoti.de",
-      "Internetadresse": "https://www.bnotk.de/",
-      "Land": "DE",
-      "Liegenschaft": "Deutsches Notarinstitut",
-      "LiegenschaftsId": 19382,
-      "OrganisationId": 19364,
-      "Ort": "Würzburg",
-      "PLZ": 97070,
-      "Telefax": "+49 931 35576-225",
-      "Telefon": "+49 931 35576-0"
-    },
-    {
-      "Adresse": "Av. de. Cortenbergh 172",
-      "E-Mail": "buero.bruessel@bnotk.de",
-      "Internetadresse": "https://www.bnotk.de/",
-      "Land": "BE",
-      "Liegenschaft": "Büro Brüssel",
-      "LiegenschaftsId": 19368,
-      "OrganisationId": 19364,
-      "Ort": "Brüssel",
-      "PLZ": 1000,
-      "Telefax": "+32 2 73790-09",
-      "Telefon": "+32 2 73790-00"
     }
   ]
 }

@@ -13,6 +13,7 @@
   "PLZ": 14482,
   "Telefax": "+49 331 7019-188",
   "Telefon": "+49 331 7019-0",
+  "Kategorie": "Stiftung des Privatrechts",
   "locations": [
     {
       "Breitengrad": "52.395684",
@@ -28,7 +29,8 @@
       "Ort": "Potsdam",
       "PLZ": 14482,
       "Telefax": "+49 331 7019-188",
-      "Telefon": "+49 331 7019-0"
+      "Telefon": "+49 331 7019-0",
+      "Kategorie": "Stiftung des Privatrechts"
     }
   ]
 }

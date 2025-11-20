@@ -14,7 +14,7 @@
   "PLZ": 38124,
   "Telefax": "+49 531 2616-418",
   "Telefon": "+49 531 2616-0",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,7 +33,7 @@
       "PLZ": 38124,
       "Telefax": "+49 531 2616-418",
       "Telefon": "+49 531 2616-0",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
     }
   ]

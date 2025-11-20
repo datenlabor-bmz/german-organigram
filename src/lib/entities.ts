@@ -4,8 +4,8 @@ import budgetMatches from '../../public/budget_matches.json';
 
 // Type for index entries (minimal data for grid)
 type IndexEntry = {
-    OrganisationId: number;
-    Organisation?: string;
+    Organisation: string;
+    OrganisationId?: number;
     OrganisationDisplay?: string;
     OrganisationKurz?: string;
     Kategorie?: string;
@@ -18,11 +18,11 @@ const rawEntities = indexData as IndexEntry[];
 
 // Convert index entries to entities (just for grid display)
 const entities = rawEntities
-    .filter(entry => !entry.Versteckt)
+    .filter(entry => !entry.Versteckt && entry.Organisation)
     .map(entry => {
         const entity: Entity = {
+            Organisation: entry.Organisation,
             OrganisationId: entry.OrganisationId,
-            Organisation: entry.Organisation || '',
             OrganisationDisplay: entry.OrganisationDisplay,
             OrganisationKurz: entry.OrganisationKurz,
             Kategorie: entry.Kategorie,
@@ -35,21 +35,19 @@ const entities = rawEntities
 // Load full entity data dynamically
 const entityCache: Record<string, Entity> = {};
 
-export const loadFullEntity = async (orgId: string | number): Promise<Entity | null> => {
-    const id = String(orgId);
-    
+export const loadFullEntity = async (orgName: string): Promise<Entity | null> => {
     // Check cache
-    if (entityCache[id]) {
-        return entityCache[id];
+    if (entityCache[orgName]) {
+        return entityCache[orgName];
     }
     
     try {
-        // Find the index entry to get the filename
-        const indexEntry = rawEntities.find(e => String(e.OrganisationId) === id);
+        // Find the index entry
+        const indexEntry = rawEntities.find(e => e.Organisation === orgName);
         if (!indexEntry) return null;
         
         // Generate filename using same logic as Python script
-        const name = indexEntry.OrganisationKurz || indexEntry.Organisation || indexEntry.OrganisationDisplay || `org_${id}`;
+        const name = indexEntry.OrganisationKurz || indexEntry.Organisation || indexEntry.OrganisationDisplay || 'org';
         const sanitized = name
             .normalize('NFKD')
             .replace(/[^\w\s-]/g, '')
@@ -57,33 +55,35 @@ export const loadFullEntity = async (orgId: string | number): Promise<Entity | n
             .replace(/[-\s]+/g, '-')
             .replace(/^-+|-+$/g, '')
             .substring(0, 50);
-        const filename = `${sanitized}-${id}`;
+        const idSuffix = indexEntry.OrganisationId ? `-${indexEntry.OrganisationId}` : '';
+        const filename = `${sanitized}${idSuffix}`;
         
         const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
         const response = await fetch(`${basePath}/organizations/${filename}.json`);
         
         if (!response.ok) {
-            throw new Error(`Failed to load entity ${id}: ${response.status}`);
+            throw new Error(`Failed to load entity ${orgName}: ${response.status}`);
         }
         
         const data = await response.json();
         
-        // Add budget match if available
+        // Add budget match if available (try both Organisation and OrganisationId)
         const budgetMatchesMap = (budgetMatches as BudgetMatch[]).reduce((acc, match) => {
             acc[match.organisationId] = match;
             return acc;
         }, {} as Record<string, BudgetMatch>);
         
-        if (id in budgetMatchesMap) {
-            data.budgetMatch = budgetMatchesMap[id];
+        const matchKey = indexEntry.OrganisationId ? String(indexEntry.OrganisationId) : orgName;
+        if (matchKey in budgetMatchesMap) {
+            data.budgetMatch = budgetMatchesMap[matchKey];
         }
         
         // Cache it
-        entityCache[id] = data;
+        entityCache[orgName] = data;
         
         return data;
     } catch (error) {
-        console.error(`Failed to load entity ${orgId}:`, error);
+        console.error(`Failed to load entity ${orgName}:`, error);
         return null;
     }
 };
@@ -143,12 +143,12 @@ const calculateBudgetAmount = async (match: BudgetMatch): Promise<number> => {
 
 export const getAllEntities = () => entities;
 
-export const getEntityById = (id: string): Entity | null => 
-    entities.find(entity => String(entity.OrganisationId) === id) || null;
+export const getEntityByName = (name: string): Entity | null => 
+    entities.find(entity => entity.Organisation === name) || null;
 
 // Get full entity data (for modal)
-export const getFullEntityById = async (id: string): Promise<Entity | null> => 
-    await loadFullEntity(id);
+export const getFullEntityByName = async (name: string): Promise<Entity | null> => 
+    await loadFullEntity(name);
 
 export const searchEntities = (query: string): Entity[] => {
     const searchTerm = query.toLowerCase();

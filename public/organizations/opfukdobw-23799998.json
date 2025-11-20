@@ -31,19 +31,6 @@
       "PLZ": 13405,
       "Ressort": "BMVg",
       "Telefon": "+49 30 4981 4555"
-    },
-    {
-      "Adresse": "Werderscher Damm 21-29",
-      "Bundesland": "Brandenburg",
-      "E-Mail": "Ofkpresse@bundeswehr.org",
-      "Internetadresse": "https://www.bundeswehr.de/de/organisation/operatives-fuehrungskommando-der-bundeswehr",
-      "Land": "DE",
-      "Liegenschaft": "Liegenschaft Brandenburg",
-      "LiegenschaftsId": 23812320,
-      "OrganisationId": 23799998,
-      "Ort": "Schwielosee",
-      "PLZ": 14548,
-      "Telefon": "+49 30 4981 4555"
     }
   ]
 }

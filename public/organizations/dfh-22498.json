@@ -14,6 +14,7 @@
   "PLZ": 66123,
   "Telefax": "+49 681 93812-111",
   "Telefon": "+49 681 93812-100",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.240243",
@@ -30,7 +31,8 @@
       "Ort": "Saarbrücken",
       "PLZ": 66123,
       "Telefax": "+49 681 93812-111",
-      "Telefon": "+49 681 93812-100"
+      "Telefon": "+49 681 93812-100",
+      "Kategorie": "Unklar"
     }
   ]
 }

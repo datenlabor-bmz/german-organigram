@@ -33,19 +33,6 @@
       "Telefon": "+49 511 5350-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Inhoffenstraße 7",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.item.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Pharmazeutische Biotechnologie",
-      "LiegenschaftsId": 569024,
-      "OrganisationId": 569030,
-      "Ort": "Braunschweig",
-      "PLZ": 38124,
-      "Telefax": "+49 531 6181-6099",
-      "Telefon": "+49 531 6181-6001"
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 60528,
   "Telefax": "+49 69 6702-69",
   "Telefon": "+49 69 6700-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.066757",
@@ -30,7 +31,8 @@
       "Ort": "Frankfurt am Main",
       "PLZ": 60528,
       "Telefax": "+49 69 6702-69",
-      "Telefon": "+49 69 6700-0"
+      "Telefon": "+49 69 6700-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

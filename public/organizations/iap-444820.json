@@ -35,17 +35,6 @@
       "Telefon": "+49 331 568-10",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Volmerstraße 7 b",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.iap.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Aussenstelle Berlin-Adlersdorf",
-      "LiegenschaftsId": 444816,
-      "OrganisationId": 444820,
-      "Ort": "Berlin-Adlersdorf",
-      "PLZ": 12489
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 10117,
   "Telefax": "+49 3018 580-1234",
   "Telefon": "+49 3018 580-8245",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.516181",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10117,
       "Telefax": "+49 3018 580-1234",
-      "Telefon": "+49 3018 580-8245"
+      "Telefon": "+49 3018 580-8245",
+      "Kategorie": "Unklar"
     }
   ]
 }

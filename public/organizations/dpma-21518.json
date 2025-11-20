@@ -33,46 +33,6 @@
       "Ressort": "BMJV",
       "Telefax": "+49 89 2195-2221",
       "Telefon": "+49 89 2195-1000"
-    },
-    {
-      "Adresse": "Goethestraße 1",
-      "Bundesland": "Thüringen",
-      "E-Mail": "info@dpma.de",
-      "Internetadresse": "https://www.dpma.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle Jena",
-      "LiegenschaftsId": 21530,
-      "OrganisationId": 21518,
-      "Ort": "Jena",
-      "PLZ": 7743,
-      "Telefax": "+49 3641 40-5690",
-      "Telefon": "+49 3641 40-54"
-    },
-    {
-      "Adresse": "Marktplatz 16",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.dpma.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle Hauzenberg",
-      "LiegenschaftsId": 9071874,
-      "OrganisationId": 21518,
-      "Ort": "Hauzenberg",
-      "PLZ": 94051,
-      "Telefon": "+49 85869 7907-4800"
-    },
-    {
-      "Adresse": "Gitschiner Straße 97",
-      "Bundesland": "Berlin",
-      "E-Mail": "info@dpma.de",
-      "Internetadresse": "https://www.dpma.de",
-      "Land": "DE",
-      "Liegenschaft": "Informations- und Dienstleistungszentrum Berlin",
-      "LiegenschaftsId": 21536,
-      "OrganisationId": 21518,
-      "Ort": "Berlin",
-      "PLZ": 10969,
-      "Telefax": "+49 30 25992-404",
-      "Telefon": "+49 30 25992-0"
     }
   ]
 }

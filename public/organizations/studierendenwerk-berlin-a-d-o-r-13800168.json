@@ -13,6 +13,7 @@
   "PLZ": 10623,
   "Ressort": "BKM",
   "Telefon": "+49 30 939 39-70",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "52.508617",
@@ -28,7 +29,8 @@
       "Ort": "Berlin",
       "PLZ": 10623,
       "Ressort": "BKM",
-      "Telefon": "+49 30 939 39-70"
+      "Telefon": "+49 30 939 39-70",
+      "Versteckt": true
     }
   ]
 }

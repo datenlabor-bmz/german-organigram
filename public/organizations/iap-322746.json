@@ -35,32 +35,6 @@
       "Telefon": "+49 38293 68-0",
       "Kategorie": "Leibniz-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Hinter der Düne 3",
-      "Bundesland": "Mecklenburg-Vorpommern",
-      "E-Mail": "webadmin@iap-kborn.de",
-      "Internetadresse": "https://www.iap-kborn.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Juliusruh",
-      "LiegenschaftsId": 322788,
-      "OrganisationId": 322746,
-      "Ort": "Altenkirchen",
-      "PLZ": 18556,
-      "Telefax": "+49 38391 13026",
-      "Telefon": "+49 38391 12111"
-    },
-    {
-      "Adresse": "Andoya Space Center ",
-      "Internetadresse": "https://www.iap-kborn.de",
-      "Land": "Norwegen",
-      "Liegenschaft": "ALOMAR Observatory",
-      "LiegenschaftsId": 322790,
-      "OrganisationId": 322746,
-      "Ort": "Andenes",
-      "PLZ": 8483,
-      "Telefax": "+47 7614 1929",
-      "Telefon": "+47 7614 4400"
     }
   ]
 }

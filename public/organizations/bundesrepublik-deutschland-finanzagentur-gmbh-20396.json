@@ -827,30 +827,6 @@
       }
     },
     "referenced_entities": {
-      "Q4830453": {
-        "type": "item",
-        "id": "Q4830453",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Gewerbebetrieb"
-          },
-          "en": {
-            "language": "en",
-            "value": "business"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "gewerbliche oder kaufmännische Geschäftseinheit"
-          },
-          "en": {
-            "language": "en",
-            "value": "organization undertaking commercial, industrial, or professional activity"
-          }
-        }
-      },
       "Q270791": {
         "type": "item",
         "id": "Q270791",
@@ -872,6 +848,30 @@
           "de": {
             "language": "de",
             "value": "öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates"
+          }
+        }
+      },
+      "Q4830453": {
+        "type": "item",
+        "id": "Q4830453",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Gewerbebetrieb"
+          },
+          "en": {
+            "language": "en",
+            "value": "business"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "gewerbliche oder kaufmännische Geschäftseinheit"
+          },
+          "en": {
+            "language": "en",
+            "value": "organization undertaking commercial, industrial, or professional activity"
           }
         }
       }

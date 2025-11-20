@@ -12,7 +12,10 @@
   "OrganisationKurz": "DSEE",
   "Ort": "Neustrelitz",
   "PLZ": 17235,
+  "Ressort": "BMBFSFJ",
   "Telefon": "03981 4569-600",
+  "Kategorie": "Stiftung öffentlichen Rechts",
+  "Notiz": "gemeinsam mit BMI und BMLEH",
   "locations": [
     {
       "Breitengrad": "53.348655",
@@ -28,7 +31,10 @@
       "OrganisationKurz": "DSEE",
       "Ort": "Neustrelitz",
       "PLZ": 17235,
-      "Telefon": "03981 4569-600"
+      "Ressort": "BMBFSFJ",
+      "Telefon": "03981 4569-600",
+      "Kategorie": "Stiftung öffentlichen Rechts",
+      "Notiz": "gemeinsam mit BMI und BMLEH"
     }
   ]
 }

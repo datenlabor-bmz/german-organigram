@@ -13,6 +13,7 @@
   "PLZ": 99423,
   "Telefax": "+49 3643 545-454",
   "Telefon": "+49 3643 545-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.980054",
@@ -28,7 +29,8 @@
       "Ort": "Weimar",
       "PLZ": 99423,
       "Telefax": "+49 3643 545-454",
-      "Telefon": "+49 3643 545-0"
+      "Telefon": "+49 3643 545-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

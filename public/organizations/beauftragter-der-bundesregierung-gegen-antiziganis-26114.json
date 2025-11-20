@@ -1313,30 +1313,6 @@
           ]
         }
       },
-      "Q13124": {
-        "type": "item",
-        "id": "Q13124",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Freie Demokratische Partei"
-          },
-          "en": {
-            "language": "en",
-            "value": "Free Democratic Party"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "politische Partei in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "political party in Germany"
-          }
-        }
-      },
       "Q6581097": {
         "type": "item",
         "id": "Q6581097",
@@ -1358,6 +1334,30 @@
           "en": {
             "language": "en",
             "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
+          }
+        }
+      },
+      "Q13124": {
+        "type": "item",
+        "id": "Q13124",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Freie Demokratische Partei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Free Democratic Party"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "politische Partei in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "political party in Germany"
           }
         }
       },

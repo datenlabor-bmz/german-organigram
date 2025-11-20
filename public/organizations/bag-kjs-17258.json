@@ -15,6 +15,7 @@
   "Ressort": "BMBFSFJ",
   "Telefax": "+49 211 486509",
   "Telefon": "+49 211 94485-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.238344",
@@ -32,21 +33,8 @@
       "PLZ": 40477,
       "Ressort": "BMBFSFJ",
       "Telefax": "+49 211 486509",
-      "Telefon": "+49 211 94485-0"
-    },
-    {
-      "Adresse": "Chausseestraße 128 -129",
-      "Bundesland": "Berlin",
-      "E-Mail": "bagkjs@jugendsozialarbeit.de",
-      "Internetadresse": "https://www.bagkjs.de",
-      "Land": "DE",
-      "Liegenschaft": "Büro Berlin",
-      "LiegenschaftsId": 17254,
-      "OrganisationId": 17258,
-      "Ort": "Berlin",
-      "PLZ": 10115,
-      "Telefax": "+49 30 28878955",
-      "Telefon": "+49 30 28878956"
+      "Telefon": "+49 211 94485-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

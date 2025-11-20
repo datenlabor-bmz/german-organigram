@@ -14,6 +14,7 @@
   "PLZ": 14195,
   "Telefax": "+49 30 839001-85",
   "Telefon": "+49 30 839001-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.46502",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 14195,
       "Telefax": "+49 30 839001-85",
-      "Telefon": "+49 30 839001-0"
+      "Telefon": "+49 30 839001-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

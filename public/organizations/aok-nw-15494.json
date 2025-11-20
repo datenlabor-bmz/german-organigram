@@ -14,6 +14,7 @@
   "Ressort": "BMG",
   "Telefax": "+49 800 265 2265",
   "Telefon": "+49 800 265 5000",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "51.5027525",
@@ -30,7 +31,8 @@
       "PLZ": 44269,
       "Ressort": "BMG",
       "Telefax": "+49 800 265 2265",
-      "Telefon": "+49 800 265 5000"
+      "Telefon": "+49 800 265 5000",
+      "Versteckt": true
     }
   ]
 }

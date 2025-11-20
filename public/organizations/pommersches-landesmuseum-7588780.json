@@ -13,6 +13,7 @@
   "PLZ": 17489,
   "Telefax": "+49 3834 831211",
   "Telefon": "+49 3834 8312-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "54.09492",
@@ -28,7 +29,8 @@
       "Ort": "Greifswald",
       "PLZ": 17489,
       "Telefax": "+49 3834 831211",
-      "Telefon": "+49 3834 8312-0"
+      "Telefon": "+49 3834 8312-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

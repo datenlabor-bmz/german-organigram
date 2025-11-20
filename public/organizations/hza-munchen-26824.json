@@ -37,20 +37,6 @@
       "Telefon": "+49 89 5995-00",
       "Kategorie": "Bundesunterbehörde",
       "Wikidata ID": "Q1589828"
-    },
-    {
-      "Adresse": "Landsberger Straße 124",
-      "Bundesland": "Bayern",
-      "E-Mail": "poststelle@hzam.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Landsberger Straße",
-      "LiegenschaftsId": 433034,
-      "OrganisationId": 26824,
-      "Ort": "München",
-      "PLZ": 80339,
-      "Telefax": "+49 89 5109-2054",
-      "Telefon": "+49 89 5109-00"
     }
   ],
   "wikidata": {
@@ -644,30 +630,6 @@
       }
     },
     "referenced_entities": {
-      "Q98739922": {
-        "type": "item",
-        "id": "Q98739922",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Hauptzollamt Landsberger Straße 126; Landsberger Straße 128; Landsberger Straße 128a; Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#1)"
-          },
-          "en": {
-            "language": "en",
-            "value": "Hauptzollamt Landsberger Straße 126; Landsberger Straße 128; Landsberger Straße 128a; Landsberger Straße 130; Landsberger Straße 132 in München"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Dienstwohnhaus"
-          },
-          "en": {
-            "language": "en",
-            "value": "cultural heritage monument D-1-62-000-3763 (1) in München, Bavaria"
-          }
-        }
-      },
       "Q98739925": {
         "type": "item",
         "id": "Q98739925",
@@ -692,51 +654,27 @@
           }
         }
       },
-      "Q1497364": {
+      "Q98739922": {
         "type": "item",
-        "id": "Q1497364",
+        "id": "Q98739922",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Gebäudekomplex"
+            "value": "Hauptzollamt Landsberger Straße 126; Landsberger Straße 128; Landsberger Straße 128a; Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#1)"
           },
           "en": {
             "language": "en",
-            "value": "building complex"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "set of related buildings"
-          },
-          "de": {
-            "language": "de",
-            "value": "Menge von zusammengehörenden Gebäuden"
-          }
-        }
-      },
-      "Q98739924": {
-        "type": "item",
-        "id": "Q98739924",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Hauptzollamt Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#4)"
-          },
-          "en": {
-            "language": "en",
-            "value": "Hauptzollamt Landsberger Straße 130; Landsberger Straße 132 in München"
+            "value": "Hauptzollamt Landsberger Straße 126; Landsberger Straße 128; Landsberger Straße 128a; Landsberger Straße 130; Landsberger Straße 132 in München"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Brunnen"
+            "value": "Dienstwohnhaus"
           },
           "en": {
             "language": "en",
-            "value": "cultural heritage monument D-1-62-000-3763 (4) in München, Bavaria"
+            "value": "cultural heritage monument D-1-62-000-3763 (1) in München, Bavaria"
           }
         }
       },
@@ -764,6 +702,54 @@
           }
         }
       },
+      "Q98739926": {
+        "type": "item",
+        "id": "Q98739926",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Lehrsaalgebäude Landsberger Straße 122 in München (D-1-62-000-3763#6)"
+          },
+          "en": {
+            "language": "en",
+            "value": "Lehrsaalgebäude Landsberger Straße 122 in München"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Lehrsaalgebäude, syn. Unterrichtsgebäude, syn. Hörsaalgebäude, Zollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "cultural heritage monument D-1-62-000-3763 (6) in München, Bavaria"
+          }
+        }
+      },
+      "Q1497364": {
+        "type": "item",
+        "id": "Q1497364",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Gebäudekomplex"
+          },
+          "en": {
+            "language": "en",
+            "value": "building complex"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "set of related buildings"
+          },
+          "de": {
+            "language": "de",
+            "value": "Menge von zusammengehörenden Gebäuden"
+          }
+        }
+      },
       "Q98739921": {
         "type": "item",
         "id": "Q98739921",
@@ -788,27 +774,27 @@
           }
         }
       },
-      "Q98739926": {
+      "Q98739924": {
         "type": "item",
-        "id": "Q98739926",
+        "id": "Q98739924",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Lehrsaalgebäude Landsberger Straße 122 in München (D-1-62-000-3763#6)"
+            "value": "Hauptzollamt Landsberger Straße 130; Landsberger Straße 132 in München (D-1-62-000-3763#4)"
           },
           "en": {
             "language": "en",
-            "value": "Lehrsaalgebäude Landsberger Straße 122 in München"
+            "value": "Hauptzollamt Landsberger Straße 130; Landsberger Straße 132 in München"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Lehrsaalgebäude, syn. Unterrichtsgebäude, syn. Hörsaalgebäude, Zollamt"
+            "value": "Brunnen"
           },
           "en": {
             "language": "en",
-            "value": "cultural heritage monument D-1-62-000-3763 (6) in München, Bavaria"
+            "value": "cultural heritage monument D-1-62-000-3763 (4) in München, Bavaria"
           }
         }
       }

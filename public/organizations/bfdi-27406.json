@@ -12,10 +12,11 @@
   "OrganisationKurz": "BfDI",
   "Ort": "Bonn",
   "PLZ": 53117,
+  "Ressort": "BfDI",
   "Telefon": "+49 228 99 77 99-0",
+  "IstRessort": true,
   "Kategorie": "Oberste Bundesbehörde",
   "Wikidata ID": "Q1005821",
-  "Ressort": "BfDI",
   "locations": [
     {
       "Breitengrad": "50.748389",
@@ -31,10 +32,11 @@
       "OrganisationKurz": "BfDI",
       "Ort": "Bonn",
       "PLZ": 53117,
+      "Ressort": "BfDI",
       "Telefon": "+49 228 99 77 99-0",
+      "IstRessort": true,
       "Kategorie": "Oberste Bundesbehörde",
-      "Wikidata ID": "Q1005821",
-      "Ressort": "BfDI"
+      "Wikidata ID": "Q1005821"
     }
   ],
   "wikidata": {
@@ -4585,6 +4587,209 @@
           }
         }
       },
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      },
+      "Q1690204": {
+        "type": "item",
+        "id": "Q1690204",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Joachim Jacob"
+          },
+          "en": {
+            "language": "en",
+            "value": "Joachim Jacob"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Datenschutzexperte"
+          },
+          "en": {
+            "language": "en",
+            "value": "German jurist (1939–2024)"
+          }
+        }
+      },
+      "Q3242920": {
+        "type": "item",
+        "id": "Q3242920",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "data protection authority"
+          },
+          "de": {
+            "language": "de",
+            "value": "Datenschutzaufsichtsbehörde"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Behörde, die durch Ermittlungs- und Abhilfebefugnisse die Anwendung des Datenschutzgesetzes überwacht und beaufsichtigt"
+          },
+          "en": {
+            "language": "en",
+            "value": "public authority that monitor and supervise, through investigative and corrective powers, the application of the data protection law"
+          }
+        }
+      },
+      "Q2078019": {
+        "type": "item",
+        "id": "Q2078019",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Peter Schaar"
+          },
+          "en": {
+            "language": "en",
+            "value": "Peter Schaar"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Datenschutzexperte"
+          },
+          "en": {
+            "language": "en",
+            "value": "former Federal Commissioner for Data Protection and Freedom of Information of Germany"
+          }
+        }
+      },
+      "Q117825030": {
+        "type": "item",
+        "id": "Q117825030",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Jürgen H. Müller"
+          },
+          "en": {
+            "language": "en",
+            "value": "Jürgen H. Müller"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Verwaltungsjurist und politischer Beamter"
+          }
+        }
+      },
+      "Q1581656": {
+        "type": "item",
+        "id": "Q1581656",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hans Peter Bull"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hans Peter Bull"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Rechtswissenschaftler, Politiker (SPD), Landesminister"
+          },
+          "en": {
+            "language": "en",
+            "value": "German politician"
+          }
+        }
+      },
+      "Q99935030": {
+        "type": "item",
+        "id": "Q99935030",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Oberste Bundesbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Oberste Bundesbehörde"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q1409291": {
+        "type": "item",
+        "id": "Q1409291",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Alfred Einwag"
+          },
+          "en": {
+            "language": "en",
+            "value": "Alfred Einwag"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Jurist"
+          },
+          "en": {
+            "language": "en",
+            "value": "German jurist"
+          }
+        }
+      },
+      "Q493348": {
+        "type": "item",
+        "id": "Q493348",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Andrea Voßhoff"
+          },
+          "en": {
+            "language": "en",
+            "value": "Andrea Astrid Voßhoff"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Politikerin, MdB"
+          },
+          "en": {
+            "language": "en",
+            "value": "German politician"
+          }
+        }
+      },
       "Q2476158": {
         "type": "item",
         "id": "Q2476158",
@@ -4630,209 +4835,6 @@
           "en": {
             "language": "en",
             "value": "German jurist (1924-2016)"
-          }
-        }
-      },
-      "Q1409291": {
-        "type": "item",
-        "id": "Q1409291",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Alfred Einwag"
-          },
-          "en": {
-            "language": "en",
-            "value": "Alfred Einwag"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutscher Jurist"
-          },
-          "en": {
-            "language": "en",
-            "value": "German jurist"
-          }
-        }
-      },
-      "Q4164871": {
-        "type": "item",
-        "id": "Q4164871",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "position"
-          },
-          "de": {
-            "language": "de",
-            "value": "Position"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "social role with a set of powers and responsibilities within an organization"
-          },
-          "de": {
-            "language": "de",
-            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
-          }
-        }
-      },
-      "Q99935030": {
-        "type": "item",
-        "id": "Q99935030",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Oberste Bundesbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "Oberste Bundesbehörde"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q1581656": {
-        "type": "item",
-        "id": "Q1581656",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Hans Peter Bull"
-          },
-          "en": {
-            "language": "en",
-            "value": "Hans Peter Bull"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutscher Rechtswissenschaftler, Politiker (SPD), Landesminister"
-          },
-          "en": {
-            "language": "en",
-            "value": "German politician"
-          }
-        }
-      },
-      "Q1690204": {
-        "type": "item",
-        "id": "Q1690204",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Joachim Jacob"
-          },
-          "en": {
-            "language": "en",
-            "value": "Joachim Jacob"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutscher Datenschutzexperte"
-          },
-          "en": {
-            "language": "en",
-            "value": "German jurist (1939–2024)"
-          }
-        }
-      },
-      "Q117825030": {
-        "type": "item",
-        "id": "Q117825030",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Jürgen H. Müller"
-          },
-          "en": {
-            "language": "en",
-            "value": "Jürgen H. Müller"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutscher Verwaltungsjurist und politischer Beamter"
-          }
-        }
-      },
-      "Q2078019": {
-        "type": "item",
-        "id": "Q2078019",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Peter Schaar"
-          },
-          "en": {
-            "language": "en",
-            "value": "Peter Schaar"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutscher Datenschutzexperte"
-          },
-          "en": {
-            "language": "en",
-            "value": "former Federal Commissioner for Data Protection and Freedom of Information of Germany"
-          }
-        }
-      },
-      "Q3242920": {
-        "type": "item",
-        "id": "Q3242920",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "data protection authority"
-          },
-          "de": {
-            "language": "de",
-            "value": "Datenschutzaufsichtsbehörde"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Behörde, die durch Ermittlungs- und Abhilfebefugnisse die Anwendung des Datenschutzgesetzes überwacht und beaufsichtigt"
-          },
-          "en": {
-            "language": "en",
-            "value": "public authority that monitor and supervise, through investigative and corrective powers, the application of the data protection law"
-          }
-        }
-      },
-      "Q493348": {
-        "type": "item",
-        "id": "Q493348",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Andrea Voßhoff"
-          },
-          "en": {
-            "language": "en",
-            "value": "Andrea Astrid Voßhoff"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutsche Politikerin, MdB"
-          },
-          "en": {
-            "language": "en",
-            "value": "German politician"
           }
         }
       }

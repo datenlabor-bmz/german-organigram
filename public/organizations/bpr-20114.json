@@ -13,6 +13,8 @@
   "Ort": "Berlin",
   "PLZ": 10557,
   "Telefon": "+49 30 2000-0",
+  "Kategorie": "Unklar",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "52.516158",
@@ -28,21 +30,9 @@
       "OrganisationKurz": "BPr",
       "Ort": "Berlin",
       "PLZ": 10557,
-      "Telefon": "+49 30 2000-0"
-    },
-    {
-      "Adresse": "Adenauerallee 135",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "poststelle@bpra.bund.de",
-      "Internetadresse": "https://www.bundespraesident.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Amtssitz Villa Hammerschmidt",
-      "LiegenschaftsId": 20100,
-      "OrganisationId": 20114,
-      "Ort": "Bonn",
-      "PLZ": 53113,
-      "Telefax": "+49 228 200-1999",
-      "Telefon": "+49 228 200-0"
+      "Telefon": "+49 30 2000-0",
+      "Kategorie": "Unklar",
+      "Versteckt": true
     }
   ]
 }

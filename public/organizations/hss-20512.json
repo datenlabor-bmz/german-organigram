@@ -14,6 +14,7 @@
   "PLZ": 80636,
   "Telefax": "+49 89 1258-356",
   "Telefon": "+49 89 1258-0",
+  "Kategorie": "Stiftung des Privatrechts",
   "locations": [
     {
       "Breitengrad": "48.152753",
@@ -30,7 +31,8 @@
       "Ort": "München",
       "PLZ": 80636,
       "Telefax": "+49 89 1258-356",
-      "Telefon": "+49 89 1258-0"
+      "Telefon": "+49 89 1258-0",
+      "Kategorie": "Stiftung des Privatrechts"
     }
   ]
 }

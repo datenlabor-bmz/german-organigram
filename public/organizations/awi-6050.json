@@ -37,44 +37,6 @@
       "Telefon": "+49 471 4831-0",
       "Kategorie": "Helmholtz",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Kurpromenade 201",
-      "Bundesland": "Schleswig-Holstein",
-      "Internetadresse": "https://www.awi.de/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Helgoland",
-      "LiegenschaftsId": 6062,
-      "OrganisationId": 6050,
-      "Ort": "Helgoland",
-      "PLZ": 27498,
-      "Telefax": "+49 4725 819-3283",
-      "Telefon": "+49 4725 819-0"
-    },
-    {
-      "Adresse": "Telegrafenberg ",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.awi.de/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Potsdam",
-      "LiegenschaftsId": 6056,
-      "OrganisationId": 6050,
-      "Ort": "Potsdam",
-      "PLZ": 14473,
-      "Telefon": "+49 331 2882-100"
-    },
-    {
-      "Adresse": "Hafenstraße 43",
-      "Bundesland": "Schleswig-Holstein",
-      "Internetadresse": "https://www.awi.de/",
-      "Land": "DE",
-      "Liegenschaft": "Standort-Sylt",
-      "LiegenschaftsId": 6068,
-      "OrganisationId": 6050,
-      "Ort": "List",
-      "PLZ": 25992,
-      "Telefax": "+49 4651 956-200",
-      "Telefon": "+49 4651 956-0"
     }
   ]
 }

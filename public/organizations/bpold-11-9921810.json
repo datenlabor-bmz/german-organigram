@@ -317,30 +317,6 @@
       }
     },
     "referenced_entities": {
-      "Q56026": {
-        "type": "item",
-        "id": "Q56026",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundespolizei"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Police of Germany"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "German federal law enforcement agency"
-          }
-        }
-      },
       "Q35535": {
         "type": "item",
         "id": "Q35535",
@@ -382,6 +358,30 @@
           "de": {
             "language": "de",
             "value": "Art von Bundesbehörde in Deutschland"
+          }
+        }
+      },
+      "Q56026": {
+        "type": "item",
+        "id": "Q56026",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundespolizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Police of Germany"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal law enforcement agency"
           }
         }
       }

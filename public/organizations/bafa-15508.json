@@ -37,52 +37,6 @@
       "Telefon": "+49 6196 908-0",
       "Kategorie": "Bundesoberbehörde",
       "Wikidata ID": "Q1005513"
-    },
-    {
-      "Adresse": "Friedrich-Bodelschwingh-Straße 15",
-      "Bundesland": "Freistaat Sachsen",
-      "Internetadresse": "https://www.bafa.de/DE/Home/home_node.html",
-      "Land": "Deutschland",
-      "Liegenschaft": "Aussenstelle Weißwasser/Oberlausitz",
-      "LiegenschaftsId": 24020698,
-      "OrganisationId": 15508,
-      "Ort": "Weißwasser/Oberlausitz",
-      "PLZ": 2943
-    },
-    {
-      "Adresse": "Kasernenstraße 2",
-      "Bundesland": "Freistaat Sachsen",
-      "Internetadresse": "https://www.bafa.de/DE/Home/home_node.html",
-      "Land": "Deutschland",
-      "Liegenschaft": "Aussenstelle Borna",
-      "LiegenschaftsId": 24020700,
-      "OrganisationId": 15508,
-      "Ort": "Borna",
-      "PLZ": 4552
-    },
-    {
-      "Adresse": "Pieperstraße 14 - 28",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.bafa.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Aussenstelle Bochum",
-      "LiegenschaftsId": 15538,
-      "OrganisationId": 15508,
-      "Ort": "Bochum",
-      "PLZ": 44789,
-      "Telefax": "+49 6196 908-1800",
-      "Telefon": "+49 6196 908-0"
-    },
-    {
-      "Adresse": "Uhlandstraße 88-90",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bafa.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Abschlussprüferaufsichtsstelle beim BAFA",
-      "LiegenschaftsId": 8756508,
-      "OrganisationId": 15508,
-      "Ort": "Berlin",
-      "PLZ": 10717
     }
   ],
   "wikidata": {
@@ -1914,23 +1868,23 @@
       }
     },
     "referenced_entities": {
-      "Q48479415": {
+      "Q129485380": {
         "type": "item",
-        "id": "Q48479415",
+        "id": "Q129485380",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Andreas Obersteller"
+            "value": "Mandy Pastohr"
           },
           "en": {
             "language": "en",
-            "value": "Andreas Obersteller"
+            "value": "Mandy Pastohr"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "deutscher Ministerialbeamter"
+            "value": "deutsche politische Beamtin, Präsidentin des Bundesamt für Wirtschaft und Ausfuhrkontrolle"
           }
         },
         "claims": {
@@ -1951,7 +1905,7 @@
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q48479415$4D7D706E-E531-4FF1-9607-35E395B407DD",
+              "id": "Q129485380$5FAC5C8E-7885-4668-943B-D82A5E301DC0",
               "rank": "normal"
             }
           ],
@@ -1960,46 +1914,62 @@
               "mainsnak": {
                 "snaktype": "value",
                 "property": "P21",
-                "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+                "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
                 "datavalue": {
                   "value": {
                     "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
+                    "numeric-id": 6581072,
+                    "id": "Q6581072"
                   },
                   "type": "wikibase-entityid"
                 },
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q48479415$9BEE202F-3734-4BA4-96BD-7E702F23AB9F",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 69652498,
-                            "id": "Q69652498"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
+              "id": "Q129485380$70F0E7ED-0FAC-4E2B-8A55-EE62021CA426",
+              "rank": "normal"
+            }
+          ],
+          "P735": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P735",
+                "hash": "69424f37feb04737bda21291695214a62c69b277",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 283277,
+                    "id": "Q283277"
                   },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "q129485380$b1739613-4163-dd6e-93ee-319ff5a98212",
+              "rank": "normal"
+            }
+          ],
+          "P734": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P734",
+                "hash": "8c16afed79e526239051927c79246ff0e9a1db6f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 115787181,
+                    "id": "Q115787181"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "q129485380$6d5cbdf0-4ea5-fb08-6463-2948f270547b",
+              "rank": "normal"
             }
           ],
           "P569": [
@@ -2007,10 +1977,10 @@
               "mainsnak": {
                 "snaktype": "value",
                 "property": "P569",
-                "hash": "96e3a355e4b53baf981e7c87000eaf1a430d04d0",
+                "hash": "a421cb8375bfaa86efc199a5289793b900e439e8",
                 "datavalue": {
                   "value": {
-                    "time": "+1953-09-03T00:00:00Z",
+                    "time": "+1978-04-06T00:00:00Z",
                     "timezone": 0,
                     "before": 0,
                     "after": 0,
@@ -2022,7 +1992,7 @@
                 "datatype": "time"
               },
               "type": "statement",
-              "id": "Q48479415$AAF44A29-EF94-45B6-9551-5174EABEEA7E",
+              "id": "Q129485380$65EEE674-8DC5-43B3-AD52-AF247965D4AC",
               "rank": "normal",
               "references": [
                 {
@@ -2052,260 +2022,25 @@
               ]
             }
           ],
-          "P2671": [
+          "P27": [
             {
               "mainsnak": {
                 "snaktype": "value",
-                "property": "P2671",
-                "hash": "e586f511d7f3eabb8236d78174fb0fd233f67b46",
+                "property": "P27",
+                "hash": "28768c5a0d7abd2db9e299666f4b4f3e873f248f",
                 "datavalue": {
-                  "value": "/g/11gfnz7t0y",
-                  "type": "string"
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16957,
+                    "id": "Q16957"
+                  },
+                  "type": "wikibase-entityid"
                 },
-                "datatype": "external-id"
+                "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q48479415$C4056A45-B004-48B9-AA3E-453F40CA31C6",
+              "id": "Q129485380$82A34E82-67B2-4677-A70F-637121A44DD4",
               "rank": "normal"
-            }
-          ],
-          "P735": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P735",
-                "hash": "10a19f90ff6b666fbc90ed7be25e139aa2adf0a4",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4926263,
-                    "id": "Q4926263"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q48479415$3A4CF8AD-09F0-412A-B19E-D733B52BAAE2",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 97033143,
-                            "id": "Q97033143"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P570": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P570",
-                "hash": "c42bbe5f652c2a90e9e31ba304e1f0f6d1c7f9a5",
-                "datavalue": {
-                  "value": {
-                    "time": "+2023-09-30T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                  },
-                  "type": "time"
-                },
-                "datatype": "time"
-              },
-              "type": "statement",
-              "id": "Q48479415$20516e5e-4964-fa8c-5cbb-4e609489aaa4",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "41db7860a6b4eea3037a871c725ee8ce062ef807",
-                  "snaks": {
-                    "P854": [
-                      {
-                        "snaktype": "value",
-                        "property": "P854",
-                        "hash": "e7a21eea97f10a82fdaacc959ec44d3bea7544b3",
-                        "datavalue": {
-                          "value": "https://trauer.tagesspiegel.de/traueranzeige/andreas-obersteller",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ],
-                    "P813": [
-                      {
-                        "snaktype": "value",
-                        "property": "P813",
-                        "hash": "e8136fcb579717f6266d3b467babdbb0ad5d1f72",
-                        "datavalue": {
-                          "value": {
-                            "time": "+2023-10-16T00:00:00Z",
-                            "timezone": 0,
-                            "before": 0,
-                            "after": 0,
-                            "precision": 11,
-                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                          },
-                          "type": "time"
-                        },
-                        "datatype": "time"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P854",
-                    "P813"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P19": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P19",
-                "hash": "ece547e33e0d71fced4f943b1b9b2a5e4406ed33",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 552545,
-                    "id": "Q552545"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q48479415$88289bf9-4bc6-8ba2-8679-112beadc41f5",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "41db7860a6b4eea3037a871c725ee8ce062ef807",
-                  "snaks": {
-                    "P854": [
-                      {
-                        "snaktype": "value",
-                        "property": "P854",
-                        "hash": "e7a21eea97f10a82fdaacc959ec44d3bea7544b3",
-                        "datavalue": {
-                          "value": "https://trauer.tagesspiegel.de/traueranzeige/andreas-obersteller",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ],
-                    "P813": [
-                      {
-                        "snaktype": "value",
-                        "property": "P813",
-                        "hash": "e8136fcb579717f6266d3b467babdbb0ad5d1f72",
-                        "datavalue": {
-                          "value": {
-                            "time": "+2023-10-16T00:00:00Z",
-                            "timezone": 0,
-                            "before": 0,
-                            "after": 0,
-                            "precision": 11,
-                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                          },
-                          "type": "time"
-                        },
-                        "datatype": "time"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P854",
-                    "P813"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P20": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P20",
-                "hash": "353773fafc33fa38af83afc667553d3328c2714c",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 64,
-                    "id": "Q64"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q48479415$e85d7bfd-4a34-388f-a892-4570e0b4d713",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "41db7860a6b4eea3037a871c725ee8ce062ef807",
-                  "snaks": {
-                    "P854": [
-                      {
-                        "snaktype": "value",
-                        "property": "P854",
-                        "hash": "e7a21eea97f10a82fdaacc959ec44d3bea7544b3",
-                        "datavalue": {
-                          "value": "https://trauer.tagesspiegel.de/traueranzeige/andreas-obersteller",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ],
-                    "P813": [
-                      {
-                        "snaktype": "value",
-                        "property": "P813",
-                        "hash": "e8136fcb579717f6266d3b467babdbb0ad5d1f72",
-                        "datavalue": {
-                          "value": {
-                            "time": "+2023-10-16T00:00:00Z",
-                            "timezone": 0,
-                            "before": 0,
-                            "after": 0,
-                            "precision": 11,
-                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                          },
-                          "type": "time"
-                        },
-                        "datatype": "time"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P854",
-                    "P813"
-                  ]
-                }
-              ]
             }
           ],
           "P1412": [
@@ -2325,8 +2060,55 @@
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q48479415$D556DCD1-B885-4B7F-A9B7-3B197BE4313C",
+              "id": "Q129485380$506E7C8A-14BA-42EE-9E10-990285829FBD",
               "rank": "normal"
+            }
+          ],
+          "P19": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P19",
+                "hash": "a20f43fb522b2c398a53fd35be75ee4441fbd870",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3150,
+                    "id": "Q3150"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q129485380$79C073ED-570D-425F-8171-DEF756FCDE43",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143"
+                  ]
+                }
+              ]
             }
           ]
         }
@@ -3083,23 +2865,23 @@
           ]
         }
       },
-      "Q129485380": {
+      "Q48479415": {
         "type": "item",
-        "id": "Q129485380",
+        "id": "Q48479415",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Mandy Pastohr"
+            "value": "Andreas Obersteller"
           },
           "en": {
             "language": "en",
-            "value": "Mandy Pastohr"
+            "value": "Andreas Obersteller"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "deutsche politische Beamtin, Präsidentin des Bundesamt für Wirtschaft und Ausfuhrkontrolle"
+            "value": "deutscher Ministerialbeamter"
           }
         },
         "claims": {
@@ -3120,7 +2902,7 @@
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q129485380$5FAC5C8E-7885-4668-943B-D82A5E301DC0",
+              "id": "Q48479415$4D7D706E-E531-4FF1-9607-35E395B407DD",
               "rank": "normal"
             }
           ],
@@ -3129,62 +2911,46 @@
               "mainsnak": {
                 "snaktype": "value",
                 "property": "P21",
-                "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
+                "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
                 "datavalue": {
                   "value": {
                     "entity-type": "item",
-                    "numeric-id": 6581072,
-                    "id": "Q6581072"
+                    "numeric-id": 6581097,
+                    "id": "Q6581097"
                   },
                   "type": "wikibase-entityid"
                 },
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q129485380$70F0E7ED-0FAC-4E2B-8A55-EE62021CA426",
-              "rank": "normal"
-            }
-          ],
-          "P735": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P735",
-                "hash": "69424f37feb04737bda21291695214a62c69b277",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 283277,
-                    "id": "Q283277"
+              "id": "Q48479415$9BEE202F-3734-4BA4-96BD-7E702F23AB9F",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 69652498,
+                            "id": "Q69652498"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
                   },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "q129485380$b1739613-4163-dd6e-93ee-319ff5a98212",
-              "rank": "normal"
-            }
-          ],
-          "P734": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P734",
-                "hash": "8c16afed79e526239051927c79246ff0e9a1db6f",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 115787181,
-                    "id": "Q115787181"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "q129485380$6d5cbdf0-4ea5-fb08-6463-2948f270547b",
-              "rank": "normal"
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
             }
           ],
           "P569": [
@@ -3192,10 +2958,10 @@
               "mainsnak": {
                 "snaktype": "value",
                 "property": "P569",
-                "hash": "a421cb8375bfaa86efc199a5289793b900e439e8",
+                "hash": "96e3a355e4b53baf981e7c87000eaf1a430d04d0",
                 "datavalue": {
                   "value": {
-                    "time": "+1978-04-06T00:00:00Z",
+                    "time": "+1953-09-03T00:00:00Z",
                     "timezone": 0,
                     "before": 0,
                     "after": 0,
@@ -3207,7 +2973,7 @@
                 "datatype": "time"
               },
               "type": "statement",
-              "id": "Q129485380$65EEE674-8DC5-43B3-AD52-AF247965D4AC",
+              "id": "Q48479415$AAF44A29-EF94-45B6-9551-5174EABEEA7E",
               "rank": "normal",
               "references": [
                 {
@@ -3237,25 +3003,260 @@
               ]
             }
           ],
-          "P27": [
+          "P2671": [
             {
               "mainsnak": {
                 "snaktype": "value",
-                "property": "P27",
-                "hash": "28768c5a0d7abd2db9e299666f4b4f3e873f248f",
+                "property": "P2671",
+                "hash": "e586f511d7f3eabb8236d78174fb0fd233f67b46",
+                "datavalue": {
+                  "value": "/g/11gfnz7t0y",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q48479415$C4056A45-B004-48B9-AA3E-453F40CA31C6",
+              "rank": "normal"
+            }
+          ],
+          "P735": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P735",
+                "hash": "10a19f90ff6b666fbc90ed7be25e139aa2adf0a4",
                 "datavalue": {
                   "value": {
                     "entity-type": "item",
-                    "numeric-id": 16957,
-                    "id": "Q16957"
+                    "numeric-id": 4926263,
+                    "id": "Q4926263"
                   },
                   "type": "wikibase-entityid"
                 },
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q129485380$82A34E82-67B2-4677-A70F-637121A44DD4",
-              "rank": "normal"
+              "id": "Q48479415$3A4CF8AD-09F0-412A-B19E-D733B52BAAE2",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97033143,
+                            "id": "Q97033143"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P570": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P570",
+                "hash": "c42bbe5f652c2a90e9e31ba304e1f0f6d1c7f9a5",
+                "datavalue": {
+                  "value": {
+                    "time": "+2023-09-30T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                  },
+                  "type": "time"
+                },
+                "datatype": "time"
+              },
+              "type": "statement",
+              "id": "Q48479415$20516e5e-4964-fa8c-5cbb-4e609489aaa4",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "41db7860a6b4eea3037a871c725ee8ce062ef807",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "e7a21eea97f10a82fdaacc959ec44d3bea7544b3",
+                        "datavalue": {
+                          "value": "https://trauer.tagesspiegel.de/traueranzeige/andreas-obersteller",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "e8136fcb579717f6266d3b467babdbb0ad5d1f72",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2023-10-16T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854",
+                    "P813"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P19": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P19",
+                "hash": "ece547e33e0d71fced4f943b1b9b2a5e4406ed33",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 552545,
+                    "id": "Q552545"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q48479415$88289bf9-4bc6-8ba2-8679-112beadc41f5",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "41db7860a6b4eea3037a871c725ee8ce062ef807",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "e7a21eea97f10a82fdaacc959ec44d3bea7544b3",
+                        "datavalue": {
+                          "value": "https://trauer.tagesspiegel.de/traueranzeige/andreas-obersteller",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "e8136fcb579717f6266d3b467babdbb0ad5d1f72",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2023-10-16T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854",
+                    "P813"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P20": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P20",
+                "hash": "353773fafc33fa38af83afc667553d3328c2714c",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 64,
+                    "id": "Q64"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q48479415$e85d7bfd-4a34-388f-a892-4570e0b4d713",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "41db7860a6b4eea3037a871c725ee8ce062ef807",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "e7a21eea97f10a82fdaacc959ec44d3bea7544b3",
+                        "datavalue": {
+                          "value": "https://trauer.tagesspiegel.de/traueranzeige/andreas-obersteller",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "e8136fcb579717f6266d3b467babdbb0ad5d1f72",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2023-10-16T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854",
+                    "P813"
+                  ]
+                }
+              ]
             }
           ],
           "P1412": [
@@ -3275,7 +3276,232 @@
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q129485380$506E7C8A-14BA-42EE-9E10-990285829FBD",
+              "id": "Q48479415$D556DCD1-B885-4B7F-A9B7-3B197BE4313C",
+              "rank": "normal"
+            }
+          ]
+        }
+      },
+      "Q104656811": {
+        "type": "item",
+        "id": "Q104656811",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Torsten Safarik"
+          },
+          "en": {
+            "language": "en",
+            "value": "Torsten Safarik"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Behördenleiter"
+          }
+        },
+        "claims": {
+          "P31": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P31",
+                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5,
+                    "id": "Q5"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$04CB1FCA-1426-4736-B22E-1557EA136EB2",
+              "rank": "normal"
+            }
+          ],
+          "P21": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P21",
+                "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6581097,
+                    "id": "Q6581097"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$6ABAFA4E-072C-4A8E-82A8-9B4920C9C9CB",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 69652498,
+                            "id": "Q69652498"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P734": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P734",
+                "hash": "cf5dcec2c76b26d48baf940c89549407c3fbcc1a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 37112861,
+                    "id": "Q37112861"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$7aefe374-4cd7-b962-36a9-eec99d01b9d0",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97033143,
+                            "id": "Q97033143"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P735": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P735",
+                "hash": "68f0d88c0092270e65d52aa9ba75329912791a56",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19688780,
+                    "id": "Q19688780"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$d54aecf1-405e-fb4f-bf4d-99ca355fa583",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97033143,
+                            "id": "Q97033143"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P569": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P569",
+                "hash": "ce05108e56261202afc2a3166a0c6846bac20ae5",
+                "datavalue": {
+                  "value": {
+                    "time": "+1965-10-23T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                  },
+                  "type": "time"
+                },
+                "datatype": "time"
+              },
+              "type": "statement",
+              "id": "Q104656811$b519b5fa-08a2-4791-8a6d-57b251f29431",
+              "rank": "normal"
+            }
+          ],
+          "P2671": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P2671",
+                "hash": "b336cac000180a0d80cc37f44aa0fdc1b8e30a49",
+                "datavalue": {
+                  "value": "/g/11llysj40s",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q104656811$3C911D34-61A5-4218-B332-F9868D6C9F86",
               "rank": "normal"
             }
           ],
@@ -3284,23 +3510,23 @@
               "mainsnak": {
                 "snaktype": "value",
                 "property": "P19",
-                "hash": "a20f43fb522b2c398a53fd35be75ee4441fbd870",
+                "hash": "c28ced3cd1cff7fea7b1537e0fae5439d0ec97ae",
                 "datavalue": {
                   "value": {
                     "entity-type": "item",
-                    "numeric-id": 3150,
-                    "id": "Q3150"
+                    "numeric-id": 4077,
+                    "id": "Q4077"
                   },
                   "type": "wikibase-entityid"
                 },
                 "datatype": "wikibase-item"
               },
               "type": "statement",
-              "id": "Q129485380$79C073ED-570D-425F-8171-DEF756FCDE43",
+              "id": "Q104656811$D073E03B-6DB6-4F58-8A0E-647A57698D85",
               "rank": "normal",
               "references": [
                 {
-                  "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                  "hash": "8b0e0f2d2e050ced24c96e87a4528f2ae12a4994",
                   "snaks": {
                     "P143": [
                       {
@@ -3317,13 +3543,47 @@
                         },
                         "datatype": "wikibase-item"
                       }
+                    ],
+                    "P4656": [
+                      {
+                        "snaktype": "value",
+                        "property": "P4656",
+                        "hash": "f8b73423152969afc663bcefdaf33af8176b6b2f",
+                        "datavalue": {
+                          "value": "https://de.wikipedia.org/w/index.php?title=Torsten_Safarik&oldid=209586798",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
                     ]
                   },
                   "snaks-order": [
-                    "P143"
+                    "P143",
+                    "P4656"
                   ]
                 }
               ]
+            }
+          ],
+          "P1412": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P1412",
+                "hash": "c92f42a19ff65548d3fc6d4fdca0944a825d8879",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 188,
+                    "id": "Q188"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$A7596EE0-EE56-4532-B24E-8DB858F34FCE",
+              "rank": "normal"
             }
           ]
         }
@@ -4421,333 +4681,27 @@
           ]
         }
       },
-      "Q104656811": {
+      "Q6581072": {
         "type": "item",
-        "id": "Q104656811",
+        "id": "Q6581072",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Torsten Safarik"
+            "value": "weiblich"
           },
           "en": {
             "language": "en",
-            "value": "Torsten Safarik"
+            "value": "female"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "deutscher Behördenleiter"
-          }
-        },
-        "claims": {
-          "P31": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P31",
-                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5,
-                    "id": "Q5"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$04CB1FCA-1426-4736-B22E-1557EA136EB2",
-              "rank": "normal"
-            }
-          ],
-          "P21": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P21",
-                "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$6ABAFA4E-072C-4A8E-82A8-9B4920C9C9CB",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 69652498,
-                            "id": "Q69652498"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P734": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P734",
-                "hash": "cf5dcec2c76b26d48baf940c89549407c3fbcc1a",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 37112861,
-                    "id": "Q37112861"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$7aefe374-4cd7-b962-36a9-eec99d01b9d0",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 97033143,
-                            "id": "Q97033143"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P735": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P735",
-                "hash": "68f0d88c0092270e65d52aa9ba75329912791a56",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 19688780,
-                    "id": "Q19688780"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$d54aecf1-405e-fb4f-bf4d-99ca355fa583",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 97033143,
-                            "id": "Q97033143"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P569": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P569",
-                "hash": "ce05108e56261202afc2a3166a0c6846bac20ae5",
-                "datavalue": {
-                  "value": {
-                    "time": "+1965-10-23T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                  },
-                  "type": "time"
-                },
-                "datatype": "time"
-              },
-              "type": "statement",
-              "id": "Q104656811$b519b5fa-08a2-4791-8a6d-57b251f29431",
-              "rank": "normal"
-            }
-          ],
-          "P2671": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P2671",
-                "hash": "b336cac000180a0d80cc37f44aa0fdc1b8e30a49",
-                "datavalue": {
-                  "value": "/g/11llysj40s",
-                  "type": "string"
-                },
-                "datatype": "external-id"
-              },
-              "type": "statement",
-              "id": "Q104656811$3C911D34-61A5-4218-B332-F9868D6C9F86",
-              "rank": "normal"
-            }
-          ],
-          "P19": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P19",
-                "hash": "c28ced3cd1cff7fea7b1537e0fae5439d0ec97ae",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4077,
-                    "id": "Q4077"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$D073E03B-6DB6-4F58-8A0E-647A57698D85",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "8b0e0f2d2e050ced24c96e87a4528f2ae12a4994",
-                  "snaks": {
-                    "P143": [
-                      {
-                        "snaktype": "value",
-                        "property": "P143",
-                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 48183,
-                            "id": "Q48183"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ],
-                    "P4656": [
-                      {
-                        "snaktype": "value",
-                        "property": "P4656",
-                        "hash": "f8b73423152969afc663bcefdaf33af8176b6b2f",
-                        "datavalue": {
-                          "value": "https://de.wikipedia.org/w/index.php?title=Torsten_Safarik&oldid=209586798",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P143",
-                    "P4656"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P1412": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P1412",
-                "hash": "c92f42a19ff65548d3fc6d4fdca0944a825d8879",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 188,
-                    "id": "Q188"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$A7596EE0-EE56-4532-B24E-8DB858F34FCE",
-              "rank": "normal"
-            }
-          ]
-        }
-      },
-      "Q13124": {
-        "type": "item",
-        "id": "Q13124",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Freie Demokratische Partei"
+            "value": "Mensch mit weiblichem Geschlecht (Verwendung mit P21)"
           },
           "en": {
             "language": "en",
-            "value": "Free Democratic Party"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "politische Partei in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "political party in Germany"
+            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a female or \"semantic gender\" (P10339) to indicate that a word refers to a female person"
           }
         }
       },
@@ -4775,27 +4729,27 @@
           }
         }
       },
-      "Q6581072": {
+      "Q13124": {
         "type": "item",
-        "id": "Q6581072",
+        "id": "Q13124",
         "labels": {
           "de": {
             "language": "de",
-            "value": "weiblich"
+            "value": "Freie Demokratische Partei"
           },
           "en": {
             "language": "en",
-            "value": "female"
+            "value": "Free Democratic Party"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Mensch mit weiblichem Geschlecht (Verwendung mit P21)"
+            "value": "politische Partei in Deutschland"
           },
           "en": {
             "language": "en",
-            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a female or \"semantic gender\" (P10339) to indicate that a word refers to a female person"
+            "value": "political party in Germany"
           }
         }
       },

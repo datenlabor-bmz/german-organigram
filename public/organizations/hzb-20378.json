@@ -14,7 +14,7 @@
   "PLZ": 14109,
   "Telefax": "+49 30 8062-42181",
   "Telefon": "+49 30 8062-0",
-  "Kategorie": "Helmholtz",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,22 +33,8 @@
       "PLZ": 14109,
       "Telefax": "+49 30 8062-42181",
       "Telefon": "+49 30 8062-0",
-      "Kategorie": "Helmholtz",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Albert-Einstein-Straße 15",
-      "Bundesland": "Berlin",
-      "E-Mail": "info@helmholtz-berlin.de",
-      "Internetadresse": "https://www.helmholtz-berlin.de/",
-      "Land": "DE",
-      "Liegenschaft": "Wilhelm-Conrad-Röntgen Campus/ BESSY II",
-      "LiegenschaftsId": 20380,
-      "OrganisationId": 20378,
-      "Ort": "Berlin",
-      "PLZ": 12489,
-      "Telefax": "+49 30 8062-12990",
-      "Telefon": "+49 30 8062-0"
     }
   ]
 }

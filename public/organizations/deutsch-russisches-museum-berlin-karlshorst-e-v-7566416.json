@@ -12,6 +12,7 @@
   "Ort": "Berlin",
   "PLZ": 10318,
   "Telefon": "+49 30501508-10",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.4862272",
@@ -26,7 +27,8 @@
       "OrganisationId": 7566416,
       "Ort": "Berlin",
       "PLZ": 10318,
-      "Telefon": "+49 30501508-10"
+      "Telefon": "+49 30501508-10",
+      "Kategorie": "Unklar"
     }
   ]
 }

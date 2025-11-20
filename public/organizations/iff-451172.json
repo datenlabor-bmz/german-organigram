@@ -35,17 +35,6 @@
       "Telefon": "+49 391 4090-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Joseph-von-Fraunhofer-Straße 1",
-      "Bundesland": "Sachsen-Anhalt",
-      "Internetadresse": "https://www.iff.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort-Virtual-Development-and-Training-Centre-VDTC",
-      "LiegenschaftsId": 451170,
-      "OrganisationId": 451172,
-      "Ort": "Magdeburg",
-      "PLZ": 39106
     }
   ]
 }

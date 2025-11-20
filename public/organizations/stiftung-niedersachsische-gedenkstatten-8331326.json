@@ -13,6 +13,7 @@
   "PLZ": 29223,
   "Telefax": "+49 5141 93355-33",
   "Telefon": "+49 5141 933550",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.6252945",
@@ -28,7 +29,8 @@
       "Ort": "Celle",
       "PLZ": 29223,
       "Telefax": "+49 5141 93355-33",
-      "Telefon": "+49 5141 933550"
+      "Telefon": "+49 5141 933550",
+      "Kategorie": "Unklar"
     }
   ]
 }

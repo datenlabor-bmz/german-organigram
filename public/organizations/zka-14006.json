@@ -33,19 +33,6 @@
       "Ressort": "BMF",
       "Telefax": "+49 228 303-98400",
       "Telefon": "+49 228 303-0"
-    },
-    {
-      "Adresse": "Rheinpfalzallee 82 - 90",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.zoll.de/DE/Der-Zoll/Struktur-des-Zolls/Generalzolldirektion/Fachdirektionen/fachdirektionen_node.html#doc279122bodyText3",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Berlin",
-      "LiegenschaftsId": 433036,
-      "OrganisationId": 14006,
-      "Ort": "Berlin",
-      "PLZ": 10318,
-      "Telefax": "+49 30 50010-485",
-      "Telefon": "+49 30 50010-400"
     }
   ]
 }

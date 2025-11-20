@@ -14,6 +14,7 @@
   "PLZ": 80538,
   "Telefax": "+49 89 2179-324",
   "Telefon": "+49 89 2179-1",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.1310162",
@@ -30,7 +31,8 @@
       "Ort": "München",
       "PLZ": 80538,
       "Telefax": "+49 89 2179-324",
-      "Telefon": "+49 89 2179-1"
+      "Telefon": "+49 89 2179-1",
+      "Kategorie": "Unklar"
     }
   ]
 }

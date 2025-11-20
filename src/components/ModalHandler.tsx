@@ -3,39 +3,40 @@
 import { useSearchParams, useRouter } from 'next/navigation';
 import { useState, useEffect } from 'react';
 import EntityModal from './EntityModal';
-import { getFullEntityById } from '@/lib/entities';
+import { getFullEntityByName } from '@/lib/entities';
 import { Entity } from '@/types/entity';
 
 export default function ModalHandler() {
   const searchParams = useSearchParams();
   const router = useRouter();
-  const entityId = searchParams.get('entity');
+  const entityParam = searchParams.get('entity');
   const [entity, setEntity] = useState<Entity | null>(null);
   const [loading, setLoading] = useState(false);
 
   useEffect(() => {
-    if (!entityId) {
+    if (!entityParam) {
       setEntity(null);
       setLoading(false);
       return;
     }
 
+    const orgName = decodeURIComponent(entityParam);
     setLoading(true);
-    getFullEntityById(entityId).then(foundEntity => {
+    getFullEntityByName(orgName).then(foundEntity => {
       setEntity(foundEntity);
       setLoading(false);
     });
-  }, [entityId]);
+  }, [entityParam]);
 
   const handleClose = () => {
     router.replace('/', { scroll: false });
   };
 
-  const handleEntitySelect = (newEntityId: string) => {
-    router.replace(`/?entity=${newEntityId}`, { scroll: false });
+  const handleEntitySelect = (orgName: string) => {
+    router.replace(`/?entity=${encodeURIComponent(orgName)}`, { scroll: false });
   };
 
-  if (!entityId) return null;
+  if (!entityParam) return null;
 
   return (
     <EntityModal 

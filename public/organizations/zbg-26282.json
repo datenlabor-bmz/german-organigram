@@ -13,6 +13,7 @@
   "Ort": "Stuttgart",
   "PLZ": 70599,
   "Telefon": "+49 711 995 966-10",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.516181",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "ZBG",
       "Ort": "Stuttgart",
       "PLZ": 70599,
-      "Telefon": "+49 711 995 966-10"
+      "Telefon": "+49 711 995 966-10",
+      "Kategorie": "Unklar"
     }
   ]
 }

@@ -2898,115 +2898,19 @@
       }
     },
     "referenced_entities": {
-      "Q98856934": {
+      "Q98912093": {
         "type": "item",
-        "id": "Q98856934",
+        "id": "Q98912093",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Senat für Notarsachen des Bundesgerichtshofs"
+            "value": "Senat für Patentanwaltssachen des Bundesgerichtshofs"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Spezialsenat des Bundesgerichtshofs in Karlsruhe"
-          }
-        }
-      },
-      "Q580200": {
-        "type": "item",
-        "id": "Q580200",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesgericht"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal courts (Germany)"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Gerichte in Trägerschaft des Bundes in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "German courts"
-          }
-        }
-      },
-      "Q107695154": {
-        "type": "item",
-        "id": "Q107695154",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "VIa-Zivilsenat des Bundesgerichtshofes"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Hilfssenat des Bundesgerichtshofs"
-          }
-        }
-      },
-      "Q498251": {
-        "type": "item",
-        "id": "Q498251",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "Federal Ministry of Justice and Consumer Protection"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bundesministerium der Justiz und für Verbraucherschutz"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Ministerium der Bundesrepublik Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "Ministry of Justice of Germany"
-          }
-        }
-      },
-      "Q98912095": {
-        "type": "item",
-        "id": "Q98912095",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Senat für Steuerberater- und Steuerbevollmächtigtensachen des Bundesgerichtshofs"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Spezialsenat des Bundesgerichtshofs in Karlsruhe"
-          }
-        }
-      },
-      "Q98912094": {
-        "type": "item",
-        "id": "Q98912094",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Senat für Wirtschaftsprüfersachen des Bundesgerichtshofs"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Spezialsenat des Bundesgerichtshofs in Karlsruhe"
+            "value": "Spezialsenat des Bundesgerichtshofs"
           }
         }
       },
@@ -3082,19 +2986,115 @@
           }
         }
       },
-      "Q98912093": {
+      "Q98912094": {
         "type": "item",
-        "id": "Q98912093",
+        "id": "Q98912094",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Senat für Patentanwaltssachen des Bundesgerichtshofs"
+            "value": "Senat für Wirtschaftsprüfersachen des Bundesgerichtshofs"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Spezialsenat des Bundesgerichtshofs"
+            "value": "Spezialsenat des Bundesgerichtshofs in Karlsruhe"
+          }
+        }
+      },
+      "Q580200": {
+        "type": "item",
+        "id": "Q580200",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesgericht"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal courts (Germany)"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Gerichte in Trägerschaft des Bundes in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German courts"
+          }
+        }
+      },
+      "Q498251": {
+        "type": "item",
+        "id": "Q498251",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of Justice and Consumer Protection"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium der Justiz und für Verbraucherschutz"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of Justice of Germany"
+          }
+        }
+      },
+      "Q107695154": {
+        "type": "item",
+        "id": "Q107695154",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "VIa-Zivilsenat des Bundesgerichtshofes"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Hilfssenat des Bundesgerichtshofs"
+          }
+        }
+      },
+      "Q98856934": {
+        "type": "item",
+        "id": "Q98856934",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Senat für Notarsachen des Bundesgerichtshofs"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Spezialsenat des Bundesgerichtshofs in Karlsruhe"
+          }
+        }
+      },
+      "Q98912095": {
+        "type": "item",
+        "id": "Q98912095",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Senat für Steuerberater- und Steuerbevollmächtigtensachen des Bundesgerichtshofs"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Spezialsenat des Bundesgerichtshofs in Karlsruhe"
           }
         }
       }

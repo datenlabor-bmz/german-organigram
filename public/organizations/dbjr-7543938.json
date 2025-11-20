@@ -13,6 +13,7 @@
   "Ort": "Berlin",
   "PLZ": 10178,
   "Telefon": "+49 30 400 40-400",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.515574",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "DBJR",
       "Ort": "Berlin",
       "PLZ": 10178,
-      "Telefon": "+49 30 400 40-400"
+      "Telefon": "+49 30 400 40-400",
+      "Kategorie": "Unklar"
     }
   ]
 }

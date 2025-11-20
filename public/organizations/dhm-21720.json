@@ -15,6 +15,7 @@
   "Ressort": "BKM",
   "Telefax": "+49 30 20304-543",
   "Telefon": "+49 30 20304-0",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "52.517654",
@@ -32,7 +33,8 @@
       "PLZ": 10117,
       "Ressort": "BKM",
       "Telefax": "+49 30 20304-543",
-      "Telefon": "+49 30 20304-0"
+      "Telefon": "+49 30 20304-0",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

@@ -15,6 +15,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 621 1505-155",
   "Telefon": "+49 621 1505-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "49.489379",
@@ -32,81 +33,8 @@
       "PLZ": 68159,
       "Ressort": "BMV",
       "Telefax": "+49 621 1505-155",
-      "Telefon": "+49 621 1505-0"
-    },
-    {
-      "Adresse": "Im Hafenbecken 2",
-      "Bundesland": "Rheinland-Pfalz",
-      "E-Mail": "abz-speyer@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-oberrhein.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Speyer",
-      "LiegenschaftsId": 8820132,
-      "OrganisationId": 22272,
-      "Ort": "Speyer",
-      "PLZ": 67346,
-      "Telefax": "+49 6232 6061-39",
-      "Telefon": "+49 6232 6061-0"
-    },
-    {
-      "Adresse": "Fährstraße 2",
-      "Bundesland": "Rheinland-Pfalz",
-      "E-Mail": "Ast-Oppenheim@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-oberrhein.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Oppenheim",
-      "LiegenschaftsId": 8820200,
-      "OrganisationId": 22272,
-      "Ort": "Oppenheim",
-      "PLZ": 55276,
-      "Telefax": "+49 6133 9406-39",
-      "Telefon": "+49 6133 9406-0"
-    },
-    {
-      "Adresse": "Maxau am Rhein 14",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "ABz-Karlsruhe@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-oberrhein.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Karlsruhe",
-      "LiegenschaftsId": 8820106,
-      "OrganisationId": 22272,
-      "Ort": "Karlsruhe",
-      "PLZ": 76187,
-      "Telefax": "+49 721 56506-39",
-      "Telefon": "+49 721 56506-0"
-    },
-    {
-      "Adresse": "Floßhafenstraße  11",
-      "Bundesland": "Rheinland-Pfalz",
-      "E-Mail": "abz-worms@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-oberrhein.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Worms/Oppenheim",
-      "LiegenschaftsId": 8820160,
-      "OrganisationId": 22272,
-      "Ort": "Worms",
-      "PLZ": 67547,
-      "Telefax": "+49 6241 6535-39",
-      "Telefon": "+49 6241 6535-0"
-    },
-    {
-      "Breitengrad": " 48.000876",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "wsa-oberrhein@wsv.bund.de",
-      "Hauptadresse": "Stefan-Meier-Straße 4-6",
-      "Internetadresse": "https://www.wsa-oberrhein.wsv.de/",
-      "Land": "DE",
-      "Längengrad": "7.844944",
-      "OrganisationId": 22272,
-      "OrganisationKurz": "WSA Oberrhein (Dienstort Freiburg)",
-      "Ort": "Freiburg",
-      "PLZ": 79104,
-      "Ressort": "BMV",
-      "Telefax": "+49 761 2718-3155",
-      "Telefon": "+49 761 2718-0",
-      "LiegenschaftsId": "DIENSTORT_21186_1",
-      "Liegenschaft": "Dienstort Freiburg"
+      "Telefon": "+49 621 1505-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

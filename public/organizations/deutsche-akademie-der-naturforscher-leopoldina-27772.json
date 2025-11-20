@@ -13,6 +13,7 @@
   "PLZ": 6108,
   "Ressort": "BMFTR",
   "Telefon": "+49 345 47239-800",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.487289",
@@ -28,7 +29,8 @@
       "Ort": "Halle/Saale",
       "PLZ": 6108,
       "Ressort": "BMFTR",
-      "Telefon": "+49 345 47239-800"
+      "Telefon": "+49 345 47239-800",
+      "Kategorie": "Unklar"
     }
   ]
 }

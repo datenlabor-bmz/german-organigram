@@ -35,61 +35,6 @@
       "Telefax": "+49 89 5109-1180",
       "Telefon": "+49 89 5109-02",
       "Kategorie": "Bundesunterbehörde"
-    },
-    {
-      "Adresse": "Bregenzer Straße 5",
-      "Bundesland": "Bayern",
-      "E-Mail": "poststelle@zfam.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Lindau",
-      "LiegenschaftsId": 13984,
-      "OrganisationId": 13990,
-      "Ort": "Lindau (Bodensee)",
-      "PLZ": 88131,
-      "Telefax": "+49 8382 9313-111",
-      "Telefon": "+49 8382 9313-100"
-    },
-    {
-      "Adresse": "Dr.-Pfleger-Straße 36",
-      "Bundesland": "Bayern",
-      "E-Mail": "poststelle@zfam.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Weiden",
-      "LiegenschaftsId": 13988,
-      "OrganisationId": 13990,
-      "Ort": "Weiden i.d.OPf.",
-      "PLZ": 92637,
-      "Telefax": "+49 961 39177-201",
-      "Telefon": "+49 961 39177-200"
-    },
-    {
-      "Adresse": "Frankenstraße  208",
-      "Bundesland": "Bayern",
-      "E-Mail": "poststelle@zfam.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Nürnberg",
-      "LiegenschaftsId": 13986,
-      "OrganisationId": 13990,
-      "Ort": "Nürnberg",
-      "PLZ": 90461,
-      "Telefax": "+49 911 9463-1799",
-      "Telefon": "+49 911 9463-0"
-    },
-    {
-      "Adresse": "Terminal 1 Ebene 03 ",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort München-Flughafen",
-      "LiegenschaftsId": 8749766,
-      "OrganisationId": 13990,
-      "Ort": "München-Flughafen",
-      "PLZ": 85356,
-      "Telefax": "+49 89 97590-606",
-      "Telefon": "+49 89 97590-600"
     }
   ]
 }

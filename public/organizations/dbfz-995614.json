@@ -13,6 +13,7 @@
   "Ort": "Leipzig",
   "PLZ": 4347,
   "Telefon": "+49 341 2434-112",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "51.3556746",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "DBFZ",
       "Ort": "Leipzig",
       "PLZ": 4347,
-      "Telefon": "+49 341 2434-112"
+      "Telefon": "+49 341 2434-112",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

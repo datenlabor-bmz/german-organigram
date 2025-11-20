@@ -35,43 +35,6 @@
       "Telefon": "+49 6897 9071-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Anna-Louisa-Karsch-Straße 2",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.ibmt.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Berlin",
-      "LiegenschaftsId": 445318,
-      "OrganisationId": 445322,
-      "Ort": "Berlin",
-      "PLZ": 10178
-    },
-    {
-      "Adresse": "Mendelstraße 11",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.ibmt.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Münster/Wolbeck",
-      "LiegenschaftsId": 445218,
-      "OrganisationId": 445322,
-      "Ort": "Münster",
-      "PLZ": 48149,
-      "Telefax": "+49 6897 9071-490",
-      "Telefon": "+49 6897 9071-251"
-    },
-    {
-      "Adresse": "Ensheimer Straße 48",
-      "Bundesland": "Saarland",
-      "Internetadresse": "https://www.ibmt.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle St. Ingbert",
-      "LiegenschaftsId": 445314,
-      "OrganisationId": 445322,
-      "Ort": "St. Ingbert",
-      "PLZ": 66386,
-      "Telefax": "+49 6894 980-400",
-      "Telefon": "+49 6894 980-0"
     }
   ]
 }

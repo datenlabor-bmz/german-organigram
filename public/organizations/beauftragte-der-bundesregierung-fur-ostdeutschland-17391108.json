@@ -719,27 +719,27 @@
       }
     },
     "referenced_entities": {
-      "Q502698": {
+      "Q4164871": {
         "type": "item",
-        "id": "Q502698",
+        "id": "Q4164871",
         "labels": {
           "en": {
             "language": "en",
-            "value": "Federal Ministry of the Interior"
+            "value": "position"
           },
           "de": {
             "language": "de",
-            "value": "Bundesministerium des Innern"
+            "value": "Position"
           }
         },
         "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
-          },
           "en": {
             "language": "en",
-            "value": "Ministry of the Interior of Germany"
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
           }
         }
       },
@@ -767,27 +767,27 @@
           }
         }
       },
-      "Q4164871": {
+      "Q502698": {
         "type": "item",
-        "id": "Q4164871",
+        "id": "Q502698",
         "labels": {
           "en": {
             "language": "en",
-            "value": "position"
+            "value": "Federal Ministry of the Interior"
           },
           "de": {
             "language": "de",
-            "value": "Position"
+            "value": "Bundesministerium des Innern"
           }
         },
         "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "social role with a set of powers and responsibilities within an organization"
-          },
           "de": {
             "language": "de",
-            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of the Interior of Germany"
           }
         }
       },

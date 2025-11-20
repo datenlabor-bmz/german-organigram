@@ -12,7 +12,7 @@
   "PLZ": 11055,
   "Telefon": "+49 30 189100-0",
   "Kategorie": "Oberste Bundesbehörde",
-  "Ressort": "ORG_18000594",
+  "Ressort": "Sekretariat des Bundesrates",
   "locations": [
     {
       "Breitengrad": "52.516181",
@@ -28,7 +28,7 @@
       "PLZ": 11055,
       "Telefon": "+49 30 189100-0",
       "Kategorie": "Oberste Bundesbehörde",
-      "Ressort": "ORG_18000594"
+      "Ressort": "Sekretariat des Bundesrates"
     }
   ]
 }

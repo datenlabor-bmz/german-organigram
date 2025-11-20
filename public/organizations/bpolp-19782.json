@@ -1020,6 +1020,30 @@
       }
     },
     "referenced_entities": {
+      "Q502698": {
+        "type": "item",
+        "id": "Q502698",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of the Interior"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium des Innern"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry of the Interior of Germany"
+          }
+        }
+      },
       "Q56026": {
         "type": "item",
         "id": "Q56026",
@@ -1089,30 +1113,6 @@
           "de": {
             "language": "de",
             "value": "Aus- und Fortbildungsstätte der deutschen Bundespolizei in Lübeck"
-          }
-        }
-      },
-      "Q502698": {
-        "type": "item",
-        "id": "Q502698",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "Federal Ministry of the Interior"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bundesministerium des Innern"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "Ministry of the Interior of Germany"
           }
         }
       },

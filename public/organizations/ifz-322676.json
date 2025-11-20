@@ -14,6 +14,7 @@
   "PLZ": 80636,
   "Telefax": "+49 89 12688-191",
   "Telefon": "+49 89 12688-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.1566209",
@@ -30,7 +31,8 @@
       "Ort": "München",
       "PLZ": 80636,
       "Telefax": "+49 89 12688-191",
-      "Telefon": "+49 89 12688-0"
+      "Telefon": "+49 89 12688-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

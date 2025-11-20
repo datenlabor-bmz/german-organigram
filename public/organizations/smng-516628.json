@@ -14,6 +14,7 @@
   "PLZ": 2826,
   "Telefax": "+49 4760-5101",
   "Telefon": "+49 3581 4760-5220",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.1535448",
@@ -30,7 +31,8 @@
       "Ort": "Görlitz",
       "PLZ": 2826,
       "Telefax": "+49 4760-5101",
-      "Telefon": "+49 3581 4760-5220"
+      "Telefon": "+49 3581 4760-5220",
+      "Kategorie": "Unklar"
     }
   ]
 }

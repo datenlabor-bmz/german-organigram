@@ -2990,30 +2990,6 @@
       }
     },
     "referenced_entities": {
-      "Q317027": {
-        "type": "item",
-        "id": "Q317027",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "Federal Chancellery of Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bundeskanzleramt"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "Office of the Federal Chancellor of Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Behörde des deutschen Bundeskanzlers"
-          }
-        }
-      },
       "Q99935030": {
         "type": "item",
         "id": "Q99935030",
@@ -3050,6 +3026,30 @@
           "de": {
             "language": "de",
             "value": "soziotechnisches System, das die Deckung von Informationsnachfrage zur Aufgabe hat"
+          }
+        }
+      },
+      "Q317027": {
+        "type": "item",
+        "id": "Q317027",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Chancellery of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundeskanzleramt"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "Office of the Federal Chancellor of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Behörde des deutschen Bundeskanzlers"
           }
         }
       },

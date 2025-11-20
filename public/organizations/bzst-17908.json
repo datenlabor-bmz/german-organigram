@@ -33,48 +33,6 @@
       "Ressort": "BMF",
       "Telefax": "+49 228 406-2661",
       "Telefon": "+49 228 406-0"
-    },
-    {
-      "Adresse": "Passower Chaussee 3 b",
-      "Bundesland": "Brandenburg",
-      "E-Mail": "poststelle-schwedt@bzst.bund.de",
-      "Internetadresse": "https://www.bzst.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Schwedt/Oder",
-      "LiegenschaftsId": 17906,
-      "OrganisationId": 17908,
-      "Ort": "Schwedt/Oder",
-      "PLZ": 16303,
-      "Telefax": "+49 228 406-4722",
-      "Telefon": "+49 228 406-0"
-    },
-    {
-      "Adresse": "Ludwig-Karl-Balzer-Allee 2",
-      "Bundesland": "Saarland",
-      "E-Mail": "poststelle-saarlouis@bzst.bund.de",
-      "Internetadresse": "https://www.bzst.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Saarlouis",
-      "LiegenschaftsId": 17904,
-      "OrganisationId": 17908,
-      "Ort": "Saarlouis",
-      "PLZ": 66740,
-      "Telefax": "+49 228 406-3801",
-      "Telefon": "+49 228 406-0"
-    },
-    {
-      "Adresse": "DGZ-Ring 12",
-      "Bundesland": "Berlin",
-      "E-Mail": "poststelle@bzst.bund.de",
-      "Internetadresse": "https://www.bzst.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Berlin",
-      "LiegenschaftsId": 17900,
-      "OrganisationId": 17908,
-      "Ort": "Berlin",
-      "PLZ": 13086,
-      "Telefax": "+49 228 406-3710",
-      "Telefon": "+49 228 406-0"
     }
   ]
 }

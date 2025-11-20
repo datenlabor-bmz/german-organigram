@@ -14,6 +14,7 @@
   "PLZ": 53175,
   "Telefax": "+49 228 882-444",
   "Telefon": "+49 228 882-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.700262",
@@ -30,21 +31,8 @@
       "Ort": "Bonn",
       "PLZ": 53175,
       "Telefax": "+49 228 882-444",
-      "Telefon": "+49 228 882-0"
-    },
-    {
-      "Adresse": "Markgrafenstraße 37",
-      "Bundesland": "Berlin",
-      "E-Mail": "BKP.Berlin@daad.de, Info.Berlin@daad.de",
-      "Internetadresse": "http://www.daad.de",
-      "Land": "DE",
-      "Liegenschaft": "Büro Berlin",
-      "LiegenschaftsId": 23724,
-      "OrganisationId": 23722,
-      "Ort": "Berlin",
-      "PLZ": 10117,
-      "Telefax": "+49 30 2041267",
-      "Telefon": "+49 30 202208-0"
+      "Telefon": "+49 228 882-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

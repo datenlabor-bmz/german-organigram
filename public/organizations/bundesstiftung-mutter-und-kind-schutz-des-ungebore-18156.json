@@ -14,6 +14,7 @@
   "Ressort": "BMBFSFJ",
   "Telefax": "+49 30 18 555-4400",
   "Telefon": "+49 30 201 791 30",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "50.721216",
@@ -30,7 +31,8 @@
       "PLZ": 10117,
       "Ressort": "BMBFSFJ",
       "Telefax": "+49 30 18 555-4400",
-      "Telefon": "+49 30 201 791 30"
+      "Telefon": "+49 30 201 791 30",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

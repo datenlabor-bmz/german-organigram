@@ -14,6 +14,7 @@
   "PLZ": 67346,
   "Telefax": "+49 6232 654-290",
   "Telefon": "+49 6232 654-381",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.3169454",
@@ -30,7 +31,8 @@
       "Ort": "Speyer",
       "PLZ": 67346,
       "Telefax": "+49 6232 654-290",
-      "Telefon": "+49 6232 654-381"
+      "Telefon": "+49 6232 654-381",
+      "Kategorie": "Unklar"
     }
   ]
 }

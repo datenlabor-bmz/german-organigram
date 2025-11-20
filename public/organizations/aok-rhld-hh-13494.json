@@ -15,6 +15,7 @@
   "Ressort": "BMG",
   "Telefax": "+49 211 8791-1125",
   "Telefon": "+49 211 8791-0",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "51.282997",
@@ -32,7 +33,8 @@
       "PLZ": 40468,
       "Ressort": "BMG",
       "Telefax": "+49 211 8791-1125",
-      "Telefon": "+49 211 8791-0"
+      "Telefon": "+49 211 8791-0",
+      "Versteckt": true
     }
   ]
 }

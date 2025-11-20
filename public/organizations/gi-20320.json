@@ -39,20 +39,6 @@
       "Kategorie": "Unklar",
       "Notiz": "Zusammenarbeit, Bund ist größter Geldgeber",
       "Wikidata ID": "Q60168804"
-    },
-    {
-      "Adresse": "Neue Schönhauser Straße 20",
-      "Bundesland": "Berlin",
-      "E-Mail": "hauptstadtbuero@goethe.de",
-      "Internetadresse": "https://www.goethe.de/de/index.html",
-      "Land": "DE",
-      "Liegenschaft": "Hauptstadtbüro Berlin",
-      "LiegenschaftsId": 20314,
-      "OrganisationId": 20320,
-      "Ort": "Berlin",
-      "PLZ": 10178,
-      "Telefax": "+49 30 25906-565",
-      "Telefon": "+49 30 25906-473"
     }
   ],
   "wikidata": {
@@ -829,27 +815,27 @@
       }
     },
     "referenced_entities": {
-      "Q28739112": {
+      "Q1021645": {
         "type": "item",
-        "id": "Q28739112",
+        "id": "Q1021645",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Goethe-Institut e. V. Zentrale, Bibliothek"
+            "value": "Bürogebäude"
           },
           "en": {
             "language": "en",
-            "value": "Goethe-Institut Central Office Munich, library"
+            "value": "office building"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "wissenschaftliche Spezialbibliothek"
+            "value": "Gebäudetyp"
           },
           "en": {
             "language": "en",
-            "value": "special library"
+            "value": "building which contains spaces mainly designed to be used for offices"
           }
         }
       },
@@ -877,6 +863,30 @@
           }
         }
       },
+      "Q28739112": {
+        "type": "item",
+        "id": "Q28739112",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Goethe-Institut e. V. Zentrale, Bibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "Goethe-Institut Central Office Munich, library"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "wissenschaftliche Spezialbibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "special library"
+          }
+        }
+      },
       "Q157033": {
         "type": "item",
         "id": "Q157033",
@@ -898,30 +908,6 @@
           "en": {
             "language": "en",
             "value": "non-profit association of the Federal Republic of Germany for the promotion of the German language abroad and for global cultural exchange"
-          }
-        }
-      },
-      "Q1021645": {
-        "type": "item",
-        "id": "Q1021645",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bürogebäude"
-          },
-          "en": {
-            "language": "en",
-            "value": "office building"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Gebäudetyp"
-          },
-          "en": {
-            "language": "en",
-            "value": "building which contains spaces mainly designed to be used for offices"
           }
         }
       }

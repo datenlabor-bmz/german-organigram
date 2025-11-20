@@ -13,6 +13,7 @@
   "PLZ": 1069,
   "Telefax": "+49 351 46955-41",
   "Telefon": "+49 351 46955 40",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.02656",
@@ -28,7 +29,8 @@
       "Ort": "Dresden",
       "PLZ": 1069,
       "Telefax": "+49 351 46955-41",
-      "Telefon": "+49 351 46955 40"
+      "Telefon": "+49 351 46955 40",
+      "Kategorie": "Unklar"
     }
   ]
 }

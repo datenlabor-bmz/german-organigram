@@ -29,32 +29,6 @@
       "PLZ": 34131,
       "Ressort": "BMAS",
       "Telefon": "+49 561 785-0"
-    },
-    {
-      "Adresse": "Frankfurter Straße 126",
-      "Bundesland": "Hessen",
-      "Internetadresse": "https://www.svlfg.de/",
-      "Land": "DE",
-      "Liegenschaft": "Dienstgebäude",
-      "LiegenschaftsId": 3691398,
-      "OrganisationId": 3691432,
-      "Ort": "Kassel",
-      "PLZ": 34121,
-      "Telefax": "+49 561 928-2486",
-      "Telefon": "+49 561 928-0"
-    },
-    {
-      "Adresse": "Luisenstraße 12",
-      "Bundesland": "Hessen",
-      "Internetadresse": "https://www.svlfg.de/",
-      "Land": "DE",
-      "Liegenschaft": "Dienstgebäude",
-      "LiegenschaftsId": 3691458,
-      "OrganisationId": 3691432,
-      "Ort": "Kassel",
-      "PLZ": 34119,
-      "Telefax": "+49 561 1006-2391",
-      "Telefon": "+49 561 1006-0"
     }
   ]
 }

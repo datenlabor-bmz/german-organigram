@@ -14,6 +14,7 @@
   "PLZ": 93047,
   "Telefax": "+49 941 943-5465",
   "Telefon": "+49 941 943-5450",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.015144",
@@ -30,7 +31,8 @@
       "Ort": "Regensburg",
       "PLZ": 93047,
       "Telefax": "+49 941 943-5465",
-      "Telefon": "+49 941 943-5450"
+      "Telefon": "+49 941 943-5450",
+      "Kategorie": "Unklar"
     }
   ]
 }

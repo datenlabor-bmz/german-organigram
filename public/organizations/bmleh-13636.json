@@ -16,7 +16,6 @@
   "Telefax": "+49 228 9 95 29-42 62",
   "Telefon": "+49 228 9 95 29-0",
   "IstRessort": true,
-  "OrganisationKurzAlt": "BMEL",
   "Kategorie": "Oberste Bundesbehörde",
   "Wikidata ID": "Q699656",
   "locations": [
@@ -38,23 +37,8 @@
       "Telefax": "+49 228 9 95 29-42 62",
       "Telefon": "+49 228 9 95 29-0",
       "IstRessort": true,
-      "OrganisationKurzAlt": "BMEL",
       "Kategorie": "Oberste Bundesbehörde",
       "Wikidata ID": "Q699656"
-    },
-    {
-      "Adresse": "Wilhelmstraße 54",
-      "Bundesland": "Berlin",
-      "E-Mail": "poststelle@bmel.bund.de",
-      "Internetadresse": "https://www.bmleh.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Berlin",
-      "LiegenschaftsId": 13642,
-      "OrganisationId": 13636,
-      "Ort": "Berlin",
-      "PLZ": 10117,
-      "Telefax": "+49 301 85 29-42 62",
-      "Telefon": "+49 301 85 29-0"
     }
   ],
   "wikidata": {
@@ -6905,303 +6889,6 @@
       }
     },
     "referenced_entities": {
-      "Q1457808": {
-        "type": "item",
-        "id": "Q1457808",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Friedrich-Loeffler-Institut"
-          },
-          "en": {
-            "language": "en",
-            "value": "Friedrich Loeffler Institute"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bundesforschungsinstitut für Tiergesundheit mit Hauptsitz auf der Insel Riems"
-          },
-          "en": {
-            "language": "en",
-            "value": "German veterinary research centre"
-          }
-        }
-      },
-      "Q119440152": {
-        "type": "item",
-        "id": "Q119440152",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Beauftragte der Bundesregierung für Tierschutz"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q1006713": {
-        "type": "item",
-        "id": "Q1006713",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundessortenamt"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Plant Variety Office"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Deutsche Bundesoberbehörde für Zulassung von Pflanzensorten und Sortenschutz"
-          },
-          "en": {
-            "language": "en",
-            "value": "German Higher Federal Authority for the Registration of Plant Varieties and Plant Variety Protection"
-          }
-        }
-      },
-      "Q1155706": {
-        "type": "item",
-        "id": "Q1155706",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "DSL Bank"
-          },
-          "en": {
-            "language": "en",
-            "value": "DSL Bank"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "ehemalige Niederlassung der Deutsche Bank Aktiengesellschaft"
-          },
-          "en": {
-            "language": "en",
-            "value": "a former Branch of Deutsche Bank Aktiengesellschaft"
-          }
-        }
-      },
-      "Q1005991": {
-        "type": "item",
-        "id": "Q1005991",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesforschungsanstalt für Landwirtschaft"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Agricultural Research Centre"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "former German research institute"
-          },
-          "de": {
-            "language": "de",
-            "value": "neu gegliederte Forschungseinrichtung, heute  Johann Heinrich von Thünen-Institut, Julius Kühn-Institut und Friedrich-Loeffler-Institut"
-          }
-        }
-      },
-      "Q1391025": {
-        "type": "item",
-        "id": "Q1391025",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Fachagentur Nachwachsende Rohstoffe"
-          },
-          "en": {
-            "language": "en",
-            "value": "Agency for Renewable Resources"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q1319982": {
-        "type": "item",
-        "id": "Q1319982",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Max Rubner-Institut"
-          },
-          "en": {
-            "language": "en",
-            "value": "Max Rubner-Institut"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Forschungseinrichtung mit Schwerpunkt im gesundheitlichen Verbraucherschutz im Ernährungsbereich"
-          },
-          "en": {
-            "language": "en",
-            "value": "federal agency in Germany"
-          }
-        }
-      },
-      "Q1005534": {
-        "type": "item",
-        "id": "Q1005534",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesanstalt für Landwirtschaft und Ernährung"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Office for Food and Agriculture"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "zentrale Umsetzungsbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "government organization in Bonn, Germany"
-          }
-        }
-      },
-      "Q1006223": {
-        "type": "item",
-        "id": "Q1006223",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesinstitut für Risikobewertung"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Institute for Risk Assessment"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bundeseinrichtung zur Beratung in Fragen der Lebensmittelsicherheit, der Produktsicherheit, des Tierschutzes und des gesundheitlichen Verbraucherschutzes"
-          },
-          "en": {
-            "language": "en",
-            "value": "German federal government body"
-          }
-        }
-      },
-      "Q460837": {
-        "type": "item",
-        "id": "Q460837",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Reichsministerium für Ernährung und Landwirtschaft"
-          },
-          "en": {
-            "language": "en",
-            "value": "Reich Ministry of Food and Agriculture"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "agriculture ministry of Germany (1919-1945)"
-          },
-          "de": {
-            "language": "de",
-            "value": "Deutsches Ministerium während der Weimarer Republik und der Zeit des Nationalsozialismus"
-          }
-        }
-      },
-      "Q190800": {
-        "type": "item",
-        "id": "Q190800",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Zentralstelle für Agrardokumentation und -information"
-          },
-          "en": {
-            "language": "en",
-            "value": "Zentralstelle für Agrardokumentation und -Information"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutsche Organisation"
-          },
-          "en": {
-            "language": "en",
-            "value": "Germany"
-          }
-        }
-      },
-      "Q1364302": {
-        "type": "item",
-        "id": "Q1364302",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Landwirtschaftsministerium"
-          },
-          "en": {
-            "language": "en",
-            "value": "ministry of agriculture"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "type of ministry responsible for agricultural policy"
-          },
-          "de": {
-            "language": "de",
-            "value": "Ministerium einer Regierung, das sich mit Fragen der Landwirtschaftspolitik beschäftigt"
-          }
-        }
-      },
-      "Q56088892": {
-        "type": "item",
-        "id": "Q56088892",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "ministry of food"
-          },
-          "de": {
-            "language": "de",
-            "value": "Ernährungsministerium"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q15453689": {
-        "type": "item",
-        "id": "Q15453689",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Senat der Bundesforschungsinstitute"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Koordinierungsstelle der Ressortforschung beim Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz"
-          }
-        }
-      },
       "Q832099": {
         "type": "item",
         "id": "Q832099",
@@ -7223,94 +6910,6 @@
           "en": {
             "language": "en",
             "value": "research institute"
-          }
-        }
-      },
-      "Q134606666": {
-        "type": "item",
-        "id": "Q134606666",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Heimatministerium"
-          },
-          "en": {
-            "language": "en",
-            "value": "ministry of home affairs"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Ministerium einer Regierung, das sich mit Fragen der Heimatpolitik beschäftigt"
-          },
-          "en": {
-            "language": "en",
-            "value": "ministry of a government that deals with homeland policy issues"
-          }
-        }
-      },
-      "Q28738485": {
-        "type": "item",
-        "id": "Q28738485",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesministerium für Ernährung und Landwirtschaft, Bibliothek"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bibliothek"
-          },
-          "en": {
-            "language": "en",
-            "value": "library in Germany"
-          }
-        }
-      },
-      "Q18124763": {
-        "type": "item",
-        "id": "Q18124763",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "Federal Office of Consumer Protection and Food Safety"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bundesbehörde für den Verbraucherschutz und die Lebensmittelsicherheit in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "agency of the German government"
-          }
-        }
-      },
-      "Q331800": {
-        "type": "item",
-        "id": "Q331800",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft"
-          },
-          "en": {
-            "language": "en",
-            "value": "Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Der Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaftwar eine Anstalt des öffentlichen Rechts mit der Aufgabe, die Einkommenssituation der deutschen Landwirtschaft zu sichern beziehungsweise zu verbessern."
           }
         }
       },
@@ -7362,6 +6961,229 @@
           }
         }
       },
+      "Q1006713": {
+        "type": "item",
+        "id": "Q1006713",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundessortenamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Plant Variety Office"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Deutsche Bundesoberbehörde für Zulassung von Pflanzensorten und Sortenschutz"
+          },
+          "en": {
+            "language": "en",
+            "value": "German Higher Federal Authority for the Registration of Plant Varieties and Plant Variety Protection"
+          }
+        }
+      },
+      "Q1364302": {
+        "type": "item",
+        "id": "Q1364302",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Landwirtschaftsministerium"
+          },
+          "en": {
+            "language": "en",
+            "value": "ministry of agriculture"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "type of ministry responsible for agricultural policy"
+          },
+          "de": {
+            "language": "de",
+            "value": "Ministerium einer Regierung, das sich mit Fragen der Landwirtschaftspolitik beschäftigt"
+          }
+        }
+      },
+      "Q18124763": {
+        "type": "item",
+        "id": "Q18124763",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Office of Consumer Protection and Food Safety"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundesbehörde für den Verbraucherschutz und die Lebensmittelsicherheit in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "agency of the German government"
+          }
+        }
+      },
+      "Q28738485": {
+        "type": "item",
+        "id": "Q28738485",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium für Ernährung und Landwirtschaft, Bibliothek"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "library in Germany"
+          }
+        }
+      },
+      "Q1005991": {
+        "type": "item",
+        "id": "Q1005991",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesforschungsanstalt für Landwirtschaft"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Agricultural Research Centre"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "former German research institute"
+          },
+          "de": {
+            "language": "de",
+            "value": "neu gegliederte Forschungseinrichtung, heute  Johann Heinrich von Thünen-Institut, Julius Kühn-Institut und Friedrich-Loeffler-Institut"
+          }
+        }
+      },
+      "Q56088892": {
+        "type": "item",
+        "id": "Q56088892",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "ministry of food"
+          },
+          "de": {
+            "language": "de",
+            "value": "Ernährungsministerium"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q1006223": {
+        "type": "item",
+        "id": "Q1006223",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesinstitut für Risikobewertung"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Institute for Risk Assessment"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundeseinrichtung zur Beratung in Fragen der Lebensmittelsicherheit, der Produktsicherheit, des Tierschutzes und des gesundheitlichen Verbraucherschutzes"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal government body"
+          }
+        }
+      },
+      "Q331800": {
+        "type": "item",
+        "id": "Q331800",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft"
+          },
+          "en": {
+            "language": "en",
+            "value": "Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaft"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Der Absatzförderungsfonds der deutschen Land- und Ernährungswirtschaftwar eine Anstalt des öffentlichen Rechts mit der Aufgabe, die Einkommenssituation der deutschen Landwirtschaft zu sichern beziehungsweise zu verbessern."
+          }
+        }
+      },
+      "Q460837": {
+        "type": "item",
+        "id": "Q460837",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Reichsministerium für Ernährung und Landwirtschaft"
+          },
+          "en": {
+            "language": "en",
+            "value": "Reich Ministry of Food and Agriculture"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "agriculture ministry of Germany (1919-1945)"
+          },
+          "de": {
+            "language": "de",
+            "value": "Deutsches Ministerium während der Weimarer Republik und der Zeit des Nationalsozialismus"
+          }
+        }
+      },
+      "Q1319982": {
+        "type": "item",
+        "id": "Q1319982",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Max Rubner-Institut"
+          },
+          "en": {
+            "language": "en",
+            "value": "Max Rubner-Institut"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Forschungseinrichtung mit Schwerpunkt im gesundheitlichen Verbraucherschutz im Ernährungsbereich"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal agency in Germany"
+          }
+        }
+      },
       "Q896375": {
         "type": "item",
         "id": "Q896375",
@@ -7383,6 +7205,168 @@
           "de": {
             "language": "de",
             "value": "einem Bundesminister zugeordnete oberste Bundesbehörde in Deutschland"
+          }
+        }
+      },
+      "Q119440152": {
+        "type": "item",
+        "id": "Q119440152",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Beauftragte der Bundesregierung für Tierschutz"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q1457808": {
+        "type": "item",
+        "id": "Q1457808",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Friedrich-Loeffler-Institut"
+          },
+          "en": {
+            "language": "en",
+            "value": "Friedrich Loeffler Institute"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundesforschungsinstitut für Tiergesundheit mit Hauptsitz auf der Insel Riems"
+          },
+          "en": {
+            "language": "en",
+            "value": "German veterinary research centre"
+          }
+        }
+      },
+      "Q1391025": {
+        "type": "item",
+        "id": "Q1391025",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Fachagentur Nachwachsende Rohstoffe"
+          },
+          "en": {
+            "language": "en",
+            "value": "Agency for Renewable Resources"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q190800": {
+        "type": "item",
+        "id": "Q190800",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Zentralstelle für Agrardokumentation und -information"
+          },
+          "en": {
+            "language": "en",
+            "value": "Zentralstelle für Agrardokumentation und -Information"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Organisation"
+          },
+          "en": {
+            "language": "en",
+            "value": "Germany"
+          }
+        }
+      },
+      "Q134606666": {
+        "type": "item",
+        "id": "Q134606666",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Heimatministerium"
+          },
+          "en": {
+            "language": "en",
+            "value": "ministry of home affairs"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium einer Regierung, das sich mit Fragen der Heimatpolitik beschäftigt"
+          },
+          "en": {
+            "language": "en",
+            "value": "ministry of a government that deals with homeland policy issues"
+          }
+        }
+      },
+      "Q1155706": {
+        "type": "item",
+        "id": "Q1155706",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "DSL Bank"
+          },
+          "en": {
+            "language": "en",
+            "value": "DSL Bank"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "ehemalige Niederlassung der Deutsche Bank Aktiengesellschaft"
+          },
+          "en": {
+            "language": "en",
+            "value": "a former Branch of Deutsche Bank Aktiengesellschaft"
+          }
+        }
+      },
+      "Q1005534": {
+        "type": "item",
+        "id": "Q1005534",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesanstalt für Landwirtschaft und Ernährung"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Office for Food and Agriculture"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "zentrale Umsetzungsbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "government organization in Bonn, Germany"
+          }
+        }
+      },
+      "Q15453689": {
+        "type": "item",
+        "id": "Q15453689",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Senat der Bundesforschungsinstitute"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Koordinierungsstelle der Ressortforschung beim Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz"
           }
         }
       }

@@ -35,33 +35,6 @@
       "Telefon": "+49 304 6403-100",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Argelsrieder Feld 6",
-      "Bundesland": "Bayern",
-      "E-Mail": "info@zv.fraunhofer.de",
-      "Internetadresse": "https://www.izm.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Oberpfaffenhofen",
-      "LiegenschaftsId": 603896,
-      "OrganisationId": 603910,
-      "Ort": "Oberpfaffenhofen",
-      "PLZ": 82234,
-      "Telefax": "+49 8153 9097-511",
-      "Telefon": "+49 8153 9097-500"
-    },
-    {
-      "Adresse": "Ringstraße 12",
-      "Bundesland": "Sachsen",
-      "Internetadresse": "https://www.izm.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Dresden",
-      "LiegenschaftsId": 8305068,
-      "OrganisationId": 603910,
-      "Ort": "Dresden-Moritzburg",
-      "PLZ": 1468,
-      "Telefax": "+49 304 6403-111",
-      "Telefon": "+49 351 795572-12"
     }
   ]
 }

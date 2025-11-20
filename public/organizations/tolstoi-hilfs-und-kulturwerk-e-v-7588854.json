@@ -13,6 +13,7 @@
   "PLZ": 80639,
   "Telefax": "+49 89 2289312",
   "Telefon": "+49 089 299775",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.1555175",
@@ -28,7 +29,8 @@
       "Ort": "München",
       "PLZ": 80639,
       "Telefax": "+49 89 2289312",
-      "Telefon": "+49 089 299775"
+      "Telefon": "+49 089 299775",
+      "Kategorie": "Unklar"
     }
   ]
 }

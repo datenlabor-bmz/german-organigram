@@ -13,6 +13,7 @@
   "PLZ": 10179,
   "Telefax": "+49 30 62980-150",
   "Telefon": "+49 30 62980-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.509748",
@@ -28,7 +29,8 @@
       "Ort": "Berlin",
       "PLZ": 10179,
       "Telefax": "+49 30 62980-150",
-      "Telefon": "+49 30 62980-0"
+      "Telefon": "+49 30 62980-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

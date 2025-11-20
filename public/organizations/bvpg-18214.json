@@ -14,6 +14,7 @@
   "PLZ": 53123,
   "Telefax": "+49 228 642 0024",
   "Telefon": "+49 228 98 727-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.713424",
@@ -30,7 +31,8 @@
       "Ort": "Bonn",
       "PLZ": 53123,
       "Telefax": "+49 228 642 0024",
-      "Telefon": "+49 228 98 727-0"
+      "Telefon": "+49 228 98 727-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

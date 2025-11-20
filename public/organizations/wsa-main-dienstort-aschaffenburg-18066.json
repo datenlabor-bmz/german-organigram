@@ -15,6 +15,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 6021 385-101",
   "Telefon": "+49 6021 385-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "49.9688601",
@@ -32,95 +33,8 @@
       "PLZ": 63739,
       "Ressort": "BMV",
       "Telefax": "+49 6021 385-101",
-      "Telefon": "+49 6021 385-0"
-    },
-    {
-      "Adresse": "Am Schutzhafen ",
-      "Bundesland": "Bayern",
-      "E-Mail": "abz-erlenbach@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-main.wsv.de/Webs/WSA/Main/DE/Service/impressum/impressum_node.html;jsessionid=308690F25FBB63B5D338C4F2D96590E1.live11311",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Erlenbach",
-      "LiegenschaftsId": 8750574,
-      "OrganisationId": 18066,
-      "Ort": "Erlenbach",
-      "PLZ": 63906,
-      "Telefax": "+49 9372 9902-522",
-      "Telefon": "+49 9372 9902-0"
-    },
-    {
-      "Adresse": "Schirrhof ",
-      "Bundesland": "Bayern",
-      "E-Mail": "abz-hasloch@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-main.wsv.de/Webs/WSA/Main/DE/Service/impressum/impressum_node.html;jsessionid=308690F25FBB63B5D338C4F2D96590E1.live11311",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Hasloch",
-      "LiegenschaftsId": 8750586,
-      "OrganisationId": 18066,
-      "Ort": "Hasloch",
-      "PLZ": 97907,
-      "Telefax": "+49 9342 93489-522",
-      "Telefon": "+49 9342 93489-0"
-    },
-    {
-      "Adresse": "Niederräder Ufer 14",
-      "Bundesland": "Hessen",
-      "E-Mail": "abz-frankfurt@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-main.wsv.de/Webs/WSA/Main/DE/Service/impressum/impressum_node.html;jsessionid=308690F25FBB63B5D338C4F2D96590E1.live11311",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Frankfurt",
-      "LiegenschaftsId": 8750560,
-      "OrganisationId": 18066,
-      "Ort": "Frankfurt",
-      "PLZ": 60528,
-      "Telefax": "+49 69 6786887-522",
-      "Telefon": "+49 69 6786887-0"
-    },
-    {
-      "Adresse": "Obernauer Straße 136",
-      "Bundesland": "Bayern",
-      "E-Mail": "bhf-aschaffenburg@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-main.wsv.de/Webs/WSA/Main/DE/Service/impressum/impressum_node.html;jsessionid=308690F25FBB63B5D338C4F2D96590E1.live11311",
-      "Land": "DE",
-      "Liegenschaft": "Bauhof Aschaffenburg",
-      "LiegenschaftsId": 8750546,
-      "OrganisationId": 18066,
-      "Ort": "Aschaffenburg",
-      "PLZ": 63743,
-      "Telefax": "+49 06021 395-102",
-      "Telefon": "+49 06021 395-0"
-    },
-    {
-      "Adresse": "Am Mainkanal 20",
-      "Bundesland": "Hessen",
-      "E-Mail": "abz-hanau@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-main.wsv.de/Webs/WSA/Main/DE/Service/impressum/impressum_node.html;jsessionid=308690F25FBB63B5D338C4F2D96590E1.live11311",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Hanau",
-      "LiegenschaftsId": 8750572,
-      "OrganisationId": 18066,
-      "Ort": "Hanau",
-      "PLZ": 63450,
-      "Telefax": "+49 6181 92338-522",
-      "Telefon": "+49 6181 92338-0"
-    },
-    {
-      "Breitengrad": "50.046726",
-      "Bundesland": "Bayern",
-      "E-Mail": "wsa-main@wsv.bund.de",
-      "Hauptadresse": "Mainberger Straße 8",
-      "Internetadresse": "https://www.wsa-main.wsv.de/",
-      "Land": "DE",
-      "Längengrad": "10.23897",
-      "OrganisationId": 18066,
-      "OrganisationKurz": "WSA Main (Dienstort Schweinfurt)",
-      "Ort": "Schweinfurt",
-      "PLZ": 97422,
-      "Ressort": "BMV",
-      "Telefax": "+49 9721 206-101",
-      "Telefon": "+49 9721 206-0",
-      "LiegenschaftsId": "DIENSTORT_22702_1",
-      "Liegenschaft": "Dienstort Schweinfurt"
+      "Telefon": "+49 6021 385-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

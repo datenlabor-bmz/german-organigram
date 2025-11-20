@@ -14,6 +14,7 @@
   "PLZ": 53175,
   "Telefax": "+49 228 883-432",
   "Telefon": "+49 228 883-0",
+  "Kategorie": "Stiftung des Privatrechts",
   "locations": [
     {
       "Breitengrad": "50.703036",
@@ -30,20 +31,8 @@
       "Ort": "Bonn",
       "PLZ": 53175,
       "Telefax": "+49 228 883-432",
-      "Telefon": "+49 228 883-0"
-    },
-    {
-      "Adresse": "Hiroshimastraße 17",
-      "Bundesland": "Berlin",
-      "E-Mail": "info@fes.de",
-      "Internetadresse": "https://www.fes.de/",
-      "Land": "DE",
-      "Liegenschaft": "Berliner Haus",
-      "LiegenschaftsId": 25020,
-      "OrganisationId": 25016,
-      "Ort": "Berlin",
-      "PLZ": 10785,
-      "Telefon": "+49 30 26935- 6"
+      "Telefon": "+49 228 883-0",
+      "Kategorie": "Stiftung des Privatrechts"
     }
   ]
 }

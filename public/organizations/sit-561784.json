@@ -35,20 +35,6 @@
       "Telefon": "+49 6151 869-100",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Schloss Birlinghoven ",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "info-bi@sit.fraunhofer.de",
-      "Internetadresse": "https://www.sit.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Sankt Augustin",
-      "LiegenschaftsId": 561788,
-      "OrganisationId": 561784,
-      "Ort": "Sankt Augustin",
-      "PLZ": 53754,
-      "Telefax": "+49 2241 14-3007",
-      "Telefon": "+49 2241 14-3272"
     }
   ]
 }

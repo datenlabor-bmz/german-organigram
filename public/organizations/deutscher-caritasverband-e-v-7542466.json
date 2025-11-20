@@ -12,6 +12,7 @@
   "Ort": "Freiburg",
   "PLZ": 79104,
   "Telefon": "+49 761 200-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.00418",
@@ -26,7 +27,8 @@
       "OrganisationId": 7542466,
       "Ort": "Freiburg",
       "PLZ": 79104,
-      "Telefon": "+49 761 200-0"
+      "Telefon": "+49 761 200-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

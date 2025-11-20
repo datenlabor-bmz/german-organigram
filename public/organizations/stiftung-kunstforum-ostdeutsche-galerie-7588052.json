@@ -13,6 +13,7 @@
   "PLZ": 93049,
   "Telefax": "+49 94129714-33",
   "Telefon": "+49 941 29714-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.01958",
@@ -28,7 +29,8 @@
       "Ort": "Regensburg",
       "PLZ": 93049,
       "Telefax": "+49 94129714-33",
-      "Telefon": "+49 941 29714-0"
+      "Telefon": "+49 941 29714-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

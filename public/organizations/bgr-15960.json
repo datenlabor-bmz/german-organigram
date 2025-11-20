@@ -37,43 +37,6 @@
       "Telefon": "+49 511 643-0",
       "Kategorie": "Bundesoberbehörde",
       "Wikidata ID": "Q1005526"
-    },
-    {
-      "Adresse": "Fredelsloher Straße ",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.bgr.bund.de/DE/Home/homepage_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstbereich Grubenhagen",
-      "LiegenschaftsId": 15990,
-      "OrganisationId": 15960,
-      "Ort": "Einbeck",
-      "PLZ": 37574,
-      "Telefax": "+49 5562 9146-22",
-      "Telefon": "+49 5562 9146-0"
-    },
-    {
-      "Adresse": "Gaglower Straße 17-18",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.bgr.bund.de/DE/Home/homepage_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstbereich Cottbus Forschungs- und Entwicklungszentrum Bergbaufolgen",
-      "LiegenschaftsId": 15988,
-      "OrganisationId": 15960,
-      "Ort": "Cottbus",
-      "PLZ": 3048
-    },
-    {
-      "Adresse": "Wilhelmstraße 25 - 30",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bgr.bund.de/DE/Home/homepage_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienstbereich Berlin",
-      "LiegenschaftsId": 15984,
-      "OrganisationId": 15960,
-      "Ort": "Berlin",
-      "PLZ": 13593,
-      "Telefax": "+49 30 36993-100",
-      "Telefon": "+49 30 36993-0"
     }
   ],
   "wikidata": {
@@ -3272,95 +3235,27 @@
       }
     },
     "referenced_entities": {
-      "Q28738627": {
+      "Q130368438": {
         "type": "item",
-        "id": "Q28738627",
+        "id": "Q130368438",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Bibliothek der Bundesanstalt für Geowissenschaften und Rohstoffe und des Landesamts für Bergbau, Energie und Geologie im Geozentrum Hannover"
+            "value": "Bundesforschungsanstalt"
           },
           "en": {
             "language": "en",
-            "value": "Bibliothek der Bundesanstalt für Geowissenschaften und Rohstoffe und des Landesamts für Bergbau, Energie und Geologie im Geozentrum Hannover"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bibliothek in Hannover"
-          },
-          "en": {
-            "language": "en",
-            "value": "library in Hannover, Germany"
-          }
-        }
-      },
-      "Q488589": {
-        "type": "item",
-        "id": "Q488589",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesministerium für Wirtschaft und Energie"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Ministry for Economic Affairs and Climate Action"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Ministerium der Bundesrepublik Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "Ministry for Economy of Germany"
-          }
-        }
-      },
-      "Q131859879": {
-        "type": "item",
-        "id": "Q131859879",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Geozentrum Hannover"
-          },
-          "en": {
-            "language": "en",
-            "value": "Geozentrum Hannover"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Sitz dreier geowissenschaftlicher Einrichtungen in Hannover Groß-Buchholz"
-          }
-        }
-      },
-      "Q99934885": {
-        "type": "item",
-        "id": "Q99934885",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesoberbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "higher federal authority"
+            "value": "federal public research facility in Germany"
           }
         },
         "descriptions": {
           "en": {
             "language": "en",
-            "value": "type of federal agency of Germany"
+            "value": "type of research facility in Germany"
           },
           "de": {
             "language": "de",
-            "value": "Art von Bundesbehörde in Deutschland"
+            "value": "Bundesanstalt für Forschung in Deutschland"
           }
         }
       },
@@ -3399,27 +3294,95 @@
           }
         }
       },
-      "Q130368438": {
+      "Q488589": {
         "type": "item",
-        "id": "Q130368438",
+        "id": "Q488589",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Bundesforschungsanstalt"
+            "value": "Bundesministerium für Wirtschaft und Energie"
           },
           "en": {
             "language": "en",
-            "value": "federal public research facility in Germany"
+            "value": "Federal Ministry for Economic Affairs and Climate Action"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Ministerium der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Ministry for Economy of Germany"
+          }
+        }
+      },
+      "Q99934885": {
+        "type": "item",
+        "id": "Q99934885",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesoberbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "higher federal authority"
           }
         },
         "descriptions": {
           "en": {
             "language": "en",
-            "value": "type of research facility in Germany"
+            "value": "type of federal agency of Germany"
           },
           "de": {
             "language": "de",
-            "value": "Bundesanstalt für Forschung in Deutschland"
+            "value": "Art von Bundesbehörde in Deutschland"
+          }
+        }
+      },
+      "Q28738627": {
+        "type": "item",
+        "id": "Q28738627",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bibliothek der Bundesanstalt für Geowissenschaften und Rohstoffe und des Landesamts für Bergbau, Energie und Geologie im Geozentrum Hannover"
+          },
+          "en": {
+            "language": "en",
+            "value": "Bibliothek der Bundesanstalt für Geowissenschaften und Rohstoffe und des Landesamts für Bergbau, Energie und Geologie im Geozentrum Hannover"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bibliothek in Hannover"
+          },
+          "en": {
+            "language": "en",
+            "value": "library in Hannover, Germany"
+          }
+        }
+      },
+      "Q131859879": {
+        "type": "item",
+        "id": "Q131859879",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Geozentrum Hannover"
+          },
+          "en": {
+            "language": "en",
+            "value": "Geozentrum Hannover"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Sitz dreier geowissenschaftlicher Einrichtungen in Hannover Groß-Buchholz"
           }
         }
       }

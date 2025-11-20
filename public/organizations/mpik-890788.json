@@ -14,6 +14,8 @@
   "PLZ": 45470,
   "Telefax": "+49 208 306-2980",
   "Telefon": "+49 208 306-1",
+  "Kategorie": "Max-Planck-Institut",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "51.4168307",
@@ -30,7 +32,9 @@
       "Ort": "Mülheim an der Ruhr",
       "PLZ": 45470,
       "Telefax": "+49 208 306-2980",
-      "Telefon": "+49 208 306-1"
+      "Telefon": "+49 208 306-1",
+      "Kategorie": "Max-Planck-Institut",
+      "Versteckt": true
     }
   ]
 }

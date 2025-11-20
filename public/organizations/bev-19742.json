@@ -33,62 +33,6 @@
       "Ressort": "BMV",
       "Telefax": "+49 228 3077-160",
       "Telefon": "+49 228 3077-0"
-    },
-    {
-      "Adresse": "Untermainkai 23 - 25",
-      "Bundesland": "Hessen",
-      "E-Mail": "frankfurt@bev.bund.de",
-      "Internetadresse": "https://www.bev.bund.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle Mitte",
-      "LiegenschaftsId": 19796,
-      "OrganisationId": 19742,
-      "Ort": "Frankfurt am Main",
-      "PLZ": 60329,
-      "Telefax": "+49 69 26959-159",
-      "Telefon": "+49 69 26959-0"
-    },
-    {
-      "Adresse": "Werkstattstraße 102",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "koeln@bev.bund.de",
-      "Internetadresse": "https://www.bev.bund.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle West",
-      "LiegenschaftsId": 19792,
-      "OrganisationId": 19742,
-      "Ort": "Köln",
-      "PLZ": 50733,
-      "Telefax": "+49 221 7762-159",
-      "Telefon": "+49 221 7762-0"
-    },
-    {
-      "Adresse": "Südendstraße 44",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "karlsruhe@bev.bund.de",
-      "Internetadresse": "https://www.bev.bund.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle Süd",
-      "LiegenschaftsId": 19800,
-      "OrganisationId": 19742,
-      "Ort": "Karlsruhe",
-      "PLZ": 76135,
-      "Telefax": "+49 721 8196-455",
-      "Telefon": "+49 721 8196-401"
-    },
-    {
-      "Adresse": "Herschelstraße 3",
-      "Bundesland": "Niedersachsen",
-      "E-Mail": "hannover@bev.bund.de",
-      "Internetadresse": "https://www.bev.bund.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle Nord",
-      "LiegenschaftsId": 19764,
-      "OrganisationId": 19742,
-      "Ort": "Hannover",
-      "PLZ": 30159,
-      "Telefax": "+49 511 16998-159",
-      "Telefon": "+49 511 16998-0"
     }
   ]
 }

@@ -35,21 +35,6 @@
       "Telefon": "+49 228 4460-0",
       "Kategorie": "Unternehmen",
       "Wikidata ID": "Q462763"
-    },
-    {
-      "Adresse": "Dag-Hammarskjöld-Weg 1 - 5",
-      "Bundesland": "Hessen",
-      "E-Mail": "info@giz.de",
-      "Internetadresse": "https://www.giz.de/de/html/index.html",
-      "Land": "DE",
-      "Liegenschaft": "Zweitsitz",
-      "LiegenschaftsId": 1692516,
-      "OrganisationDisplay": "GIZ",
-      "OrganisationId": 1692470,
-      "Ort": "Eschborn",
-      "PLZ": 65760,
-      "Telefax": "+49 6196 79-1115",
-      "Telefon": "+49 6196 79-0"
     }
   ],
   "wikidata": {
@@ -4604,60 +4589,6 @@
       }
     },
     "referenced_entities": {
-      "Q763877": {
-        "type": "item",
-        "id": "Q763877",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Internationale Weiterbildung und Entwicklung"
-          },
-          "en": {
-            "language": "en",
-            "value": "Internationale Weiterbildung und Entwicklung gGmbH"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q15805448": {
-        "type": "item",
-        "id": "Q15805448",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Deutsche Gesellschaft für Technische Zusammenarbeit"
-          },
-          "en": {
-            "language": "en",
-            "value": "Deutsche Gesellschaft für Technische Zusammenarbeit"
-          }
-        },
-        "descriptions": {}
-      },
-      "Q336473": {
-        "type": "item",
-        "id": "Q336473",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Hilfsorganisation"
-          },
-          "en": {
-            "language": "en",
-            "value": "aid agency"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Organisation mit der Aufgabe, Menschen oder Tieren zu helfen oder Sachwerte wie besonders schützenswerte Kulturgüter zu schützen"
-          },
-          "en": {
-            "language": "en",
-            "value": "organization with the task to help humans or animals or to protect sensitive cultural goods"
-          }
-        }
-      },
       "Q270791": {
         "type": "item",
         "id": "Q270791",
@@ -4679,26 +4610,6 @@
           "de": {
             "language": "de",
             "value": "öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates"
-          }
-        }
-      },
-      "Q1202020": {
-        "type": "item",
-        "id": "Q1202020",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Akademie für Internationale Zusammenarbeit"
-          },
-          "en": {
-            "language": "en",
-            "value": "Akademie für Internationale Zusammenarbeit"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutsche Organisation"
           }
         }
       },
@@ -4726,6 +4637,26 @@
           }
         }
       },
+      "Q1202020": {
+        "type": "item",
+        "id": "Q1202020",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Akademie für Internationale Zusammenarbeit"
+          },
+          "en": {
+            "language": "en",
+            "value": "Akademie für Internationale Zusammenarbeit"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutsche Organisation"
+          }
+        }
+      },
       "Q105485678": {
         "type": "item",
         "id": "Q105485678",
@@ -4739,6 +4670,60 @@
           "en": {
             "language": "en",
             "value": "organisation established with responsibility for economic or other development of a region or market sector"
+          }
+        }
+      },
+      "Q15805448": {
+        "type": "item",
+        "id": "Q15805448",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Deutsche Gesellschaft für Technische Zusammenarbeit"
+          },
+          "en": {
+            "language": "en",
+            "value": "Deutsche Gesellschaft für Technische Zusammenarbeit"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q763877": {
+        "type": "item",
+        "id": "Q763877",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Internationale Weiterbildung und Entwicklung"
+          },
+          "en": {
+            "language": "en",
+            "value": "Internationale Weiterbildung und Entwicklung gGmbH"
+          }
+        },
+        "descriptions": {}
+      },
+      "Q336473": {
+        "type": "item",
+        "id": "Q336473",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hilfsorganisation"
+          },
+          "en": {
+            "language": "en",
+            "value": "aid agency"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Organisation mit der Aufgabe, Menschen oder Tieren zu helfen oder Sachwerte wie besonders schützenswerte Kulturgüter zu schützen"
+          },
+          "en": {
+            "language": "en",
+            "value": "organization with the task to help humans or animals or to protect sensitive cultural goods"
           }
         }
       }

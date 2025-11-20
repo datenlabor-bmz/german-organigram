@@ -33,20 +33,6 @@
       "Ressort": "BMVg",
       "Telefax": "+49 8122 9590-3902",
       "Telefon": "+49 8122 9590-0"
-    },
-    {
-      "Adresse": "Kasinostraße Tor 7 ",
-      "Bundesland": "Niedersachsen",
-      "E-Mail": "wiweb@bundeswehr.org",
-      "Internetadresse": "https://www.baainbw.de/wiweb",
-      "Land": "DE",
-      "Liegenschaft": "Standort Wilhelmshaven",
-      "LiegenschaftsId": 23928,
-      "OrganisationId": 23924,
-      "Ort": "Wilhelmshaven",
-      "PLZ": 26382,
-      "Telefax": "+49 4421 49-3456",
-      "Telefon": "+49 4421 49-1"
     }
   ]
 }

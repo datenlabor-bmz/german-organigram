@@ -14,7 +14,7 @@
   "PLZ": 4318,
   "Telefax": "+49 341 235-1388",
   "Telefon": "+49 341 235-1800",
-  "Kategorie": "Helmholtz",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,31 +33,8 @@
       "PLZ": 4318,
       "Telefax": "+49 341 235-1388",
       "Telefon": "+49 341 235-1800",
-      "Kategorie": "Helmholtz",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Theodor-Lieser-Sraße 4",
-      "Bundesland": "Sachsen-Anhalt",
-      "Internetadresse": "https://www.ufz.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Halle",
-      "LiegenschaftsId": 6870236,
-      "OrganisationId": 25990,
-      "Ort": "Halle",
-      "PLZ": 6120,
-      "Telefon": "+49 345 55850"
-    },
-    {
-      "Adresse": "Brückstraße 3a",
-      "Bundesland": "Sachsen-Anhalt",
-      "Internetadresse": "https://www.ufz.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Magdeburg",
-      "LiegenschaftsId": 6870264,
-      "OrganisationId": 25990,
-      "Ort": "Magdeburg",
-      "PLZ": 39114
     }
   ]
 }

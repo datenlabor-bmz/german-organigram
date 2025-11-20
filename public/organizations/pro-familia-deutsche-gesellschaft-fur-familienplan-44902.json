@@ -13,6 +13,7 @@
   "PLZ": 60326,
   "Telefax": "+49 69 2695 779-30",
   "Telefon": "+49 69 2695 779-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.099755",
@@ -28,7 +29,8 @@
       "Ort": "Frankfurt am Main",
       "PLZ": 60326,
       "Telefax": "+49 69 2695 779-30",
-      "Telefon": "+49 69 2695 779-0"
+      "Telefon": "+49 69 2695 779-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

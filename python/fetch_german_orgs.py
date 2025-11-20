@@ -93,9 +93,15 @@ for entry in output_data:
         if kurz:
             entry['Ressort'] = kurz
         else:
-            # For entities without OrganisationKurz, use OrganisationId as Ressort
-            # (e.g., Verwaltung des Deutschen Bundestages, Sekretariat des Bundesrates)
-            entry['Ressort'] = f"ORG_{entry.get('OrganisationId')}"
+            # For entities without OrganisationKurz, use Organisation or OrganisationId as Ressort
+            org_name = entry.get('Organisation')
+            org_id = entry.get('OrganisationId')
+            if org_name:
+                entry['Ressort'] = org_name[:50]  # Use truncated org name
+            elif org_id:
+                entry['Ressort'] = f"ORG_{org_id}"
+            else:
+                entry['Ressort'] = "Sonstige"
 
 # Add metadata header
 output = [
@@ -292,7 +298,7 @@ wikidata_data = asyncio.run(fetch_all_wikidata())
 def sanitize_filename(org_data):
     """Create a descriptive, URL-safe filename from organization data."""
     # Prefer abbreviation, fall back to name
-    name = org_data.get('OrganisationKurz') or org_data.get('Organisation') or org_data.get('OrganisationDisplay') or f"org_{org_data['OrganisationId']}"
+    name = org_data.get('OrganisationKurz') or org_data.get('Organisation') or org_data.get('OrganisationDisplay') or 'org'
     
     # Normalize unicode characters (ü -> u, etc.)
     name = normalize('NFKD', name).encode('ASCII', 'ignore').decode('ASCII')
@@ -301,9 +307,12 @@ def sanitize_filename(org_data):
     name = re.sub(r'[^\w\s-]', '', name.lower())
     name = re.sub(r'[-\s]+', '-', name).strip('-')
     
-    # Limit length and add org ID to ensure uniqueness
+    # Limit length and add org ID to ensure uniqueness (if available)
     name = name[:50]
-    return f"{name}-{org_data['OrganisationId']}"
+    if org_data.get('OrganisationId'):
+        return f"{name}-{org_data['OrganisationId']}"
+    else:
+        return name
 
 # Create output directory for individual org files
 org_dir = Path(__file__).parent.parent / "public" / "organizations"
@@ -314,35 +323,49 @@ print("\n📦 Building organization index and individual files...")
 index = []
 org_count = 0
 
-# Group output_data by OrganisationId to combine main entries with locations
+# Group output_data by Organisation name (primary) or OrganisationId (fallback) to combine main entries with locations
 org_map = defaultdict(lambda: {"main": None, "locations": []})
 for entry in output_data:
+    org_name = entry.get('Organisation')
     org_id = entry.get('OrganisationId')
-    if not org_id:
+    
+    # Skip entries without both Organisation and OrganisationId
+    # Changed: Allow entries with just Organisation (like ZIF)
+    if not org_name:
         continue
+    
+    key = org_name
+    
     if entry.get('LiegenschaftsId'):
         # This is a location entry
-        org_map[org_id]["locations"].append(entry)
+        org_map[key]["locations"].append(entry)
     else:
         # This is the main org entry
-        org_map[org_id]["main"] = entry
+        org_map[key]["main"] = entry
 
 # Create index and individual files
-for org_id, data in org_map.items():
+for key, data in org_map.items():
     main_entry = data["main"]
     if not main_entry:
         continue
     
+    org_id = main_entry.get('OrganisationId')
+    org_name = main_entry.get('Organisation')
+    
     # Add to index (minimal data for grid)
+    # Skip if no Organisation name (required)
+    if not org_name:
+        continue
+        
     index_entry = {
-        "OrganisationId": main_entry["OrganisationId"],
-        "Organisation": main_entry.get("Organisation"),
+        "Organisation": org_name,
+        "OrganisationId": org_id,
         "OrganisationDisplay": main_entry.get("OrganisationDisplay"),
         "OrganisationKurz": main_entry.get("OrganisationKurz"),
         "Kategorie": main_entry.get("Kategorie"),
         "Ressort": main_entry.get("Ressort"),
         "Versteckt": main_entry.get("Versteckt", False),
-        "hasWikidata": str(org_id) in wikidata_data,
+        "hasWikidata": (str(org_id) in wikidata_data) if org_id else False,
     }
     index.append(index_entry)
     
@@ -353,7 +376,7 @@ for org_id, data in org_map.items():
     }
     
     # Add Wikidata if available
-    if str(org_id) in wikidata_data:
+    if org_id and str(org_id) in wikidata_data:
         full_org_data["wikidata"] = wikidata_data[str(org_id)]
     
     # Write individual org file

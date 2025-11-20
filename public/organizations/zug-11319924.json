@@ -14,6 +14,7 @@
   "PLZ": 10963,
   "Ressort": "BMUKN",
   "Telefon": "+49 3072618 0000",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "52.516181",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10963,
       "Ressort": "BMUKN",
-      "Telefon": "+49 3072618 0000"
+      "Telefon": "+49 3072618 0000",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

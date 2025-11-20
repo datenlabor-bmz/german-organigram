@@ -14,6 +14,7 @@
   "PLZ": 14473,
   "Telefax": "+49 331 288-2600",
   "Telefon": "+49 331 288-2500",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.380344",
@@ -30,7 +31,8 @@
       "Ort": "Potsdam",
       "PLZ": 14473,
       "Telefax": "+49 331 288-2600",
-      "Telefon": "+49 331 288-2500"
+      "Telefon": "+49 331 288-2500",
+      "Kategorie": "Unklar"
     }
   ]
 }

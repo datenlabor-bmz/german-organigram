@@ -35,20 +35,6 @@
       "Telefon": "+49 621 1246-0",
       "Kategorie": "Leibniz-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Unter Sachsenhausen 6-8",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "gesis@gesis.org",
-      "Internetadresse": "https://www.gesis.org/home",
-      "Land": "DE",
-      "Liegenschaft": "Standort Köln",
-      "LiegenschaftsId": 319186,
-      "OrganisationId": 319190,
-      "Ort": "Köln",
-      "PLZ": 50667,
-      "Telefax": "+49 221 47694-199",
-      "Telefon": "+49 221 47694-0"
     }
   ]
 }

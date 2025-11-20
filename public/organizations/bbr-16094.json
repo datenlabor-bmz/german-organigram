@@ -33,31 +33,6 @@
       "Ressort": "BMWSB",
       "Telefax": "+49 22899 401-1270",
       "Telefon": "+49 22899 401-0"
-    },
-    {
-      "Adresse": "Straße des 17. Juni 112",
-      "Bundesland": "Berlin",
-      "E-Mail": "zentrale@bbr.bund.de",
-      "Internetadresse": "https://www.bbr.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienststelle Berlin",
-      "LiegenschaftsId": 16078,
-      "OrganisationId": 16094,
-      "Ort": "Berlin",
-      "PLZ": 10623,
-      "Telefax": "+49 3018 401-1270",
-      "Telefon": "+49 3018 401-0"
-    },
-    {
-      "Adresse": "Thiemstraße 136",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.bbr.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Cottbus",
-      "LiegenschaftsId": 24151520,
-      "OrganisationId": 16094,
-      "Ort": "Cottbus",
-      "PLZ": 3048
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 81541,
   "Telefax": "+49 89 62306-162",
   "Telefon": "+49 89 62306-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.121603",
@@ -30,20 +31,8 @@
       "Ort": "München",
       "PLZ": 81541,
       "Telefax": "+49 89 62306-162",
-      "Telefon": "+49 89 62306-0"
-    },
-    {
-      "Adresse": "Franckeplatz 1",
-      "Bundesland": "Sachsen-Anhalt",
-      "Internetadresse": "https://www.dji.de/",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Halle, Franckesche Stiftungen",
-      "LiegenschaftsId": 21894,
-      "OrganisationId": 21902,
-      "Ort": "Halle",
-      "PLZ": 6110,
-      "Telefax": "+49 345 68178-47",
-      "Telefon": "+49 345 68178-0"
+      "Telefon": "+49 89 62306-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

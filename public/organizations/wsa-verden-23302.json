@@ -15,6 +15,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 4231 898-1333",
   "Telefon": "+49 4231 898-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "52.926029",
@@ -32,72 +33,8 @@
       "PLZ": 27283,
       "Ressort": "BMV",
       "Telefax": "+49 4231 898-1333",
-      "Telefon": "+49 4231 898-0"
-    },
-    {
-      "Adresse": "Hans-Lüken-Straße 47a",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Windheim",
-      "LiegenschaftsId": 8846880,
-      "OrganisationId": 23302,
-      "Ort": "Windheim",
-      "PLZ": 32469,
-      "Telefax": "+49 5705 144313-2199",
-      "Telefon": "+49 5705 144313-0"
-    },
-    {
-      "Adresse": "Schleusenstraße 9",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Oldau",
-      "LiegenschaftsId": 8846892,
-      "OrganisationId": 23302,
-      "Ort": "Hambühren",
-      "PLZ": 29313,
-      "Telefax": "+49 5143 2083",
-      "Telefon": "+49 5143 6215"
-    },
-    {
-      "Adresse": "Brückenstraße 14",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Nienburg",
-      "LiegenschaftsId": 8846882,
-      "OrganisationId": 23302,
-      "Ort": "Nienburg",
-      "PLZ": 31582,
-      "Telefax": "+49 5021 887770-2299",
-      "Telefon": "+49 5021 887770-0"
-    },
-    {
-      "Adresse": "Am Hafen 8",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Bauhof Hoya",
-      "LiegenschaftsId": 8846896,
-      "OrganisationId": 23302,
-      "Ort": "Hoya",
-      "PLZ": 27318,
-      "Telefax": "+49 4251 672989-2999",
-      "Telefon": "+49 4251 672989-0"
-    },
-    {
-      "Adresse": "Am Allerufer 5",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Verden",
-      "LiegenschaftsId": 8846886,
-      "OrganisationId": 23302,
-      "Ort": "Verden",
-      "PLZ": 27283,
-      "Telefax": "+49 4231 970815",
-      "Telefon": "+49 4231 970795"
+      "Telefon": "+49 4231 898-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

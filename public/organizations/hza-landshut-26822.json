@@ -230,30 +230,6 @@
       "sitelinks": {}
     },
     "referenced_entities": {
-      "Q1354730": {
-        "type": "item",
-        "id": "Q1354730",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Hauptzollamt"
-          },
-          "en": {
-            "language": "en",
-            "value": "Hauptzollamt"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bestandteil der Bundeszollverwaltung in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "Part of the Federal Customs Administration in Germany"
-          }
-        }
-      },
       "Q811979": {
         "type": "item",
         "id": "Q811979",
@@ -275,6 +251,30 @@
           "en": {
             "language": "en",
             "value": "human-designed and -made structure"
+          }
+        }
+      },
+      "Q1354730": {
+        "type": "item",
+        "id": "Q1354730",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bestandteil der Bundeszollverwaltung in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Part of the Federal Customs Administration in Germany"
           }
         }
       },

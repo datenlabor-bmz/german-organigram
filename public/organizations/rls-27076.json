@@ -14,6 +14,7 @@
   "PLZ": 10243,
   "Telefax": "+49 30 44310-222",
   "Telefon": "+49 30 44310-0",
+  "Kategorie": "Stiftung des Privatrechts",
   "locations": [
     {
       "Breitengrad": "52.512245",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10243,
       "Telefax": "+49 30 44310-222",
-      "Telefon": "+49 30 44310-0"
+      "Telefon": "+49 30 44310-0",
+      "Kategorie": "Stiftung des Privatrechts"
     }
   ]
 }

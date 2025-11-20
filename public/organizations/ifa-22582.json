@@ -14,6 +14,7 @@
   "PLZ": 70173,
   "Telefax": "+49 711 2264-346",
   "Telefon": "+49 711 2225-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.7758404",
@@ -30,7 +31,8 @@
       "Ort": "Stuttgart",
       "PLZ": 70173,
       "Telefax": "+49 711 2264-346",
-      "Telefon": "+49 711 2225-0"
+      "Telefon": "+49 711 2225-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

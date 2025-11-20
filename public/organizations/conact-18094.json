@@ -9,6 +9,7 @@
   "Ort": "keine Angabe",
   "Telefax": "+49 3491 4202-70",
   "Telefon": "+49 3491 4202-60",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "E-Mail": "info@ConAct-org.de",
@@ -20,7 +21,8 @@
       "OrganisationKurz": "ConAct",
       "Ort": "keine Angabe",
       "Telefax": "+49 3491 4202-70",
-      "Telefon": "+49 3491 4202-60"
+      "Telefon": "+49 3491 4202-60",
+      "Kategorie": "Unklar"
     }
   ]
 }

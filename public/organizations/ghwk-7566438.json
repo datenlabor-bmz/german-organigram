@@ -13,6 +13,7 @@
   "Ort": "Berlin",
   "PLZ": 14109,
   "Telefon": "+49 30805001-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.4323082",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "GHWK",
       "Ort": "Berlin",
       "PLZ": 14109,
-      "Telefon": "+49 30805001-0"
+      "Telefon": "+49 30805001-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

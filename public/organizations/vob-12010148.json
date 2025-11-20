@@ -13,6 +13,7 @@
   "Ort": "Berlin",
   "PLZ": 10785,
   "Telefon": "+49 30 8192-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.5114527",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "VÖB",
       "Ort": "Berlin",
       "PLZ": 10785,
-      "Telefon": "+49 30 8192-0"
+      "Telefon": "+49 30 8192-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

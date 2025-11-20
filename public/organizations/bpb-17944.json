@@ -33,19 +33,6 @@
       "Ressort": "BMI",
       "Telefax": "+49 22899 515-113",
       "Telefon": "+49 22899 515-0"
-    },
-    {
-      "Adresse": "Krausenstraße 4  / Ecke Friedrichstraße  ",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bpb.de/",
-      "Land": "DE",
-      "Liegenschaft": "Medien - und Kommunikazionszentrum Berlin",
-      "LiegenschaftsId": 17938,
-      "OrganisationId": 17944,
-      "Ort": "Berlin",
-      "PLZ": 10117,
-      "Telefax": "+49 30 254504-22",
-      "Telefon": "+49 30 254504-0"
     }
   ]
 }

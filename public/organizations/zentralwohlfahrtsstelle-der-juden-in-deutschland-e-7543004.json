@@ -13,6 +13,7 @@
   "PLZ": 60318,
   "Telefax": "+49 69 494817",
   "Telefon": "+49 69 944371-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.12134",
@@ -28,7 +29,8 @@
       "Ort": "Frankfurt a. M.",
       "PLZ": 60318,
       "Telefax": "+49 69 494817",
-      "Telefon": "+49 69 944371-0"
+      "Telefon": "+49 69 944371-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

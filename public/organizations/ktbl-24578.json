@@ -14,6 +14,7 @@
   "PLZ": 64289,
   "Telefax": "+49 6151 7001-123",
   "Telefon": "+49 6151 7001-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.898357",
@@ -30,7 +31,8 @@
       "Ort": "Darmstadt",
       "PLZ": 64289,
       "Telefax": "+49 6151 7001-123",
-      "Telefon": "+49 6151 7001-0"
+      "Telefon": "+49 6151 7001-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

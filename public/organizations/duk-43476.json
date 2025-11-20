@@ -13,6 +13,7 @@
   "Ort": "Bonn",
   "PLZ": 53175,
   "Telefon": "+49 228 60497-144",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.6989808",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "DUK",
       "Ort": "Bonn",
       "PLZ": 53175,
-      "Telefon": "+49 228 60497-144"
+      "Telefon": "+49 228 60497-144",
+      "Kategorie": "Unklar"
     }
   ]
 }

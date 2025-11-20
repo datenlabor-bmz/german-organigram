@@ -13,6 +13,7 @@
   "Ort": "Trier",
   "PLZ": 54292,
   "Telefon": "+49 651 2222-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.7632865",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "ILW",
       "Ort": "Trier",
       "PLZ": 54292,
-      "Telefon": "+49 651 2222-0"
+      "Telefon": "+49 651 2222-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

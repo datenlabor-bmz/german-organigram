@@ -14,7 +14,7 @@
   "PLZ": 40225,
   "Telefax": "+49 211 31909-10",
   "Telefon": "+49 211 3389-0",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,7 +33,7 @@
       "PLZ": 40225,
       "Telefax": "+49 211 31909-10",
       "Telefon": "+49 211 3389-0",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
     }
   ]

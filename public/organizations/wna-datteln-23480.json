@@ -14,6 +14,7 @@
   "PLZ": 45711,
   "Ressort": "BMV",
   "Telefon": "+49 2363 104-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "51.65772",
@@ -30,7 +31,8 @@
       "Ort": "Datteln",
       "PLZ": 45711,
       "Ressort": "BMV",
-      "Telefon": "+49 2363 104-0"
+      "Telefon": "+49 2363 104-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

@@ -14,6 +14,7 @@
   "Ressort": "BMFTR",
   "Telefax": "+49 821 99965 901",
   "Telefon": "+49 821 99965 200",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "48.326908",
@@ -30,7 +31,8 @@
       "PLZ": 86179,
       "Ressort": "BMFTR",
       "Telefax": "+49 821 99965 901",
-      "Telefon": "+49 821 99965 200"
+      "Telefon": "+49 821 99965 200",
+      "Versteckt": true
     }
   ]
 }

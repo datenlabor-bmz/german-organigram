@@ -290,6 +290,26 @@
       }
     },
     "referenced_entities": {
+      "Q1283247": {
+        "type": "item",
+        "id": "Q1283247",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Testamentskartei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Testamentskartei"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "ehemals beim Standesamt des Geburtsortes einer dort eingetragenen Person geführte Kartei in Deutschland"
+          }
+        }
+      },
       "Q8513": {
         "type": "item",
         "id": "Q8513",
@@ -311,26 +331,6 @@
           "de": {
             "language": "de",
             "value": "Menge der (von einem Datenbankmanagementsystem) verwalteten Daten"
-          }
-        }
-      },
-      "Q1283247": {
-        "type": "item",
-        "id": "Q1283247",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Testamentskartei"
-          },
-          "en": {
-            "language": "en",
-            "value": "Testamentskartei"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "ehemals beim Standesamt des Geburtsortes einer dort eingetragenen Person geführte Kartei in Deutschland"
           }
         }
       }

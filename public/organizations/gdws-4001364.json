@@ -15,6 +15,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 228 7090-9010",
   "Telefon": "+49 228 7090-0",
+  "Kategorie": "Bundesmittelbehörde",
   "locations": [
     {
       "Breitengrad": "50.70545",
@@ -32,105 +33,8 @@
       "PLZ": 53121,
       "Ressort": "BMV",
       "Telefax": "+49 228 7090-9010",
-      "Telefon": "+49 228 7090-0"
-    },
-    {
-      "Adresse": "Gerhart-Hauptmann-Straße 16",
-      "Bundesland": "Sachsen-Anhalt",
-      "E-Mail": "Magdeburg.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Magdeburg",
-      "LiegenschaftsId": 4003370,
-      "OrganisationId": 4001364,
-      "Ort": "Magdeburg",
-      "PLZ": 39108,
-      "Telefax": "+49 391 2887-3030",
-      "Telefon": "+49 391 2887-0"
-    },
-    {
-      "Adresse": "Bruckner Straße 2",
-      "Bundesland": "Rheinland-Pfalz",
-      "E-Mail": "Mainz.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Mainz",
-      "LiegenschaftsId": 4003380,
-      "OrganisationId": 4001364,
-      "Ort": "Mainz",
-      "PLZ": 55127,
-      "Telefax": "+49 6131 979-155",
-      "Telefon": "+49 6131 979-0"
-    },
-    {
-      "Adresse": "Cheruskerring 11",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "Muenster.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Münster",
-      "LiegenschaftsId": 4003382,
-      "OrganisationId": 4001364,
-      "Ort": "Münster",
-      "PLZ": 48147,
-      "Telefax": "+49 251 2708-115",
-      "Telefon": "+49 251 2708-0"
-    },
-    {
-      "Adresse": "Wörthstraße 19",
-      "Bundesland": "Bayern",
-      "E-Mail": "Wuerzburg.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Würzburg",
-      "LiegenschaftsId": 4003372,
-      "OrganisationId": 4001364,
-      "Ort": "Würzburg",
-      "PLZ": 97082,
-      "Telefax": "+49 931 4105-380",
-      "Telefon": "+49 931 4105-0"
-    },
-    {
-      "Adresse": "Am Waterlooplatz 5",
-      "Bundesland": "Niedersachsen",
-      "E-Mail": "Hannover.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Hannover",
-      "LiegenschaftsId": 4003364,
-      "OrganisationId": 4001364,
-      "Ort": "Hannover",
-      "PLZ": 30169,
-      "Telefax": "+49 511 9115-3400",
-      "Telefon": "+49 511 9115-0"
-    },
-    {
-      "Adresse": "Kiellinie 247",
-      "Bundesland": "Schleswig-Holstein",
-      "E-Mail": "Kiel.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Kiel",
-      "LiegenschaftsId": 4003366,
-      "OrganisationId": 4001364,
-      "Ort": "Kiel",
-      "PLZ": 24106,
-      "Telefax": "+49 431 3394-6399",
-      "Telefon": "+49 431 3394-0"
-    },
-    {
-      "Adresse": "Schloßplatz 9",
-      "Bundesland": "Niedersachsen",
-      "E-Mail": "Aurich.gdws@wsv.bund.de",
-      "Internetadresse": "https://www.gdws.wsv.bund.de/DE/startseite/startseite_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Aurich",
-      "LiegenschaftsId": 4003368,
-      "OrganisationId": 4001364,
-      "Ort": "Aurich",
-      "PLZ": 26603,
-      "Telefax": "+49 4941 602-378",
-      "Telefon": "+49 4941 602-0"
+      "Telefon": "+49 228 7090-0",
+      "Kategorie": "Bundesmittelbehörde"
     }
   ]
 }

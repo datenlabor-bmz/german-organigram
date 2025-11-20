@@ -13,6 +13,8 @@
   "Ort": "Düsseldorf",
   "PLZ": 40237,
   "Telefon": "+49 211 6792-0",
+  "Kategorie": "Unternehmen",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "51.2396524",
@@ -28,7 +30,9 @@
       "OrganisationKurz": "MPI-SusMat",
       "Ort": "Düsseldorf",
       "PLZ": 40237,
-      "Telefon": "+49 211 6792-0"
+      "Telefon": "+49 211 6792-0",
+      "Kategorie": "Unternehmen",
+      "Versteckt": true
     }
   ]
 }

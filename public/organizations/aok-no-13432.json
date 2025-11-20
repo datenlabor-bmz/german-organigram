@@ -14,6 +14,7 @@
   "PLZ": 14456,
   "Ressort": "BMG",
   "Telefon": "0800 2650800",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "52.4052551",
@@ -30,7 +31,8 @@
       "Ort": "Potsdam",
       "PLZ": 14456,
       "Ressort": "BMG",
-      "Telefon": "0800 2650800"
+      "Telefon": "0800 2650800",
+      "Versteckt": true
     }
   ]
 }

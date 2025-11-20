@@ -11,8 +11,10 @@
   "OrganisationId": 18108,
   "Ort": "Köln",
   "PLZ": 51103,
+  "Ressort": "BMBFSFJ",
   "Telefax": "+49 221 3673-3636",
   "Telefon": "+49 221 3673-3673",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "50.91435",
@@ -27,8 +29,10 @@
       "OrganisationId": 18108,
       "Ort": "Köln",
       "PLZ": 51103,
+      "Ressort": "BMBFSFJ",
       "Telefax": "+49 221 3673-3636",
-      "Telefon": "+49 221 3673-3673"
+      "Telefon": "+49 221 3673-3673",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

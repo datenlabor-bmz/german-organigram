@@ -13,6 +13,7 @@
   "Ort": "Köln-Wahn",
   "PLZ": 51147,
   "Telefon": "+49 2203 908 1610",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.856409",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "ZentrLuRMedLw",
       "Ort": "Köln-Wahn",
       "PLZ": 51147,
-      "Telefon": "+49 2203 908 1610"
+      "Telefon": "+49 2203 908 1610",
+      "Kategorie": "Unklar"
     }
   ]
 }

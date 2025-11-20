@@ -13,6 +13,7 @@
   "PLZ": 81739,
   "Ressort": "BMG",
   "Telefon": "+49 89 228 44050",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "48.087444",
@@ -28,7 +29,8 @@
       "Ort": "München",
       "PLZ": 81739,
       "Ressort": "BMG",
-      "Telefon": "+49 89 228 44050"
+      "Telefon": "+49 89 228 44050",
+      "Versteckt": true
     }
   ]
 }

@@ -12,6 +12,7 @@
   "Ort": "München",
   "PLZ": 80538,
   "Telefon": "+49 89 21586-7580",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.13659",
@@ -26,7 +27,8 @@
       "OrganisationId": 8331210,
       "Ort": "München",
       "PLZ": 80538,
-      "Telefon": "+49 89 21586-7580"
+      "Telefon": "+49 89 21586-7580",
+      "Kategorie": "Unklar"
     }
   ]
 }

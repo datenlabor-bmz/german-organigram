@@ -14,6 +14,7 @@
   "PLZ": 52428,
   "Telefax": "+49 2461 61-8100",
   "Telefon": "+49 2461 61-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.90221",
@@ -30,31 +31,8 @@
       "Ort": "Jülich",
       "PLZ": 52428,
       "Telefax": "+49 2461 61-8100",
-      "Telefon": "+49 2461 61-0"
-    },
-    {
-      "Adresse": "Egerlandstraße 3",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.fz-juelich.de/de/forschung/8-milliarden-menschen",
-      "Land": "DE",
-      "Liegenschaft": "Helmholtz-Institut Erlangen-Nürnberg (HI ERN)",
-      "LiegenschaftsId": 6865480,
-      "OrganisationId": 24362,
-      "Ort": "Erlangen",
-      "PLZ": 91058,
-      "Telefon": "+49 2461 61-0"
-    },
-    {
-      "Adresse": "Correnstraße 46",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.fz-juelich.de/de/forschung/8-milliarden-menschen",
-      "Land": "DE",
-      "Liegenschaft": "Helmholtz-Institut Münster",
-      "LiegenschaftsId": 6865412,
-      "OrganisationId": 24362,
-      "Ort": "Münster",
-      "PLZ": 48149,
-      "Telefon": "+49 251 83-36033"
+      "Telefon": "+49 2461 61-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

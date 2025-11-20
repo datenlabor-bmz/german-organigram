@@ -14,6 +14,7 @@
   "Ressort": "BMFTR",
   "Telefax": "+49 228 37786-19",
   "Telefon": "+49 228 37786-0",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "50.687101",
@@ -30,7 +31,8 @@
       "PLZ": 53173,
       "Ressort": "BMFTR",
       "Telefax": "+49 228 37786-19",
-      "Telefon": "+49 228 37786-0"
+      "Telefon": "+49 228 37786-0",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

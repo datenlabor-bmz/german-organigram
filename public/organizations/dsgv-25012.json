@@ -12,6 +12,7 @@
   "PLZ": 10117,
   "Telefax": "+49 30 20225-5255",
   "Telefon": "+49 30 20225-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.516038",
@@ -26,7 +27,8 @@
       "Ort": "Berlin",
       "PLZ": 10117,
       "Telefax": "+49 30 20225-5255",
-      "Telefon": "+49 30 20225-0"
+      "Telefon": "+49 30 20225-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

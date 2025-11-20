@@ -14,6 +14,7 @@
   "PLZ": 44793,
   "Telefax": "+49 234 282539-88",
   "Telefon": "+49 234 -282539-80",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.5036903",
@@ -30,7 +31,8 @@
       "Ort": "Bochum",
       "PLZ": 44793,
       "Telefax": "+49 234 282539-88",
-      "Telefon": "+49 234 -282539-80"
+      "Telefon": "+49 234 -282539-80",
+      "Kategorie": "Unklar"
     }
   ]
 }

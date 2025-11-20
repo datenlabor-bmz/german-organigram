@@ -35,20 +35,6 @@
       "Telefax": "+49 9721 6464-1800",
       "Telefon": "+49 9721 6464-0",
       "Kategorie": "Bundesunterbehörde"
-    },
-    {
-      "Adresse": "Memmelsdorfer Straße 211 a",
-      "Bundesland": "Bayern",
-      "E-Mail": "sgf.hza-schweinfurt@zoll.bund.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Bamberg",
-      "LiegenschaftsId": 23576,
-      "OrganisationId": 26832,
-      "Ort": "Bamberg",
-      "PLZ": 96052,
-      "Telefax": "+49 951 96666-750",
-      "Telefon": "+49 951 96666-0"
     }
   ]
 }

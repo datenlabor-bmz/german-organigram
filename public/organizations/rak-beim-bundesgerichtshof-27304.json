@@ -13,6 +13,7 @@
   "PLZ": 76133,
   "Telefax": "+49 721 2031403",
   "Telefon": "+49 721 22656",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.006585",
@@ -28,7 +29,8 @@
       "Ort": "Karlsruhe",
       "PLZ": 76133,
       "Telefax": "+49 721 2031403",
-      "Telefon": "+49 721 22656"
+      "Telefon": "+49 721 22656",
+      "Kategorie": "Unklar"
     }
   ]
 }

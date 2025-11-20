@@ -31,32 +31,6 @@
       "PLZ": 38116,
       "Ressort": "BMLEH",
       "Telefon": "+49 3018 444-99999"
-    },
-    {
-      "Adresse": "Diedersdorfer Weg 1",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bvl.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Berlin-Marienfelde",
-      "LiegenschaftsId": 15164,
-      "OrganisationId": 15178,
-      "Ort": "Berlin",
-      "PLZ": 12277,
-      "Telefax": "+49 30 18445-8099",
-      "Telefon": "+49 30 18445-8210"
-    },
-    {
-      "Adresse": "Gerichtstraße 49",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.bvl.bund.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Berlin-Mitte Gerichtstraße",
-      "LiegenschaftsId": 15158,
-      "OrganisationId": 15178,
-      "Ort": "Berlin",
-      "PLZ": 13347,
-      "Telefax": "+49 531 299-3002",
-      "Telefon": "+49 531 299-3401"
     }
   ]
 }

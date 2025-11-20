@@ -1325,30 +1325,6 @@
       }
     },
     "referenced_entities": {
-      "Q4830453": {
-        "type": "item",
-        "id": "Q4830453",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Gewerbebetrieb"
-          },
-          "en": {
-            "language": "en",
-            "value": "business"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "gewerbliche oder kaufmännische Geschäftseinheit"
-          },
-          "en": {
-            "language": "en",
-            "value": "organization undertaking commercial, industrial, or professional activity"
-          }
-        }
-      },
       "Q13226383": {
         "type": "item",
         "id": "Q13226383",
@@ -1370,6 +1346,30 @@
           "de": {
             "language": "de",
             "value": "für einen Zweck angelegte Örtlichkeit"
+          }
+        }
+      },
+      "Q4830453": {
+        "type": "item",
+        "id": "Q4830453",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Gewerbebetrieb"
+          },
+          "en": {
+            "language": "en",
+            "value": "business"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "gewerbliche oder kaufmännische Geschäftseinheit"
+          },
+          "en": {
+            "language": "en",
+            "value": "organization undertaking commercial, industrial, or professional activity"
           }
         }
       }

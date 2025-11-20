@@ -33,41 +33,6 @@
       "Telefon": "+49 331 6264-0",
       "Kategorie": "Helmholtz",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Münchener Straße 20",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.gfz.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Oberpfaffenhofen",
-      "LiegenschaftsId": 6870486,
-      "OrganisationId": 25752,
-      "Ort": "Weßling",
-      "PLZ": 82234
-    },
-    {
-      "Adresse": "Lindenstraße 7",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.gfz.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Niemegk",
-      "LiegenschaftsId": 6870484,
-      "OrganisationId": 25752,
-      "Ort": "Niemegk",
-      "PLZ": 18423,
-      "Telefon": "+49 33843 624-0"
-    },
-    {
-      "Adresse": "Am Bohrloch 1",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.gfz.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Windischeschenbach",
-      "LiegenschaftsId": 6870498,
-      "OrganisationId": 25752,
-      "Ort": "Windischeschenbach",
-      "PLZ": 92670,
-      "Telefon": "+49 9681 91182"
     }
   ]
 }

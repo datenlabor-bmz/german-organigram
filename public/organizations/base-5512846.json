@@ -14,6 +14,7 @@
   "PLZ": 10623,
   "Ressort": "BMUKN",
   "Telefon": "+49 30 18 43210",
+  "Kategorie": "Bundesoberbehörde",
   "locations": [
     {
       "Breitengrad": "52.515659",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10623,
       "Ressort": "BMUKN",
-      "Telefon": "+49 30 18 43210"
+      "Telefon": "+49 30 18 43210",
+      "Kategorie": "Bundesoberbehörde"
     }
   ]
 }

@@ -33,40 +33,6 @@
       "Telefon": "+49 241 6085-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Av. Mariano Sanchez Fontecilla 310",
-      "Bundesland": "Santiago",
-      "Internetadresse": "https://www.ime.fraunhofer.de",
-      "Land": "Chile",
-      "Liegenschaft": "Fraunhofer Center for Systems Biotechnology CSB, Fraunhofer Chile",
-      "LiegenschaftsId": 8383806,
-      "OrganisationId": 517636,
-      "Ort": "Las Condes",
-      "PLZ": 14
-    },
-    {
-      "Adresse": "9 Innovation Way Suite 200",
-      "Internetadresse": "https://www.ime.fraunhofer.de",
-      "Land": "USA",
-      "Liegenschaft": "Fraunhofer Center for Molecular Biotechnology CMB, Fraunhofer USA",
-      "LiegenschaftsId": 8383776,
-      "OrganisationId": 517636,
-      "Ort": "Newark",
-      "PLZ": 19711
-    },
-    {
-      "Adresse": "Auf dem Aberg 1",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.ime.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Fraunhofer IME - Bereich Angewandte Ökologie",
-      "LiegenschaftsId": 8383768,
-      "OrganisationId": 517636,
-      "Ort": "Schmallenberg",
-      "PLZ": 57392,
-      "Telefax": "+49 2972 302-319",
-      "Telefon": "+49 2972 302-0"
     }
   ]
 }

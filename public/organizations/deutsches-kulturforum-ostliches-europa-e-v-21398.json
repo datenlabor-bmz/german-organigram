@@ -13,6 +13,7 @@
   "PLZ": 14467,
   "Telefax": "+49 331 20098-50",
   "Telefon": "+49 331 20098-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.40447",
@@ -28,7 +29,8 @@
       "Ort": "Potsdam",
       "PLZ": 14467,
       "Telefax": "+49 331 20098-50",
-      "Telefon": "+49 331 20098-0"
+      "Telefon": "+49 331 20098-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

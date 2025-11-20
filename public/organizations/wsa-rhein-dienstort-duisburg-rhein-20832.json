@@ -15,6 +15,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 2066 418-315",
   "Telefon": "+49 2066 418-111",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "51.4532638",
@@ -32,49 +33,8 @@
       "PLZ": 47198,
       "Ressort": "BMV",
       "Telefax": "+49 2066 418-315",
-      "Telefon": "+49 2066 418-111"
-    },
-    {
-      "Adresse": "Ruhrorter Str. 44",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "abz-duisburg@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-rhein.wsv.de/",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Duisburg",
-      "LiegenschaftsId": 8756678,
-      "OrganisationId": 20832,
-      "Ort": "Duisburg",
-      "PLZ": 47198,
-      "Telefax": "+49 2066 9939-77",
-      "Telefon": "+49 2066 9939-70"
-    },
-    {
-      "Adresse": "Am Hafen 4",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "abz-emmerich@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-rhein.wsv.de/",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Emmerich",
-      "LiegenschaftsId": 8756694,
-      "OrganisationId": 20832,
-      "Ort": "Emmerich",
-      "PLZ": 46446,
-      "Telefax": "+49 2822 91303-77",
-      "Telefon": "+49 2822 91303-60"
-    },
-    {
-      "Adresse": "Büdericher Insel 18",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "abz-wesel@wsv.bund.de",
-      "Internetadresse": "https://www.wsa-rhein.wsv.de/",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Wesel",
-      "LiegenschaftsId": 8756690,
-      "OrganisationId": 20832,
-      "Ort": "Wesel",
-      "PLZ": 46485,
-      "Telefax": "+49 281 16486-98",
-      "Telefon": "+49 281 16486-90"
+      "Telefon": "+49 2066 418-111",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 65760,
   "Telefax": "+49 6196 777 26-51",
   "Telefon": "+49 6196 777 26-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.130601",
@@ -30,7 +31,8 @@
       "Ort": "Eschborn",
       "PLZ": 65760,
       "Telefax": "+49 6196 777 26-51",
-      "Telefon": "+49 6196 777 26-0"
+      "Telefon": "+49 6196 777 26-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

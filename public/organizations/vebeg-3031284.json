@@ -33,20 +33,6 @@
       "Ressort": "BMF",
       "Telefax": "+49 69 75897-479",
       "Telefon": "+49 69 75897-0"
-    },
-    {
-      "Adresse": "Grellstraße 24",
-      "Bundesland": "Berlin",
-      "E-Mail": "mail@vebeg.de",
-      "Internetadresse": "https://www.vebeg.de/web/de/start/index.htm",
-      "Land": "DE",
-      "Liegenschaft": "Büro Berlin",
-      "LiegenschaftsId": 3031282,
-      "OrganisationId": 3031284,
-      "Ort": "Berlin",
-      "PLZ": 10409,
-      "Telefax": "+49 30 639906-30",
-      "Telefon": "+49 30 639906-0"
     }
   ]
 }

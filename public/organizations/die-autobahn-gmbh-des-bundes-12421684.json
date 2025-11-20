@@ -14,6 +14,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 30 4036 80-810",
   "Telefon": "+49 30 4036 80-800",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "52.516181",
@@ -30,7 +31,8 @@
       "PLZ": 10557,
       "Ressort": "BMV",
       "Telefax": "+49 30 4036 80-810",
-      "Telefon": "+49 30 4036 80-800"
+      "Telefon": "+49 30 4036 80-800",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

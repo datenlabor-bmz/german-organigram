@@ -14,6 +14,7 @@
   "PLZ": 10117,
   "Telefax": "+49 30 28460-603",
   "Telefon": "+49 30 28460-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.5227758",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10117,
       "Telefax": "+49 30 28460-603",
-      "Telefon": "+49 30 28460-0"
+      "Telefon": "+49 30 28460-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

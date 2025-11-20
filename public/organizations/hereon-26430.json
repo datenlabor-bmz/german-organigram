@@ -14,7 +14,7 @@
   "PLZ": 21502,
   "Telefax": "+49 4152 87-1403",
   "Telefon": "+49 4152 87-0",
-  "Kategorie": "Helmholtz",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,21 +33,8 @@
       "PLZ": 21502,
       "Telefax": "+49 4152 87-1403",
       "Telefon": "+49 4152 87-0",
-      "Kategorie": "Helmholtz",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Kantstraße 55",
-      "Bundesland": "Brandenburg",
-      "Internetadresse": "https://www.hzg.de",
-      "Land": "DE",
-      "Liegenschaft": "Standort Teltow",
-      "LiegenschaftsId": 6870360,
-      "OrganisationId": 26430,
-      "Ort": "Teltow",
-      "PLZ": 14513,
-      "Telefax": "+49 3328 352-452",
-      "Telefon": "+49 3328 352-0"
     }
   ]
 }

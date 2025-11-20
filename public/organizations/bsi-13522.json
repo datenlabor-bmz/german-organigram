@@ -33,28 +33,6 @@
       "Ressort": "BMI",
       "Telefax": "+49 22899 9582-5400",
       "Telefon": "+49 22899 9582-0"
-    },
-    {
-      "Adresse": "Uni-Campus-Nord ",
-      "Bundesland": "Saarland",
-      "Internetadresse": "https://www.bsi.bund.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Stützpunkt Saarbrücken",
-      "LiegenschaftsId": 24100020,
-      "OrganisationId": 13522,
-      "Ort": "Saarbrücken",
-      "PLZ": 66123
-    },
-    {
-      "Adresse": "Hüttenstraße 14",
-      "Bundesland": "Sachsen",
-      "Internetadresse": "https://www.bsi.bund.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Standort Freital",
-      "LiegenschaftsId": 24100022,
-      "OrganisationId": 13522,
-      "Ort": "Freital",
-      "PLZ": 1705
     }
   ]
 }

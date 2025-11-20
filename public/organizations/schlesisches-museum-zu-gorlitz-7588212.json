@@ -13,6 +13,7 @@
   "PLZ": 2826,
   "Telefax": "+49 3581 8791-200",
   "Telefon": "+49 3581 8791-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.15606",
@@ -28,7 +29,8 @@
       "Ort": "Görlitz",
       "PLZ": 2826,
       "Telefax": "+49 3581 8791-200",
-      "Telefon": "+49 3581 8791-0"
+      "Telefon": "+49 3581 8791-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

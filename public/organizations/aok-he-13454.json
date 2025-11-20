@@ -14,6 +14,7 @@
   "Ressort": "BMG",
   "Telefax": "+49 6985 091-7920",
   "Telefon": "+49 800 0000 255",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "50.220436",
@@ -30,7 +31,8 @@
       "PLZ": 61352,
       "Ressort": "BMG",
       "Telefax": "+49 6985 091-7920",
-      "Telefon": "+49 800 0000 255"
+      "Telefon": "+49 800 0000 255",
+      "Versteckt": true
     }
   ]
 }

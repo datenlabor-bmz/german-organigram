@@ -14,6 +14,7 @@
   "PLZ": 69120,
   "Telefax": "+49 6221 42-2995",
   "Telefon": "+49 6221 42-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "49.414961",
@@ -30,7 +31,8 @@
       "Ort": "Heidelberg",
       "PLZ": 69120,
       "Telefax": "+49 6221 42-2995",
-      "Telefon": "+49 6221 42-0"
+      "Telefon": "+49 6221 42-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

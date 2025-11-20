@@ -35,19 +35,6 @@
       "Telefon": "+49 431 8814-555",
       "Kategorie": "Leibniz-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Neuer Jungfernstieg 21",
-      "Bundesland": "Hamburg",
-      "E-Mail": "info@zbw.eu",
-      "Internetadresse": "https://www.zbw.eu/de/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Hamburg",
-      "LiegenschaftsId": 8740252,
-      "OrganisationId": 308346,
-      "Ort": "Hamburg",
-      "PLZ": 20354,
-      "Telefon": "+49 40 42834-219"
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 80336,
   "Telefax": "+49 89 542706-23",
   "Telefon": "+49 89 542706-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.149286",
@@ -30,7 +31,8 @@
       "Ort": "München",
       "PLZ": 80336,
       "Telefax": "+49 89 542706-23",
-      "Telefon": "+49 89 542706-0"
+      "Telefon": "+49 89 542706-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

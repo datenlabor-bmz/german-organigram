@@ -14,7 +14,7 @@
   "PLZ": 76344,
   "Telefax": "+49 7247 808-259",
   "Telefon": "+49 7247 808-555",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,44 +33,8 @@
       "PLZ": 76344,
       "Telefax": "+49 7247 808-259",
       "Telefon": "+49 7247 808-555",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
-    },
-    {
-      "Adresse": "100 Overlook Drive, 2nd Floor ",
-      "Internetadresse": "https://www.fiz-karlsruhe.de",
-      "Land": "USA",
-      "Liegenschaft": "FIZ Karlsruhe, Inc.",
-      "LiegenschaftsId": 85498,
-      "OrganisationId": 25460,
-      "Ort": "Princeton, NJ 08540",
-      "Telefon": "+1 6098447630"
-    },
-    {
-      "Adresse": "Kaiserstraße 185 - 197",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.fiz-karlsruhe.de",
-      "Land": "DE",
-      "Liegenschaft": "FIZ Karlsruhe - Niederlassung Bonn",
-      "LiegenschaftsId": 25710,
-      "OrganisationId": 25460,
-      "Ort": "Bonn",
-      "PLZ": 53113,
-      "Telefax": "+49 228 92379-29",
-      "Telefon": "+49 228 92379-0"
-    },
-    {
-      "Adresse": "Franklinstraße 11",
-      "Bundesland": "Berlin",
-      "Internetadresse": "https://www.fiz-karlsruhe.de",
-      "Land": "DE",
-      "Liegenschaft": "FIZ Karlsruhe - Niederlassung Berlin",
-      "LiegenschaftsId": 25712,
-      "OrganisationId": 25460,
-      "Ort": "Berlin",
-      "PLZ": 10587,
-      "Telefax": "+49 30 392700-9",
-      "Telefon": "+49 30 399934-0"
     }
   ]
 }

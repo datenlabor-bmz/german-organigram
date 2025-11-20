@@ -14,6 +14,7 @@
   "PLZ": 12205,
   "Telefax": "+49 30 85404–458",
   "Telefon": "+49 30 85404-170",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.429914",
@@ -30,35 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 12205,
       "Telefax": "+49 30 85404–458",
-      "Telefon": "+49 30 85404-170"
-    },
-    {
-      "Adresse": "Amandastraße 72 - 74",
-      "Bundesland": "Hamburg",
-      "E-Mail": "auskunft@drk-suchdienst.de",
-      "Internetadresse": "https://www.drk-suchdienst.de",
-      "Land": "DE",
-      "Liegenschaft": "DRK-Suchdienst Standort Hamburg",
-      "LiegenschaftsId": 22206,
-      "OrganisationId": 22208,
-      "Ort": "Hamburg",
-      "PLZ": 20357,
-      "Telefax": "+49 40 43202-200",
-      "Telefon": "+49 40 43202-0"
-    },
-    {
-      "Adresse": "Chiemgaustraße 109",
-      "Bundesland": "Bayern",
-      "E-Mail": "info@drk-suchdienst.de",
-      "Internetadresse": "https://www.drk-suchdienst.de",
-      "Land": "DE",
-      "Liegenschaft": "DRK-Suchdienst Standort München",
-      "LiegenschaftsId": 22196,
-      "OrganisationId": 22208,
-      "Ort": "München",
-      "PLZ": 81549,
-      "Telefax": "+49 89 68074-592",
-      "Telefon": "+49 89 680773-0"
+      "Telefon": "+49 30 85404-170",
+      "Kategorie": "Unklar"
     }
   ]
 }

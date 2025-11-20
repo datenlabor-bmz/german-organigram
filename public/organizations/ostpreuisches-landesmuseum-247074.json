@@ -13,6 +13,7 @@
   "PLZ": 21335,
   "Telefax": "+49 4131 75995-11",
   "Telefon": "+49 4131 75995-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "53.24679",
@@ -28,7 +29,8 @@
       "Ort": "Lüneburg",
       "PLZ": 21335,
       "Telefax": "+49 4131 75995-11",
-      "Telefon": "+49 4131 75995-0"
+      "Telefon": "+49 4131 75995-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

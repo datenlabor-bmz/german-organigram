@@ -14,6 +14,7 @@
   "PLZ": 50676,
   "Telefax": "+49 221 4986-1290",
   "Telefon": "+49 221 4986-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.9414",
@@ -30,7 +31,8 @@
       "Ort": "Köln",
       "PLZ": 50676,
       "Telefax": "+49 221 4986-1290",
-      "Telefon": "+49 221 4986-0"
+      "Telefon": "+49 221 4986-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

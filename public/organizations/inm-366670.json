@@ -14,7 +14,7 @@
   "PLZ": 66123,
   "Telefax": "+49 681 9300-223",
   "Telefon": "+49 681 9300-0",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,7 +33,7 @@
       "PLZ": 66123,
       "Telefax": "+49 681 9300-223",
       "Telefon": "+49 681 9300-0",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
     }
   ]

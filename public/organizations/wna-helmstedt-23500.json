@@ -14,6 +14,7 @@
   "PLZ": 38350,
   "Ressort": "BMV",
   "Telefon": "+49 5351 394-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": "52.23645",
@@ -30,7 +31,8 @@
       "Ort": "Helmstedt",
       "PLZ": 38350,
       "Ressort": "BMV",
-      "Telefon": "+49 5351 394-0"
+      "Telefon": "+49 5351 394-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

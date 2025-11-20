@@ -14,6 +14,7 @@
   "PLZ": 40225,
   "Telefax": "+49 211 3382-603",
   "Telefon": "+49 211 3382-1",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.204921",
@@ -30,7 +31,8 @@
       "Ort": "Düsseldorf",
       "PLZ": 40225,
       "Telefax": "+49 211 3382-603",
-      "Telefon": "+49 211 3382-1"
+      "Telefon": "+49 211 3382-1",
+      "Kategorie": "Unklar"
     }
   ]
 }

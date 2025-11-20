@@ -1,0 +1,36 @@
+{
+  "Breitengrad": "52.5062145",
+  "Bundesland": "Berlin",
+  "E-Mail": "info@topographie.de",
+  "Hauptadresse": "Niederkirchnerstraße 8",
+  "Internetadresse": "https://www.topographie.de/",
+  "Land": "DE",
+  "Längengrad": "13.3841515",
+  "Organisation": "Stiftung Topographie des Terrors",
+  "OrganisationDisplay": "Topographie des Terrors",
+  "OrganisationId": 7566520,
+  "Ort": "Berlin",
+  "PLZ": 10963,
+  "Telefax": "+49 2323 16-2609",
+  "Telefon": "+49 302545090",
+  "Kategorie": "Unklar",
+  "locations": [
+    {
+      "Breitengrad": "52.5062145",
+      "Bundesland": "Berlin",
+      "E-Mail": "info@topographie.de",
+      "Hauptadresse": "Niederkirchnerstraße 8",
+      "Internetadresse": "https://www.topographie.de/",
+      "Land": "DE",
+      "Längengrad": "13.3841515",
+      "Organisation": "Stiftung Topographie des Terrors",
+      "OrganisationDisplay": "Topographie des Terrors",
+      "OrganisationId": 7566520,
+      "Ort": "Berlin",
+      "PLZ": 10963,
+      "Telefax": "+49 2323 16-2609",
+      "Telefon": "+49 302545090",
+      "Kategorie": "Unklar"
+    }
+  ]
+}

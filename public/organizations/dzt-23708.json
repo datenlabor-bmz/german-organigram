@@ -14,6 +14,7 @@
   "PLZ": 60325,
   "Telefax": "+49 69 751903",
   "Telefon": "+49 69 974640",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.119444",
@@ -30,7 +31,8 @@
       "Ort": "Frankfurt am Main",
       "PLZ": 60325,
       "Telefax": "+49 69 751903",
-      "Telefon": "+49 69 974640"
+      "Telefon": "+49 69 974640",
+      "Kategorie": "Unklar"
     }
   ]
 }

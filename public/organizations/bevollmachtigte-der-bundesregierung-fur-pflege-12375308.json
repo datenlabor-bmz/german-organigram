@@ -14,6 +14,7 @@
   "Ressort": "BMG",
   "Telefax": "+49 30 18441-3422",
   "Telefon": "+49 30 18441-3420",
+  "Kategorie": "Beauftragter",
   "locations": [
     {
       "Breitengrad": "52.5247106",
@@ -30,7 +31,8 @@
       "PLZ": 10117,
       "Ressort": "BMG",
       "Telefax": "+49 30 18441-3422",
-      "Telefon": "+49 30 18441-3420"
+      "Telefon": "+49 30 18441-3420",
+      "Kategorie": "Beauftragter"
     }
   ]
 }

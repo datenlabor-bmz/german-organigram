@@ -14,7 +14,7 @@
   "PLZ": 28359,
   "Telefax": "+49 421 218-569 41",
   "Telefon": "+49 421 218-567 50",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,7 +33,7 @@
       "PLZ": 28359,
       "Telefax": "+49 421 218-569 41",
       "Telefon": "+49 421 218-567 50",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
     }
   ]

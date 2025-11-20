@@ -15,6 +15,7 @@
   "Ressort": "BMG",
   "Telefax": "+49 221 8992-300",
   "Telefon": "+49 221 8992-0",
+  "Kategorie": "Bundesoberbehörde",
   "locations": [
     {
       "Breitengrad": "50.94456",
@@ -32,7 +33,8 @@
       "PLZ": 50825,
       "Ressort": "BMG",
       "Telefax": "+49 221 8992-300",
-      "Telefon": "+49 221 8992-0"
+      "Telefon": "+49 221 8992-0",
+      "Kategorie": "Bundesoberbehörde"
     }
   ]
 }

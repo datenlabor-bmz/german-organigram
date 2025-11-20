@@ -5193,30 +5193,6 @@
           }
         }
       },
-      "Q896375": {
-        "type": "item",
-        "id": "Q896375",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesministerium"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Ministry in Germany"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "organisation under a minister of the German federal administration"
-          },
-          "de": {
-            "language": "de",
-            "value": "einem Bundesminister zugeordnete oberste Bundesbehörde in Deutschland"
-          }
-        }
-      },
       "Q811582": {
         "type": "item",
         "id": "Q811582",
@@ -5262,6 +5238,30 @@
           "de": {
             "language": "de",
             "value": "Regierung der Bundesrepublik Deutschland"
+          }
+        }
+      },
+      "Q896375": {
+        "type": "item",
+        "id": "Q896375",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry in Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "organisation under a minister of the German federal administration"
+          },
+          "de": {
+            "language": "de",
+            "value": "einem Bundesminister zugeordnete oberste Bundesbehörde in Deutschland"
           }
         }
       }

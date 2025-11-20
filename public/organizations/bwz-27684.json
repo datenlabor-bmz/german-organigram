@@ -37,70 +37,6 @@
       "Telefon": "+49 228 303-95400",
       "Kategorie": "Bundesmittelbehörde",
       "Wikidata ID": "Q861333"
-    },
-    {
-      "Adresse": "Bahnhofstraße 86",
-      "Bundesland": "Sachsen",
-      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort Leipzig",
-      "LiegenschaftsId": 23904192,
-      "OrganisationId": 27684,
-      "Ort": "Leipzig",
-      "PLZ": 4158
-    },
-    {
-      "Adresse": "Plessower Hauptstraße 17",
-      "Bundesland": "Brandenburg",
-      "E-Mail": "poststelle@bwz-pm.bund.de",
-      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort Plessow",
-      "LiegenschaftsId": 27688,
-      "OrganisationId": 27684,
-      "Ort": "Plessow",
-      "PLZ": 14542,
-      "Telefax": "+49 3327 467-288, -299",
-      "Telefon": "+49 3327 467-0"
-    },
-    {
-      "Adresse": "Schmeier Straße 15",
-      "Bundesland": "Baden-Württemberg",
-      "E-Mail": "poststelle@bwz-sig.bund.de",
-      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort Sigmaringen",
-      "LiegenschaftsId": 27686,
-      "OrganisationId": 27684,
-      "Ort": "Sigmaringen",
-      "PLZ": 72488,
-      "Telefax": "+49 7571 736-200",
-      "Telefon": "+49 7571 736-0"
-    },
-    {
-      "Adresse": "Werner-Seelenbinder-Straße 14",
-      "Bundesland": "Thüringen",
-      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort Erfurt",
-      "LiegenschaftsId": 23904190,
-      "OrganisationId": 27684,
-      "Ort": "Erfurt",
-      "PLZ": 99096
-    },
-    {
-      "Adresse": "Pressentinstraße 83",
-      "Bundesland": "Mecklenburg-Vorpommern",
-      "E-Mail": "poststelle@bwz-hro.bund.de",
-      "Internetadresse": "https://www.zoll.de/DE/Karriere/Ausbildung-Studium/Zollausbildung/_functions/bwz_muenster.html?faqCalledDoc=278740",
-      "Land": "DE",
-      "Liegenschaft": "Dienstort Rostock",
-      "LiegenschaftsId": 407420,
-      "OrganisationId": 27684,
-      "Ort": "Rostock",
-      "PLZ": 18147,
-      "Telefax": "+49 381 6596-379",
-      "Telefon": "+49 381 6596-459"
     }
   ],
   "wikidata": {
@@ -780,26 +716,6 @@
       }
     },
     "referenced_entities": {
-      "Q18287062": {
-        "type": "item",
-        "id": "Q18287062",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Generalzolldirektion"
-          },
-          "en": {
-            "language": "en",
-            "value": "Generalzolldirektion"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums der Finanzen"
-          }
-        }
-      },
       "Q2385804": {
         "type": "item",
         "id": "Q2385804",
@@ -821,6 +737,26 @@
           "de": {
             "language": "de",
             "value": "Einrichtung mit Bildungsauftrag"
+          }
+        }
+      },
+      "Q18287062": {
+        "type": "item",
+        "id": "Q18287062",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Generalzolldirektion"
+          },
+          "en": {
+            "language": "en",
+            "value": "Generalzolldirektion"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bundesoberbehörde im Geschäftsbereich des Bundesministeriums der Finanzen"
           }
         }
       }

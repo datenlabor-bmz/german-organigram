@@ -13,6 +13,7 @@
   "Ort": "Ulm",
   "PLZ": 89077,
   "Telefon": "+49 731 96254-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.3917126",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "DZM",
       "Ort": "Ulm",
       "PLZ": 89077,
-      "Telefon": "+49 731 96254-0"
+      "Telefon": "+49 731 96254-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

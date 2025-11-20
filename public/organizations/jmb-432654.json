@@ -14,6 +14,7 @@
   "PLZ": 10969,
   "Telefax": "+49 25993-409",
   "Telefon": "+49 30 25993-300",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.5023129",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10969,
       "Telefax": "+49 25993-409",
-      "Telefon": "+49 30 25993-300"
+      "Telefon": "+49 30 25993-300",
+      "Kategorie": "Unklar"
     }
   ]
 }

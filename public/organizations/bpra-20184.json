@@ -12,10 +12,11 @@
   "OrganisationKurz": "BPrA",
   "Ort": "Berlin",
   "PLZ": 10557,
+  "Ressort": "BPrA",
   "Telefon": "+49 30 2000-0",
+  "IstRessort": true,
   "Kategorie": "Oberste Bundesbehörde",
   "Wikidata ID": "Q470470",
-  "Ressort": "BPrA",
   "locations": [
     {
       "Breitengrad": "52.516158",
@@ -31,10 +32,11 @@
       "OrganisationKurz": "BPrA",
       "Ort": "Berlin",
       "PLZ": 10557,
+      "Ressort": "BPrA",
       "Telefon": "+49 30 2000-0",
+      "IstRessort": true,
       "Kategorie": "Oberste Bundesbehörde",
-      "Wikidata ID": "Q470470",
-      "Ressort": "BPrA"
+      "Wikidata ID": "Q470470"
     }
   ],
   "wikidata": {

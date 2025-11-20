@@ -14,6 +14,7 @@
   "PLZ": 70191,
   "Ressort": "BMG",
   "Telefon": "+49 711 76161923",
+  "Versteckt": true,
   "locations": [
     {
       "Breitengrad": "48.8016173",
@@ -30,7 +31,8 @@
       "Ort": "Stuttgart",
       "PLZ": 70191,
       "Ressort": "BMG",
-      "Telefon": "+49 711 76161923"
+      "Telefon": "+49 711 76161923",
+      "Versteckt": true
     }
   ]
 }

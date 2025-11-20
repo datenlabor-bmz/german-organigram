@@ -33,61 +33,6 @@
       "Ressort": "BMF",
       "Telefax": "+49 69 60 60 666",
       "Telefon": "+49 69 60 60 600"
-    },
-    {
-      "Adresse": "Robert-Schuman-Platz 3",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "afp@mspt.de",
-      "Internetadresse": "https://www.museumsstiftung.de/",
-      "Land": "DE",
-      "Liegenschaft": "Archiv für Philatelie",
-      "LiegenschaftsId": 4431256,
-      "OrganisationId": 25622,
-      "Ort": "Bonn",
-      "PLZ": 53175,
-      "Telefon": "+49 228 185-150"
-    },
-    {
-      "Adresse": "Lessingstraße 6",
-      "Bundesland": "Bayern",
-      "E-Mail": "mfk-nuernberg@mspt.de",
-      "Internetadresse": "https://www.museumsstiftung.de/",
-      "Land": "DE",
-      "Liegenschaft": "Museum für Kommunikation Nürnberg",
-      "LiegenschaftsId": 25610,
-      "OrganisationId": 25622,
-      "Ort": "Nürnberg",
-      "PLZ": 90443,
-      "Telefax": "+49 911 23088-96",
-      "Telefon": "+49 911 23088-0"
-    },
-    {
-      "Adresse": "Leipziger Straße 16",
-      "Bundesland": "Berlin",
-      "E-Mail": "a.schaluschke@mspt.de",
-      "Internetadresse": "https://www.museumsstiftung.de/",
-      "Land": "DE",
-      "Liegenschaft": "Museum für Kommunikation Berlin",
-      "LiegenschaftsId": 25604,
-      "OrganisationId": 25622,
-      "Ort": "Berlin",
-      "PLZ": 10117,
-      "Telefax": "+49 30 202094 119",
-      "Telefon": "+49 30 202094 101"
-    },
-    {
-      "Adresse": "Philipp-Reis-Straße 4-8",
-      "Bundesland": "Hessen",
-      "E-Mail": "mfk.sammlungen@mspt.de",
-      "Internetadresse": "https://www.museumsstiftung.de/",
-      "Land": "DE",
-      "Liegenschaft": "Museum für Kommunikation Frankfurt",
-      "LiegenschaftsId": 25606,
-      "OrganisationId": 25622,
-      "Ort": "Heusenstamm",
-      "PLZ": 63150,
-      "Telefax": "+49 69 6060-666",
-      "Telefon": "+49 69 6060-0"
     }
   ]
 }

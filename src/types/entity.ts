@@ -18,8 +18,8 @@ export interface BudgetMatch {
 import { WikidataEntity } from '@/lib/wikidata';
 
 export interface Entity {
-    OrganisationId: string | number;
     Organisation: string;
+    OrganisationId?: string | number;
     OrganisationKurz?: string;
     OrganisationKurzInoffiziell?: string;
     OrganisationDisplay?: string;

@@ -77,7 +77,7 @@ function slice(items: (TreemapItem & { normalizedValue: number })[], x: number, 
 export default function BudgetTreemap() {
     const [budgetData, setBudgetData] = useState<TreemapItem[]>([]);
     const [loading, setLoading] = useState(true);
-    const [hoveredEntity, setHoveredEntity] = useState<string | number | null>(null);
+    const [hoveredEntity, setHoveredEntity] = useState<string | null>(null);
     const router = useRouter();
 
     useEffect(() => {
@@ -144,12 +144,12 @@ export default function BudgetTreemap() {
             <div className="relative w-full h-full bg-gray-100 rounded-lg overflow-hidden">
                 {rects.map((rect) => {
                     const showLabel = rect.width > 5 && rect.height > 3;
-                    const isHovered = hoveredEntity === rect.entity.OrganisationId;
+                    const isHovered = hoveredEntity === rect.entity.Organisation;
                     const colorClass = 'bg-blue-400 text-gray-900';
                     const displayName = rect.entity.OrganisationDisplay || rect.entity.OrganisationKurz || rect.entity.Organisation;
 
                     return (
-                        <Tooltip key={rect.entity.OrganisationId} delayDuration={50} disableHoverableContent>
+                        <Tooltip key={rect.entity.Organisation} delayDuration={50} disableHoverableContent>
                             <TooltipTrigger asChild>
                                 <div
                                     className={`absolute ${colorClass} flex flex-col justify-center items-center p-2 transition-all duration-200 cursor-pointer`}
@@ -162,8 +162,8 @@ export default function BudgetTreemap() {
                                         zIndex: isHovered ? 10 : 1,
                                         transform: isHovered ? 'scale(1.02)' : 'scale(1)',
                                     }}
-                                    onClick={() => router.replace(`/?entity=${rect.entity.OrganisationId}`, { scroll: false })}
-                                    onMouseEnter={() => setHoveredEntity(rect.entity.OrganisationId)}
+                                    onClick={() => router.replace(`/?entity=${encodeURIComponent(rect.entity.Organisation)}`, { scroll: false })}
+                                    onMouseEnter={() => setHoveredEntity(rect.entity.Organisation)}
                                     onMouseLeave={() => setHoveredEntity(null)}
                                 >
                                     {showLabel && (

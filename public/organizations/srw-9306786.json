@@ -14,6 +14,7 @@
   "PLZ": 65189,
   "Telefax": "+49 611 75-2538",
   "Telefon": "+49 611 75-2390",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.0711846",
@@ -30,7 +31,8 @@
       "Ort": "Wiesbaden",
       "PLZ": 65189,
       "Telefax": "+49 611 75-2538",
-      "Telefon": "+49 611 75-2390"
+      "Telefon": "+49 611 75-2390",
+      "Kategorie": "Unklar"
     }
   ]
 }

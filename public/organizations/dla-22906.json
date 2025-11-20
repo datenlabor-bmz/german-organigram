@@ -14,6 +14,7 @@
   "PLZ": 71672,
   "Telefax": "+49 7144 848-299",
   "Telefon": "+49 7144 848-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.9362315",
@@ -30,7 +31,8 @@
       "Ort": "Marbach a. N.",
       "PLZ": 71672,
       "Telefax": "+49 7144 848-299",
-      "Telefon": "+49 7144 848-0"
+      "Telefon": "+49 7144 848-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

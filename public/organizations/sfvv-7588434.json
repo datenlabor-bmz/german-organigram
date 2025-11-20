@@ -14,6 +14,7 @@
   "PLZ": 10557,
   "Ressort": "BKM",
   "Telefon": "+49 30 206 2998-0",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "52.5087851",
@@ -30,7 +31,8 @@
       "Ort": "Berlin",
       "PLZ": 10557,
       "Ressort": "BKM",
-      "Telefon": "+49 30 206 2998-0"
+      "Telefon": "+49 30 206 2998-0",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

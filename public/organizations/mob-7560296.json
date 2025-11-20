@@ -14,6 +14,7 @@
   "PLZ": 44623,
   "Telefax": "+49 2323 16-2609",
   "Telefon": "+49 2323 16-2805",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "51.5372594",
@@ -30,7 +31,8 @@
       "Ort": "Herne",
       "PLZ": 44623,
       "Telefax": "+49 2323 16-2609",
-      "Telefon": "+49 2323 16-2805"
+      "Telefon": "+49 2323 16-2805",
+      "Kategorie": "Unklar"
     }
   ]
 }

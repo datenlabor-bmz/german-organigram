@@ -14,7 +14,7 @@
   "PLZ": 15236,
   "Telefax": "+49 335 5625-300",
   "Telefon": "+49 335 5625-0",
-  "Kategorie": "Leibniz-Institut",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -33,7 +33,7 @@
       "PLZ": 15236,
       "Telefax": "+49 335 5625-300",
       "Telefon": "+49 335 5625-0",
-      "Kategorie": "Leibniz-Institut",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
     }
   ]

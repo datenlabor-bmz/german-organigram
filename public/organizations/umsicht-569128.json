@@ -33,31 +33,6 @@
       "Telefon": "+49 208 8598-0",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "An der Maxhütte 1",
-      "Bundesland": "Hessen",
-      "Internetadresse": "https://www.umsicht.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Institutsteil Sulzbach-Rosenberg",
-      "LiegenschaftsId": 8534864,
-      "OrganisationId": 569128,
-      "Ort": "Sulzbach-Rosenberg",
-      "PLZ": 92237,
-      "Telefon": "+49 9661 908-400"
-    },
-    {
-      "Adresse": "Siemensring 79",
-      "Bundesland": "Nordrein-Westfahlen",
-      "Internetadresse": "https://www.umsicht.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Willich",
-      "LiegenschaftsId": 8534852,
-      "OrganisationId": 569128,
-      "Ort": "Willich",
-      "PLZ": 47877,
-      "Telefax": "+49 2154 9251-61",
-      "Telefon": "+49 2154 9251-0"
     }
   ]
 }

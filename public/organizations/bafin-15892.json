@@ -33,20 +33,6 @@
       "Ressort": "BMF",
       "Telefax": "+49 228 4108-1550",
       "Telefon": "+49 228 4108-0"
-    },
-    {
-      "Adresse": "Marie-Curie-Straße 24 - 28",
-      "Bundesland": "Hessen",
-      "E-Mail": "poststelle@bafin.de",
-      "Internetadresse": "https://www.bafin.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Frankfurt",
-      "LiegenschaftsId": 15948,
-      "OrganisationId": 15892,
-      "Ort": "Frankfurt am Main",
-      "PLZ": 60439,
-      "Telefax": "+49 228 4108-123",
-      "Telefon": "+49 228 4108-0"
     }
   ]
 }

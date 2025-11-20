@@ -14,6 +14,7 @@
   "Ressort": "BMVg",
   "Telefax": "+49 30 310181-105",
   "Telefon": "+49 30 310181-0",
+  "Kategorie": "Bundesoberbehörde",
   "locations": [
     {
       "Breitengrad": "52.507199",
@@ -30,7 +31,8 @@
       "PLZ": 10623,
       "Ressort": "BMVg",
       "Telefax": "+49 30 310181-105",
-      "Telefon": "+49 30 310181-0"
+      "Telefon": "+49 30 310181-0",
+      "Kategorie": "Bundesoberbehörde"
     }
   ]
 }

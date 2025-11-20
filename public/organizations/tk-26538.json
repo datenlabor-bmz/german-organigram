@@ -13,6 +13,7 @@
   "Ort": "Hamburg",
   "PLZ": 22305,
   "Telefon": "+49 800 285 85 85",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "53.591843",
@@ -28,7 +29,8 @@
       "OrganisationKurz": "TK ",
       "Ort": "Hamburg",
       "PLZ": 22305,
-      "Telefon": "+49 800 285 85 85"
+      "Telefon": "+49 800 285 85 85",
+      "Kategorie": "Unklar"
     }
   ]
 }

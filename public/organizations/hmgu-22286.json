@@ -13,7 +13,7 @@
   "PLZ": 85764,
   "Telefax": "+49 89 3187-3322",
   "Telefon": "+49 89 3187-0",
-  "Kategorie": "Helmholtz",
+  "Kategorie": "Unternehmen",
   "Versteckt": true,
   "locations": [
     {
@@ -31,31 +31,8 @@
       "PLZ": 85764,
       "Telefax": "+49 89 3187-3322",
       "Telefon": "+49 89 3187-0",
-      "Kategorie": "Helmholtz",
+      "Kategorie": "Unternehmen",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Marchioninistraße 25",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.helmholtz-muenchen.de/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Großhadern",
-      "LiegenschaftsId": 6869012,
-      "OrganisationId": 22286,
-      "Ort": "München",
-      "PLZ": 83177,
-      "Telefon": "+49 89 3187-1301"
-    },
-    {
-      "Adresse": "Parkring 11 -13",
-      "Bundesland": "Bayern",
-      "Internetadresse": "https://www.helmholtz-muenchen.de/",
-      "Land": "DE",
-      "Liegenschaft": "Standort Garching",
-      "LiegenschaftsId": 6869034,
-      "OrganisationId": 22286,
-      "Ort": "Garching",
-      "PLZ": 85748
     }
   ]
 }

@@ -14,6 +14,7 @@
   "PLZ": 27568,
   "Telefax": "+49 471 48207-55",
   "Telefon": "+49 471 48207-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "53.539737",
@@ -30,7 +31,8 @@
       "Ort": "Bremerhaven",
       "PLZ": 27568,
       "Telefax": "+49 471 48207-55",
-      "Telefon": "+49 471 48207-0"
+      "Telefon": "+49 471 48207-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

@@ -13,6 +13,7 @@
   "PLZ": 50677,
   "Telefax": "+49 221 324548",
   "Telefon": "+49 221 931817-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "50.92288",
@@ -28,7 +29,8 @@
       "Ort": "Köln",
       "PLZ": 50677,
       "Telefax": "+49 221 324548",
-      "Telefon": "+49 221 931817-0"
+      "Telefon": "+49 221 931817-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

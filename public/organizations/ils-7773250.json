@@ -13,6 +13,7 @@
   "PLZ": 44135,
   "Telefax": "+49 231 9051-155",
   "Telefon": "+49 231 9051-0",
+  "Kategorie": "Unternehmen",
   "locations": [
     {
       "Breitengrad": "51.5152918",
@@ -28,7 +29,8 @@
       "Ort": "Dortmund",
       "PLZ": 44135,
       "Telefax": "+49 231 9051-155",
-      "Telefon": "+49 231 9051-0"
+      "Telefon": "+49 231 9051-0",
+      "Kategorie": "Unternehmen"
     }
   ]
 }

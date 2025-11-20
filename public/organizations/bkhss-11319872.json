@@ -14,6 +14,7 @@
   "PLZ": 20095,
   "Ressort": "BKM",
   "Telefon": "+49 40-1823 1218",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "53.5491562",
@@ -30,18 +31,8 @@
       "Ort": "Hamburg",
       "PLZ": 20095,
       "Ressort": "BKM",
-      "Telefon": "+49 40-1823 1218"
-    },
-    {
-      "Adresse": "Neubergerweg 86",
-      "Bundesland": "Hamburg",
-      "Internetadresse": "https://www.helmut-schmidt.de",
-      "Land": "DE",
-      "Liegenschaft": "Helmut Schmidt-Archiv",
-      "LiegenschaftsId": 11319894,
-      "OrganisationId": 11319872,
-      "Ort": "Hamburg",
-      "PLZ": 22419
+      "Telefon": "+49 40-1823 1218",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

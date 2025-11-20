@@ -37,19 +37,6 @@
       "Telefon": "+49 7621 170-0",
       "Kategorie": "Bundesunterbehörde",
       "Wikidata ID": "Q97013699"
-    },
-    {
-      "Adresse": "Tennenbacher Straße 23",
-      "Bundesland": "Baden-Württemberg",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Freiburg",
-      "LiegenschaftsId": 432796,
-      "OrganisationId": 26834,
-      "Ort": "Freiburg",
-      "PLZ": 79106,
-      "Telefax": "+49 761 1509-1150",
-      "Telefon": "+49 761 1509-0"
     }
   ],
   "wikidata": {
@@ -288,30 +275,6 @@
       }
     },
     "referenced_entities": {
-      "Q1354730": {
-        "type": "item",
-        "id": "Q1354730",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Hauptzollamt"
-          },
-          "en": {
-            "language": "en",
-            "value": "Hauptzollamt"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bestandteil der Bundeszollverwaltung in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "Part of the Federal Customs Administration in Germany"
-          }
-        }
-      },
       "Q811979": {
         "type": "item",
         "id": "Q811979",
@@ -333,6 +296,30 @@
           "en": {
             "language": "en",
             "value": "human-designed and -made structure"
+          }
+        }
+      },
+      "Q1354730": {
+        "type": "item",
+        "id": "Q1354730",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Hauptzollamt"
+          },
+          "en": {
+            "language": "en",
+            "value": "Hauptzollamt"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bestandteil der Bundeszollverwaltung in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Part of the Federal Customs Administration in Germany"
           }
         }
       }

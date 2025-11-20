@@ -35,20 +35,6 @@
       "Telefon": "+49 381 4024-110",
       "Kategorie": "Fraunhofer-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Fraunhofer Straße 5",
-      "Bundesland": "Hessen",
-      "E-Mail": "info.igd@fraunhofer.de",
-      "Internetadresse": "https://www.igd.fraunhofer.de",
-      "Land": "DE",
-      "Liegenschaft": "Nebensitz Fraunhofer-Institut für Graphische Datenverarbeitung",
-      "LiegenschaftsId": 514528,
-      "OrganisationId": 514526,
-      "Ort": "Darmstadt",
-      "PLZ": 64283,
-      "Telefax": "+49 6151 155-105",
-      "Telefon": "+49 6151 155-0"
     }
   ]
 }

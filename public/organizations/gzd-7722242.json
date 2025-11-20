@@ -1221,455 +1221,6 @@
       }
     },
     "referenced_entities": {
-      "Q63360083": {
-        "type": "item",
-        "id": "Q63360083",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Colette Hercher"
-          },
-          "en": {
-            "language": "en",
-            "value": "Colette Hercher"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutsche Juristin"
-          }
-        },
-        "claims": {
-          "P31": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P31",
-                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5,
-                    "id": "Q5"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q63360083$f297b874-4e6d-c06f-d3dc-b1e6d3c8222c",
-              "rank": "normal"
-            }
-          ],
-          "P227": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P227",
-                "hash": "757917a94b188fd06b670cbf4c507efc4ae5ba61",
-                "datavalue": {
-                  "value": "1168942284",
-                  "type": "string"
-                },
-                "datatype": "external-id"
-              },
-              "type": "statement",
-              "id": "Q63360083$D91D7A95-7490-49EE-8DC4-A0B8AF2016CF",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "67e1cffb953f94caed49f6e342f2c4760ccccf71",
-                  "snaks": {
-                    "P143": [
-                      {
-                        "snaktype": "value",
-                        "property": "P143",
-                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 48183,
-                            "id": "Q48183"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ],
-                    "P4656": [
-                      {
-                        "snaktype": "value",
-                        "property": "P4656",
-                        "hash": "0d70f586d7ba92c6e7aeca6afd5f4e560f6f7cd4",
-                        "datavalue": {
-                          "value": "https://de.wikipedia.org/w/index.php?title=Colette_Hercher&oldid=187986890",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P143",
-                    "P4656"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P214": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P214",
-                "hash": "b6baf974f5edc5056744fe37ebd0bff9c32c22fa",
-                "datavalue": {
-                  "value": "78153953226205561741",
-                  "type": "string"
-                },
-                "datatype": "external-id"
-              },
-              "type": "statement",
-              "id": "Q63360083$DDBAE211-6ADC-47CA-85A4-45943B3BEBCB",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "67e1cffb953f94caed49f6e342f2c4760ccccf71",
-                  "snaks": {
-                    "P143": [
-                      {
-                        "snaktype": "value",
-                        "property": "P143",
-                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 48183,
-                            "id": "Q48183"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ],
-                    "P4656": [
-                      {
-                        "snaktype": "value",
-                        "property": "P4656",
-                        "hash": "0d70f586d7ba92c6e7aeca6afd5f4e560f6f7cd4",
-                        "datavalue": {
-                          "value": "https://de.wikipedia.org/w/index.php?title=Colette_Hercher&oldid=187986890",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P143",
-                    "P4656"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P21": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P21",
-                "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 6581072,
-                    "id": "Q6581072"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q63360083$CC314963-09A4-4121-A51E-8F3A5AC02427",
-              "rank": "normal"
-            }
-          ],
-          "P569": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P569",
-                "hash": "8807d7ced2ffdee8fd44f3cd2e1218b14da05469",
-                "datavalue": {
-                  "value": {
-                    "time": "+1950-00-00T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 7,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                  },
-                  "type": "time"
-                },
-                "datatype": "time"
-              },
-              "type": "statement",
-              "id": "Q63360083$71b0f8e3-e1a4-475f-9d34-deadcc00f1a4",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
-                  "snaks": {
-                    "P143": [
-                      {
-                        "snaktype": "value",
-                        "property": "P143",
-                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 48183,
-                            "id": "Q48183"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P143"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P39": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P39",
-                "hash": "8fdb4d8527f5d7133dfeeefb674bc08e07c1a519",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 97395775,
-                    "id": "Q97395775"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "qualifiers": {
-                "P580": [
-                  {
-                    "snaktype": "value",
-                    "property": "P580",
-                    "hash": "4d5813b42aa6273cd315c0c73c8046dce8ee1da6",
-                    "datavalue": {
-                      "value": {
-                        "time": "+2018-08-01T00:00:00Z",
-                        "timezone": 0,
-                        "before": 0,
-                        "after": 0,
-                        "precision": 11,
-                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                      },
-                      "type": "time"
-                    },
-                    "datatype": "time"
-                  }
-                ]
-              },
-              "qualifiers-order": [
-                "P580"
-              ],
-              "id": "Q63360083$4bb83644-427f-2a22-fef8-2865646a395c",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "f1880039fdbae850bcbd161b4608f067c137ae81",
-                  "snaks": {
-                    "P854": [
-                      {
-                        "snaktype": "value",
-                        "property": "P854",
-                        "hash": "4670c5110f0a157b320c97b27436e0e76ed8357e",
-                        "datavalue": {
-                          "value": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Zoll/2018-09-14-Amtseinfuehrung-Praesidentin-GZD.html",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P854"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P2671": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P2671",
-                "hash": "fcef8620fd0bcfcba1fed45dfa8e2c9b299ceb1c",
-                "datavalue": {
-                  "value": "/g/11fpjwyfqf",
-                  "type": "string"
-                },
-                "datatype": "external-id"
-              },
-              "type": "statement",
-              "id": "Q63360083$57B22040-2A20-4A48-A9D5-75374D82F5ED",
-              "rank": "normal"
-            }
-          ],
-          "P735": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P735",
-                "hash": "eaab500f65a145b220831cd978fd30e23c58e78f",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 16275223,
-                    "id": "Q16275223"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q63360083$C46D267B-66E1-43FE-B9DE-75EA1FC9FAF0",
-              "rank": "normal"
-            }
-          ],
-          "P10832": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P10832",
-                "hash": "c9c7b1d9c323baa1dc45459fd68578ffdb56d9aa",
-                "datavalue": {
-                  "value": "E39PBJdgVx899q3DgrfbmVRh73",
-                  "type": "string"
-                },
-                "datatype": "external-id"
-              },
-              "type": "statement",
-              "id": "Q63360083$240E0E57-2D18-45E1-9614-3E7498C361B3",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "350b1cdaafc395fbec20e7c06cf8a0a533050f49",
-                  "snaks": {
-                    "P11797": [
-                      {
-                        "snaktype": "value",
-                        "property": "P11797",
-                        "hash": "3b992a8b1d7f5bfbb710fb1b091cc424c4e3e7db",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 54919,
-                            "id": "Q54919"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ],
-                    "P214": [
-                      {
-                        "snaktype": "value",
-                        "property": "P214",
-                        "hash": "b6baf974f5edc5056744fe37ebd0bff9c32c22fa",
-                        "datavalue": {
-                          "value": "78153953226205561741",
-                          "type": "string"
-                        },
-                        "datatype": "external-id"
-                      }
-                    ],
-                    "P813": [
-                      {
-                        "snaktype": "value",
-                        "property": "P813",
-                        "hash": "c7d16c245ec706e4a79f8c14f09bc2d8cf15fae4",
-                        "datavalue": {
-                          "value": {
-                            "time": "+2024-05-29T00:00:00Z",
-                            "timezone": 0,
-                            "before": 0,
-                            "after": 0,
-                            "precision": 11,
-                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                          },
-                          "type": "time"
-                        },
-                        "datatype": "time"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P11797",
-                    "P214",
-                    "P813"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P106": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P106",
-                "hash": "d5c3deacb840d9ee6b5dd35f202269705fb060a9",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 185351,
-                    "id": "Q185351"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q63360083$9F3D7424-17AD-4E24-9438-ED9AF3DB5CDC",
-              "rank": "normal"
-            }
-          ],
-          "P1412": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P1412",
-                "hash": "c92f42a19ff65548d3fc6d4fdca0944a825d8879",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 188,
-                    "id": "Q188"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q63360083$45603206-16BE-48C4-8C2E-F409C90C86F3",
-              "rank": "normal"
-            }
-          ]
-        }
-      },
       "Q40329854": {
         "type": "item",
         "id": "Q40329854",
@@ -2120,28 +1671,453 @@
           ]
         }
       },
-      "Q6581097": {
+      "Q63360083": {
         "type": "item",
-        "id": "Q6581097",
+        "id": "Q63360083",
         "labels": {
           "de": {
             "language": "de",
-            "value": "männlich"
+            "value": "Colette Hercher"
           },
           "en": {
             "language": "en",
-            "value": "male"
+            "value": "Colette Hercher"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Mensch mit männlichem Geschlecht (Verwendung mit P21)"
-          },
-          "en": {
-            "language": "en",
-            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
+            "value": "deutsche Juristin"
           }
+        },
+        "claims": {
+          "P31": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P31",
+                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5,
+                    "id": "Q5"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q63360083$f297b874-4e6d-c06f-d3dc-b1e6d3c8222c",
+              "rank": "normal"
+            }
+          ],
+          "P227": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P227",
+                "hash": "757917a94b188fd06b670cbf4c507efc4ae5ba61",
+                "datavalue": {
+                  "value": "1168942284",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q63360083$D91D7A95-7490-49EE-8DC4-A0B8AF2016CF",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "67e1cffb953f94caed49f6e342f2c4760ccccf71",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ],
+                    "P4656": [
+                      {
+                        "snaktype": "value",
+                        "property": "P4656",
+                        "hash": "0d70f586d7ba92c6e7aeca6afd5f4e560f6f7cd4",
+                        "datavalue": {
+                          "value": "https://de.wikipedia.org/w/index.php?title=Colette_Hercher&oldid=187986890",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143",
+                    "P4656"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P214": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P214",
+                "hash": "b6baf974f5edc5056744fe37ebd0bff9c32c22fa",
+                "datavalue": {
+                  "value": "78153953226205561741",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q63360083$DDBAE211-6ADC-47CA-85A4-45943B3BEBCB",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "67e1cffb953f94caed49f6e342f2c4760ccccf71",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ],
+                    "P4656": [
+                      {
+                        "snaktype": "value",
+                        "property": "P4656",
+                        "hash": "0d70f586d7ba92c6e7aeca6afd5f4e560f6f7cd4",
+                        "datavalue": {
+                          "value": "https://de.wikipedia.org/w/index.php?title=Colette_Hercher&oldid=187986890",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143",
+                    "P4656"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P21": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P21",
+                "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6581072,
+                    "id": "Q6581072"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q63360083$CC314963-09A4-4121-A51E-8F3A5AC02427",
+              "rank": "normal"
+            }
+          ],
+          "P569": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P569",
+                "hash": "8807d7ced2ffdee8fd44f3cd2e1218b14da05469",
+                "datavalue": {
+                  "value": {
+                    "time": "+1950-00-00T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 7,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                  },
+                  "type": "time"
+                },
+                "datatype": "time"
+              },
+              "type": "statement",
+              "id": "Q63360083$71b0f8e3-e1a4-475f-9d34-deadcc00f1a4",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "9a24f7c0208b05d6be97077d855671d1dfdbc0dd",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P39": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P39",
+                "hash": "8fdb4d8527f5d7133dfeeefb674bc08e07c1a519",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 97395775,
+                    "id": "Q97395775"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "qualifiers": {
+                "P580": [
+                  {
+                    "snaktype": "value",
+                    "property": "P580",
+                    "hash": "4d5813b42aa6273cd315c0c73c8046dce8ee1da6",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2018-08-01T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 11,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "qualifiers-order": [
+                "P580"
+              ],
+              "id": "Q63360083$4bb83644-427f-2a22-fef8-2865646a395c",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "f1880039fdbae850bcbd161b4608f067c137ae81",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "4670c5110f0a157b320c97b27436e0e76ed8357e",
+                        "datavalue": {
+                          "value": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Zoll/2018-09-14-Amtseinfuehrung-Praesidentin-GZD.html",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P2671": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P2671",
+                "hash": "fcef8620fd0bcfcba1fed45dfa8e2c9b299ceb1c",
+                "datavalue": {
+                  "value": "/g/11fpjwyfqf",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q63360083$57B22040-2A20-4A48-A9D5-75374D82F5ED",
+              "rank": "normal"
+            }
+          ],
+          "P735": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P735",
+                "hash": "eaab500f65a145b220831cd978fd30e23c58e78f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 16275223,
+                    "id": "Q16275223"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q63360083$C46D267B-66E1-43FE-B9DE-75EA1FC9FAF0",
+              "rank": "normal"
+            }
+          ],
+          "P10832": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P10832",
+                "hash": "c9c7b1d9c323baa1dc45459fd68578ffdb56d9aa",
+                "datavalue": {
+                  "value": "E39PBJdgVx899q3DgrfbmVRh73",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q63360083$240E0E57-2D18-45E1-9614-3E7498C361B3",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "350b1cdaafc395fbec20e7c06cf8a0a533050f49",
+                  "snaks": {
+                    "P11797": [
+                      {
+                        "snaktype": "value",
+                        "property": "P11797",
+                        "hash": "3b992a8b1d7f5bfbb710fb1b091cc424c4e3e7db",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 54919,
+                            "id": "Q54919"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ],
+                    "P214": [
+                      {
+                        "snaktype": "value",
+                        "property": "P214",
+                        "hash": "b6baf974f5edc5056744fe37ebd0bff9c32c22fa",
+                        "datavalue": {
+                          "value": "78153953226205561741",
+                          "type": "string"
+                        },
+                        "datatype": "external-id"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "c7d16c245ec706e4a79f8c14f09bc2d8cf15fae4",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2024-05-29T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P11797",
+                    "P214",
+                    "P813"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P106": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P106",
+                "hash": "d5c3deacb840d9ee6b5dd35f202269705fb060a9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 185351,
+                    "id": "Q185351"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q63360083$9F3D7424-17AD-4E24-9438-ED9AF3DB5CDC",
+              "rank": "normal"
+            }
+          ],
+          "P1412": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P1412",
+                "hash": "c92f42a19ff65548d3fc6d4fdca0944a825d8879",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 188,
+                    "id": "Q188"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q63360083$45603206-16BE-48C4-8C2E-F409C90C86F3",
+              "rank": "normal"
+            }
+          ]
         }
       },
       "Q6581072": {
@@ -2168,27 +2144,27 @@
           }
         }
       },
-      "Q499118": {
+      "Q6581097": {
         "type": "item",
-        "id": "Q499118",
+        "id": "Q6581097",
         "labels": {
-          "en": {
-            "language": "en",
-            "value": "Federal Ministry of Finance"
-          },
           "de": {
             "language": "de",
-            "value": "Bundesministerium der Finanzen"
+            "value": "männlich"
+          },
+          "en": {
+            "language": "en",
+            "value": "male"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+            "value": "Mensch mit männlichem Geschlecht (Verwendung mit P21)"
           },
           "en": {
             "language": "en",
-            "value": "Federal agency of the Federal Republic of Germany"
+            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
           }
         }
       },
@@ -2213,6 +2189,30 @@
           "de": {
             "language": "de",
             "value": "Behörden in Deutschland, die dem Bund unterstehen"
+          }
+        }
+      },
+      "Q499118": {
+        "type": "item",
+        "id": "Q499118",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "Federal Ministry of Finance"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesministerium der Finanzen"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "oberste Bundesbehörde der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal agency of the Federal Republic of Germany"
           }
         }
       }

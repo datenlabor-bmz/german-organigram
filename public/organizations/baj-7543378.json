@@ -15,6 +15,7 @@
   "Ressort": "BMBFSFJ",
   "Telefax": "+49 30 40040 333",
   "Telefon": "+49 30 40040300",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.515574",
@@ -32,7 +33,8 @@
       "PLZ": 10178,
       "Ressort": "BMBFSFJ",
       "Telefax": "+49 30 40040 333",
-      "Telefon": "+49 30 40040300"
+      "Telefon": "+49 30 40040300",
+      "Kategorie": "Unklar"
     }
   ]
 }

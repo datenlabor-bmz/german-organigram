@@ -14,6 +14,7 @@
   "PLZ": 70372,
   "Telefax": "+49 711 346 529-98",
   "Telefon": "+49 711 346 529-96",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "48.812338",
@@ -30,7 +31,8 @@
       "Ort": "Stuttgart",
       "PLZ": 70372,
       "Telefax": "+49 711 346 529-98",
-      "Telefon": "+49 711 346 529-96"
+      "Telefon": "+49 711 346 529-96",
+      "Kategorie": "Unklar"
     }
   ]
 }

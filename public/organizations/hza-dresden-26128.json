@@ -35,20 +35,6 @@
       "Telefax": "+49 351 4644-3900",
       "Telefon": "+49 351 4644-0",
       "Kategorie": "Bundesunterbehörde"
-    },
-    {
-      "Adresse": "Hamburger Straße 5",
-      "Bundesland": "Sachsen",
-      "E-Mail": "poststelle@hzal.bfinv.de",
-      "Internetadresse": "https://www.zoll.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Leipzig",
-      "LiegenschaftsId": 21850,
-      "OrganisationId": 26128,
-      "Ort": "Leipzig",
-      "PLZ": 4129,
-      "Telefax": "+49 341 4919-101",
-      "Telefon": "+49 341 4919-0"
     }
   ]
 }

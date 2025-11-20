@@ -33,20 +33,6 @@
       "Ressort": "BMV",
       "Telefax": "+49 40 3190-5000",
       "Telefon": "+49 40 3190-0"
-    },
-    {
-      "Adresse": "Neptunallee 5",
-      "Bundesland": "Mecklenburg-Vorpommern",
-      "E-Mail": "posteingang@bsh.de",
-      "Internetadresse": "https://www.bsh.de",
-      "Land": "DE",
-      "Liegenschaft": "Dienstsitz Rostock",
-      "LiegenschaftsId": 13424,
-      "OrganisationId": 13498,
-      "Ort": "Rostock",
-      "PLZ": 18057,
-      "Telefax": "+49 381 4563-948",
-      "Telefon": "+49 381 4563-5"
     }
   ]
 }

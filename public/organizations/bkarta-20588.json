@@ -37,20 +37,6 @@
       "Telefon": "+49 228 9499-0",
       "Kategorie": "Bundesoberbehörde",
       "Wikidata ID": "Q450394"
-    },
-    {
-      "Adresse": "Bundeskanzlerplatz 2-10",
-      "Bundesland": "Nordrhein-Westfalen",
-      "E-Mail": "info@bundeskartellamt.bund.de",
-      "Internetadresse": "https://www.bundeskartellamt.de/DE/Home/home_node.html",
-      "Land": "DE",
-      "Liegenschaft": "Vergabekammern des Bundes",
-      "LiegenschaftsId": 6520270,
-      "OrganisationId": 20588,
-      "Ort": "Bonn",
-      "PLZ": 53113,
-      "Telefax": "+49 228 9499-163",
-      "Telefon": "+49 228 9499-0"
     }
   ],
   "wikidata": {
@@ -2884,30 +2870,6 @@
           ]
         }
       },
-      "Q13124": {
-        "type": "item",
-        "id": "Q13124",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Freie Demokratische Partei"
-          },
-          "en": {
-            "language": "en",
-            "value": "Free Democratic Party"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "politische Partei in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "political party in Germany"
-          }
-        }
-      },
       "Q6581097": {
         "type": "item",
         "id": "Q6581097",
@@ -2932,27 +2894,47 @@
           }
         }
       },
-      "Q1465684": {
+      "Q13124": {
         "type": "item",
-        "id": "Q1465684",
+        "id": "Q13124",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Wettbewerbsbehörde"
+            "value": "Freie Demokratische Partei"
           },
           "en": {
             "language": "en",
-            "value": "competition regulator"
+            "value": "Free Democratic Party"
           }
         },
         "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "government bodies enforcing fair competition"
-          },
           "de": {
             "language": "de",
-            "value": "Art von staatlicher Organisation"
+            "value": "politische Partei in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "political party in Germany"
+          }
+        }
+      },
+      "Q28738459": {
+        "type": "item",
+        "id": "Q28738459",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundeskartellamt, Bibliothek"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "library in Germany"
           }
         }
       },
@@ -2980,23 +2962,27 @@
           }
         }
       },
-      "Q28738459": {
+      "Q1465684": {
         "type": "item",
-        "id": "Q28738459",
+        "id": "Q1465684",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Bundeskartellamt, Bibliothek"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Bibliothek"
+            "value": "Wettbewerbsbehörde"
           },
           "en": {
             "language": "en",
-            "value": "library in Germany"
+            "value": "competition regulator"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "government bodies enforcing fair competition"
+          },
+          "de": {
+            "language": "de",
+            "value": "Art von staatlicher Organisation"
           }
         }
       },

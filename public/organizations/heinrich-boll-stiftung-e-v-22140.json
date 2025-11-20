@@ -13,6 +13,7 @@
   "PLZ": 10178,
   "Telefax": "+49 30 28534-109",
   "Telefon": "+49 30 28534-0",
+  "Kategorie": "Stiftung des Privatrechts",
   "locations": [
     {
       "Breitengrad": "52.5238",
@@ -28,7 +29,8 @@
       "Ort": "Berlin",
       "PLZ": 10178,
       "Telefax": "+49 30 28534-109",
-      "Telefon": "+49 30 28534-0"
+      "Telefon": "+49 30 28534-0",
+      "Kategorie": "Stiftung des Privatrechts"
     }
   ]
 }

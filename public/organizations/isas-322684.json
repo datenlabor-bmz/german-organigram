@@ -35,20 +35,6 @@
       "Telefon": "+49 231 1392-0",
       "Kategorie": "Leibniz-Institut",
       "Versteckt": true
-    },
-    {
-      "Adresse": "Schwarzschildstraße  8",
-      "Bundesland": "Berlin",
-      "E-Mail": "info@isas.de",
-      "Internetadresse": "https://www.isas.de",
-      "Land": "DE",
-      "Liegenschaft": "Department Berlin",
-      "LiegenschaftsId": 322686,
-      "OrganisationId": 322684,
-      "Ort": "Berlin",
-      "PLZ": 12489,
-      "Telefax": "+49 30 6392-3544",
-      "Telefon": "+49 30 6392-3530"
     }
   ]
 }

@@ -15,6 +15,7 @@
   "Ressort": "BMV",
   "Telefax": "+49 5541 952-1400",
   "Telefon": "+49 5541 952-0",
+  "Kategorie": "Bundesunterbehörde",
   "locations": [
     {
       "Breitengrad": " 51.413285",
@@ -32,67 +33,8 @@
       "PLZ": 34346,
       "Ressort": "BMV",
       "Telefax": "+49 5541 952-1400",
-      "Telefon": "+49 5541 952-0"
-    },
-    {
-      "Adresse": "Inselstraße 2",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Hameln",
-      "LiegenschaftsId": 8811754,
-      "OrganisationId": 21566,
-      "Ort": "Hameln",
-      "PLZ": 31787,
-      "Telefon": "+49 5151 924512"
-    },
-    {
-      "Adresse": "Brotgasse 43",
-      "Bundesland": "Hessen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Rotenburg",
-      "LiegenschaftsId": 8811726,
-      "OrganisationId": 21566,
-      "Ort": "Rotenburg a.d. Fulda",
-      "PLZ": 36199,
-      "Telefon": "+49 6623 919513"
-    },
-    {
-      "Adresse": "Gimter Straße 29a",
-      "Bundesland": "Niedersachsen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Hann. Münden",
-      "LiegenschaftsId": 8811742,
-      "OrganisationId": 21566,
-      "Ort": "Hannoversch Münden",
-      "PLZ": 34346,
-      "Telefon": "+49 5541 9999-10"
-    },
-    {
-      "Adresse": "Zur Sperrmauer 57",
-      "Bundesland": "Hessen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Edertal",
-      "LiegenschaftsId": 8811722,
-      "OrganisationId": 21566,
-      "Ort": "Edertal",
-      "PLZ": 34549,
-      "Telefon": "+49 5623 1205"
-    },
-    {
-      "Adresse": "Am Hafen 1",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.wsa-weser.wsv.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenbezirk Höxter",
-      "LiegenschaftsId": 8811750,
-      "OrganisationId": 21566,
-      "Ort": "Höxter",
-      "PLZ": 37671,
-      "Telefon": "+49 5271 2411"
+      "Telefon": "+49 5541 952-0",
+      "Kategorie": "Bundesunterbehörde"
     }
   ]
 }

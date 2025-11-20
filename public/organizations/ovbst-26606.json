@@ -15,6 +15,7 @@
   "Ressort": "BKM",
   "Telefax": "+49 4104 9771-14",
   "Telefon": "+49 4104 9771-0",
+  "Kategorie": "Stiftung öffentlichen Rechts",
   "locations": [
     {
       "Breitengrad": "53.53007",
@@ -32,21 +33,8 @@
       "PLZ": 21521,
       "Ressort": "BKM",
       "Telefax": "+49 4104 9771-14",
-      "Telefon": "+49 4104 9771-0"
-    },
-    {
-      "Adresse": "Kirchberg 4",
-      "Bundesland": "Sachsen-Anhalt",
-      "E-Mail": "aussenstelle@bismarck-stiftung.de",
-      "Internetadresse": "https://www.bismarck-stiftung.de",
-      "Land": "DE",
-      "Liegenschaft": "Außenstelle Bismarckmuseum Schönhausen",
-      "LiegenschaftsId": 26598,
-      "OrganisationId": 26606,
-      "Ort": "Schönhausen",
-      "PLZ": 39524,
-      "Telefax": "+49 39323 38874",
-      "Telefon": "+49 39323 38874"
+      "Telefon": "+49 4104 9771-0",
+      "Kategorie": "Stiftung öffentlichen Rechts"
     }
   ]
 }

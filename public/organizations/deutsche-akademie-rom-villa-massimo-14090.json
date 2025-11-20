@@ -13,6 +13,7 @@
   "Ressort": "BKM",
   "Telefax": "+39 06 44259-355",
   "Telefon": "+39 06 44259-31",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "41.916583",
@@ -28,7 +29,8 @@
       "PLZ": -161,
       "Ressort": "BKM",
       "Telefax": "+39 06 44259-355",
-      "Telefon": "+39 06 44259-31"
+      "Telefon": "+39 06 44259-31",
+      "Kategorie": "Unklar"
     }
   ]
 }

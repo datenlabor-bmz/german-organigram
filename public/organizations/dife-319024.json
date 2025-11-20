@@ -14,6 +14,7 @@
   "PLZ": 14558,
   "Telefax": "+49 33200 88-2444",
   "Telefon": "+49 33200 88-0",
+  "Kategorie": "Unklar",
   "locations": [
     {
       "Breitengrad": "52.3483557",
@@ -30,7 +31,8 @@
       "Ort": "Nuthetal",
       "PLZ": 14558,
       "Telefax": "+49 33200 88-2444",
-      "Telefon": "+49 33200 88-0"
+      "Telefon": "+49 33200 88-0",
+      "Kategorie": "Unklar"
     }
   ]
 }

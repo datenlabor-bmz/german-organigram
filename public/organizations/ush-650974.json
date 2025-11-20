@@ -31,17 +31,6 @@
       "PLZ": 4509,
       "Ressort": "BMVg",
       "Telefon": "+49 34202 77-2002"
-    },
-    {
-      "Adresse": "Lützowstraße 1a",
-      "Bundesland": "Nordrhein-Westfalen",
-      "Internetadresse": "https://www.bundeswehr.de/de/organisation/heer/organisation/ausbildungskommando/unteroffizierschule-des-heeres",
-      "Land": "DE",
-      "Liegenschaft": "Lehrgruppe B",
-      "LiegenschaftsId": 650966,
-      "OrganisationId": 650974,
-      "Ort": "Münster",
-      "PLZ": 48157
     }
   ]
 }
