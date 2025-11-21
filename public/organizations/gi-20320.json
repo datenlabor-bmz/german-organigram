@@ -815,27 +815,27 @@
       }
     },
     "referenced_entities": {
-      "Q1021645": {
+      "Q157033": {
         "type": "item",
-        "id": "Q1021645",
+        "id": "Q157033",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Bürogebäude"
+            "value": "Goethe-Institut"
           },
           "en": {
             "language": "en",
-            "value": "office building"
+            "value": "Goethe-Institut"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Gebäudetyp"
+            "value": "gemeinnütziger Verein zur Förderung der deutschen Sprache im Ausland und der internationalen kulturellen Zusammenarbeit"
           },
           "en": {
             "language": "en",
-            "value": "building which contains spaces mainly designed to be used for offices"
+            "value": "non-profit association of the Federal Republic of Germany for the promotion of the German language abroad and for global cultural exchange"
           }
         }
       },
@@ -863,6 +863,30 @@
           }
         }
       },
+      "Q1021645": {
+        "type": "item",
+        "id": "Q1021645",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bürogebäude"
+          },
+          "en": {
+            "language": "en",
+            "value": "office building"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Gebäudetyp"
+          },
+          "en": {
+            "language": "en",
+            "value": "building which contains spaces mainly designed to be used for offices"
+          }
+        }
+      },
       "Q28739112": {
         "type": "item",
         "id": "Q28739112",
@@ -884,30 +908,6 @@
           "en": {
             "language": "en",
             "value": "special library"
-          }
-        }
-      },
-      "Q157033": {
-        "type": "item",
-        "id": "Q157033",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Goethe-Institut"
-          },
-          "en": {
-            "language": "en",
-            "value": "Goethe-Institut"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "gemeinnütziger Verein zur Förderung der deutschen Sprache im Ausland und der internationalen kulturellen Zusammenarbeit"
-          },
-          "en": {
-            "language": "en",
-            "value": "non-profit association of the Federal Republic of Germany for the promotion of the German language abroad and for global cultural exchange"
           }
         }
       }

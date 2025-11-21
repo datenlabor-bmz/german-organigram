@@ -3282,312 +3282,6 @@
           ]
         }
       },
-      "Q104656811": {
-        "type": "item",
-        "id": "Q104656811",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Torsten Safarik"
-          },
-          "en": {
-            "language": "en",
-            "value": "Torsten Safarik"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "deutscher Behördenleiter"
-          }
-        },
-        "claims": {
-          "P31": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P31",
-                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 5,
-                    "id": "Q5"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$04CB1FCA-1426-4736-B22E-1557EA136EB2",
-              "rank": "normal"
-            }
-          ],
-          "P21": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P21",
-                "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 6581097,
-                    "id": "Q6581097"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$6ABAFA4E-072C-4A8E-82A8-9B4920C9C9CB",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 69652498,
-                            "id": "Q69652498"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P734": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P734",
-                "hash": "cf5dcec2c76b26d48baf940c89549407c3fbcc1a",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 37112861,
-                    "id": "Q37112861"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$7aefe374-4cd7-b962-36a9-eec99d01b9d0",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 97033143,
-                            "id": "Q97033143"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P735": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P735",
-                "hash": "68f0d88c0092270e65d52aa9ba75329912791a56",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 19688780,
-                    "id": "Q19688780"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$d54aecf1-405e-fb4f-bf4d-99ca355fa583",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
-                  "snaks": {
-                    "P887": [
-                      {
-                        "snaktype": "value",
-                        "property": "P887",
-                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 97033143,
-                            "id": "Q97033143"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P887"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P569": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P569",
-                "hash": "ce05108e56261202afc2a3166a0c6846bac20ae5",
-                "datavalue": {
-                  "value": {
-                    "time": "+1965-10-23T00:00:00Z",
-                    "timezone": 0,
-                    "before": 0,
-                    "after": 0,
-                    "precision": 11,
-                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
-                  },
-                  "type": "time"
-                },
-                "datatype": "time"
-              },
-              "type": "statement",
-              "id": "Q104656811$b519b5fa-08a2-4791-8a6d-57b251f29431",
-              "rank": "normal"
-            }
-          ],
-          "P2671": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P2671",
-                "hash": "b336cac000180a0d80cc37f44aa0fdc1b8e30a49",
-                "datavalue": {
-                  "value": "/g/11llysj40s",
-                  "type": "string"
-                },
-                "datatype": "external-id"
-              },
-              "type": "statement",
-              "id": "Q104656811$3C911D34-61A5-4218-B332-F9868D6C9F86",
-              "rank": "normal"
-            }
-          ],
-          "P19": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P19",
-                "hash": "c28ced3cd1cff7fea7b1537e0fae5439d0ec97ae",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 4077,
-                    "id": "Q4077"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$D073E03B-6DB6-4F58-8A0E-647A57698D85",
-              "rank": "normal",
-              "references": [
-                {
-                  "hash": "8b0e0f2d2e050ced24c96e87a4528f2ae12a4994",
-                  "snaks": {
-                    "P143": [
-                      {
-                        "snaktype": "value",
-                        "property": "P143",
-                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
-                        "datavalue": {
-                          "value": {
-                            "entity-type": "item",
-                            "numeric-id": 48183,
-                            "id": "Q48183"
-                          },
-                          "type": "wikibase-entityid"
-                        },
-                        "datatype": "wikibase-item"
-                      }
-                    ],
-                    "P4656": [
-                      {
-                        "snaktype": "value",
-                        "property": "P4656",
-                        "hash": "f8b73423152969afc663bcefdaf33af8176b6b2f",
-                        "datavalue": {
-                          "value": "https://de.wikipedia.org/w/index.php?title=Torsten_Safarik&oldid=209586798",
-                          "type": "string"
-                        },
-                        "datatype": "url"
-                      }
-                    ]
-                  },
-                  "snaks-order": [
-                    "P143",
-                    "P4656"
-                  ]
-                }
-              ]
-            }
-          ],
-          "P1412": [
-            {
-              "mainsnak": {
-                "snaktype": "value",
-                "property": "P1412",
-                "hash": "c92f42a19ff65548d3fc6d4fdca0944a825d8879",
-                "datavalue": {
-                  "value": {
-                    "entity-type": "item",
-                    "numeric-id": 188,
-                    "id": "Q188"
-                  },
-                  "type": "wikibase-entityid"
-                },
-                "datatype": "wikibase-item"
-              },
-              "type": "statement",
-              "id": "Q104656811$A7596EE0-EE56-4532-B24E-8DB858F34FCE",
-              "rank": "normal"
-            }
-          ]
-        }
-      },
       "Q825213": {
         "type": "item",
         "id": "Q825213",
@@ -4681,6 +4375,336 @@
           ]
         }
       },
+      "Q104656811": {
+        "type": "item",
+        "id": "Q104656811",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Torsten Safarik"
+          },
+          "en": {
+            "language": "en",
+            "value": "Torsten Safarik"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "deutscher Behördenleiter"
+          }
+        },
+        "claims": {
+          "P31": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P31",
+                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5,
+                    "id": "Q5"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$04CB1FCA-1426-4736-B22E-1557EA136EB2",
+              "rank": "normal"
+            }
+          ],
+          "P21": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P21",
+                "hash": "85ad4b1c7348f7a5aac521135040d74e91fb5939",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6581097,
+                    "id": "Q6581097"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$6ABAFA4E-072C-4A8E-82A8-9B4920C9C9CB",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "5c0fa0d334b12fb6fd96eeccd70c1bfbc0491a41",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 69652498,
+                            "id": "Q69652498"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P734": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P734",
+                "hash": "cf5dcec2c76b26d48baf940c89549407c3fbcc1a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 37112861,
+                    "id": "Q37112861"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$7aefe374-4cd7-b962-36a9-eec99d01b9d0",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97033143,
+                            "id": "Q97033143"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P735": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P735",
+                "hash": "68f0d88c0092270e65d52aa9ba75329912791a56",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 19688780,
+                    "id": "Q19688780"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$d54aecf1-405e-fb4f-bf4d-99ca355fa583",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "323be97becfd18ea6625da4b3770079385901a18",
+                  "snaks": {
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "b40d6c0ac6eb965460f92fade101fe40a3c44239",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 97033143,
+                            "id": "Q97033143"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P569": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P569",
+                "hash": "ce05108e56261202afc2a3166a0c6846bac20ae5",
+                "datavalue": {
+                  "value": {
+                    "time": "+1965-10-23T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                  },
+                  "type": "time"
+                },
+                "datatype": "time"
+              },
+              "type": "statement",
+              "id": "Q104656811$b519b5fa-08a2-4791-8a6d-57b251f29431",
+              "rank": "normal"
+            }
+          ],
+          "P2671": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P2671",
+                "hash": "b336cac000180a0d80cc37f44aa0fdc1b8e30a49",
+                "datavalue": {
+                  "value": "/g/11llysj40s",
+                  "type": "string"
+                },
+                "datatype": "external-id"
+              },
+              "type": "statement",
+              "id": "Q104656811$3C911D34-61A5-4218-B332-F9868D6C9F86",
+              "rank": "normal"
+            }
+          ],
+          "P19": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P19",
+                "hash": "c28ced3cd1cff7fea7b1537e0fae5439d0ec97ae",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 4077,
+                    "id": "Q4077"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$D073E03B-6DB6-4F58-8A0E-647A57698D85",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "8b0e0f2d2e050ced24c96e87a4528f2ae12a4994",
+                  "snaks": {
+                    "P143": [
+                      {
+                        "snaktype": "value",
+                        "property": "P143",
+                        "hash": "d38375ffe6fe142663ff55cd783aa4df4301d83d",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 48183,
+                            "id": "Q48183"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ],
+                    "P4656": [
+                      {
+                        "snaktype": "value",
+                        "property": "P4656",
+                        "hash": "f8b73423152969afc663bcefdaf33af8176b6b2f",
+                        "datavalue": {
+                          "value": "https://de.wikipedia.org/w/index.php?title=Torsten_Safarik&oldid=209586798",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P143",
+                    "P4656"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P1412": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P1412",
+                "hash": "c92f42a19ff65548d3fc6d4fdca0944a825d8879",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 188,
+                    "id": "Q188"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q104656811$A7596EE0-EE56-4532-B24E-8DB858F34FCE",
+              "rank": "normal"
+            }
+          ]
+        }
+      },
+      "Q13124": {
+        "type": "item",
+        "id": "Q13124",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Freie Demokratische Partei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Free Democratic Party"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "politische Partei in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "political party in Germany"
+          }
+        }
+      },
       "Q6581072": {
         "type": "item",
         "id": "Q6581072",
@@ -4729,30 +4753,6 @@
           }
         }
       },
-      "Q13124": {
-        "type": "item",
-        "id": "Q13124",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Freie Demokratische Partei"
-          },
-          "en": {
-            "language": "en",
-            "value": "Free Democratic Party"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "politische Partei in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "political party in Germany"
-          }
-        }
-      },
       "Q99934885": {
         "type": "item",
         "id": "Q99934885",
@@ -4787,7 +4787,7 @@
           },
           "en": {
             "language": "en",
-            "value": "Federal Ministry for Economic Affairs and Climate Action"
+            "value": "Federal Ministry for Economic Affairs and Energy"
           }
         },
         "descriptions": {

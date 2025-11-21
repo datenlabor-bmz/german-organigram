@@ -2870,30 +2870,6 @@
           ]
         }
       },
-      "Q6581097": {
-        "type": "item",
-        "id": "Q6581097",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "männlich"
-          },
-          "en": {
-            "language": "en",
-            "value": "male"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Mensch mit männlichem Geschlecht (Verwendung mit P21)"
-          },
-          "en": {
-            "language": "en",
-            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
-          }
-        }
-      },
       "Q13124": {
         "type": "item",
         "id": "Q13124",
@@ -2918,47 +2894,27 @@
           }
         }
       },
-      "Q28738459": {
+      "Q6581097": {
         "type": "item",
-        "id": "Q28738459",
+        "id": "Q6581097",
         "labels": {
           "de": {
             "language": "de",
-            "value": "Bundeskartellamt, Bibliothek"
+            "value": "männlich"
+          },
+          "en": {
+            "language": "en",
+            "value": "male"
           }
         },
         "descriptions": {
           "de": {
             "language": "de",
-            "value": "Bibliothek"
+            "value": "Mensch mit männlichem Geschlecht (Verwendung mit P21)"
           },
           "en": {
             "language": "en",
-            "value": "library in Germany"
-          }
-        }
-      },
-      "Q99934885": {
-        "type": "item",
-        "id": "Q99934885",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesoberbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "higher federal authority"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "type of federal agency of Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Art von Bundesbehörde in Deutschland"
+            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
           }
         }
       },
@@ -2986,6 +2942,30 @@
           }
         }
       },
+      "Q99934885": {
+        "type": "item",
+        "id": "Q99934885",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesoberbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "higher federal authority"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "type of federal agency of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Art von Bundesbehörde in Deutschland"
+          }
+        }
+      },
       "Q488589": {
         "type": "item",
         "id": "Q488589",
@@ -2996,7 +2976,7 @@
           },
           "en": {
             "language": "en",
-            "value": "Federal Ministry for Economic Affairs and Climate Action"
+            "value": "Federal Ministry for Economic Affairs and Energy"
           }
         },
         "descriptions": {
@@ -3007,6 +2987,26 @@
           "en": {
             "language": "en",
             "value": "Ministry for Economy of Germany"
+          }
+        }
+      },
+      "Q28738459": {
+        "type": "item",
+        "id": "Q28738459",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundeskartellamt, Bibliothek"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Bibliothek"
+          },
+          "en": {
+            "language": "en",
+            "value": "library in Germany"
           }
         }
       }

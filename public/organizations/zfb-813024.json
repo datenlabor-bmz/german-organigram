@@ -269,6 +269,30 @@
       }
     },
     "referenced_entities": {
+      "Q314024": {
+        "type": "item",
+        "id": "Q314024",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesbehörde in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal agency of Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "highest federal agency in Germany, usually a ministry in the Federal Government of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Behörden in Deutschland, die dem Bund unterstehen"
+          }
+        }
+      },
       "Q18287062": {
         "type": "item",
         "id": "Q18287062",
@@ -302,30 +326,6 @@
           "de": {
             "language": "de",
             "value": "ehemalige Bundesbehörde"
-          }
-        }
-      },
-      "Q314024": {
-        "type": "item",
-        "id": "Q314024",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesbehörde in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "federal agency of Germany"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "highest federal agency in Germany, usually a ministry in the Federal Government of Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Behörden in Deutschland, die dem Bund unterstehen"
           }
         }
       }

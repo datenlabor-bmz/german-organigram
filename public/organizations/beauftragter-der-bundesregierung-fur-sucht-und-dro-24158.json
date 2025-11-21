@@ -1071,6 +1071,30 @@
       }
     },
     "referenced_entities": {
+      "Q314024": {
+        "type": "item",
+        "id": "Q314024",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesbehörde in Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal agency of Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "highest federal agency in Germany, usually a ministry in the Federal Government of Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Behörden in Deutschland, die dem Bund unterstehen"
+          }
+        }
+      },
       "Q491566": {
         "type": "item",
         "id": "Q491566",
@@ -1116,30 +1140,6 @@
           "en": {
             "language": "en",
             "value": "organisational part of a government responsible for specific public services, such as health, judiciary, education, transportation, foreign affairs, etc"
-          }
-        }
-      },
-      "Q314024": {
-        "type": "item",
-        "id": "Q314024",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesbehörde in Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "federal agency of Germany"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "highest federal agency in Germany, usually a ministry in the Federal Government of Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Behörden in Deutschland, die dem Bund unterstehen"
           }
         }
       }

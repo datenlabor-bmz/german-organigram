@@ -719,30 +719,6 @@
       }
     },
     "referenced_entities": {
-      "Q4164871": {
-        "type": "item",
-        "id": "Q4164871",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "position"
-          },
-          "de": {
-            "language": "de",
-            "value": "Position"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "social role with a set of powers and responsibilities within an organization"
-          },
-          "de": {
-            "language": "de",
-            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
-          }
-        }
-      },
       "Q317027": {
         "type": "item",
         "id": "Q317027",
@@ -791,6 +767,30 @@
           }
         }
       },
+      "Q4164871": {
+        "type": "item",
+        "id": "Q4164871",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "position"
+          },
+          "de": {
+            "language": "de",
+            "value": "Position"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "social role with a set of powers and responsibilities within an organization"
+          },
+          "de": {
+            "language": "de",
+            "value": "Stellung, die mit Macht und Verantwortung ausgestattet ist in einer privaten, öffentlichen oder staatlichen Organisation"
+          }
+        }
+      },
       "Q488589": {
         "type": "item",
         "id": "Q488589",
@@ -801,7 +801,7 @@
           },
           "en": {
             "language": "en",
-            "value": "Federal Ministry for Economic Affairs and Climate Action"
+            "value": "Federal Ministry for Economic Affairs and Energy"
           }
         },
         "descriptions": {

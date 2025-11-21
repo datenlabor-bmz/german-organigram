@@ -1313,30 +1313,6 @@
           ]
         }
       },
-      "Q6581097": {
-        "type": "item",
-        "id": "Q6581097",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "männlich"
-          },
-          "en": {
-            "language": "en",
-            "value": "male"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Mensch mit männlichem Geschlecht (Verwendung mit P21)"
-          },
-          "en": {
-            "language": "en",
-            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
-          }
-        }
-      },
       "Q13124": {
         "type": "item",
         "id": "Q13124",
@@ -1358,6 +1334,30 @@
           "en": {
             "language": "en",
             "value": "political party in Germany"
+          }
+        }
+      },
+      "Q6581097": {
+        "type": "item",
+        "id": "Q6581097",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "männlich"
+          },
+          "en": {
+            "language": "en",
+            "value": "male"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Mensch mit männlichem Geschlecht (Verwendung mit P21)"
+          },
+          "en": {
+            "language": "en",
+            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a male or \"semantic gender\" (P10339) to indicate that a word refers to a male person"
           }
         }
       },

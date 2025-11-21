@@ -1592,118 +1592,6 @@
       }
     },
     "referenced_entities": {
-      "Q277845": {
-        "type": "item",
-        "id": "Q277845",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Polizeiakademie"
-          },
-          "en": {
-            "language": "en",
-            "value": "police academy"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "training institution for new police recruits"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bildungseinrichtung für Polizeivollzugsbeamte"
-          }
-        }
-      },
-      "Q2385804": {
-        "type": "item",
-        "id": "Q2385804",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "educational institution"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bildungseinrichtung"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "institution that provides education"
-          },
-          "de": {
-            "language": "de",
-            "value": "Einrichtung mit Bildungsauftrag"
-          }
-        }
-      },
-      "Q56026": {
-        "type": "item",
-        "id": "Q56026",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundespolizei"
-          },
-          "en": {
-            "language": "en",
-            "value": "Federal Police of Germany"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
-          },
-          "en": {
-            "language": "en",
-            "value": "German federal law enforcement agency"
-          }
-        }
-      },
-      "Q132758133": {
-        "type": "item",
-        "id": "Q132758133",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Ausbildungsstätte"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "sich auf die Ausbildung von Menschen spezialisierte Bildungseinrichtung"
-          }
-        }
-      },
-      "Q35535": {
-        "type": "item",
-        "id": "Q35535",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Polizei"
-          },
-          "en": {
-            "language": "en",
-            "value": "police"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Exekutivorgan eines Staates"
-          },
-          "en": {
-            "language": "en",
-            "value": "law enforcement body"
-          }
-        }
-      },
       "Q132758551": {
         "type": "item",
         "id": "Q132758551",
@@ -1733,6 +1621,118 @@
           "de": {
             "language": "de",
             "value": "deutsche Bundesoberbehörde und Bundespolizeibehörde mit Sitz in Potsdam"
+          }
+        }
+      },
+      "Q35535": {
+        "type": "item",
+        "id": "Q35535",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Polizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "police"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Exekutivorgan eines Staates"
+          },
+          "en": {
+            "language": "en",
+            "value": "law enforcement body"
+          }
+        }
+      },
+      "Q2385804": {
+        "type": "item",
+        "id": "Q2385804",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "educational institution"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bildungseinrichtung"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "institution that provides education"
+          },
+          "de": {
+            "language": "de",
+            "value": "Einrichtung mit Bildungsauftrag"
+          }
+        }
+      },
+      "Q132758133": {
+        "type": "item",
+        "id": "Q132758133",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Ausbildungsstätte"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "sich auf die Ausbildung von Menschen spezialisierte Bildungseinrichtung"
+          }
+        }
+      },
+      "Q56026": {
+        "type": "item",
+        "id": "Q56026",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundespolizei"
+          },
+          "en": {
+            "language": "en",
+            "value": "Federal Police of Germany"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Polizei des Bundes in der Bundesrepublik Deutschland"
+          },
+          "en": {
+            "language": "en",
+            "value": "German federal law enforcement agency"
+          }
+        }
+      },
+      "Q277845": {
+        "type": "item",
+        "id": "Q277845",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Polizeiakademie"
+          },
+          "en": {
+            "language": "en",
+            "value": "police academy"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "training institution for new police recruits"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bildungseinrichtung für Polizeivollzugsbeamte"
           }
         }
       }

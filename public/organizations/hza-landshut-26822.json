@@ -230,30 +230,6 @@
       "sitelinks": {}
     },
     "referenced_entities": {
-      "Q811979": {
-        "type": "item",
-        "id": "Q811979",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "architectural structure"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bauwerk"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "Konstruktion mit ruhendem Kontakt zum Untergrund, z. B. Straße, Brücke, Fundament"
-          },
-          "en": {
-            "language": "en",
-            "value": "human-designed and -made structure"
-          }
-        }
-      },
       "Q1354730": {
         "type": "item",
         "id": "Q1354730",
@@ -275,6 +251,30 @@
           "en": {
             "language": "en",
             "value": "Part of the Federal Customs Administration in Germany"
+          }
+        }
+      },
+      "Q811979": {
+        "type": "item",
+        "id": "Q811979",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "architectural structure"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bauwerk"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Konstruktion mit ruhendem Kontakt zum Untergrund, z. B. Straße, Brücke, Fundament"
+          },
+          "en": {
+            "language": "en",
+            "value": "human-designed and -made structure"
           }
         }
       },

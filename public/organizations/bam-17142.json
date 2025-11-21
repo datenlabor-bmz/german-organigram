@@ -4849,6 +4849,30 @@
           }
         }
       },
+      "Q130368438": {
+        "type": "item",
+        "id": "Q130368438",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesforschungsanstalt"
+          },
+          "en": {
+            "language": "en",
+            "value": "federal public research facility in Germany"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "type of research facility in Germany"
+          },
+          "de": {
+            "language": "de",
+            "value": "Bundesanstalt für Forschung in Deutschland"
+          }
+        }
+      },
       "Q28739182": {
         "type": "item",
         "id": "Q28739182",
@@ -4893,30 +4917,6 @@
           }
         }
       },
-      "Q130368438": {
-        "type": "item",
-        "id": "Q130368438",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesforschungsanstalt"
-          },
-          "en": {
-            "language": "en",
-            "value": "federal public research facility in Germany"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "type of research facility in Germany"
-          },
-          "de": {
-            "language": "de",
-            "value": "Bundesanstalt für Forschung in Deutschland"
-          }
-        }
-      },
       "Q488589": {
         "type": "item",
         "id": "Q488589",
@@ -4927,7 +4927,7 @@
           },
           "en": {
             "language": "en",
-            "value": "Federal Ministry for Economic Affairs and Climate Action"
+            "value": "Federal Ministry for Economic Affairs and Energy"
           }
         },
         "descriptions": {

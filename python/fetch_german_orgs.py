@@ -156,7 +156,10 @@ async def resolve_entity_references(entity_data: dict) -> dict:
     # Properties that reference other entities
     entity_props = {
         'P488': 'chairperson',  # current minister/director - needs full data
-        'P1308': 'officeholder',
+        'P1037': 'director_manager',  # director/manager - alternative to chairperson
+        'P1308': 'officeholder',  # position held - another alternative
+        'P3975': 'secretary_general',  # secretary general - for some orgs
+        'P169': 'chief_executive_officer',  # CEO - for some entities
         'P749': 'parent_organization',
         'P355': 'subsidiary',
         'P361': 'part_of',
@@ -166,7 +169,10 @@ async def resolve_entity_references(entity_data: dict) -> dict:
         'P1366': 'replaced_by',
     }
     
-    # Collect entity IDs - separate ministers (need full data) from others (just labels)
+    # Leadership properties that need full person data (in priority order)
+    leadership_props = ['P488', 'P1037', 'P1308', 'P3975', 'P169']
+    
+    # Collect entity IDs - separate leaders (need full data) from others (just labels)
     minister_ids = set()
     org_entity_ids = set()
     
@@ -175,7 +181,7 @@ async def resolve_entity_references(entity_data: dict) -> dict:
             for statement in claims[prop_id]:
                 if statement.get('mainsnak', {}).get('datavalue', {}).get('type') == 'wikibase-entityid':
                     entity_id = statement['mainsnak']['datavalue']['value']['id']
-                    if prop_id == 'P488':  # Minister/chairperson - get full data
+                    if prop_id in leadership_props:  # Leadership positions - get full data
                         minister_ids.add(entity_id)
                     else:  # Organizations - just labels
                         org_entity_ids.add(entity_id)

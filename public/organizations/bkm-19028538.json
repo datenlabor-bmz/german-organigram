@@ -1570,30 +1570,6 @@
           }
         }
       },
-      "Q639860": {
-        "type": "item",
-        "id": "Q639860",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Bundesbeauftragter für die Stasi-Unterlagen"
-          },
-          "en": {
-            "language": "en",
-            "value": "Stasi Records Agency"
-          }
-        },
-        "descriptions": {
-          "de": {
-            "language": "de",
-            "value": "beim Beauftragten der Bundesregierung für Kultur und Medien angesiedelt, Bundesoberbehörde"
-          },
-          "en": {
-            "language": "en",
-            "value": "Administration organisation in Germany"
-          }
-        }
-      },
       "Q1006216": {
         "type": "item",
         "id": "Q1006216",
@@ -1615,6 +1591,30 @@
           "en": {
             "language": "en",
             "value": "German federal agency"
+          }
+        }
+      },
+      "Q639860": {
+        "type": "item",
+        "id": "Q639860",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Bundesbeauftragter für die Stasi-Unterlagen"
+          },
+          "en": {
+            "language": "en",
+            "value": "Stasi Records Agency"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "beim Beauftragten der Bundesregierung für Kultur und Medien angesiedelt, Bundesoberbehörde"
+          },
+          "en": {
+            "language": "en",
+            "value": "Administration organisation in Germany"
           }
         }
       },

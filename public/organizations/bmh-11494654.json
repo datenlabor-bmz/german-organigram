@@ -2807,30 +2807,6 @@
           }
         }
       },
-      "Q163740": {
-        "type": "item",
-        "id": "Q163740",
-        "labels": {
-          "de": {
-            "language": "de",
-            "value": "Non-Profit-Organisation"
-          },
-          "en": {
-            "language": "en",
-            "value": "nonprofit organization"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "organization operated for a collective benefit"
-          },
-          "de": {
-            "language": "de",
-            "value": "Einrichtung, die gemeinnützigen sozialen, kulturellen oder wissenschaftlichen Zielen ihrer Mitglieder dient"
-          }
-        }
-      },
       "Q113805953": {
         "type": "item",
         "id": "Q113805953",
@@ -2852,6 +2828,30 @@
           "en": {
             "language": "en",
             "value": "type of non-profit organization in Germany"
+          }
+        }
+      },
+      "Q163740": {
+        "type": "item",
+        "id": "Q163740",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "Non-Profit-Organisation"
+          },
+          "en": {
+            "language": "en",
+            "value": "nonprofit organization"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "organization operated for a collective benefit"
+          },
+          "de": {
+            "language": "de",
+            "value": "Einrichtung, die gemeinnützigen sozialen, kulturellen oder wissenschaftlichen Zielen ihrer Mitglieder dient"
           }
         }
       }

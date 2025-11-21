@@ -827,27 +827,588 @@
       }
     },
     "referenced_entities": {
-      "Q270791": {
+      "Q108532850": {
         "type": "item",
-        "id": "Q270791",
+        "id": "Q108532850",
         "labels": {
           "de": {
             "language": "de",
-            "value": "staatliches Unternehmen"
+            "value": "Jutta A. Dönges"
           },
           "en": {
             "language": "en",
-            "value": "state-owned enterprise"
+            "value": "Jutta A. Dönges"
           }
         },
         "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "legal entity controlled by a government to undertake commercial activities"
-          },
           "de": {
             "language": "de",
-            "value": "öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates"
+            "value": "deutsche Managerin"
+          }
+        },
+        "claims": {
+          "P31": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P31",
+                "hash": "ad7d38a03cdd40cdc373de0dc4e7b7fcbccb31d9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 5,
+                    "id": "Q5"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q108532850$e4db51b1-472a-c5c5-2edb-90edb1de890b",
+              "rank": "normal"
+            }
+          ],
+          "P21": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P21",
+                "hash": "5760796ff6ebc63aae12cdcbf509b07ebf0bd201",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 6581072,
+                    "id": "Q6581072"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q108532850$f5b1fccb-48e5-fd99-a81e-976cde174745",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "acaa5d7783dcee05101b83eee54a3d3480fc5517",
+                  "snaks": {
+                    "P3452": [
+                      {
+                        "snaktype": "value",
+                        "property": "P3452",
+                        "hash": "f7a106d64fb0cc8f427c94951dbf04eec0424be7",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 18194789,
+                            "id": "Q18194789"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ],
+                    "P887": [
+                      {
+                        "snaktype": "value",
+                        "property": "P887",
+                        "hash": "0f89b02e7a7b9408e3cd5c2b9cae2f47d84944d5",
+                        "datavalue": {
+                          "value": {
+                            "entity-type": "item",
+                            "numeric-id": 69652498,
+                            "id": "Q69652498"
+                          },
+                          "type": "wikibase-entityid"
+                        },
+                        "datatype": "wikibase-item"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P3452",
+                    "P887"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P734": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P734",
+                "hash": "88d7fc03d927800edb23f60276f5f157fce7da02",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 83494721,
+                    "id": "Q83494721"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q108532850$9692fc60-4fd3-b136-a10b-ea3fd412c8ed",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "929c3fee400fc2a7d329ef94835679c1c922700b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P735": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P735",
+                "hash": "c297e672ff26cf7201c5e530f7fe72fb4fc9eb44",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 18194789,
+                    "id": "Q18194789"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q108532850$a2f3ff70-4fe6-5a60-6b7c-7929cea7f5a0",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "929c3fee400fc2a7d329ef94835679c1c922700b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P569": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P569",
+                "hash": "cea23f2b37ff78dba37542d4dc951668558e3516",
+                "datavalue": {
+                  "value": {
+                    "time": "+1973-05-09T00:00:00Z",
+                    "timezone": 0,
+                    "before": 0,
+                    "after": 0,
+                    "precision": 11,
+                    "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                  },
+                  "type": "time"
+                },
+                "datatype": "time"
+              },
+              "type": "statement",
+              "id": "Q108532850$d2af6234-41a6-1cbf-5ea2-56e31370d12c",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "929c3fee400fc2a7d329ef94835679c1c922700b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P19": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P19",
+                "hash": "8e07026f7580e45eb3302d3eb86b8c6302a9a59a",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 3802,
+                    "id": "Q3802"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "id": "Q108532850$637a2068-47b0-d17f-7471-1a7533850fdc",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "929c3fee400fc2a7d329ef94835679c1c922700b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P69": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P69",
+                "hash": "1406889de670e6e41b4991f8848a82b876bd45c3",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 50662,
+                    "id": "Q50662"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "qualifiers": {
+                "P580": [
+                  {
+                    "snaktype": "value",
+                    "property": "P580",
+                    "hash": "8752b82cdffad4bcee274913d130a05ca27d08b0",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2001-00-00T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 9,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ],
+                "P582": [
+                  {
+                    "snaktype": "value",
+                    "property": "P582",
+                    "hash": "80eeb9ece031421ba9c2eb7255e5361952cdbccf",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2001-00-00T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 9,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "qualifiers-order": [
+                "P580",
+                "P582"
+              ],
+              "id": "Q108532850$13395e2d-464b-0293-75fa-ca45401054d4",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "004a1900c6824d23d4204f48ebd0c1827c8f0c4b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "4acb957cb918c97cb7405e9e260d4bbd49c6397e",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2021-09-13T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854",
+                    "P813"
+                  ]
+                }
+              ]
+            },
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P69",
+                "hash": "f63ae749f96681f153e2c59432c7d07bfb9e87c8",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 310695,
+                    "id": "Q310695"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "qualifiers": {
+                "P580": [
+                  {
+                    "snaktype": "value",
+                    "property": "P580",
+                    "hash": "ed730e4c258f94d6bf2b86c50e53de07ad209ae2",
+                    "datavalue": {
+                      "value": {
+                        "time": "+1992-00-00T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 9,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ],
+                "P582": [
+                  {
+                    "snaktype": "value",
+                    "property": "P582",
+                    "hash": "7fe90dfc5fe456b77c59aae38383949656ba20c5",
+                    "datavalue": {
+                      "value": {
+                        "time": "+1997-00-00T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 9,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "qualifiers-order": [
+                "P580",
+                "P582"
+              ],
+              "id": "Q108532850$6bb3710f-4e67-b98b-acc4-a4dcefa46b69",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "004a1900c6824d23d4204f48ebd0c1827c8f0c4b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ],
+                    "P813": [
+                      {
+                        "snaktype": "value",
+                        "property": "P813",
+                        "hash": "4acb957cb918c97cb7405e9e260d4bbd49c6397e",
+                        "datavalue": {
+                          "value": {
+                            "time": "+2021-09-13T00:00:00Z",
+                            "timezone": 0,
+                            "before": 0,
+                            "after": 0,
+                            "precision": 11,
+                            "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                          },
+                          "type": "time"
+                        },
+                        "datatype": "time"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854",
+                    "P813"
+                  ]
+                }
+              ]
+            }
+          ],
+          "P512": [
+            {
+              "mainsnak": {
+                "snaktype": "value",
+                "property": "P512",
+                "hash": "9b61af84de40efab119d726d21689aca34f887ba",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 11408904,
+                    "id": "Q11408904"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              },
+              "type": "statement",
+              "qualifiers": {
+                "P580": [
+                  {
+                    "snaktype": "value",
+                    "property": "P580",
+                    "hash": "8752b82cdffad4bcee274913d130a05ca27d08b0",
+                    "datavalue": {
+                      "value": {
+                        "time": "+2001-00-00T00:00:00Z",
+                        "timezone": 0,
+                        "before": 0,
+                        "after": 0,
+                        "precision": 9,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+                      },
+                      "type": "time"
+                    },
+                    "datatype": "time"
+                  }
+                ]
+              },
+              "qualifiers-order": [
+                "P580"
+              ],
+              "id": "Q108532850$894b9450-499a-d956-c1f1-441f64892639",
+              "rank": "normal",
+              "references": [
+                {
+                  "hash": "929c3fee400fc2a7d329ef94835679c1c922700b",
+                  "snaks": {
+                    "P854": [
+                      {
+                        "snaktype": "value",
+                        "property": "P854",
+                        "hash": "be111edc98b049d7a7d21a7d1479bc812896ebaa",
+                        "datavalue": {
+                          "value": "https://www.commerzbank.com/media/aktionaere/haupt/2020_7/deutsch/Doenges_Jutta_CV_de_pp.pdf",
+                          "type": "string"
+                        },
+                        "datatype": "url"
+                      }
+                    ]
+                  },
+                  "snaks-order": [
+                    "P854"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "Q6581072": {
+        "type": "item",
+        "id": "Q6581072",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "weiblich"
+          },
+          "en": {
+            "language": "en",
+            "value": "female"
+          }
+        },
+        "descriptions": {
+          "de": {
+            "language": "de",
+            "value": "Mensch mit weiblichem Geschlecht (Verwendung mit P21)"
+          },
+          "en": {
+            "language": "en",
+            "value": "to be used in \"sex or gender\" (P21) to indicate that the human subject is a female or \"semantic gender\" (P10339) to indicate that a word refers to a female person"
           }
         }
       },
@@ -872,6 +1433,30 @@
           "en": {
             "language": "en",
             "value": "organization undertaking commercial, industrial, or professional activity"
+          }
+        }
+      },
+      "Q270791": {
+        "type": "item",
+        "id": "Q270791",
+        "labels": {
+          "de": {
+            "language": "de",
+            "value": "staatliches Unternehmen"
+          },
+          "en": {
+            "language": "en",
+            "value": "state-owned enterprise"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "legal entity controlled by a government to undertake commercial activities"
+          },
+          "de": {
+            "language": "de",
+            "value": "öffentlich-rechtlich oder privat-rechtlich organisiertes Unternehmen im mehrheitlichen oder vollen Eigentum des Staates"
           }
         }
       }

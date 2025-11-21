@@ -153,103 +153,108 @@ export const getWikidataCurrentLeader = (wd: WikidataEntity): {
     image?: string;
     description?: string;
 } | null => {
-    const claims = wd.data.claims?.['P488'];
-    if (!claims) return null;
+    // Try multiple properties for leadership positions in priority order
+    const leadershipProperties = ['P488', 'P1037', 'P1308', 'P3975', 'P169']; // chairperson, director/manager, officeholder, secretary general, CEO
     
-    // Find current leader (no end date or most recent)
-    for (const claim of claims) {
-        const qualifiers = claim.qualifiers as Record<string, Array<{datavalue?: {value?: unknown}}>> | undefined;
-        const endDateQualifier = qualifiers?.['P582'];
+    for (const propId of leadershipProperties) {
+        const claims = wd.data.claims?.[propId];
+        if (!claims) continue;
         
-        // Skip if there's an end date (past leader)
-        if (endDateQualifier) continue;
-        
-        const value = claim.mainsnak?.datavalue?.value;
-        if (!value || typeof value !== 'object' || !('id' in value)) continue;
-        const entityId = String(value.id);
-        
-        const leaderEntity = wd.referenced_entities?.[entityId];
-        if (!leaderEntity) continue;
-        
-        const name = leaderEntity.labels?.['de']?.value;
-        if (!name) continue;
-        
-        const description = leaderEntity.descriptions?.['de']?.value;
-        
-        // Get start date
-        const startDateQualifier = qualifiers?.['P580']?.[0];
-        const startDateValue = startDateQualifier?.datavalue?.value;
-        const startDate = startDateValue && typeof startDateValue === 'object' && 'time' in startDateValue ? String(startDateValue.time) : undefined;
-        const sinceYear = startDate ? startDate.match(/\+?(\d{4})/)?.[1] : undefined;
-        
-        // Get party (P102)
-        const leaderClaims = leaderEntity.claims || {};
-        let party: string | undefined;
-        const partyClaim = leaderClaims['P102']?.[0];
-        const partyValue = partyClaim?.mainsnak?.datavalue?.value;
-        if (partyValue && typeof partyValue === 'object' && 'id' in partyValue) {
-            const partyId = String(partyValue.id);
-            party = wd.referenced_entities?.[partyId]?.labels?.['de']?.value;
-        }
-        
-        // Get gender (P21)
-        let gender: string | undefined;
-        const genderClaim = leaderClaims['P21']?.[0];
-        const genderValue = genderClaim?.mainsnak?.datavalue?.value;
-        if (genderValue && typeof genderValue === 'object' && 'id' in genderValue) {
-            const genderId = String(genderValue.id);
-            const genderLabel = wd.referenced_entities?.[genderId]?.labels?.['de']?.value;
-            // Convert to shorter form
-            if (genderLabel === 'männlich') gender = 'm';
-            else if (genderLabel === 'weiblich') gender = 'w';
-            else if (genderLabel === 'divers') gender = 'd';
-        }
-        
-        // Get birth date (P569)
-        let birthDate: string | undefined;
-        let age: number | undefined;
-        const birthClaim = leaderClaims['P569']?.[0];
-        const birthValue = birthClaim?.mainsnak?.datavalue?.value;
-        if (birthValue && typeof birthValue === 'object' && 'time' in birthValue) {
-            const time = String(birthValue.time);
-            const match = time.match(/\+?(\d{4})-(\d{2})-(\d{2})/);
-            if (match) {
-                const year = parseInt(match[1]);
-                const month = parseInt(match[2]);
-                const day = parseInt(match[3]);
-                birthDate = `${day}.${month}.${year}`;
-                
-                // Calculate age
-                const today = new Date();
-                const birthDateObj = new Date(year, month - 1, day);
-                age = today.getFullYear() - birthDateObj.getFullYear();
-                const monthDiff = today.getMonth() - birthDateObj.getMonth();
-                if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDateObj.getDate())) {
-                    age--;
+        // Find current leader (no end date or most recent)
+        for (const claim of claims) {
+            const qualifiers = claim.qualifiers as Record<string, Array<{datavalue?: {value?: unknown}}>> | undefined;
+            const endDateQualifier = qualifiers?.['P582'];
+            
+            // Skip if there's an end date (past leader)
+            if (endDateQualifier) continue;
+            
+            const value = claim.mainsnak?.datavalue?.value;
+            if (!value || typeof value !== 'object' || !('id' in value)) continue;
+            const entityId = String(value.id);
+            
+            const leaderEntity = wd.referenced_entities?.[entityId];
+            if (!leaderEntity) continue;
+            
+            const name = leaderEntity.labels?.['de']?.value;
+            if (!name) continue;
+            
+            const description = leaderEntity.descriptions?.['de']?.value;
+            
+            // Get start date
+            const startDateQualifier = qualifiers?.['P580']?.[0];
+            const startDateValue = startDateQualifier?.datavalue?.value;
+            const startDate = startDateValue && typeof startDateValue === 'object' && 'time' in startDateValue ? String(startDateValue.time) : undefined;
+            const sinceYear = startDate ? startDate.match(/\+?(\d{4})/)?.[1] : undefined;
+            
+            // Get party (P102)
+            const leaderClaims = leaderEntity.claims || {};
+            let party: string | undefined;
+            const partyClaim = leaderClaims['P102']?.[0];
+            const partyValue = partyClaim?.mainsnak?.datavalue?.value;
+            if (partyValue && typeof partyValue === 'object' && 'id' in partyValue) {
+                const partyId = String(partyValue.id);
+                party = wd.referenced_entities?.[partyId]?.labels?.['de']?.value;
+            }
+            
+            // Get gender (P21)
+            let gender: string | undefined;
+            const genderClaim = leaderClaims['P21']?.[0];
+            const genderValue = genderClaim?.mainsnak?.datavalue?.value;
+            if (genderValue && typeof genderValue === 'object' && 'id' in genderValue) {
+                const genderId = String(genderValue.id);
+                const genderLabel = wd.referenced_entities?.[genderId]?.labels?.['de']?.value;
+                // Convert to shorter form
+                if (genderLabel === 'männlich') gender = 'm';
+                else if (genderLabel === 'weiblich') gender = 'w';
+                else if (genderLabel === 'divers') gender = 'd';
+            }
+            
+            // Get birth date (P569)
+            let birthDate: string | undefined;
+            let age: number | undefined;
+            const birthClaim = leaderClaims['P569']?.[0];
+            const birthValue = birthClaim?.mainsnak?.datavalue?.value;
+            if (birthValue && typeof birthValue === 'object' && 'time' in birthValue) {
+                const time = String(birthValue.time);
+                const match = time.match(/\+?(\d{4})-(\d{2})-(\d{2})/);
+                if (match) {
+                    const year = parseInt(match[1]);
+                    const month = parseInt(match[2]);
+                    const day = parseInt(match[3]);
+                    birthDate = `${day}.${month}.${year}`;
+                    
+                    // Calculate age
+                    const today = new Date();
+                    const birthDateObj = new Date(year, month - 1, day);
+                    age = today.getFullYear() - birthDateObj.getFullYear();
+                    const monthDiff = today.getMonth() - birthDateObj.getMonth();
+                    if (monthDiff < 0 || (monthDiff === 0 && today.getDate() < birthDateObj.getDate())) {
+                        age--;
+                    }
                 }
             }
+            
+            // Get image (P18)
+            let image: string | undefined;
+            const imageClaim = leaderClaims['P18']?.[0];
+            if (imageClaim?.mainsnak?.datavalue?.value) {
+                const filename = String(imageClaim.mainsnak.datavalue.value);
+                const encodedFilename = encodeURIComponent(filename.replace(/ /g, '_'));
+                image = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodedFilename}?width=400`;
+            }
+            
+            return { 
+                name, 
+                since: sinceYear, 
+                qid: entityId,
+                party,
+                gender,
+                birthDate,
+                age,
+                image,
+                description
+            };
         }
-        
-        // Get image (P18)
-        let image: string | undefined;
-        const imageClaim = leaderClaims['P18']?.[0];
-        if (imageClaim?.mainsnak?.datavalue?.value) {
-            const filename = String(imageClaim.mainsnak.datavalue.value);
-            const encodedFilename = encodeURIComponent(filename.replace(/ /g, '_'));
-            image = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodedFilename}?width=400`;
-        }
-        
-        return { 
-            name, 
-            since: sinceYear, 
-            qid: entityId,
-            party,
-            gender,
-            birthDate,
-            age,
-            image,
-            description
-        };
     }
     
     return null;

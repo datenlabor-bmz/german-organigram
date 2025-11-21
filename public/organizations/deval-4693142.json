@@ -1325,30 +1325,6 @@
       }
     },
     "referenced_entities": {
-      "Q13226383": {
-        "type": "item",
-        "id": "Q13226383",
-        "labels": {
-          "en": {
-            "language": "en",
-            "value": "facility"
-          },
-          "de": {
-            "language": "de",
-            "value": "Anlage"
-          }
-        },
-        "descriptions": {
-          "en": {
-            "language": "en",
-            "value": "place, equipment, or service to support a specific function"
-          },
-          "de": {
-            "language": "de",
-            "value": "für einen Zweck angelegte Örtlichkeit"
-          }
-        }
-      },
       "Q4830453": {
         "type": "item",
         "id": "Q4830453",
@@ -1370,6 +1346,30 @@
           "en": {
             "language": "en",
             "value": "organization undertaking commercial, industrial, or professional activity"
+          }
+        }
+      },
+      "Q13226383": {
+        "type": "item",
+        "id": "Q13226383",
+        "labels": {
+          "en": {
+            "language": "en",
+            "value": "facility"
+          },
+          "de": {
+            "language": "de",
+            "value": "Anlage"
+          }
+        },
+        "descriptions": {
+          "en": {
+            "language": "en",
+            "value": "place, equipment, or service to support a specific function"
+          },
+          "de": {
+            "language": "de",
+            "value": "für einen Zweck angelegte Örtlichkeit"
           }
         }
       }
