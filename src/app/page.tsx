@@ -2,6 +2,7 @@
 
 import EntitiesGrid from '@/components/EntitiesGrid';
 import Footer from '@/components/Footer';
+import DataSourceCards from '@/components/DataSourceCards';
 import { Suspense, useRef } from 'react';
 
 export default function Home() {
@@ -41,6 +42,7 @@ export default function Home() {
                             Dies ist eine experimentelle Website des BMZ-Datenlabors und <b>keine offizielle Website der Bundesregierung</b>.
                         </p>
                     </div>
+                    <DataSourceCards />
                     <Suspense fallback={<div className="min-h-screen"></div>}>
                         <EntitiesGrid ref={entitiesGridRef} />
                     </Suspense>
