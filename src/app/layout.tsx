@@ -15,6 +15,9 @@ const roboto = Roboto({
 export const metadata: Metadata = {
     title: "Organigramm der Bundesregierung",
     description: "Übersicht der Behörden und Einrichtungen der deutschen Bundesregierung",
+    icons: {
+        icon: "/datalab.png",
+    },
 };
 
 export default function RootLayout({
