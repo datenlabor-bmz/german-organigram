@@ -41,6 +41,9 @@ export default function Home() {
                         <p className="text-gray-600 text-base sm:text-base lg:text-lg leading-snug sm:leading-relaxed">
                             Dies ist eine experimentelle Website des BMZ-Datenlabors und <b>keine offizielle Website der Bundesregierung</b>.
                         </p>
+                        <p className="text-gray-600 text-base sm:text-base lg:text-lg leading-snug sm:leading-relaxed">
+                            Diese Alpha-Version arbeitet mit Daten, die unvollständig sind und noch an vielen Stellen Fehler enthalten können.
+                        </p>
                     </div>
                     <DataSourceCards />
                     <Suspense fallback={<div className="min-h-screen"></div>}>
