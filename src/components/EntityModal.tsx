@@ -1,10 +1,12 @@
 'use client';
 
 import { Entity } from '@/types/entity';
-import { getEntityBudgetAmount, getEntityBudgetBreakdown, searchEntities } from '@/lib/entities';
+import { Organigram } from '@/types/organigram';
+import { getEntityBudgetAmount, getEntityBudgetBreakdown, searchEntities, loadOrganigram } from '@/lib/entities';
 import { Globe, Mail, MapPin, Phone, X, Facebook, Twitter, Instagram, BookOpen, Youtube, Linkedin, Users } from 'lucide-react';
 import { useCallback, useEffect, useState } from 'react';
 import DataSourceBadge from './DataSourceBadge';
+import OrganigramSection from './OrganigramSection';
 import { getWikidataInception, getWikidataWikipediaLink, getWikidataSocialMedia, getWikidataUrl, getWikidataLogo, getWikidataImage, getWikidataEmployeeCount, getWikidataCurrentLeader, getWikidataInstanceOf, getWikidataSubsidiaries, getWikidataEmail, getWikidataBudget } from '@/lib/wikidata';
 
 interface EntityModalProps {
@@ -21,6 +23,8 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
     const [budgetLoading, setBudgetLoading] = useState(false);
     const [budgetBreakdown, setBudgetBreakdown] = useState<Array<{label: string; description: string; amount: number}> | null>(null);
     const [breakdownLoading, setBreakdownLoading] = useState(false);
+    const [organigram, setOrganigram] = useState<Organigram | null>(null);
+    const [organigramLoading, setOrganigramLoading] = useState(false);
     
     const wikidataEntity = entity?.wikidata || null;
     const wikidataEmail = wikidataEntity ? getWikidataEmail(wikidataEntity) : null;
@@ -49,6 +53,19 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
             setBudgetLoading(false);
             setBudgetBreakdown(null);
             setBreakdownLoading(false);
+        }
+    }, [entity]);
+
+    useEffect(() => {
+        if (entity) {
+            setOrganigramLoading(true);
+            loadOrganigram(entity).then(data => {
+                setOrganigram(data);
+                setOrganigramLoading(false);
+            });
+        } else {
+            setOrganigram(null);
+            setOrganigramLoading(false);
         }
     }, [entity]);
 
@@ -475,6 +492,24 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                             )}
                         </Section>
                     )}
+
+                {(organigramLoading || organigram) && (
+                    <Section title="Organigramm">
+                        {organigramLoading ? (
+                            <div className="space-y-2">
+                                <div className="h-4 bg-gray-200 rounded w-48 animate-pulse"></div>
+                                <div className="h-4 bg-gray-200 rounded w-full animate-pulse"></div>
+                                <div className="h-4 bg-gray-200 rounded w-3/4 animate-pulse"></div>
+                            </div>
+                        ) : organigram ? (
+                            <OrganigramSection 
+                                organigram={organigram} 
+                                jsonUrl={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/organigrams/${entity.OrganisationKurz?.toLowerCase()}-${entity.OrganisationId}.json`}
+                                pdfUrl={`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/organigrams/${entity.OrganisationKurz?.toLowerCase()}-${entity.OrganisationId}.pdf`}
+                            />
+                        ) : null}
+                    </Section>
+                )}
 
                     {(entity.Internetadresse || wikidataEmail || (entity.locations && entity.locations.length > 0)) && (
                         <Section title="Adressen" source="bva">

@@ -1,4 +1,5 @@
 import { Entity, BudgetMatch } from '@/types/entity';
+import { Organigram } from '@/types/organigram';
 import indexData from '../../public/organizations-index.json';
 import budgetMatches from '../../public/budget_matches.json';
 
@@ -217,4 +218,32 @@ export const getEntityBudgetBreakdown = async (entity: Entity): Promise<Array<{l
         }))
         .sort((a, b) => b.amount - a.amount)
         .slice(0, 10); // Top 10
+};
+
+// Organigram loading
+const organigramCache: Record<string, Organigram | null> = {};
+
+export const loadOrganigram = async (entity: Entity): Promise<Organigram | null> => {
+    const orgKurz = entity.OrganisationKurz;
+    const orgId = entity.OrganisationId;
+    if (!orgKurz || !orgId) return null;
+    
+    const cacheKey = `${orgKurz}-${orgId}`;
+    if (cacheKey in organigramCache) return organigramCache[cacheKey];
+    
+    try {
+        const basePath = process.env.NEXT_PUBLIC_BASE_PATH || '';
+        const filename = `${orgKurz.toLowerCase()}-${orgId}`;
+        const response = await fetch(`${basePath}/organigrams/${filename}.json`);
+        if (!response.ok) {
+            organigramCache[cacheKey] = null;
+            return null;
+        }
+        const data = await response.json();
+        organigramCache[cacheKey] = data;
+        return data;
+    } catch {
+        organigramCache[cacheKey] = null;
+        return null;
+    }
 };
