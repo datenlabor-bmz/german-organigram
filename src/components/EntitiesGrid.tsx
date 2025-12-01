@@ -167,7 +167,7 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                 }
             }
             // In both views: finally sort by name
-            return (a.OrganisationDisplay || a.Organisation || '').localeCompare(b.OrganisationDisplay || b.Organisation || '');
+            return String(a.OrganisationDisplay || a.Organisation || '').localeCompare(String(b.OrganisationDisplay || b.Organisation || ''));
         });
     });
 
