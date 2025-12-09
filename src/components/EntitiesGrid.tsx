@@ -6,6 +6,7 @@ import { Entity } from '@/types/entity';
 import { useRouter, useSearchParams } from 'next/navigation';
 import { forwardRef, useEffect, useImperativeHandle, useState } from 'react';
 import BudgetTreemap from './BudgetTreemap';
+import PersonnelTreemap from './PersonnelTreemap';
 
 // Centralized category order - used for both legend display and sorting
 const KATEGORIE_ORDER: string[] = [
@@ -115,7 +116,7 @@ const Legend = () => (
 const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKey: string) => void }>((props, ref) => {
     const entities = getAllEntities();
     const [searchQuery, setSearchQuery] = useState<string>('');
-    const [viewMode, setViewMode] = useState<'ressorts' | 'kategorien' | 'haushalt'>('ressorts');
+    const [viewMode, setViewMode] = useState<'ressorts' | 'kategorien' | 'haushalt' | 'personal'>('ressorts');
     const router = useRouter();
     const searchParams = useSearchParams();
 
@@ -249,13 +250,25 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                     >
                         Ansicht nach Haushalt
                     </button>
+                    <button
+                        onClick={() => setViewMode('personal')}
+                        className={`px-6 py-2.5 text-sm font-medium transition-all duration-200 border-l border-gray-200 ${
+                            viewMode === 'personal'
+                                ? 'bg-blue-500 text-white'
+                                : 'bg-white text-gray-700 hover:bg-gray-50'
+                        }`}
+                    >
+                        Ansicht nach Personal
+                    </button>
                 </div>
             </div>
 
-            {viewMode !== 'haushalt' && <Legend />}
+            {viewMode !== 'haushalt' && viewMode !== 'personal' && <Legend />}
 
             {viewMode === 'haushalt' ? (
                 <BudgetTreemap />
+            ) : viewMode === 'personal' ? (
+                <PersonnelTreemap />
             ) : visibleEntities.length === 0 ? (
                 <div className="text-center py-12">
                     <p className="text-gray-500 text-lg">Keine Behörden gefunden.</p>

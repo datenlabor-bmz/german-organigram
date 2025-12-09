@@ -21,6 +21,12 @@ type IndexEntry = {
 
 const rawEntities = indexData as IndexEntry[];
 
+// Build budget matches map by organisationId
+const budgetMatchesMap = (budgetMatches as BudgetMatch[]).reduce((acc, match) => {
+    acc[match.organisationId] = match;
+    return acc;
+}, {} as Record<string, BudgetMatch>);
+
 // Convert index entries to entities (just for grid display)
 const entities = rawEntities
     .filter(entry => !entry.Versteckt && entry.Organisation)
@@ -34,6 +40,10 @@ const entities = rawEntities
             Ressort: entry.Ressort,
             hasWikidata: entry.hasWikidata,
         };
+        // Attach budget match if available
+        if (entry.OrganisationId && String(entry.OrganisationId) in budgetMatchesMap) {
+            entity.budgetMatch = budgetMatchesMap[String(entry.OrganisationId)];
+        }
         return entity;
     });
 
@@ -72,12 +82,7 @@ export const loadFullEntity = async (orgName: string): Promise<Entity | null> =>
         
         const data = await response.json();
         
-        // Add budget match if available (try both Organisation and OrganisationId)
-        const budgetMatchesMap = (budgetMatches as BudgetMatch[]).reduce((acc, match) => {
-            acc[match.organisationId] = match;
-            return acc;
-        }, {} as Record<string, BudgetMatch>);
-        
+        // Add budget match if available
         const matchKey = indexEntry.OrganisationId ? String(indexEntry.OrganisationId) : orgName;
         if (matchKey in budgetMatchesMap) {
             data.budgetMatch = budgetMatchesMap[matchKey];
