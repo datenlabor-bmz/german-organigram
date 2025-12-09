@@ -1,7 +1,11 @@
-import { Entity, BudgetMatch } from '@/types/entity';
+import { Entity, BudgetMatch, PersonalhaushaltEntry, Personalhaushalt } from '@/types/entity';
 import { Organigram } from '@/types/organigram';
 import indexData from '../../public/organizations-index.json';
 import budgetMatches from '../../public/budget_matches.json';
+import personalhaushaltData from '../../public/personalhaushalt_2025.json';
+
+// Type for personalhaushalt JSON structure
+type PersonalhaushaltData = Record<string, Personalhaushalt>;
 
 // Type for index entries (minimal data for grid)
 type IndexEntry = {
@@ -77,6 +81,9 @@ export const loadFullEntity = async (orgName: string): Promise<Entity | null> =>
         const matchKey = indexEntry.OrganisationId ? String(indexEntry.OrganisationId) : orgName;
         if (matchKey in budgetMatchesMap) {
             data.budgetMatch = budgetMatchesMap[matchKey];
+            // Add personalhaushalt data
+            const ph = getEntityPersonalhaushalt(budgetMatchesMap[matchKey]);
+            if (ph) data.personalhaushalt = ph;
         }
         
         // Cache it
@@ -218,6 +225,50 @@ export const getEntityBudgetBreakdown = async (entity: Entity): Promise<Array<{l
         }))
         .sort((a, b) => b.amount - a.amount)
         .slice(0, 10); // Top 10
+};
+
+// Personalhaushalt data loading
+const phData = personalhaushaltData as PersonalhaushaltData;
+
+export const getEntityPersonalhaushalt = (match: BudgetMatch): PersonalhaushaltEntry | null => {
+    const eplKey = `epl${match.einzelplan.padStart(2, '0')}`;
+    const eplData = phData[eplKey];
+    if (!eplData) return null;
+    
+    // If kapitel specified, find that specific entry
+    if (match.kapitel) {
+        const entry = eplData.planstellen.find(e => e.kap === match.kapitel);
+        if (entry) return entry;
+    }
+    
+    // For ministries: sum all planstellen for this Einzelplan
+    if (eplData.planstellen.length === 0) return null;
+    
+    const summed: PersonalhaushaltEntry = {
+        kap: match.einzelplan,
+        name: 'Gesamt',
+        zusammen_2025: 0,
+        zusammen_2024: 0,
+    };
+    
+    for (const entry of eplData.planstellen) {
+        if (entry.soldaten_2025 !== undefined) {
+            summed.soldaten_2025 = (summed.soldaten_2025 || 0) + entry.soldaten_2025;
+            summed.soldaten_2024 = (summed.soldaten_2024 || 0) + (entry.soldaten_2024 || 0);
+        }
+        if (entry.beamte_2025 !== undefined) {
+            summed.beamte_2025 = (summed.beamte_2025 || 0) + entry.beamte_2025;
+            summed.beamte_2024 = (summed.beamte_2024 || 0) + (entry.beamte_2024 || 0);
+        }
+        if (entry.arbeitnehmer_2025 !== undefined) {
+            summed.arbeitnehmer_2025 = (summed.arbeitnehmer_2025 || 0) + entry.arbeitnehmer_2025;
+            summed.arbeitnehmer_2024 = (summed.arbeitnehmer_2024 || 0) + (entry.arbeitnehmer_2024 || 0);
+        }
+        summed.zusammen_2025 += entry.zusammen_2025;
+        summed.zusammen_2024 += entry.zusammen_2024;
+    }
+    
+    return summed;
 };
 
 // Organigram loading

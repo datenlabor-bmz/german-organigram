@@ -15,6 +15,24 @@ export interface BudgetMatch {
     titel?: string;
 }
 
+export interface PersonalhaushaltEntry {
+    kap: string;
+    name: string;
+    soldaten_2025?: number;
+    soldaten_2024?: number;
+    beamte_2025?: number;
+    beamte_2024?: number;
+    arbeitnehmer_2025?: number;
+    arbeitnehmer_2024?: number;
+    zusammen_2025: number;
+    zusammen_2024: number;
+}
+
+export interface Personalhaushalt {
+    planstellen: PersonalhaushaltEntry[];
+    leerstellen: PersonalhaushaltEntry[];
+}
+
 import { WikidataEntity } from '@/lib/wikidata';
 
 export interface Entity {
@@ -42,6 +60,7 @@ export interface Entity {
     locations?: EntityLocation[];
     budgetMatch?: BudgetMatch;
     budgetAmount?: number;
+    personalhaushalt?: PersonalhaushaltEntry;
     hasWikidata?: boolean;
     wikidata?: WikidataEntity;
 }

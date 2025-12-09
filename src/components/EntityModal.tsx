@@ -431,6 +431,36 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                     );
                 })()}
 
+                    {entity.personalhaushalt && (
+                        <Section title="Planstellen 2025" source="bundeshaushalt">
+                            <div className="space-y-3">
+                                <div className="text-2xl font-bold text-gray-900">
+                                    {entity.personalhaushalt.zusammen_2025.toLocaleString('de-DE')}
+                                </div>
+                                <div className="space-y-2">
+                                    {entity.personalhaushalt.soldaten_2025 !== undefined && entity.personalhaushalt.soldaten_2025 > 0 && (
+                                        <div className="flex justify-between text-sm">
+                                            <span className="text-gray-600">Soldaten</span>
+                                            <span className="font-medium">{entity.personalhaushalt.soldaten_2025.toLocaleString('de-DE')}</span>
+                                        </div>
+                                    )}
+                                    {entity.personalhaushalt.beamte_2025 !== undefined && entity.personalhaushalt.beamte_2025 > 0 && (
+                                        <div className="flex justify-between text-sm">
+                                            <span className="text-gray-600">Beamte</span>
+                                            <span className="font-medium">{entity.personalhaushalt.beamte_2025.toLocaleString('de-DE')}</span>
+                                        </div>
+                                    )}
+                                    {entity.personalhaushalt.arbeitnehmer_2025 !== undefined && entity.personalhaushalt.arbeitnehmer_2025 > 0 && (
+                                        <div className="flex justify-between text-sm">
+                                            <span className="text-gray-600">Arbeitnehmer</span>
+                                            <span className="font-medium">{entity.personalhaushalt.arbeitnehmer_2025.toLocaleString('de-DE')}</span>
+                                        </div>
+                                    )}
+                                </div>
+                            </div>
+                        </Section>
+                    )}
+
                     {entity.budgetMatch && (
                         <Section title="Budget" source="bundeshaushalt">
                             {budgetLoading || breakdownLoading ? (

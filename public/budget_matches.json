@@ -1,70 +1,510 @@
 [
   {
-    "organisationId": "15226",
-    "einzelplan": "05"
+    "organisationId": "20184",
+    "name": "BPrA",
+    "einzelplan": "01",
+    "kapitel": "0112"
+  },
+  {
+    "organisationId": "25734",
+    "name": "GWK",
+    "einzelplan": "01",
+    "kapitel": "0113"
+  },
+  {
+    "organisationId": "24132",
+    "name": "BT",
+    "einzelplan": "02",
+    "kapitel": "0212"
+  },
+  {
+    "organisationId": "20212",
+    "name": "BR",
+    "einzelplan": "03",
+    "kapitel": "0312"
+  },
+  {
+    "organisationId": "26882",
+    "name": "BPA",
+    "einzelplan": "04",
+    "kapitel": "0432"
+  },
+  {
+    "organisationId": "17440",
+    "name": "BArch",
+    "einzelplan": "04",
+    "kapitel": "0453"
+  },
+  {
+    "organisationId": "13802638",
+    "name": "KVDB",
+    "einzelplan": "04",
+    "kapitel": "0456"
   },
   {
     "organisationId": "15444",
+    "name": "BKAmt",
     "einzelplan": "04"
   },
   {
-    "organisationId": "15406",
-    "einzelplan": "08"
+    "organisationId": "15226",
+    "name": "AA",
+    "einzelplan": "05",
+    "kapitel": "0512"
   },
   {
-    "organisationId": "13552",
-    "einzelplan": "07"
+    "organisationId": "21656",
+    "name": "DAI",
+    "einzelplan": "05",
+    "kapitel": "0513"
   },
   {
-    "organisationId": "13578",
-    "einzelplan": "14"
+    "organisationId": "14657254",
+    "name": "BfAA",
+    "einzelplan": "05",
+    "kapitel": "0514"
   },
   {
     "organisationId": "13680",
-    "einzelplan": "06"
+    "name": "BMI",
+    "einzelplan": "06",
+    "kapitel": "0612"
   },
   {
-    "organisationId": "13590",
-    "einzelplan": "11"
+    "organisationId": "26102",
+    "name": "StBA",
+    "einzelplan": "06",
+    "kapitel": "0614"
   },
   {
-    "organisationId": "13730",
-    "einzelplan": "17"
+    "organisationId": "18346",
+    "name": "BVA",
+    "einzelplan": "06",
+    "kapitel": "0615"
   },
   {
-    "organisationId": "23925202",
-    "einzelplan": "24"
+    "organisationId": "17814",
+    "name": "BKG",
+    "einzelplan": "06",
+    "kapitel": "0616"
   },
   {
-    "organisationId": "13610",
-    "einzelplan": "30"
+    "organisationId": "20180",
+    "name": "BIB",
+    "einzelplan": "06",
+    "kapitel": "0617"
   },
   {
-    "organisationId": "13860",
-    "einzelplan": "15"
+    "organisationId": "20406",
+    "name": "BISp",
+    "einzelplan": "06",
+    "kapitel": "0618"
   },
   {
-    "organisationId": "13336",
-    "einzelplan": "16"
+    "organisationId": "27612",
+    "name": "BeschA",
+    "einzelplan": "06",
+    "kapitel": "0619"
   },
   {
-    "organisationId": "13400",
-    "einzelplan": "12"
+    "organisationId": "9805996",
+    "name": "ZITiS",
+    "einzelplan": "06",
+    "kapitel": "0622"
+  },
+  {
+    "organisationId": "13522",
+    "name": "BSI",
+    "einzelplan": "06",
+    "kapitel": "0623"
+  },
+  {
+    "organisationId": "20702",
+    "name": "BKA",
+    "einzelplan": "06",
+    "kapitel": "0624"
+  },
+  {
+    "organisationId": "14232478",
+    "name": "BPOL",
+    "einzelplan": "06",
+    "kapitel": "0625"
+  },
+  {
+    "organisationId": "16360",
+    "name": "BBK",
+    "einzelplan": "06",
+    "kapitel": "0628"
+  },
+  {
+    "organisationId": "17222",
+    "name": "THW",
+    "einzelplan": "06",
+    "kapitel": "0629"
+  },
+  {
+    "organisationId": "17880",
+    "name": "BAMF",
+    "einzelplan": "06",
+    "kapitel": "0633"
+  },
+  {
+    "organisationId": "5665370",
+    "name": "HS Bund",
+    "einzelplan": "06",
+    "kapitel": "0634"
+  },
+  {
+    "organisationId": "17944",
+    "name": "BpB",
+    "einzelplan": "06",
+    "kapitel": "0635"
+  },
+  {
+    "organisationId": "13552",
+    "name": "BMJV",
+    "einzelplan": "07",
+    "kapitel": "0712"
+  },
+  {
+    "organisationId": "20088",
+    "name": "BGH",
+    "einzelplan": "07",
+    "kapitel": "0713"
+  },
+  {
+    "organisationId": "18356",
+    "name": "BVerwG",
+    "einzelplan": "07",
+    "kapitel": "0715"
+  },
+  {
+    "organisationId": "20010",
+    "name": "BFH",
+    "einzelplan": "07",
+    "kapitel": "0716"
+  },
+  {
+    "organisationId": "19542",
+    "name": "BPatG",
+    "einzelplan": "07",
+    "kapitel": "0717"
+  },
+  {
+    "organisationId": "17720",
+    "name": "BfJ",
+    "einzelplan": "07",
+    "kapitel": "0718"
+  },
+  {
+    "organisationId": "21518",
+    "name": "DPMA",
+    "einzelplan": "07",
+    "kapitel": "0719"
+  },
+  {
+    "organisationId": "15406",
+    "name": "BMF",
+    "einzelplan": "08",
+    "kapitel": "0812"
+  },
+  {
+    "organisationId": "17908",
+    "name": "BZSt",
+    "einzelplan": "08",
+    "kapitel": "0815"
+  },
+  {
+    "organisationId": "13444",
+    "name": "ITZBund",
+    "einzelplan": "08",
+    "kapitel": "0816"
   },
   {
     "organisationId": "13874",
-    "einzelplan": "09"
+    "name": "Org-13874",
+    "einzelplan": "09",
+    "kapitel": "0912"
+  },
+  {
+    "organisationId": "26864",
+    "name": "PTB",
+    "einzelplan": "09",
+    "kapitel": "0913"
+  },
+  {
+    "organisationId": "17142",
+    "name": "BAM",
+    "einzelplan": "09",
+    "kapitel": "0914"
+  },
+  {
+    "organisationId": "15960",
+    "name": "BGR",
+    "einzelplan": "09",
+    "kapitel": "0915"
+  },
+  {
+    "organisationId": "15508",
+    "name": "BAFA",
+    "einzelplan": "09",
+    "kapitel": "0916"
+  },
+  {
+    "organisationId": "20588",
+    "name": "BKartA",
+    "einzelplan": "09",
+    "kapitel": "0917"
   },
   {
     "organisationId": "13636",
-    "einzelplan": "10"
+    "name": "Org-13636",
+    "einzelplan": "10",
+    "kapitel": "1012"
   },
   {
-    "organisationId": "17139936",
-    "einzelplan": "25"
+    "organisationId": "26640",
+    "name": "JKI",
+    "einzelplan": "10",
+    "kapitel": "1013"
+  },
+  {
+    "organisationId": "25098",
+    "name": "FLI",
+    "einzelplan": "10",
+    "kapitel": "1014"
+  },
+  {
+    "organisationId": "25488",
+    "name": "MRI",
+    "einzelplan": "10",
+    "kapitel": "1015"
+  },
+  {
+    "organisationId": "20434",
+    "name": "BSA",
+    "einzelplan": "10",
+    "kapitel": "1018"
+  },
+  {
+    "organisationId": "13590",
+    "name": "BMAS",
+    "einzelplan": "11",
+    "kapitel": "1112"
+  },
+  {
+    "organisationId": "15778",
+    "name": "BAuA",
+    "einzelplan": "11",
+    "kapitel": "1113"
+  },
+  {
+    "organisationId": "17278",
+    "name": "BAG",
+    "einzelplan": "11",
+    "kapitel": "1114"
+  },
+  {
+    "organisationId": "20610",
+    "name": "BSG",
+    "einzelplan": "11",
+    "kapitel": "1115"
+  },
+  {
+    "organisationId": "18278",
+    "name": "BAS",
+    "einzelplan": "11",
+    "kapitel": "1116"
+  },
+  {
+    "organisationId": "13400",
+    "name": "BMV",
+    "einzelplan": "12",
+    "kapitel": "1212"
+  },
+  {
+    "organisationId": "14048",
+    "name": "BALM",
+    "einzelplan": "12",
+    "kapitel": "1213"
+  },
+  {
+    "organisationId": "26174",
+    "name": "KBA",
+    "einzelplan": "12",
+    "kapitel": "1215"
+  },
+  {
+    "organisationId": "24446",
+    "name": "EBA",
+    "einzelplan": "12",
+    "kapitel": "1217"
+  },
+  {
+    "organisationId": "13498",
+    "name": "BSH",
+    "einzelplan": "12",
+    "kapitel": "1219"
+  },
+  {
+    "organisationId": "21394",
+    "name": "DWD",
+    "einzelplan": "12",
+    "kapitel": "1220"
+  },
+  {
+    "organisationId": "25104",
+    "name": "LBA",
+    "einzelplan": "12",
+    "kapitel": "1221"
+  },
+  {
+    "organisationId": "24848",
+    "name": " BAF",
+    "einzelplan": "12",
+    "kapitel": "1222"
+  },
+  {
+    "organisationId": "2947052",
+    "name": "BAV",
+    "einzelplan": "12",
+    "kapitel": "1223"
+  },
+  {
+    "organisationId": "12341690",
+    "name": "FBA",
+    "einzelplan": "12",
+    "kapitel": "1228"
+  },
+  {
+    "organisationId": "13578",
+    "name": "BMVg",
+    "einzelplan": "14",
+    "kapitel": "1412"
+  },
+  {
+    "organisationId": "13860",
+    "name": "Org-13860",
+    "einzelplan": "15",
+    "kapitel": "1512"
+  },
+  {
+    "organisationId": "17914",
+    "name": "BIOEG",
+    "einzelplan": "15",
+    "kapitel": "1513"
+  },
+  {
+    "organisationId": "20138",
+    "name": "BfArM",
+    "einzelplan": "15",
+    "kapitel": "1516"
+  },
+  {
+    "organisationId": "26996",
+    "name": "RKI",
+    "einzelplan": "15",
+    "kapitel": "1517"
+  },
+  {
+    "organisationId": "13336",
+    "name": "BMUKN",
+    "einzelplan": "16",
+    "kapitel": "1612"
+  },
+  {
+    "organisationId": "25912",
+    "name": "UBA",
+    "einzelplan": "16",
+    "kapitel": "1613"
+  },
+  {
+    "organisationId": "13252",
+    "name": "BfN",
+    "einzelplan": "16",
+    "kapitel": "1614"
+  },
+  {
+    "organisationId": "5512846",
+    "name": "BASE",
+    "einzelplan": "16",
+    "kapitel": "1615"
+  },
+  {
+    "organisationId": "13368",
+    "name": "BfS",
+    "einzelplan": "16",
+    "kapitel": "1616"
+  },
+  {
+    "organisationId": "13730",
+    "name": "BMBFSFJ",
+    "einzelplan": "17",
+    "kapitel": "1712"
+  },
+  {
+    "organisationId": "17132",
+    "name": "BAFzA",
+    "einzelplan": "17",
+    "kapitel": "1713"
+  },
+  {
+    "organisationId": "20194",
+    "name": "BzKJ",
+    "einzelplan": "17",
+    "kapitel": "1714"
+  },
+  {
+    "organisationId": "813170",
+    "name": "ADS",
+    "einzelplan": "17",
+    "kapitel": "1715"
+  },
+  {
+    "organisationId": "18226",
+    "name": "BVerfG",
+    "einzelplan": "19",
+    "kapitel": "1912"
+  },
+  {
+    "organisationId": "20248",
+    "name": "BRH",
+    "einzelplan": "20",
+    "kapitel": "2012"
+  },
+  {
+    "organisationId": "17352540",
+    "name": "UKRat",
+    "einzelplan": "22",
+    "kapitel": "2212"
   },
   {
     "organisationId": "13888",
-    "einzelplan": "23"
+    "name": "BMZ",
+    "einzelplan": "23",
+    "kapitel": "2312"
+  },
+  {
+    "organisationId": "23925202",
+    "name": "BMDS",
+    "einzelplan": "24"
+  },
+  {
+    "organisationId": "17139936",
+    "name": "BMWSB",
+    "einzelplan": "25",
+    "kapitel": "2512"
+  },
+  {
+    "organisationId": "16094",
+    "name": "BBR",
+    "einzelplan": "25",
+    "kapitel": "2514"
+  },
+  {
+    "organisationId": "13610",
+    "name": "Org-13610",
+    "einzelplan": "30",
+    "kapitel": "3012"
   }
 ]
