@@ -238,17 +238,7 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                                 : 'bg-white text-gray-700 hover:bg-gray-50'
                         }`}
                     >
-                        Ansicht nach Kategorien
-                    </button>
-                    <button
-                        onClick={() => setViewMode('haushalt')}
-                        className={`px-6 py-2.5 text-sm font-medium transition-all duration-200 ${
-                            viewMode === 'haushalt'
-                                ? 'bg-blue-500 text-white'
-                                : 'bg-white text-gray-700 hover:bg-gray-50'
-                        }`}
-                    >
-                        Ansicht nach Haushalt
+                        Ansicht nach Behördentyp
                     </button>
                     <button
                         onClick={() => setViewMode('personal')}
@@ -259,6 +249,16 @@ const EntitiesGrid = forwardRef<{ handleReset: () => void; toggleGroup: (groupKe
                         }`}
                     >
                         Ansicht nach Personal
+                    </button>
+                    <button
+                        onClick={() => setViewMode('haushalt')}
+                        className={`px-6 py-2.5 text-sm font-medium transition-all duration-200 ${
+                            viewMode === 'haushalt'
+                                ? 'bg-blue-500 text-white'
+                                : 'bg-white text-gray-700 hover:bg-gray-50'
+                        }`}
+                    >
+                        Ansicht nach Budget
                     </button>
                 </div>
             </div>

@@ -180,6 +180,43 @@ export const getEntityBudgetAmount = async (entity: Entity): Promise<number | nu
     return await calculateBudgetAmount(entity.budgetMatch);
 };
 
+// Get budget for titles starting with 51, 52, 53 (Sächliche Verwaltungsausgaben)
+export const getEntityAdminBudget = async (entity: Entity): Promise<number | null> => {
+    if (!entity.budgetMatch) return null;
+    const data = await loadBudgetData();
+    const match = entity.budgetMatch;
+    
+    return data
+        .filter(row => {
+            if (row.einzelplan !== match.einzelplan) return false;
+            if (match.kapitel && row.kapitel !== match.kapitel) return false;
+            if (!row.titel.startsWith('51') && !row.titel.startsWith('52') && !row.titel.startsWith('53')) return false;
+            return true;
+        })
+        .reduce((sum, row) => sum + row.soll, 0);
+};
+
+// Get breakdown of admin budget by full titel (51x, 52x, 53x)
+export const getEntityAdminBreakdown = async (entity: Entity): Promise<Array<{code: string; label: string; amount: number}> | null> => {
+    if (!entity.budgetMatch) return null;
+    const data = await loadBudgetData();
+    const match = entity.budgetMatch;
+    
+    return data
+        .filter(row => {
+            if (row.einzelplan !== match.einzelplan) return false;
+            if (match.kapitel && row.kapitel !== match.kapitel) return false;
+            if (!row.titel.startsWith('51') && !row.titel.startsWith('52') && !row.titel.startsWith('53')) return false;
+            return row.soll > 0;
+        })
+        .map(row => ({
+            code: `${row.kapitel} ${row.titel.substring(0,3)} ${row.titel.substring(3)}`,
+            label: row.titelText || '',
+            amount: row.soll,
+        }))
+        .sort((a, b) => b.amount - a.amount);
+};
+
 export const getEntityBudgetBreakdown = async (entity: Entity): Promise<Array<{label: string; description: string; amount: number}> | null> => {
     if (!entity.budgetMatch) return null;
     

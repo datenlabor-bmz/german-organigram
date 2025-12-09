@@ -2,8 +2,9 @@
 
 import { Entity } from '@/types/entity';
 import { Organigram } from '@/types/organigram';
-import { getEntityBudgetAmount, getEntityBudgetBreakdown, searchEntities, loadOrganigram } from '@/lib/entities';
+import { getEntityBudgetAmount, getEntityBudgetBreakdown, getEntityAdminBudget, getEntityAdminBreakdown, searchEntities, loadOrganigram } from '@/lib/entities';
 import { Globe, Mail, MapPin, Phone, X, Facebook, Twitter, Instagram, BookOpen, Youtube, Linkedin, Users } from 'lucide-react';
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
 import { useCallback, useEffect, useState } from 'react';
 import DataSourceBadge from './DataSourceBadge';
 import OrganigramSection from './OrganigramSection';
@@ -23,6 +24,8 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
     const [budgetLoading, setBudgetLoading] = useState(false);
     const [budgetBreakdown, setBudgetBreakdown] = useState<Array<{label: string; description: string; amount: number}> | null>(null);
     const [breakdownLoading, setBreakdownLoading] = useState(false);
+    const [adminBudget, setAdminBudget] = useState<number | null>(null);
+    const [adminBreakdown, setAdminBreakdown] = useState<Array<{code: string; label: string; amount: number}> | null>(null);
     const [organigram, setOrganigram] = useState<Organigram | null>(null);
     const [organigramLoading, setOrganigramLoading] = useState(false);
     
@@ -48,11 +51,16 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                 setBudgetBreakdown(breakdown);
                 setBreakdownLoading(false);
             });
+            
+            getEntityAdminBudget(entity).then(setAdminBudget);
+            getEntityAdminBreakdown(entity).then(setAdminBreakdown);
         } else {
             setBudgetAmount(null);
             setBudgetLoading(false);
             setBudgetBreakdown(null);
             setBreakdownLoading(false);
+            setAdminBudget(null);
+            setAdminBreakdown(null);
         }
     }, [entity]);
 
@@ -493,6 +501,63 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                             ) : (
                                 <div className="text-sm text-gray-500">Keine Budgetdaten verfügbar</div>
                             )}
+                        </Section>
+                    )}
+
+                    {entity.personalhaushalt && adminBudget !== null && adminBudget > 0 && entity.personalhaushalt.zusammen_2025 > 0 && (
+                        <Section title="Sachkosten pro Kopf" source="bundeshaushalt">
+                            <div className="space-y-4">
+                                <div className="space-y-2">
+                                    <div className="text-2xl font-bold text-gray-900">
+                                        {Math.round((adminBudget * 1000) / entity.personalhaushalt.zusammen_2025).toLocaleString('de-DE')} €
+                                    </div>
+                                    <div className="text-xs text-gray-500">
+                                        {(adminBudget / 1000).toLocaleString('de-DE', { maximumFractionDigits: 1 })} Mio. € ÷ {entity.personalhaushalt.zusammen_2025.toLocaleString('de-DE')} Planstellen
+                                    </div>
+                                </div>
+                                
+                                {adminBreakdown && adminBreakdown.length > 0 && (
+                                    <div className="space-y-3">
+                                        {adminBreakdown.map((item, index) => {
+                                            const maxAmount = adminBreakdown[0]?.amount || 1;
+                                            const percentage = (item.amount / maxAmount) * 100;
+                                            const planstellen = entity.personalhaushalt!.zusammen_2025;
+                                            const perHead = Math.round((item.amount * 1000) / planstellen);
+                                            
+                                            return (
+                                                <Tooltip key={index} delayDuration={100}>
+                                                    <TooltipTrigger asChild>
+                                                        <div className="space-y-1 cursor-help">
+                                                            <div className="flex justify-between items-start gap-2 text-xs">
+                                                                <div className="flex-1 min-w-0">
+                                                                    <div className="font-medium text-gray-900">{item.code}</div>
+                                                                    <div className="text-gray-600 truncate">{item.label}</div>
+                                                                </div>
+                                                                <span className="text-gray-900 font-medium whitespace-nowrap">
+                                                                    {perHead.toLocaleString('de-DE')} €
+                                                                </span>
+                                                            </div>
+                                                            <div className="w-full bg-gray-200 rounded-full h-2">
+                                                                <div
+                                                                    className="bg-amber-500 h-2 rounded-full transition-all duration-300"
+                                                                    style={{ width: `${percentage}%` }}
+                                                                ></div>
+                                                            </div>
+                                                        </div>
+                                                    </TooltipTrigger>
+                                                    <TooltipContent side="left" className="bg-white text-slate-800 border border-slate-200 shadow-lg">
+                                                        <div className="text-xs space-y-1 p-1">
+                                                            <div><span className="text-gray-500">Budget:</span> {(item.amount / 1000).toLocaleString('de-DE', { maximumFractionDigits: 2 })} Mio. €</div>
+                                                            <div><span className="text-gray-500">Planstellen:</span> {planstellen.toLocaleString('de-DE')}</div>
+                                                            <div><span className="text-gray-500">Pro Kopf:</span> {perHead.toLocaleString('de-DE')} €</div>
+                                                        </div>
+                                                    </TooltipContent>
+                                                </Tooltip>
+                                            );
+                                        })}
+                                    </div>
+                                )}
+                            </div>
                         </Section>
                     )}
 
