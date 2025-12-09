@@ -44,7 +44,8 @@
   {
     "organisationId": "15444",
     "name": "BKAmt",
-    "einzelplan": "04"
+    "einzelplan": "04",
+    "kapitel": "0412"
   },
   {
     "organisationId": "15226",
@@ -222,7 +223,7 @@
   },
   {
     "organisationId": "13874",
-    "name": "Org-13874",
+    "name": "BMWK",
     "einzelplan": "09",
     "kapitel": "0912"
   },
@@ -258,7 +259,7 @@
   },
   {
     "organisationId": "13636",
-    "name": "Org-13636",
+    "name": "BMEL",
     "einzelplan": "10",
     "kapitel": "1012"
   },
@@ -384,7 +385,7 @@
   },
   {
     "organisationId": "13860",
-    "name": "Org-13860",
+    "name": "BMG",
     "einzelplan": "15",
     "kapitel": "1512"
   },
@@ -503,7 +504,7 @@
   },
   {
     "organisationId": "13610",
-    "name": "Org-13610",
+    "name": "BMBF",
     "einzelplan": "30",
     "kapitel": "3012"
   }

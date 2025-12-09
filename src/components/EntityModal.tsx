@@ -7,7 +7,7 @@ import { Globe, Mail, MapPin, Phone, X, Facebook, Twitter, Instagram, BookOpen, 
 import { useCallback, useEffect, useState } from 'react';
 import DataSourceBadge from './DataSourceBadge';
 import OrganigramSection from './OrganigramSection';
-import { getWikidataInception, getWikidataWikipediaLink, getWikidataSocialMedia, getWikidataUrl, getWikidataLogo, getWikidataImage, getWikidataEmployeeCount, getWikidataCurrentLeader, getWikidataInstanceOf, getWikidataSubsidiaries, getWikidataEmail, getWikidataBudget } from '@/lib/wikidata';
+import { getWikidataInception, getWikidataWikipediaLink, getWikidataSocialMedia, getWikidataUrl, getWikidataLogo, getWikidataImage, getWikidataCurrentLeader, getWikidataInstanceOf, getWikidataEmail } from '@/lib/wikidata';
 
 interface EntityModalProps {
     entity: Entity | null;
@@ -295,13 +295,10 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                     const social = getWikidataSocialMedia(wikidataEntity);
                     const wikidataUrl = getWikidataUrl(wikidataEntity.qid);
                     const logo = getWikidataLogo(wikidataEntity);
-                    const employeeCount = getWikidataEmployeeCount(wikidataEntity);
                     const currentLeader = getWikidataCurrentLeader(wikidataEntity);
                     const instanceOf = getWikidataInstanceOf(wikidataEntity);
-                    const subsidiaries = getWikidataSubsidiaries(wikidataEntity);
-                    const budget = getWikidataBudget(wikidataEntity);
 
-                    if (!logo && !inception && !employeeCount && !currentLeader && !instanceOf && !budget && subsidiaries.length === 0 && !wikiDe && !social.twitter && !social.bluesky && !social.facebook && !social.instagram && !social.youtube && !social.linkedin) {
+                    if (!logo && !inception && !currentLeader && !instanceOf && !wikiDe && !social.twitter && !social.bluesky && !social.facebook && !social.instagram && !social.youtube && !social.linkedin) {
                         return null;
                     }
 
@@ -378,30 +375,6 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                                 </Field>
                             )}
 
-                            {employeeCount && (
-                                <Field label="Mitarbeiter">
-                                    <span className="text-gray-700">{employeeCount.count.toLocaleString('de-DE')}</span>
-                                    {employeeCount.date && <span className="text-gray-600"> ({employeeCount.date})</span>}
-                                </Field>
-                            )}
-
-                            {budget && (
-                                <Field label="Haushalt">
-                                    <span className="text-gray-700">{budget.currency}{(budget.amount / 1_000_000_000).toFixed(2)} Mrd.</span>
-                                    {budget.year && <span className="text-gray-600"> ({budget.year})</span>}
-                                </Field>
-                            )}
-
-                            {subsidiaries.length > 0 && (
-                                <Field label="Nachgeordnete Behörden">
-                                    <div className="space-y-1 text-sm">
-                                        {subsidiaries.map((sub, idx) => (
-                                            <div key={idx} className="text-gray-700">• {sub.name}</div>
-                                        ))}
-                                    </div>
-                                </Field>
-                            )}
-
                             {(wikiDe || social.twitter || social.bluesky || social.facebook || social.instagram || social.youtube || social.linkedin) && (
                                 <div className="space-y-1">
                                     {wikiDe && (
@@ -432,7 +405,7 @@ export default function EntityModal({ entity, onClose, onEntitySelect, loading }
                 })()}
 
                     {entity.personalhaushalt && (
-                        <Section title="Planstellen 2025" source="bundeshaushalt">
+                        <Section title="Planstellen" source="bundeshaushalt">
                             <div className="space-y-3">
                                 <div className="text-2xl font-bold text-gray-900">
                                     {entity.personalhaushalt.zusammen_2025.toLocaleString('de-DE')}
