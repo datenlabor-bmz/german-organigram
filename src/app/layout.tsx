@@ -3,6 +3,7 @@ import { Roboto } from "next/font/google";
 import "./globals.css";
 import ErrorBoundary from "@/components/ErrorBoundary";
 import ModalHandler from "@/components/ModalHandler";
+import PasswordGate from "@/components/PasswordGate";
 import { Suspense } from "react";
 import Script from "next/script";
 
@@ -28,12 +29,14 @@ export default function RootLayout({
     return (
         <html lang="de" className={roboto.className}>
             <body className="antialiased flex flex-col min-h-screen">
-                <ErrorBoundary>
-                    {children}
-                    <Suspense fallback={null}>
-                        <ModalHandler />
-                    </Suspense>
-                </ErrorBoundary>
+                <PasswordGate>
+                    <ErrorBoundary>
+                        {children}
+                        <Suspense fallback={null}>
+                            <ModalHandler />
+                        </Suspense>
+                    </ErrorBoundary>
+                </PasswordGate>
 
                 <Script
                     src="https://www.googletagmanager.com/gtag/js?id=G-E7KQ0BSP9Z"
